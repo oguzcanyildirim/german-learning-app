@@ -1,0 +1,7 @@
+{
+  "name": "german-learning-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
