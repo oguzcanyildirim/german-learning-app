@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'german-learning-app',
+  appId: 'com.oguzhoca.germanlearning',
+  appName: 'Deutsch Lernen',
   webDir: 'www'
 };
 
