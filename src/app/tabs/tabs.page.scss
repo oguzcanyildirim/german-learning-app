@@ -1,1 +1,5 @@
 
+ion-tab-bar {
+  --border: none;
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
