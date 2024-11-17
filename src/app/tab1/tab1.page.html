@@ -1,15 +1,90 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>Dersler</ion-title>
+    <ion-title>Deutsch Lernen</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Dersler</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <!-- Overall progress summary at the top -->
+  <div class="progress-header">
+    <div class="progress-circle">
+      <svg viewBox="0 0 36 36">
+        <path class="circle-bg"
+          d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+        <path class="circle-fill"
+          [attr.stroke-dasharray]="overallProgress + ', 100'"
+          d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+      </svg>
+      <span class="progress-text">%{{ overallProgress }}</span>
+    </div>
+    <div class="progress-info">
+      <h2>Almanca Ogreniyorum</h2>
+      <p>{{ completedCount }} / {{ totalCount }} ders tamamlandi</p>
+    </div>
+  </div>
 
-  <p class="ion-text-center ion-padding">Ders icerikleri yukleniyor...</p>
+  <!-- Phase accordion list -->
+  <div class="phase-list">
+    <div *ngFor="let phase of phases"
+         class="phase-card"
+         [style.--phase-color]="phase.color">
+
+      <!-- Phase header (clickable to expand) -->
+      <div class="phase-header" (click)="togglePhase(phase.id)">
+        <div class="phase-badge" [style.background]="phase.color">
+          {{ phase.level }}
+        </div>
+        <div class="phase-title-block">
+          <h3>{{ phase.title }}</h3>
+          <p>{{ phase.subtitle }}</p>
+        </div>
+        <div class="phase-meta">
+          <span class="phase-count">
+            {{ getPhaseCompletedCount(phase) }}/{{ phase.lessons.length }}
+          </span>
+          <ion-icon [name]="isPhaseExpanded(phase.id) ? 'chevron-up' : 'chevron-down'"></ion-icon>
+        </div>
+      </div>
+
+      <!-- Phase progress bar -->
+      <div class="phase-progress-bar">
+        <div class="phase-progress-fill"
+             [style.width.%]="getPhaseProgress(phase)"
+             [style.background]="phase.color">
+        </div>
+      </div>
+
+      <!-- Lesson list (shown when phase is expanded) -->
+      <div class="lesson-list" *ngIf="isPhaseExpanded(phase.id)">
+        <div *ngFor="let lesson of phase.lessons; let i = index"
+             class="lesson-card"
+             [class.completed]="isLessonCompleted(lesson.id)"
+             [class.telc-prep]="lesson.isTelcPrep"
+             (click)="openLesson(lesson.id)">
+
+          <div class="lesson-number" [style.background]="phase.color">
+            <ion-icon *ngIf="isLessonCompleted(lesson.id)" name="checkmark"></ion-icon>
+            <span *ngIf="!isLessonCompleted(lesson.id)">{{ i + 1 }}</span>
+          </div>
+
+          <div class="lesson-info">
+            <h4>{{ lesson.title }}</h4>
+            <p>{{ lesson.subtitle }}</p>
+            <div class="lesson-meta">
+              <span class="lesson-time">
+                <ion-icon name="time-outline"></ion-icon>
+                {{ lesson.estimatedMinutes }} dk
+              </span>
+              <span *ngIf="lesson.isTelcPrep" class="telc-badge">TELC</span>
+              <span *ngIf="getQuizScore(lesson.id) !== undefined" class="quiz-score">
+                Quiz: %{{ getQuizScore(lesson.id) }}
+              </span>
+            </div>
+          </div>
+
+          <ion-icon name="chevron-forward" class="lesson-arrow"></ion-icon>
+        </div>
+      </div>
+    </div>
+  </div>
 </ion-content>

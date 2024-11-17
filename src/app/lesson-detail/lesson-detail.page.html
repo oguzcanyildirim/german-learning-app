@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/tabs/roadmap" text="Geri"></ion-back-button>
+    </ion-buttons>
+    <ion-title *ngIf="lesson">{{ lesson.title }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <p *ngIf="!lesson">Ders yukleniyor...</p>
+  <p *ngIf="lesson">Ders icerigi yakin zamanda eklenecek.</p>
+</ion-content>

@@ -1,6 +1,8 @@
 // Data models for the lesson/content system.
 // Phases represent CEFR levels (A1-C2), each containing multiple lessons.
 
+import { QuizQuestion } from './quiz.model';
+
 export interface Phase {
   id: string;
   title: string;        // e.g. "A1 - Anfänger"
