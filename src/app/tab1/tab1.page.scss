@@ -244,3 +244,7 @@
     flex-shrink: 0;
   }
 }
+
+.phase-content ion-item {
+  --inner-padding-end: 8px;
+}
