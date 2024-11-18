@@ -248,3 +248,11 @@
 .phase-content ion-item {
   --inner-padding-end: 8px;
 }
+
+@media (min-width: 768px) {
+  .progress-header {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 0 0 16px 16px;
+  }
+}
