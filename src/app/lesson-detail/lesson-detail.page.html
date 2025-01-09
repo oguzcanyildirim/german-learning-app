@@ -7,7 +7,103 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content class="ion-padding">
-  <p *ngIf="!lesson">Ders yukleniyor...</p>
-  <p *ngIf="lesson">Ders icerigi yakin zamanda eklenecek.</p>
+<ion-content>
+  <div *ngIf="!lesson" class="ion-text-center ion-padding">
+    <ion-spinner name="crescent"></ion-spinner>
+    <p>Ders yukleniyor...</p>
+  </div>
+
+  <div *ngIf="lesson" class="lesson-container">
+
+    <!-- Lesson header with phase badge and title -->
+    <div class="lesson-header" [style.--phase-color]="phase?.color || '#3b82f6'">
+      <div class="lesson-badge" [style.background]="phase?.color">
+        {{ phase?.level }}
+      </div>
+      <div class="lesson-header-info">
+        <h1>{{ lesson.title }}</h1>
+        <p>{{ lesson.subtitle }}</p>
+        <div class="lesson-header-meta">
+          <span><ion-icon name="time-outline"></ion-icon> {{ lesson.estimatedMinutes }} dakika</span>
+          <span *ngIf="lesson.isTelcPrep" class="telc-badge">TELC Hazirlik</span>
+          <span *ngIf="isCompleted" class="completed-badge">
+            <ion-icon name="checkmark-circle"></ion-icon> Tamamlandi
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Key Terms panel (collapsible) -->
+    <div *ngIf="lesson.keyTerms && lesson.keyTerms.length > 0" class="section-toggle">
+      <div class="toggle-header" (click)="toggleKeyTerms()">
+        <ion-icon name="bookmark-outline"></ion-icon>
+        <span>Anahtar Terimler ({{ lesson.keyTerms.length }})</span>
+        <ion-icon [name]="showKeyTerms ? 'chevron-up' : 'chevron-down'" class="toggle-icon"></ion-icon>
+      </div>
+      <div *ngIf="showKeyTerms" class="key-terms-list">
+        <div *ngFor="let term of lesson.keyTerms" class="key-term-item">
+          <strong class="term-german">{{ term.german }}</strong>
+          <span class="term-turkish">{{ term.turkish }}</span>
+          <em *ngIf="term.example" class="term-example">{{ term.example }}</em>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main lesson content rendered from markdown -->
+    <div class="lesson-content" [innerHTML]="renderedContent"></div>
+
+    <!-- LLM Prompts section (collapsible) -->
+    <div *ngIf="lesson.llmPrompts && lesson.llmPrompts.length > 0" class="section-toggle llm-section">
+      <div class="toggle-header" (click)="toggleLlmPrompts()">
+        <ion-icon name="chatbubbles-outline"></ion-icon>
+        <span>LLM ile Calis ({{ lesson.llmPrompts.length }} prompt)</span>
+        <ion-icon [name]="showLlmPrompts ? 'chevron-up' : 'chevron-down'" class="toggle-icon"></ion-icon>
+      </div>
+      <div *ngIf="showLlmPrompts" class="llm-prompts-list">
+        <div *ngFor="let prompt of lesson.llmPrompts" class="llm-prompt-card">
+          <h4>{{ prompt.title }}</h4>
+          <pre class="prompt-text">{{ prompt.prompt }}</pre>
+          <ion-button size="small" fill="outline" (click)="copyPrompt(prompt.prompt)">
+            <ion-icon name="copy-outline" slot="start"></ion-icon>
+            Kopyala
+          </ion-button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Complete lesson button -->
+    <div class="lesson-actions">
+      <ion-button *ngIf="!isCompleted"
+                  expand="block"
+                  (click)="markComplete()"
+                  class="complete-btn">
+        <ion-icon name="checkmark-circle-outline" slot="start"></ion-icon>
+        Dersi Tamamla
+      </ion-button>
+      <div *ngIf="isCompleted" class="already-completed">
+        <ion-icon name="checkmark-circle" color="success"></ion-icon>
+        <span>Bu dersi tamamladiniz!</span>
+      </div>
+    </div>
+
+    <!-- Navigation between lessons -->
+    <div class="lesson-nav">
+      <ion-button *ngIf="previousLesson"
+                  fill="outline"
+                  size="small"
+                  (click)="navigateToLesson(previousLesson.id)">
+        <ion-icon name="arrow-back" slot="start"></ion-icon>
+        Onceki
+      </ion-button>
+      <div class="nav-spacer"></div>
+      <ion-button *ngIf="nextLesson"
+                  fill="outline"
+                  size="small"
+                  (click)="navigateToLesson(nextLesson.id)">
+        Sonraki
+        <ion-icon name="arrow-forward" slot="end"></ion-icon>
+      </ion-button>
+    </div>
+
+  </div>
 </ion-content>

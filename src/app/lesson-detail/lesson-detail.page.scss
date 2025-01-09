@@ -1,0 +1,355 @@
+// Lesson detail page styles
+// Handles markdown content rendering, key terms, and LLM prompts
+
+.lesson-container {
+  padding-bottom: 32px;
+}
+
+.lesson-header {
+  display: flex;
+  align-items: flex-start;
+  padding: 20px 16px;
+  background: linear-gradient(135deg, var(--phase-color) 0%, rgba(0,0,0,0.15) 100%);
+  background-color: var(--phase-color);
+  color: white;
+
+  .lesson-badge {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 15px;
+    flex-shrink: 0;
+    background: rgba(255, 255, 255, 0.2) !important;
+  }
+
+  .lesson-header-info {
+    margin-left: 14px;
+    flex: 1;
+
+    h1 {
+      margin: 0;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+
+    p {
+      margin: 4px 0 0;
+      font-size: 14px;
+      opacity: 0.85;
+    }
+
+    .lesson-header-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 8px;
+      font-size: 12px;
+      opacity: 0.9;
+
+      span {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+
+      .telc-badge {
+        background: rgba(255, 255, 255, 0.2);
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-weight: 600;
+      }
+
+      .completed-badge {
+        color: #a7f3d0;
+      }
+    }
+  }
+}
+
+// Collapsible section toggle
+.section-toggle {
+  margin: 12px 16px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+
+  .toggle-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 14px;
+    cursor: pointer;
+    gap: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #374151;
+
+    ion-icon:first-child {
+      font-size: 18px;
+      color: var(--ion-color-primary);
+    }
+
+    span { flex: 1; }
+
+    .toggle-icon {
+      font-size: 16px;
+      color: #9ca3af;
+    }
+  }
+}
+
+// Key terms list
+.key-terms-list {
+  padding: 0 14px 14px;
+  border-top: 1px solid #f3f4f6;
+
+  .key-term-item {
+    padding: 8px 0;
+    border-bottom: 1px solid #f9fafb;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: baseline;
+
+    &:last-child { border-bottom: none; }
+
+    .term-german {
+      color: #1a56db;
+      font-size: 14px;
+    }
+
+    .term-turkish {
+      color: #6b7280;
+      font-size: 13px;
+    }
+
+    .term-example {
+      width: 100%;
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+    }
+  }
+}
+
+// Main markdown content area
+.lesson-content {
+  padding: 16px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #374151;
+
+  // Markdown element styling
+  ::ng-deep {
+    h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: #1f2937;
+      margin: 24px 0 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid #e5e7eb;
+    }
+
+    h3 {
+      font-size: 17px;
+      font-weight: 600;
+      color: #374151;
+      margin: 20px 0 8px;
+    }
+
+    h4 {
+      font-size: 15px;
+      font-weight: 600;
+      color: #4b5563;
+      margin: 16px 0 6px;
+    }
+
+    p {
+      margin: 8px 0;
+    }
+
+    // Grammar tables
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0;
+      font-size: 13px;
+      overflow-x: auto;
+      display: block;
+
+      thead {
+        background: #1a56db;
+        color: white;
+
+        th {
+          padding: 8px 10px;
+          text-align: left;
+          font-weight: 600;
+        }
+      }
+
+      tbody {
+        tr:nth-child(even) {
+          background: #f9fafb;
+        }
+
+        td {
+          padding: 7px 10px;
+          border-bottom: 1px solid #f3f4f6;
+        }
+      }
+    }
+
+    // Example sentences with left border accent
+    blockquote {
+      margin: 12px 0;
+      padding: 10px 14px;
+      border-left: 4px solid #e8a317;
+      background: #fffbeb;
+      border-radius: 0 8px 8px 0;
+      font-size: 14px;
+
+      p { margin: 4px 0; }
+
+      strong {
+        color: #1a56db;
+      }
+
+      em {
+        color: #6b7280;
+        font-style: normal;
+      }
+    }
+
+    // Code blocks for grammar formulas
+    code {
+      background: #f3f4f6;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 13px;
+      color: #dc2626;
+    }
+
+    pre {
+      background: #1f2937;
+      color: #e5e7eb;
+      padding: 14px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 13px;
+      line-height: 1.5;
+
+      code {
+        background: none;
+        padding: 0;
+        color: inherit;
+      }
+    }
+
+    // Lists
+    ul, ol {
+      padding-left: 20px;
+      margin: 8px 0;
+
+      li {
+        margin: 4px 0;
+        font-size: 14px;
+      }
+    }
+
+    // Horizontal rules as section dividers
+    hr {
+      border: none;
+      border-top: 2px dashed #e5e7eb;
+      margin: 20px 0;
+    }
+
+    // Highlight important notes
+    strong {
+      color: #1f2937;
+    }
+
+    em {
+      color: #6b7280;
+    }
+  }
+}
+
+// LLM prompts section
+.llm-section {
+  .llm-prompts-list {
+    padding: 0 14px 14px;
+    border-top: 1px solid #f3f4f6;
+  }
+
+  .llm-prompt-card {
+    background: #f0f9ff;
+    border: 1px solid #bae6fd;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 10px;
+
+    h4 {
+      margin: 0 0 8px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #0369a1;
+    }
+
+    .prompt-text {
+      background: white;
+      border: 1px solid #e0f2fe;
+      border-radius: 6px;
+      padding: 10px;
+      font-size: 12px;
+      line-height: 1.5;
+      white-space: pre-wrap;
+      word-break: break-word;
+      color: #374151;
+      margin: 0 0 8px;
+    }
+  }
+}
+
+// Bottom actions
+.lesson-actions {
+  padding: 16px;
+
+  .complete-btn {
+    --background: #10b981;
+    --border-radius: 10px;
+    font-weight: 600;
+  }
+
+  .already-completed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px;
+    color: #10b981;
+    font-weight: 500;
+    font-size: 15px;
+
+    ion-icon {
+      font-size: 22px;
+    }
+  }
+}
+
+.lesson-nav {
+  display: flex;
+  padding: 0 16px 16px;
+
+  .nav-spacer { flex: 1; }
+
+  ion-button {
+    --border-radius: 8px;
+    font-size: 13px;
+  }
+}
