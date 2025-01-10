@@ -30,10 +30,14 @@ export class Tab1Page implements OnInit {
       this.updateProgress();
     });
 
-    // Re-calculate progress whenever it changes (e.g. after completing a lesson)
     this.progressService.progress$.subscribe(() => {
       this.updateProgress();
     });
+  }
+
+  // Refresh progress when navigating back from a lesson
+  ionViewWillEnter(): void {
+    this.updateProgress();
   }
 
   togglePhase(phaseId: string): void {
