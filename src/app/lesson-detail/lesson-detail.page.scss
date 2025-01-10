@@ -353,3 +353,15 @@
     font-size: 13px;
   }
 }
+
+pre, code {
+  font-family: "SF Mono", "Menlo", monospace;
+  font-size: 13px;
+}
+
+pre {
+  background: #f3f4f6;
+  padding: 12px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
