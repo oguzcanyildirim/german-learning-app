@@ -1,0 +1,839 @@
+{
+  "id": "c1",
+  "title": "C1 - Fortgeschritten",
+  "subtitle": "İleri Seviye / Advanced",
+  "level": "C1",
+  "color": "#8b5cf6",
+  "icon": "trophy-outline",
+  "lessons": [
+    {
+      "id": "c1-01",
+      "phaseId": "c1",
+      "title": "Konjunktiv I (Dolaylı Anlatım İleri)",
+      "subtitle": "Konjunktiv I – Indirekte Rede",
+      "estimatedMinutes": 35,
+      "order": 1,
+      "content": "## Konjunktiv I – Dolaylı Anlatım (Indirekte Rede)\n\nKonjunktiv I, Almanca'da **dolaylı anlatım** (indirekte Rede) için kullanılan özel bir fiil kipidir. Özellikle gazete haberlerinde, akademik metinlerde ve resmi yazışmalarda sıkça karşılaşılır. Bir kişinin söylediklerini aktarırken, aktaran kişinin söylenenin doğruluğu konusunda sorumluluk almadığını ifade eder.\n\n### Konjunktiv I Neden Önemli?\n\nTürkçe'de \"demiş ki\", \"söylediğine göre\", \"-mış\" gibi yapılarla dolaylı anlatım yaparız. Almanca'da ise fiil kipini değiştirerek aynı işlevi yerine getiririz. C1 seviyesinde bu kipi anlamak ve kullanmak zorunludur çünkü:\n\n- Gazete ve dergi makalelerinde sürekli kullanılır\n- Akademik yazılarda kaynak aktarımında şarttır\n- Telc/TestDaF sınavlarında çıkar\n- Resmi raporlarda ve protokollerde kullanılır\n\n---\n\n### Konjunktiv I Çekimi\n\nKonjunktiv I, fiilin **kök** (Stamm) haline **-e** eki getirilerek oluşturulur.\n\n#### Genel Kural: Fiil kökü + e + kişi eki\n\n| Kişi | Ek | kommen | gehen | wissen | sprechen |\n|------|-----|--------|-------|--------|----------|\n| ich | -e | komme | gehe | wisse | spreche |\n| du | -est | kommest | gehest | wissest | sprechest |\n| er/sie/es | -e | komme | gehe | wisse | spreche |\n| wir | -en | kommen | gehen | wissen | sprechen |\n| ihr | -et | kommet | gehet | wisset | sprechet |\n| sie/Sie | -en | kommen | gehen | wissen | sprechen |\n\n#### \"sein\" Fiilinin Konjunktiv I Çekimi (Düzensiz!)\n\n| Kişi | Konjunktiv I | Örnek |\n|------|-------------|-------|\n| ich | **sei** | Er sagte, ich sei krank. (Hasta olduğumu söyledi.) |\n| du | **sei(e)st** | Er sagte, du seist müde. (Yorgun olduğunu söyledi.) |\n| er/sie/es | **sei** | Sie meint, er sei intelligent. (Onun zeki olduğunu düşünüyor.) |\n| wir | **seien** | Er behauptet, wir seien schuld. (Suçlu olduğumuzu iddia ediyor.) |\n| ihr | **seiet** | Er sagt, ihr seiet willkommen. (Hoş geldiniz dediğini söylüyor.) |\n| sie/Sie | **seien** | Man sagt, sie seien reich. (Zengin olduklarını söylüyorlar.) |\n\n#### \"haben\" Fiilinin Konjunktiv I Çekimi\n\n| Kişi | Konjunktiv I | Örnek |\n|------|-------------|-------|\n| ich | habe | Er sagt, ich habe Recht. (Haklı olduğumu söylüyor.) |\n| du | habest | Sie meint, du habest keine Zeit. (Vaktin olmadığını söylüyor.) |\n| er/sie/es | **habe** | Der Minister sagt, er habe alles getan. (Her şeyi yaptığını söylüyor.) |\n| wir | haben | — |\n| ihr | habet | — |\n| sie/Sie | haben | — |\n\n#### Modal Fiillerin Konjunktiv I Biçimleri\n\n| Fiil | er/sie/es (Konj. I) | Örnek |\n|------|---------------------|-------|\n| können | **könne** | Er sagt, er könne kommen. (Gelebileceğini söylüyor.) |\n| müssen | **müsse** | Sie sagt, sie müsse arbeiten. (Çalışması gerektiğini söylüyor.) |\n| wollen | **wolle** | Er erklärt, er wolle helfen. (Yardım etmek istediğini açıklıyor.) |\n| sollen | **solle** | Man sagt, er solle warten. (Beklemesi gerektiğini söylüyorlar.) |\n| dürfen | **dürfe** | Sie meint, man dürfe hier nicht rauchen. (Burada sigara içilmeyeceğini söylüyor.) |\n\n---\n\n### Konjunktiv I vs. Konjunktiv II – Yer Değiştirme Kuralı\n\nKonjunktiv I biçimi, Indikativ (normal çekim) ile aynı olduğunda, belirsizliği önlemek için **Konjunktiv II** kullanılır. Bu özellikle **ich**, **wir** ve **sie (çoğul)** kişilerinde sık olur.\n\n| Kişi | Indikativ | Konj. I | Aynı mı? | Kullanılan Biçim |\n|------|-----------|---------|----------|------------------|\n| ich | komme | komme | ✅ Evet | **käme** (Konj. II) |\n| du | kommst | kommest | ❌ Hayır | kommest (Konj. I) |\n| er/sie/es | kommt | komme | ❌ Hayır | **komme** (Konj. I) ✓ |\n| wir | kommen | kommen | ✅ Evet | **kämen** (Konj. II) |\n| ihr | kommt | kommet | ❌ Hayır | kommet (Konj. I) |\n| sie/Sie | kommen | kommen | ✅ Evet | **kämen** (Konj. II) |\n\n> **Kural:** Konjunktiv I = Indikativ → Konjunktiv II kullanılır.\n> Pratikte en sık **er/sie/es** formu kullanılır çünkü haberlerde üçüncü tekil kişi anlatımı baskındır.\n\n---\n\n### Gazete ve Medyadan Örnekler\n\n| Doğrudan Anlatım | Dolaylı Anlatım (Konjunktiv I) |\n|---|---|\n| Der Präsident: \"Wir werden die Wirtschaft stärken.\" | Der Präsident sagte, sie **würden** die Wirtschaft stärken. (Başkan ekonomiyi güçlendireceklerini söyledi.) |\n| Die Sprecherin: \"Es gibt keine neuen Fälle.\" | Die Sprecherin erklärte, es **gebe** keine neuen Fälle. (Sözcü yeni vaka olmadığını açıkladı.) |\n| Der Minister: \"Ich habe den Bericht gelesen.\" | Der Minister sagte, er **habe** den Bericht gelesen. (Bakan raporu okuduğunu söyledi.) |\n| Die Forscherin: \"Die Ergebnisse sind überraschend.\" | Die Forscherin betonte, die Ergebnisse **seien** überraschend. (Araştırmacı sonuçların şaşırtıcı olduğunu vurguladı.) |\n| Der Trainer: \"Die Mannschaft kann gewinnen.\" | Der Trainer meinte, die Mannschaft **könne** gewinnen. (Antrenör takımın kazanabileceğini söyledi.) |\n| Die Ärztin: \"Der Patient muss operiert werden.\" | Die Ärztin sagte, der Patient **müsse** operiert werden. (Doktor hastanın ameliyat edilmesi gerektiğini söyledi.) |\n\n### Konjunktiv I ile Kullanılan Raporlama Fiilleri\n\n| Fiil | Anlamı | Kullanım |\n|------|--------|----------|\n| sagen | söylemek | Er sagt, er sei müde. |\n| erklären | açıklamak | Sie erklärt, sie habe keine Zeit. |\n| behaupten | iddia etmek | Er behauptet, er wisse nichts. |\n| betonen | vurgulamak | Sie betont, die Lage sei ernst. |\n| berichten | raporlamak | Man berichtet, es gebe Fortschritte. |\n| meinen | düşünmek/söylemek | Er meint, das könne stimmen. |",
+      "keyTerms": [
+        {
+          "german": "die indirekte Rede",
+          "turkish": "dolaylı anlatım",
+          "example": "In der indirekten Rede verwendet man den Konjunktiv I. (Dolaylı anlatımda Konjunktiv I kullanılır.)"
+        },
+        {
+          "german": "sei (Konjunktiv I von sein)",
+          "turkish": "olsun / olduğunu (sein'ın Konj. I hali)",
+          "example": "Er sagte, er sei krank. (Hasta olduğunu söyledi.)"
+        },
+        {
+          "german": "habe (Konjunktiv I von haben)",
+          "turkish": "sahip olduğunu (haben'ın Konj. I hali)",
+          "example": "Sie meint, sie habe Recht. (Haklı olduğunu düşünüyor.)"
+        },
+        {
+          "german": "könne (Konjunktiv I von können)",
+          "turkish": "yapabileceğini (können'ın Konj. I hali)",
+          "example": "Der Arzt sagt, der Patient könne nach Hause gehen. (Doktor hastanın eve gidebileceğini söylüyor.)"
+        },
+        {
+          "german": "müsse (Konjunktiv I von müssen)",
+          "turkish": "yapması gerektiğini (müssen'ın Konj. I hali)",
+          "example": "Die Lehrerin sagt, man müsse mehr üben. (Öğretmen daha fazla pratik yapılması gerektiğini söylüyor.)"
+        },
+        {
+          "german": "wolle (Konjunktiv I von wollen)",
+          "turkish": "istemek (wollen'ın Konj. I hali)",
+          "example": "Er erklärt, er wolle die Prüfung bestehen. (Sınavı geçmek istediğini açıklıyor.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-01-q1",
+          "type": "multiple-choice",
+          "question": "\"Der Minister sagte, er ___ alles getan.\" cümlesinde boşluğa ne gelir?",
+          "options": ["hat", "habe", "hätte", "haben"],
+          "correctAnswer": "habe",
+          "explanation": "Dolaylı anlatımda (indirekte Rede) er/sie/es kişisi için 'haben' fiilinin Konjunktiv I biçimi 'habe' kullanılır."
+        },
+        {
+          "id": "c1-01-q2",
+          "type": "multiple-choice",
+          "question": "Konjunktiv I biçimi Indikativ ile aynı olduğunda ne yapılır?",
+          "options": [
+            "Indikativ kullanılır",
+            "Konjunktiv II kullanılır",
+            "Cümle pasif yapılır",
+            "würde + Infinitiv kullanılır"
+          ],
+          "correctAnswer": "Konjunktiv II kullanılır",
+          "explanation": "Konjunktiv I biçimi Indikativ ile özdeş olduğunda belirsizliği önlemek için Konjunktiv II'ye geçilir. Örn: 'ich komme' (Indikativ) = 'ich komme' (Konj. I) → 'ich käme' (Konj. II)."
+        },
+        {
+          "id": "c1-01-q3",
+          "type": "fill-blank",
+          "question": "Die Forscherin betonte, die Ergebnisse ___ überraschend. (sein, Konjunktiv I)",
+          "correctAnswer": "seien",
+          "explanation": "'die Ergebnisse' çoğul olduğu için 'sein' fiilinin Konjunktiv I çoğul biçimi 'seien' kullanılır."
+        },
+        {
+          "id": "c1-01-q4",
+          "type": "true-false",
+          "question": "Konjunktiv I yalnızca gazete metinlerinde kullanılır.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Yanlış",
+          "explanation": "Konjunktiv I gazete haberlerinin yanı sıra akademik metinlerde, resmi raporlarda, protokollerde ve hukuki belgelerde de kullanılır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Dolaylı Anlatım Dönüştürme Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 10 tane doğrudan alıntı (direkte Rede) cümlesi ver. Her cümleyi dolaylı anlatıma (indirekte Rede) Konjunktiv I kullanarak dönüştürmemi iste. Cümleler gazete haberleri, politik söylemler ve akademik bağlamlardan olsun. Cevaplarımı kontrol et ve hata varsa açıkla. Türkçe karşılıklarını da ver."
+        },
+        {
+          "title": "Konjunktiv I Gazete Haberi Yazma",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana güncel bir haber konusu ver ve bu konuda Konjunktiv I kullanarak kısa bir gazete haberi yazmamı iste. Haberde en az 5 farklı Konjunktiv I yapısı kullanmam gereksin. Yazdıklarımı düzelt, hangi fiillerin Konjunktiv I veya Konjunktiv II alması gerektiğini açıkla. Türkçe çevirisini de ekle."
+        }
+      ]
+    },
+    {
+      "id": "c1-02",
+      "phaseId": "c1",
+      "title": "Partizipialkonstruktionen (Ortaç Yapıları)",
+      "subtitle": "Erweiterte Partizipialattribute",
+      "estimatedMinutes": 30,
+      "order": 2,
+      "content": "## Partizipialkonstruktionen – Genişletilmiş Ortaç Yapıları\n\nAlmanca'da C1 seviyesinin en karakteristik özelliklerinden biri, **ilgi cümlelerini (Relativsätze) ortaç yapılarına (Partizipialkonstruktionen) dönüştürme** yeteneğidir. Bu yapılar özellikle akademik metinlerde, gazetecilikte ve resmi yazışmalarda çok sık kullanılır. Metni daha yoğun ve kompakt hale getirir.\n\n### Partizip I (Gegenwart – Şimdiki Zaman Ortacı)\n\nPartizip I, fiilin köküne **-d** eklenerek oluşturulur ve **devam eden bir eylemi** ifade eder.\n\n| Fiil | Partizip I | Anlamı |\n|------|-----------|--------|\n| lesen | lesen**d** | okuyan |\n| schlafen | schlafen**d** | uyuyan |\n| lächeln | lächeln**d** | gülümseyen |\n| wachsen | wachsen**d** | büyüyen |\n| steigen | steigen**d** | yükselen |\n\n#### Partizip I Sıfat Olarak Kullanımı\n\nPartizip I, sıfat gibi kullanıldığında sıfat çekimi alır:\n\n- **der lesende Student** (okuyan öğrenci)\n- **die schlafende Katze** (uyuyan kedi)\n- **das weinende Kind** (ağlayan çocuk)\n- **die steigenden Preise** (yükselen fiyatlar)\n\n---\n\n### Partizip II (Vergangenheit – Geçmiş Zaman Ortacı)\n\nPartizip II, tamamlanmış bir eylemi ifade eder ve genellikle **edilgen anlam** taşır.\n\n| Fiil | Partizip II | Anlamı |\n|------|------------|--------|\n| schreiben | geschrieben | yazılmış |\n| öffnen | geöffnet | açılmış |\n| verletzen | verletzt | yaralanmış |\n| lösen | gelöst | çözülmüş |\n| übersetzen | übersetzt | çevrilmiş |\n\n#### Partizip II Sıfat Olarak\n\n- **der geschriebene Brief** (yazılmış mektup)\n- **die geöffnete Tür** (açılmış kapı)\n- **das verletzte Tier** (yaralı hayvan)\n- **die gelöste Aufgabe** (çözülmüş ödev)\n\n---\n\n### İlgi Cümlesinden Ortaç Yapısına Dönüştürme\n\nBu, C1 seviyesinin temel becerilerinden biridir. İlgi cümlesini ortaç yapısına çevirme adımları:\n\n#### Adım 1: İlgi zamirini kaldır\n#### Adım 2: Fiili Partizip I veya II'ye dönüştür\n#### Adım 3: Ortacı ismin önüne koy ve sıfat çekimi ekle\n#### Adım 4: Diğer öğeleri ortaç ile isim arasına yerleştir\n\n### Partizip I ile Dönüştürme (Aktif / Devam Eden Eylem)\n\n| İlgi Cümlesi (Relativsatz) | Ortaç Yapısı (Partizipialkonstruktion) |\n|---|---|\n| Der Student, **der** in der Bibliothek **liest**, ... | Der **in der Bibliothek lesende** Student ... |\n| (Kütüphanede okuyan öğrenci) | (Kütüphanede okuyan öğrenci) |\n| Die Kosten, **die** ständig **steigen**, ... | Die **ständig steigenden** Kosten ... |\n| (Sürekli yükselen maliyetler) | (Sürekli yükselen maliyetler) |\n| Das Kind, **das** laut **weint**, ... | Das **laut weinende** Kind ... |\n| (Yüksek sesle ağlayan çocuk) | (Yüksek sesle ağlayan çocuk) |\n\n### Partizip II ile Dönüştürme (Pasif / Tamamlanmış Eylem)\n\n| İlgi Cümlesi (Relativsatz) | Ortaç Yapısı (Partizipialkonstruktion) |\n|---|---|\n| Der Brief, **der** gestern **geschrieben wurde**, ... | Der **gestern geschriebene** Brief ... |\n| (Dün yazılmış mektup) | (Dün yazılmış mektup) |\n| Die Probleme, **die** bereits **gelöst wurden**, ... | Die **bereits gelösten** Probleme ... |\n| (Zaten çözülmüş sorunlar) | (Zaten çözülmüş sorunlar) |\n| Das Haus, **das** vor 100 Jahren **gebaut wurde**, ... | Das **vor 100 Jahren gebaute** Haus ... |\n| (100 yıl önce inşa edilmiş ev) | (100 yıl önce inşa edilmiş ev) |\n\n---\n\n### Karmaşık Partizipialkonstruktionen\n\nAkademik metinlerde ortaç ile isim arasına uzun ifadeler girer:\n\n- **Die in den letzten Jahren stark gestiegenen Energiepreise** haben die Wirtschaft belastet.\n  (Son yıllarda güçlü bir şekilde artmış olan enerji fiyatları ekonomiyi zorladı.)\n\n- **Der von der Regierung kürzlich verabschiedete Gesetzentwurf** sorgt für Diskussionen.\n  (Hükümet tarafından yakın zamanda kabul edilen yasa tasarısı tartışmalara yol açıyor.)\n\n- **Die an der Universität München durchgeführte Studie** zeigt neue Ergebnisse.\n  (Münih Üniversitesi'nde gerçekleştirilen çalışma yeni sonuçlar gösteriyor.)\n\n> **İpucu:** Ortaç yapılarını okurken **sondan başa doğru** okuyun. Önce ismi (Brief, Kosten, Haus), sonra ortacı (geschrieben, steigend, gebaut), en son da aradaki öğeleri anlayın.",
+      "keyTerms": [
+        {
+          "german": "das Partizip I (Partizip Präsens)",
+          "turkish": "şimdiki zaman ortacı (-en/yen/yan)",
+          "example": "Der schlafende Hund liegt auf dem Sofa. (Uyuyan köpek koltukta yatıyor.)"
+        },
+        {
+          "german": "das Partizip II (Partizip Perfekt)",
+          "turkish": "geçmiş zaman ortacı (-mış/-ilmiş)",
+          "example": "Das geöffnete Fenster lässt frische Luft herein. (Açılmış pencere temiz hava girmesini sağlıyor.)"
+        },
+        {
+          "german": "die Partizipialkonstruktion",
+          "turkish": "ortaç yapısı",
+          "example": "Die in Berlin lebenden Türken feiern das Fest. (Berlin'de yaşayan Türkler bayramı kutluyor.)"
+        },
+        {
+          "german": "der Relativsatz",
+          "turkish": "ilgi cümlesi",
+          "example": "Der Mann, der dort steht, ist mein Lehrer. (Orada duran adam benim öğretmenim.)"
+        },
+        {
+          "german": "das erweiterte Attribut",
+          "turkish": "genişletilmiş sıfat tamlaması",
+          "example": "Die seit Wochen andauernden Proteste nehmen zu. (Haftalardır devam eden protestolar artıyor.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-02-q1",
+          "type": "multiple-choice",
+          "question": "\"Der Student, der in der Bibliothek liest\" cümlesini ortaç yapısına çevirirseniz hangisi doğrudur?",
+          "options": [
+            "Der in der Bibliothek gelesene Student",
+            "Der in der Bibliothek lesende Student",
+            "Der in der Bibliothek leste Student",
+            "Der gelesen in der Bibliothek Student"
+          ],
+          "correctAnswer": "Der in der Bibliothek lesende Student",
+          "explanation": "Devam eden bir eylem olduğu için Partizip I (lesend) kullanılır ve sıfat çekimi eklenerek 'lesende' olur. Yer belirleyici (in der Bibliothek) ortaç ile isim arasına girer."
+        },
+        {
+          "id": "c1-02-q2",
+          "type": "fill-blank",
+          "question": "Die gestern ___ E-Mail enthielt wichtige Informationen. (schreiben, Partizip II + sıfat çekimi)",
+          "correctAnswer": "geschriebene",
+          "explanation": "Tamamlanmış pasif bir eylem olduğu için Partizip II kullanılır: geschrieben + sıfat çekimi -e (die ... E-Mail) = geschriebene."
+        },
+        {
+          "id": "c1-02-q3",
+          "type": "true-false",
+          "question": "Partizip I devam eden bir eylemi, Partizip II ise tamamlanmış bir eylemi ifade eder.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Doğru",
+          "explanation": "Partizip I (-d eki) şimdiki/devam eden eylemi, Partizip II (ge- + -t/-en) tamamlanmış ve genellikle edilgen eylemi ifade eder."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Ortaç Yapısı Dönüştürme Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 10 tane Relativsatz (ilgi cümlesi) içeren cümle ver. Bunları Partizipialkonstruktion'a (ortaç yapısına) dönüştürmemi iste. Yarısı Partizip I, yarısı Partizip II kullansın. Cevaplarımı kontrol et ve doğru sıfat çekimini açıkla. Her cümlenin Türkçe karşılığını da ver."
+        },
+        {
+          "title": "Akademik Metin Analizi",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana Partizipialkonstruktionen içeren kısa bir akademik paragraf yaz. Sonra benden bu yapıları bulup ilgi cümlelerine (Relativsätze) dönüştürmemi iste. Ardından doğru cevapları ver ve her iki biçimin stilistik farkını açıkla. Türkçe açıklamalar ekle."
+        }
+      ]
+    },
+    {
+      "id": "c1-03",
+      "phaseId": "c1",
+      "title": "Nominalisierung und Verbalisierung (İsimleştirme ve Fiilleştirme)",
+      "subtitle": "Nominalstil und Verbalstil",
+      "estimatedMinutes": 35,
+      "order": 3,
+      "content": "## Nominalisierung und Verbalisierung – İsimleştirme ve Fiilleştirme\n\nAlmanca'da aynı içerik iki farklı üslupla ifade edilebilir: **Nominalstil** (isim ağırlıklı üslup) ve **Verbalstil** (fiil ağırlıklı üslup). C1 seviyesinde bu iki üslup arasında geçiş yapabilmek kritik bir beceridir.\n\n### Ne Zaman Hangi Üslup?\n\n| Özellik | Nominalstil (İsim Üslubu) | Verbalstil (Fiil Üslubu) |\n|---------|--------------------------|-------------------------|\n| Kullanım alanı | Akademik, hukuki, resmi | Günlük konuşma, edebiyat |\n| Örnek alan | Bilimsel makaleler, yasalar | Romanlar, günlük e-postalar |\n| Cümle yapısı | Yoğun, kompakt | Akıcı, anlaşılır |\n| Ton | Resmi, nesnel | Samimi, öznel |\n| Avantaj | Bilgiyi sıkıştırır | Okuyucu dostu |\n\n---\n\n### Fiilden İsime Dönüştürme Yolları\n\n#### 1. Fiil kökünden isim türetme\n\n| Fiil | İsim | Türkçe |\n|------|------|--------|\n| beginnen | der Beginn | başlangıç |\n| ändern | die Änderung | değişiklik |\n| forschen | die Forschung | araştırma |\n| entwickeln | die Entwicklung | gelişim |\n| verbessern | die Verbesserung | iyileştirme |\n| untersuchen | die Untersuchung | inceleme |\n| teilnehmen | die Teilnahme | katılım |\n| beobachten | die Beobachtung | gözlem |\n\n#### 2. Yaygın isimleştirme sonekleri\n\n| Sonek | Örnek Fiil → İsim | Cinsiyet |\n|-------|-------------------|----------|\n| -ung | beschreib**en** → die Beschreib**ung** | die (dişil) |\n| -tion | integrier**en** → die Integra**tion** | die (dişil) |\n| -heit/-keit | möglich → die Möglich**keit** | die (dişil) |\n| -nis | erkennen → die Erkennt**nis** | die/das |\n| -e | fragen → die Frag**e** | die (dişil) |\n| Ø (kök=isim) | beginnen → der Beginn | der/die/das |\n\n---\n\n### Dönüştürme Örnekleri: Verbal → Nominal\n\n| Verbalstil | Nominalstil |\n|------------|-------------|\n| Weil die Bevölkerung wächst, ... | Wegen **des Bevölkerungswachstums** ... |\n| (Nüfus büyüdüğü için, ...) | (Nüfus artışı nedeniyle, ...) |\n| Nachdem man die Daten analysiert hat, ... | Nach **der Analyse der Daten** ... |\n| (Veriler analiz edildikten sonra, ...) | (Verilerin analizinden sonra, ...) |\n| Bevor die Verhandlungen beginnen, ... | Vor **dem Beginn der Verhandlungen** ... |\n| (Müzakereler başlamadan önce, ...) | (Müzakerelerin başlangıcından önce, ...) |\n| Obwohl man die Maßnahmen durchgeführt hat, ... | Trotz **der Durchführung der Maßnahmen** ... |\n| (Önlemler uygulanmış olmasına rağmen, ...) | (Önlemlerin uygulanmasına rağmen, ...) |\n| Während die Wissenschaftler forschen, ... | Während **der Forschung** ... |\n| (Bilim insanları araştırma yaparken, ...) | (Araştırma süresince, ...) |\n\n### Bağlaçtan Edata Dönüşüm Tablosu\n\n| Bağlaç (Konjunktion) | Edat (Präposition) | Örnek |\n|---------------------|--------------------|---------|\n| weil / da | wegen + Genitiv | wegen der Krise (kriz nedeniyle) |\n| obwohl | trotz + Genitiv | trotz des Protests (proteste rağmen) |\n| während | während + Genitiv | während der Sitzung (toplantı sırasında) |\n| bevor | vor + Dativ | vor der Prüfung (sınavdan önce) |\n| nachdem | nach + Dativ | nach der Diskussion (tartışmadan sonra) |\n| wenn / falls | bei + Dativ | bei Problemen (sorunlar olduğunda) |\n| damit / um...zu | zu + Dativ | zur Verbesserung (iyileştirme amacıyla) |\n| indem | durch + Akkusativ | durch Übung (pratik yaparak) |\n\n---\n\n## Funktionsverbgefüge (İşlev Fiili Yapıları) – FVG\n\nFunktionsverbgefüge, bir isim ile anlam yükü hafif bir fiilden oluşan kalıplaşmış yapılardır. Resmi ve akademik dilde çok sık kullanılırlar.\n\n### FVG Yapıları ve Basit Fiil Karşılıkları\n\n| FVG | Basit Fiil | Türkçe |\n|-----|-----------|--------|\n| **in Betracht ziehen** | berücksichtigen | dikkate almak / göz önünde bulundurmak |\n| **Bescheid geben** | informieren | bilgi vermek / haber vermek |\n| **zur Verfügung stehen** | verfügbar sein | mevcut olmak / hazır olmak |\n| **zur Verfügung stellen** | bereitstellen | sunmak / sağlamak |\n| **in Frage kommen** | möglich sein | söz konusu olmak |\n| **in Frage stellen** | bezweifeln | sorgulamak |\n| **in Anspruch nehmen** | nutzen/beanspruchen | yararlanmak / kullanmak |\n| **zum Ausdruck bringen** | ausdrücken | ifade etmek |\n| **in Kraft treten** | gelten/wirksam werden | yürürlüğe girmek |\n| **Einfluss nehmen** | beeinflussen | etki etmek |\n| **in Gang setzen** | starten/beginnen | harekete geçirmek |\n| **zu Ende bringen** | beenden | sonlandırmak |\n| **zur Kenntnis nehmen** | erfahren/wahrnehmen | bilgisine almak |\n| **Rücksicht nehmen** | berücksichtigen | göz önünde bulundurmak |\n| **in Kauf nehmen** | akzeptieren | göze almak / katlanmak |\n| **Abschied nehmen** | sich verabschieden | veda etmek |\n| **einen Beitrag leisten** | beitragen | katkıda bulunmak |\n| **Stellung nehmen** | kommentieren/sich äußern | görüş bildirmek |\n| **einen Antrag stellen** | beantragen | başvuruda bulunmak |\n| **eine Entscheidung treffen** | entscheiden | karar vermek |\n\n> **İpucu:** FVG'ler genellikle belirli edatlarla (in, zu, zum, zur, auf) ve belirli fiillerle (nehmen, bringen, stellen, setzen, kommen, geben, treffen) oluşur. Bu kalıpları öğrenmek büyük kolaylık sağlar.",
+      "keyTerms": [
+        {
+          "german": "die Nominalisierung",
+          "turkish": "isimleştirme",
+          "example": "Die Nominalisierung ist typisch für den akademischen Stil. (İsimleştirme akademik üslup için tipiktir.)"
+        },
+        {
+          "german": "die Verbalisierung",
+          "turkish": "fiilleştirme",
+          "example": "Durch Verbalisierung wird der Text leichter verständlich. (Fiilleştirme ile metin daha kolay anlaşılır.)"
+        },
+        {
+          "german": "der Nominalstil",
+          "turkish": "isim ağırlıklı üslup",
+          "example": "Wissenschaftliche Texte sind oft im Nominalstil geschrieben. (Bilimsel metinler genellikle isim üslubunda yazılır.)"
+        },
+        {
+          "german": "das Funktionsverbgefüge",
+          "turkish": "işlev fiili yapısı",
+          "example": "Man sollte die Risiken in Kauf nehmen. (Riskleri göze almak gerekir.)"
+        },
+        {
+          "german": "zur Verfügung stehen",
+          "turkish": "mevcut olmak / hazır olmak",
+          "example": "Die Unterlagen stehen Ihnen zur Verfügung. (Belgeler sizin için mevcuttur.)"
+        },
+        {
+          "german": "in Betracht ziehen",
+          "turkish": "dikkate almak / göz önünde bulundurmak",
+          "example": "Wir müssen alle Optionen in Betracht ziehen. (Tüm seçenekleri göz önünde bulundurmalıyız.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-03-q1",
+          "type": "multiple-choice",
+          "question": "\"Weil die Bevölkerung wächst\" cümlesinin Nominalstil karşılığı hangisidir?",
+          "options": [
+            "Trotz des Bevölkerungswachstums",
+            "Wegen des Bevölkerungswachstums",
+            "Für das Bevölkerungswachstum",
+            "Bei dem Bevölkerungswachstum"
+          ],
+          "correctAnswer": "Wegen des Bevölkerungswachstums",
+          "explanation": "'Weil' (çünkü) bağlacı Nominalstil'e dönüştürülürken 'wegen + Genitiv' edatına dönüşür. 'Wachsen' fiili 'das Wachstum' ismine çevrilir."
+        },
+        {
+          "id": "c1-03-q2",
+          "type": "matching",
+          "question": "Aşağıdaki FVG'leri basit fiil karşılıklarıyla eşleştirin:",
+          "options": [
+            "in Betracht ziehen → berücksichtigen",
+            "in Betracht ziehen → bezweifeln",
+            "zur Verfügung stellen → bereitstellen",
+            "zur Verfügung stellen → beeinflussen"
+          ],
+          "correctAnswer": "in Betracht ziehen → berücksichtigen",
+          "explanation": "'in Betracht ziehen' = 'berücksichtigen' (dikkate almak). 'zur Verfügung stellen' = 'bereitstellen' (sunmak/sağlamak)."
+        },
+        {
+          "id": "c1-03-q3",
+          "type": "fill-blank",
+          "question": "Die Unterlagen stehen Ihnen zur ___ . (mevcut olmak)",
+          "correctAnswer": "Verfügung",
+          "explanation": "'zur Verfügung stehen' = mevcut olmak, hazır olmak. Bu çok yaygın bir Funktionsverbgefüge'dir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Nominalstil ↔ Verbalstil Dönüştürme",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 8 cümle ver: 4 tanesi Verbalstil'de, 4 tanesi Nominalstil'de olsun. Verbalstil olanları Nominalstil'e, Nominalstil olanları Verbalstil'e dönüştürmemi iste. Cümleler akademik, hukuki ve gazetecilik bağlamlarından olsun. Cevaplarımı kontrol et, bağlaç-edat dönüşümlerini açıkla. Türkçe karşılıkları da ekle."
+        },
+        {
+          "title": "Funktionsverbgefüge Pratik",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 15 cümle ver ve her cümlede basit fiil kullanılmış olsun. Benden bu basit fiilleri uygun Funktionsverbgefüge ile değiştirmemi iste. Örneğin: 'entscheiden' → 'eine Entscheidung treffen'. Sonra cevaplarımı kontrol et ve her FVG'nin hangi bağlamda tercih edildiğini açıkla."
+        }
+      ]
+    },
+    {
+      "id": "c1-04",
+      "phaseId": "c1",
+      "title": "Komplexe Satzstrukturen (Karmaşık Cümle Yapıları)",
+      "subtitle": "Satzverbindungen und Korrelate",
+      "estimatedMinutes": 30,
+      "order": 4,
+      "content": "## Komplexe Satzstrukturen – Karmaşık Cümle Yapıları\n\nC1 seviyesinde cümle yapılarını çeşitlendirmek ve akademik/edebi metinlerde kullanılan karmaşık bağlantı kalıplarını bilmek gerekir. Bu derste ileri düzey cümle bağlantılarını öğreneceğiz.\n\n---\n\n### 1. je ... desto / je ... umso (ne kadar ... o kadar)\n\nBu yapı iki karşılaştırmalı unsuru birbirine bağlar. **je** yan cümle, **desto/umso** ana cümle başlatır.\n\n**Yapı:** je + Komparativ + Nebensatz, desto/umso + Komparativ + Hauptsatz\n\n| Örnek | Türkçe |\n|-------|--------|\n| **Je** mehr man übt, **desto** besser wird man. | Ne kadar çok pratik yaparsan o kadar iyi olursun. |\n| **Je** länger man wartet, **umso** schwieriger wird es. | Ne kadar uzun beklersen o kadar zorlaşır. |\n| **Je** älter ich werde, **desto** weiser fühle ich mich. | Ne kadar yaşlanırsam o kadar bilge hissederim. |\n| **Je** mehr Sprachen man spricht, **desto** mehr Vorteile hat man. | Ne kadar çok dil konuşursan o kadar fazla avantajın olur. |\n\n> **Dikkat:** *je* cümlesinde fiil sonda, *desto/umso* cümlesinde fiil ikinci sırada (devrik) gelir.\n\n---\n\n### 2. nicht nur ... sondern auch (sadece ... değil, aynı zamanda ... da)\n\n| Örnek | Türkçe |\n|-------|--------|\n| Er ist **nicht nur** intelligent, **sondern auch** fleißig. | O sadece zeki değil, aynı zamanda çalışkan da. |\n| **Nicht nur** die Studenten, **sondern auch** die Professoren waren überrascht. | Sadece öğrenciler değil, profesörler de şaşırmıştı. |\n| Sie lernt **nicht nur** Deutsch, **sondern auch** Französisch. | O sadece Almanca değil, Fransızca da öğreniyor. |\n\n---\n\n### 3. sowohl ... als auch (hem ... hem de)\n\n| Örnek | Türkçe |\n|-------|--------|\n| **Sowohl** die Qualität **als auch** der Preis sind wichtig. | Hem kalite hem de fiyat önemlidir. |\n| Er spricht **sowohl** Deutsch **als auch** Englisch fließend. | O hem Almanca hem de İngilizce'yi akıcı konuşur. |\n| **Sowohl** Schüler **als auch** Lehrer profitieren davon. | Hem öğrenciler hem de öğretmenler bundan faydalanır. |\n\n---\n\n### 4. weder ... noch (ne ... ne de)\n\n| Örnek | Türkçe |\n|-------|--------|\n| Er hat **weder** Zeit **noch** Lust. | Onun ne zamanı ne de isteği var. |\n| **Weder** die Regierung **noch** die Opposition war zufrieden. | Ne hükümet ne de muhalefet memnundu. |\n| Sie spricht **weder** Französisch **noch** Spanisch. | O ne Fransızca ne de İspanyolca konuşuyor. |\n\n> **Dikkat:** *weder...noch* ile cümle başlarsa fiil devrik gelir: **Weder** hat er Zeit, **noch** hat er Lust.\n\n---\n\n### 5. wenn Olmadan Koşul Cümlesi (Konditionalsatz ohne wenn)\n\nResmi ve akademik Almanca'da *wenn* bağlacı olmadan koşul cümlesi kurulabilir. Fiil birinci sıraya gelir (devrik yapı).\n\n| wenn ile | wenn olmadan (Inversion) |\n|----------|-------------------------|\n| **Wenn** man die Regeln kennt, ist es einfach. | **Kennt** man die Regeln, ist es einfach. |\n| (Kuralları bilirsen kolaydır.) | (Kuralları bilirsen kolaydır.) |\n| **Wenn** es regnen sollte, bleiben wir zu Hause. | **Sollte** es regnen, bleiben wir zu Hause. |\n| (Yağmur yağarsa evde kalırız.) | (Yağmur yağarsa evde kalırız.) |\n| **Wenn** Sie Fragen haben, rufen Sie uns an. | **Haben** Sie Fragen, rufen Sie uns an. |\n| (Sorularınız varsa bizi arayın.) | (Sorularınız varsa bizi arayın.) |\n\n> **Kural:** *wenn* kaldırılır ve fiil cümlenin başına getirilir. Bu yapı daha resmi ve yazılı bir üslup sağlar.\n\n---\n\n### 6. kaum ... da/als (tam ... -diğinde / daha ... yapar yapmaz)\n\nBir olay gerçekleştikten hemen sonra başka bir olayın olduğunu ifade eder.\n\n| Örnek | Türkçe |\n|-------|--------|\n| **Kaum** hatte er das Haus verlassen, **da** begann es zu regnen. | Daha evden çıkar çıkmaz yağmur başladı. |\n| **Kaum** war die Vorlesung zu Ende, **als** die Studenten den Saal verließen. | Ders daha biter bitmez öğrenciler salonu terk etti. |\n| **Kaum** hatte sie den Brief gelesen, **da** rief sie ihn an. | Mektubu daha okur okumaz onu aradı. |\n\n> **Yapı:** kaum + Plusquamperfekt (yan cümle), da/als + Präteritum (ana cümle)\n\n---\n\n### Özet Tablo: Tüm Yapılar\n\n| Yapı | Anlamı | Örnek |\n|------|--------|-------|\n| je ... desto/umso | ne kadar ... o kadar | Je mehr, desto besser. |\n| nicht nur ... sondern auch | sadece ... değil, ... da | Nicht nur klug, sondern auch fleißig. |\n| sowohl ... als auch | hem ... hem de | Sowohl A als auch B. |\n| weder ... noch | ne ... ne de | Weder A noch B. |\n| Koşul (ohne wenn) | eğer (resmi) | Haben Sie Fragen, rufen Sie an. |\n| kaum ... da/als | daha ... yapar yapmaz | Kaum angekommen, da ging es los. |",
+      "keyTerms": [
+        {
+          "german": "je ... desto/umso",
+          "turkish": "ne kadar ... o kadar",
+          "example": "Je mehr man liest, desto mehr lernt man. (Ne kadar çok okursan o kadar çok öğrenirsin.)"
+        },
+        {
+          "german": "nicht nur ... sondern auch",
+          "turkish": "sadece ... değil, aynı zamanda ... da",
+          "example": "Er ist nicht nur klug, sondern auch kreativ. (Sadece zeki değil, aynı zamanda yaratıcı da.)"
+        },
+        {
+          "german": "sowohl ... als auch",
+          "turkish": "hem ... hem de",
+          "example": "Sowohl Theorie als auch Praxis sind wichtig. (Hem teori hem de pratik önemlidir.)"
+        },
+        {
+          "german": "weder ... noch",
+          "turkish": "ne ... ne de",
+          "example": "Er hat weder geantwortet noch zurückgerufen. (Ne cevap verdi ne de geri aradı.)"
+        },
+        {
+          "german": "kaum ... da/als",
+          "turkish": "daha ... yapar yapmaz",
+          "example": "Kaum war er eingeschlafen, da klingelte das Telefon. (Daha uyur uyumaz telefon çaldı.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-04-q1",
+          "type": "fill-blank",
+          "question": "___ mehr man übt, ___ besser wird man. (ne kadar ... o kadar)",
+          "correctAnswer": "Je, desto",
+          "explanation": "'Ne kadar ... o kadar' yapısı Almanca'da 'je ... desto' veya 'je ... umso' ile ifade edilir."
+        },
+        {
+          "id": "c1-04-q2",
+          "type": "multiple-choice",
+          "question": "\"Wenn Sie Fragen haben, rufen Sie uns an.\" cümlesinin 'wenn' olmadan yazılışı hangisidir?",
+          "options": [
+            "Fragen Sie haben, rufen Sie uns an.",
+            "Haben Sie Fragen, rufen Sie uns an.",
+            "Sie haben Fragen, rufen Sie uns an.",
+            "Ob Sie Fragen haben, rufen Sie uns an."
+          ],
+          "correctAnswer": "Haben Sie Fragen, rufen Sie uns an.",
+          "explanation": "'wenn' kaldırıldığında fiil cümlenin başına gelir (devrik yapı). Bu daha resmi bir üslup sağlar."
+        },
+        {
+          "id": "c1-04-q3",
+          "type": "multiple-choice",
+          "question": "\"Er hat ___ Zeit ___ Lust.\" (Onun ne zamanı ne de isteği var.)",
+          "options": [
+            "sowohl ... als auch",
+            "nicht nur ... sondern auch",
+            "weder ... noch",
+            "je ... desto"
+          ],
+          "correctAnswer": "weder ... noch",
+          "explanation": "'Ne ... ne de' anlamı 'weder ... noch' yapısıyla verilir. Olumsuz bir ikili bağlaçtır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Karmaşık Cümle Yapıları Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 12 Türkçe cümle ver ve bunları belirtilen yapılarla Almanca'ya çevirmemi iste: je...desto (3 cümle), nicht nur...sondern auch (2 cümle), sowohl...als auch (2 cümle), weder...noch (2 cümle), kaum...da (2 cümle), wenn olmadan koşul (1 cümle). Cevaplarımı kontrol et ve fiil sıralamasını açıkla."
+        },
+        {
+          "title": "Akademik Metin Yazma Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 'Digitalisierung in der Bildung' (Eğitimde Dijitalleşme) konusunda kısa bir akademik paragraf yazmamı söyle. Paragrafta şu yapıları kullanmam gereksin: je...desto, nicht nur...sondern auch, sowohl...als auch, weder...noch. Yazdığımı kontrol et, dilbilgisi ve stil hatalarımı düzelt."
+        }
+      ]
+    },
+    {
+      "id": "c1-05",
+      "phaseId": "c1",
+      "title": "Modalpartikeln (Kiplik Edatları)",
+      "subtitle": "Abtönungspartikeln im Deutschen",
+      "estimatedMinutes": 35,
+      "order": 5,
+      "content": "## Modalpartikeln – Kiplik Edatları\n\nModalpartikeln (kiplik edatları), Almanca'nın en zor ama en önemli özelliklerinden biridir. Bu küçük kelimeler cümlenin **tonunu, niyetini ve duygusal rengini** değiştirir. Anadili Almanca olan insanlar bunları sürekli kullanır ve bunların yokluğu konuşmayı yapay ve robot gibi gösterir.\n\nBu edatlar:\n- Cümlenin anlamını değiştirmez ama **nüans** katar\n- Çevrilmesi çok zordur\n- Konuşma dilinde zorunludur\n- Vurgusuz okunur\n- Cümlenin ortasında yer alır\n\n---\n\n### 1. ja\n\n**Anlam:** \"bildiğin gibi\", \"malum\", ortak bilgiyi vurgular.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Das ist **ja** interessant! | Bu ilginçmiş! (şaşkınlık) |\n| Du weißt **ja**, dass er krank ist. | Biliyorsun ya, o hasta. (ortak bilgi) |\n| Das habe ich **ja** gesagt! | Ben bunu zaten söyledim! (haklılık) |\n\n---\n\n### 2. doch\n\n**Anlam:** \"ama\", \"yine de\", karşı çıkma veya vurgulama. Çok çeşitli kullanımı vardır.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Komm **doch** mit! | Hadi gel be! (ısrar/teşvik) |\n| Das stimmt **doch** nicht! | Bu doğru değil ki! (itiraz) |\n| Du kannst **doch** Deutsch! | Sen Almanca biliyorsun ya! (hatırlatma) |\n| Er ist **doch** kein Kind mehr. | O artık çocuk değil ki. (itiraz/vurgulama) |\n\n---\n\n### 3. halt / eben\n\n**Anlam:** \"işte\", \"böyle\", kabul/değişmezlik. İkisi neredeyse eş anlamlıdır (*halt* daha güneylidir).\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Das ist **halt/eben** so. | İşte böyle. (kabul, değişmez) |\n| Man muss **eben** warten. | Beklemek lazım işte. (boyun eğme) |\n| Dann musst du **halt** früher aufstehen. | O zaman erken kalkman lazım işte. (çaresizlik/kabul) |\n\n---\n\n### 4. mal\n\n**Anlam:** \"bir\", rica/teklifi yumuşatır, rahatlatır.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Schau **mal**! | Bir baksana! (dikkat çekme) |\n| Kannst du **mal** helfen? | Bir yardım edebilir misin? (yumuşak rica) |\n| Komm **mal** her! | Bir buraya gel! |\n| Warte **mal**! | Bir bekle! |\n\n---\n\n### 5. wohl\n\n**Anlam:** \"herhalde\", \"galiba\", tahmin/olasılık.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Er ist **wohl** krank. | Herhalde hasta. (tahmin) |\n| Das wird **wohl** stimmen. | Bu doğru olsa gerek. (olasılık) |\n| Sie hat **wohl** keine Zeit. | Galiba zamanı yok. (varsayım) |\n\n---\n\n### 6. denn\n\n**Anlam:** Sorularda ilgi/merak ifade eder, soruyu yumuşatır.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Was machst du **denn** hier? | Sen burada ne yapıyorsun (ki)? (merak/şaşkınlık) |\n| Wie heißt du **denn**? | Sen ne ad(ın ne)? (samimi soru) |\n| Hast du **denn** kein Geld? | (Yoksa) hiç paran yok mu? |\n\n---\n\n### 7. eigentlich\n\n**Anlam:** \"aslında\", \"esasen\", konu değiştirme veya asıl meseleyi sorma.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Was willst du **eigentlich**? | Aslında ne istiyorsun? |\n| Wer ist das **eigentlich**? | Bu aslında kim? |\n| **Eigentlich** wollte ich zu Hause bleiben. | Aslında evde kalmak istiyordum. |\n\n---\n\n### 8. schon\n\n**Anlam:** \"elbet\", \"zaten\", teselli/ikna.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Das wird **schon** klappen. | Hallolur elbet. (teselli/güven) |\n| Du wirst **schon** sehen. | Göreceksin sen. |\n| Das stimmt **schon**, aber... | Doğru, ama... (kısmen kabul) |\n\n---\n\n### 9. bloß / nur\n\n**Anlam:** \"sakın\", \"yeter ki\", uyarı veya yoğun istek.\n\n| Örnek | Türkçe / Nüans |\n|-------|----------------|\n| Mach das **bloß** nicht! | Sakın bunu yapma! (uyarı) |\n| Wenn ich **nur** mehr Zeit hätte! | Keşke daha fazla zamanım olsa! (keşke) |\n| Was soll ich **bloß** tun? | Ne yapmalıyım ki? (çaresizlik) |\n| Hör **bloß** auf! | Artık kes şunu! (sert uyarı) |\n\n---\n\n### Diyalog Örneği\n\n> **A:** Was machst du **denn** hier?\n> **B:** Ich warte **halt** auf den Bus.\n> **A:** Der kommt **doch** erst in einer Stunde!\n> **B:** **Ja**, das weiß ich **schon**, aber ich habe **eben** nichts anderes zu tun.\n> **A:** Komm **doch** **mal** mit ins Café!\n> **B:** Das ist **eigentlich** keine schlechte Idee.\n\n**Çeviri:**\n> A: (Yahu) burada ne yapıyorsun?\n> B: Otobüsü bekliyorum işte.\n> A: O bir saat sonra gelecek ama!\n> B: Biliyorum da, yapacak başka bir şeyim yok işte.\n> A: Hadi kafeye gel bir!\n> B: Aslında kötü bir fikir değil.\n\n### Modalpartikeln Özet Tablosu\n\n| Partikel | Cümle Tipi | Ana İşlev | Türkçe Karşılığı |\n|----------|-----------|-----------|------------------|\n| ja | Aussage | Ortak bilgi, şaşkınlık | ya, zaten, vay |\n| doch | Aussage/Imperativ | İtiraz, ısrar, hatırlatma | ama, ki, hadi |\n| halt/eben | Aussage | Kabul, boyun eğme | işte, böyle |\n| mal | Imperativ/Frage | Yumuşatma | bir, bir de |\n| wohl | Aussage | Tahmin | herhalde, galiba |\n| denn | Frage | İlgi, merak | ki, yoksa |\n| eigentlich | Frage/Aussage | Konu değiştirme | aslında |\n| schon | Aussage | Teselli, ikna | elbet, zaten |\n| bloß/nur | Imperativ/Wunsch | Uyarı, keşke | sakın, keşke |",
+      "keyTerms": [
+        {
+          "german": "die Modalpartikel",
+          "turkish": "kiplik edatı",
+          "example": "Modalpartikeln verändern den Ton einer Aussage. (Kiplik edatları bir ifadenin tonunu değiştirir.)"
+        },
+        {
+          "german": "doch",
+          "turkish": "ama / ki / hadi (bağlama göre değişir)",
+          "example": "Komm doch mit! (Hadi gel be!)"
+        },
+        {
+          "german": "halt / eben",
+          "turkish": "işte / böyle",
+          "example": "Das ist halt so. (İşte böyle.)"
+        },
+        {
+          "german": "mal",
+          "turkish": "bir (yumuşatma)",
+          "example": "Kannst du mal helfen? (Bir yardım edebilir misin?)"
+        },
+        {
+          "german": "wohl",
+          "turkish": "herhalde / galiba",
+          "example": "Er ist wohl krank. (Herhalde hasta.)"
+        },
+        {
+          "german": "bloß / nur",
+          "turkish": "sakın / keşke",
+          "example": "Mach das bloß nicht! (Sakın bunu yapma!)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-05-q1",
+          "type": "multiple-choice",
+          "question": "\"Das ist ___ interessant!\" – Şaşkınlık ve ortak bilgiyi vurgulayan partikel hangisidir?",
+          "options": ["wohl", "ja", "halt", "eigentlich"],
+          "correctAnswer": "ja",
+          "explanation": "'ja' partikeli burada şaşkınlık ifade eder ve konuşanın bunu zaten bildiğini veya beklediğini ima eder."
+        },
+        {
+          "id": "c1-05-q2",
+          "type": "multiple-choice",
+          "question": "\"Komm ___ mit!\" – Rica/ısrar anlamı taşıyan uygun partikel hangisidir?",
+          "options": ["wohl", "eigentlich", "doch", "eben"],
+          "correctAnswer": "doch",
+          "explanation": "'doch' emir cümlelerinde ısrar ve teşvik anlamı katar: 'Hadi gel be!' anlamını verir."
+        },
+        {
+          "id": "c1-05-q3",
+          "type": "fill-blank",
+          "question": "Er ist ___ krank. (herhalde/galiba anlamında tahmin bildiren partikel)",
+          "correctAnswer": "wohl",
+          "explanation": "'wohl' partikeli tahmin ve olasılık ifade eder: 'Herhalde hasta.' anlamını verir."
+        },
+        {
+          "id": "c1-05-q4",
+          "type": "true-false",
+          "question": "Modalpartikeln cümlenin temel anlamını değiştirir.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Yanlış",
+          "explanation": "Modalpartikeln cümlenin temel anlamını değiştirmez, ancak tonunu, niyetini ve duygusal nüansını değiştirir. Cümleden çıkarılsa bile temel anlam korunur."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Modalpartikeln Diyalog Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Benimle Almanca günlük bir diyalog kur. Her cümlemde uygun Modalpartikeln kullanmam gereksin. Kullandığım partikellerin doğru olup olmadığını kontrol et. Yanlış kullanırsam doğrusunu açıkla. Her Modalpartikel'in cümleye kattığı nüansı Türkçe açıkla. Konular: arkadaşla buluşma, iş görüşmesi, restoranda sipariş."
+        },
+        {
+          "title": "Modalpartikeln Nüans Analizi",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana aynı cümleyi farklı Modalpartikeln ile yaz ve her versiyonun nüansını Türkçe açıkla. Örneğin: 'Komm mit!' / 'Komm doch mit!' / 'Komm mal mit!' / 'Komm bloß mit!' arasındaki farklar gibi. En az 5 farklı cümle grubu ver."
+        }
+      ]
+    },
+    {
+      "id": "c1-06",
+      "phaseId": "c1",
+      "title": "Wissenschaftliches Schreiben (Akademik Yazım)",
+      "subtitle": "Akademisches Schreiben und Redemittel",
+      "estimatedMinutes": 35,
+      "order": 6,
+      "content": "## Wissenschaftliches Schreiben – Akademik Yazım\n\nC1 seviyesinde akademik yazım becerisi, özellikle Telc C1 Hochschule sınavı ve üniversite çalışmaları için kritik öneme sahiptir. Bu derste akademik metin yazma kurallarını, kalıp ifadeleri (Redemittel) ve bilimsel üslubu öğreneceğiz.\n\n---\n\n### Akademik Yazımın Temel İlkeleri\n\n1. **Nesnellik (Objektivität):** Kişisel görüşler yerine kanıtlara dayalı ifadeler\n2. **Kesinlik (Präzision):** Net ve açık ifadeler, belirsizlikten kaçınma\n3. **Resmiyet (Formalität):** Konuşma dili yerine yazı dili\n4. **Kaynak Kullanımı (Quellenangabe):** İddiaların kaynakla desteklenmesi\n5. **Yapısallık (Struktur):** Giriş, gelişme, sonuç düzeni\n\n---\n\n### Redemittel: Konu Tanıtımı (Thema einleiten)\n\n| Almanca | Türkçe |\n|---------|--------|\n| In der vorliegenden Arbeit wird ... untersucht. | Bu çalışmada ... incelenmektedir. |\n| Die folgende Arbeit beschäftigt sich mit ... | Aşağıdaki çalışma ... ile ilgilenmektedir. |\n| Im Mittelpunkt der Untersuchung steht ... | İncelemenin merkezinde ... yer almaktadır. |\n| Ziel dieser Arbeit ist es, ... zu analysieren. | Bu çalışmanın amacı ... analiz etmektir. |\n| Die vorliegende Studie befasst sich mit der Frage, ob/wie ... | Mevcut çalışma ... olup olmadığı/nasıl olduğu sorusuyla ilgilenmektedir. |\n\n### Redemittel: Argüman Sunma (Argumente darstellen)\n\n| Almanca | Türkçe |\n|---------|--------|\n| Ein wesentliches Argument dafür/dagegen ist, dass ... | Bunun lehine/aleyhine önemli bir argüman ... olmasıdır. |\n| Dafür/Dagegen spricht, dass ... | Bunu destekleyen/buna karşı çıkan husus ... olmasıdır. |\n| Es lässt sich argumentieren, dass ... | ... olduğu savunulabilir. |\n| Hinzu kommt, dass ... | Buna ek olarak ... |\n| Darüber hinaus ist zu beachten, dass ... | Bunun ötesinde dikkat edilmesi gereken husus ... |\n| In diesem Zusammenhang ist hervorzuheben, dass ... | Bu bağlamda vurgulanması gereken ... |\n| Einerseits ... andererseits ... | Bir yandan ... diğer yandan ... |\n\n### Redemittel: Kaynak Aktarma (Quellen zitieren)\n\n| Almanca | Türkçe |\n|---------|--------|\n| Laut einer Studie von ... | ...'nın bir çalışmasına göre ... |\n| Wie X (2024) betont, ... | X'in (2024) vurguladığı gibi, ... |\n| Nach Auffassung von X ... | X'in görüşüne göre ... |\n| X vertritt die These, dass ... | X, ... olduğu tezini savunmaktadır. |\n| Einer Untersuchung zufolge ... | Bir araştırmaya göre ... |\n| Aus den Daten geht hervor, dass ... | Verilerden ... olduğu anlaşılmaktadır. |\n\n### Redemittel: Sonuç Çıkarma (Fazit / Schlussfolgerung)\n\n| Almanca | Türkçe |\n|---------|--------|\n| Zusammenfassend lässt sich sagen, dass ... | Özetlemek gerekirse, ... denebilir. |\n| Abschließend kann festgestellt werden, dass ... | Sonuç olarak ... tespit edilebilir. |\n| Die Ergebnisse deuten darauf hin, dass ... | Sonuçlar ... olduğuna işaret etmektedir. |\n| Es bleibt festzuhalten, dass ... | Belirtilmesi gereken husus ... |\n| Insgesamt zeigt sich, dass ... | Genel olarak ... olduğu görülmektedir. |\n| Aus den vorliegenden Ergebnissen lässt sich schließen, dass ... | Mevcut sonuçlardan ... olduğu çıkarılabilir. |\n\n---\n\n### Hedging – Kesinliği Yumuşatma\n\nAkademik yazıda kesin yargılardan kaçınılır. Bunun yerine **hedging** (yumuşatma) dili kullanılır.\n\n| Kesin İfade | Hedging ile Yumuşatılmış İfade |\n|-------------|-------------------------------|\n| Das ist so. | Das **dürfte** so sein. (Öyle olsa gerek.) |\n| Die Studie zeigt ... | Die Studie **scheint** zu zeigen ... (Çalışma ... gösteriyor gibi görünüyor.) |\n| X verursacht Y. | X **könnte** Y verursachen. (X, Y'ye neden olabilir.) |\n| Alle Experten sind einig. | Die **meisten** Experten **dürften** einig sein. (Çoğu uzman hemfikir olsa gerek.) |\n| Es ist bewiesen. | Es **lässt sich vermuten**, dass ... (... olduğu tahmin edilebilir.) |\n\n#### Hedging Araçları\n\n| Araç | Örnekler |\n|------|----------|\n| Modal fiiller | dürfte, könnte, müsste, sollte |\n| Fiiller | scheinen, vermuten, annehmen, darauf hindeuten |\n| Zarflar | möglicherweise, vermutlich, wahrscheinlich, eventuell |\n| Yapılar | es lässt sich vermuten, es ist anzunehmen, es ist denkbar |\n\n---\n\n### Pasif Yapı Akademik Bağlamda\n\nAkademik yazıda **ich** kullanımından kaçınılır. Bunun yerine pasif yapılar ve kişisiz ifadeler tercih edilir.\n\n| Kaçınılacak (ich) | Tercih Edilecek (Pasif/Kişisiz) |\n|----|----|\n| Ich untersuche das Thema. | Das Thema **wird untersucht**. |\n| Ich habe die Daten analysiert. | Die Daten **wurden analysiert**. |\n| Ich bin der Meinung, dass ... | Es **lässt sich feststellen**, dass ... |\n| Ich denke, dass ... | Es **ist anzunehmen**, dass ... |\n| Ich habe herausgefunden, dass ... | Es **hat sich herausgestellt**, dass ... |",
+      "keyTerms": [
+        {
+          "german": "die Redemittel",
+          "turkish": "kalıp ifadeler",
+          "example": "Akademische Redemittel sind für das wissenschaftliche Schreiben unerlässlich. (Akademik kalıp ifadeler bilimsel yazım için vazgeçilmezdir.)"
+        },
+        {
+          "german": "das Hedging",
+          "turkish": "yumuşatma / kesinliği azaltma",
+          "example": "Die Ergebnisse dürften darauf hindeuten, dass ... (Sonuçlar ... olduğuna işaret ediyor olabilir.)"
+        },
+        {
+          "german": "die Schlussfolgerung",
+          "turkish": "sonuç / çıkarım",
+          "example": "Zusammenfassend lässt sich die Schlussfolgerung ziehen, dass ... (Özetlemek gerekirse ... sonucuna varılabilir.)"
+        },
+        {
+          "german": "die Objektivität",
+          "turkish": "nesnellik",
+          "example": "Wissenschaftliche Texte verlangen Objektivität. (Bilimsel metinler nesnellik gerektirir.)"
+        },
+        {
+          "german": "die Quellenangabe",
+          "turkish": "kaynak gösterme",
+          "example": "Jede Behauptung braucht eine Quellenangabe. (Her iddia bir kaynak göstermeye ihtiyaç duyar.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-06-q1",
+          "type": "multiple-choice",
+          "question": "Akademik yazıda \"Ich bin der Meinung, dass ...\" yerine hangi ifade tercih edilir?",
+          "options": [
+            "Ich glaube, dass ...",
+            "Meiner Meinung nach ...",
+            "Es lässt sich feststellen, dass ...",
+            "Ich finde, dass ..."
+          ],
+          "correctAnswer": "Es lässt sich feststellen, dass ...",
+          "explanation": "Akademik yazıda 'ich' kullanımından kaçınılır. 'Es lässt sich feststellen, dass ...' kişisiz ve nesnel bir ifadedir."
+        },
+        {
+          "id": "c1-06-q2",
+          "type": "multiple-choice",
+          "question": "\"Die Studie zeigt, dass ...\" ifadesini hedging ile yumuşatmak için hangisi uygundur?",
+          "options": [
+            "Die Studie zeigt bestimmt, dass ...",
+            "Die Studie scheint zu zeigen, dass ...",
+            "Die Studie muss zeigen, dass ...",
+            "Die Studie will zeigen, dass ..."
+          ],
+          "correctAnswer": "Die Studie scheint zu zeigen, dass ...",
+          "explanation": "'scheinen + zu + Infinitiv' yapısı akademik metinde hedging aracı olarak kullanılır ve kesinliği yumuşatır."
+        },
+        {
+          "id": "c1-06-q3",
+          "type": "fill-blank",
+          "question": "Zusammenfassend ___ sich sagen, dass die Ergebnisse positiv sind. (denebilir)",
+          "correctAnswer": "lässt",
+          "explanation": "'Zusammenfassend lässt sich sagen, dass ...' akademik sonuç paragrafları için standart bir Redemittel'dir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Akademik Paragraf Yazma",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 'Die Auswirkungen der Digitalisierung auf den Arbeitsmarkt' (Dijitalleşmenin İş Piyasasına Etkileri) konusunda akademik bir paragraf yazmamı söyle. Şu Redemittel'leri kullanmam gereksin: konuya giriş, argüman sunma, kaynak aktarma ve sonuç çıkarma. Hedging dilini de kullanayım. Yazdığımı kontrol et, akademik üsluba uygunluğunu değerlendir ve iyileştirme önerileri sun."
+        },
+        {
+          "title": "Resmi vs. Gayri Resmi Üslup Dönüştürme",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 5 günlük dilde yazılmış cümle ver, bunları akademik üsluba dönüştürmemi iste. Sonra 5 akademik cümle ver, bunları günlük dile çevirmemi iste. 'ich' yerine pasif yapı, hedging dili, Nominalstil ve Redemittel kullanımını kontrol et."
+        }
+      ]
+    },
+    {
+      "id": "c1-07",
+      "phaseId": "c1",
+      "title": "Erweiterte Passivkonstruktionen (Genişletilmiş Edilgen Yapılar)",
+      "subtitle": "Passiversatzformen und Gerundiv",
+      "estimatedMinutes": 30,
+      "order": 7,
+      "content": "## Erweiterte Passivkonstruktionen – Genişletilmiş Edilgen Yapılar\n\nC1 seviyesinde standart pasif yapının (werden + Partizip II) ötesinde, Almanca'nın sunduğu çeşitli pasif alternatifleri bilmek gerekir. Bu yapılar akademik metinlerde, resmi yazışmalarda ve hukuki belgelerde sıkça kullanılır.\n\n---\n\n### 1. sein + zu + Infinitiv (Edilgenlik + Gereklilik/İmkân)\n\nBu yapı hem **pasif** hem de **modal** (gereklilik veya imkân) anlam taşır.\n\n**Anlam:** \"yapılabilir\" veya \"yapılmalıdır\" (bağlama göre)\n\n| Örnek | Pasif Karşılığı | Türkçe |\n|-------|----------------|--------|\n| Das Problem **ist** leicht **zu lösen**. | Das Problem kann leicht gelöst werden. | Sorun kolayca çözülebilir. |\n| Die Aufgabe **ist** bis morgen **zu erledigen**. | Die Aufgabe muss bis morgen erledigt werden. | Ödev yarına kadar yapılmalıdır. |\n| Dieser Text **ist** schwer **zu verstehen**. | Dieser Text kann schwer verstanden werden. | Bu metin anlaşılması zor. |\n| Die Rechnung **ist** sofort **zu bezahlen**. | Die Rechnung muss sofort bezahlt werden. | Fatura derhal ödenmelidir. |\n| Die Gefahr **ist** nicht **zu unterschätzen**. | Die Gefahr darf nicht unterschätzt werden. | Tehlike küçümsenmemelidir. |\n\n> **Kural:** Olumlu cümlelerde bağlama göre **können** veya **müssen** anlamı çıkar. Olumsuzluk varsa (nicht) genellikle **dürfen nicht** anlamı verir.\n\n---\n\n### 2. haben + zu + Infinitiv (Aktif + Gereklilik)\n\nBu yapı **aktif** anlam taşır ama **gereklilik** (müssen) ifade eder.\n\n| Örnek | Aktif Karşılığı | Türkçe |\n|-------|----------------|--------|\n| Ich **habe** viel **zu tun**. | Ich muss viel tun. | Yapacak çok işim var. |\n| Sie **hat** die Arbeit bis Freitag **abzugeben**. | Sie muss die Arbeit bis Freitag abgeben. | İşi cuma gününe kadar teslim etmeli. |\n| Der Chef **hat** die Regeln **zu beachten**. | Der Chef muss die Regeln beachten. | Patron kuralları gözetmek zorundadır. |\n| Wir **haben** die Vorschriften **einzuhalten**. | Wir müssen die Vorschriften einhalten. | Yönetmeliklere uymak zorundayız. |\n| Du **hast** hier nichts **zu sagen**. | Du darfst/kannst hier nichts sagen. | Senin burada söz hakkın yok. |\n\n> **Fark:** *sein + zu + Inf.* = pasif + modal, *haben + zu + Inf.* = aktif + zorunluluk\n\n---\n\n### 3. Gerundiv (zu + Partizip I als Attribut)\n\nGerundiv, **yapılması gereken/yapılabilecek** bir eylemi sıfat olarak ifade eder. Akademik metinlerde çok yaygındır.\n\n**Oluşturma:** zu + Partizip I + sıfat çekimi\n\n| Gerundiv | Genişletilmiş Biçim | Türkçe |\n|----------|---------------------|--------|\n| die **zu lösende** Aufgabe | die Aufgabe, die gelöst werden muss/kann | çözülmesi gereken ödev |\n| der **zu beachtende** Punkt | der Punkt, der beachtet werden muss | dikkat edilmesi gereken husus |\n| die **nicht zu unterschätzende** Gefahr | die Gefahr, die nicht unterschätzt werden darf | küçümsenmemesi gereken tehlike |\n| das **zu erwartende** Ergebnis | das Ergebnis, das erwartet werden kann | beklenen sonuç |\n| die **zu treffenden** Maßnahmen | die Maßnahmen, die getroffen werden müssen | alınması gereken önlemler |\n\n#### Genişletilmiş Gerundiv Örnekleri\n\n- **Die bis Ende des Jahres zu erledigenden Aufgaben** sind zahlreich.\n  (Yıl sonuna kadar tamamlanması gereken görevler çok sayıdadır.)\n\n- **Der vom Parlament zu verabschiedende Gesetzentwurf** ist umstritten.\n  (Parlamento tarafından kabul edilmesi gereken yasa tasarısı tartışmalıdır.)\n\n- **Die in den kommenden Wochen zu erwartenden Ergebnisse** könnten überraschend sein.\n  (Önümüzdeki haftalarda beklenen sonuçlar şaşırtıcı olabilir.)\n\n---\n\n### 4. bekommen/kriegen-Passiv (Alıcı Pasifi)\n\nStandart pasif (werden-Passiv) eylemin nesnesine odaklanırken, **bekommen-Passiv** eylemin **dolaylı nesnesine** (Dativ) odaklanır.\n\n**Yapı:** Dativ nesnesi → özne + bekommen/kriegen + Partizip II\n\n| Aktiv | werden-Passiv | bekommen-Passiv |\n|-------|--------------|----------------|\n| Man schenkt ihm ein Buch. | Ein Buch wird ihm geschenkt. | Er **bekommt** ein Buch **geschenkt**. |\n| (Ona bir kitap hediye ediyorlar.) | (Bir kitap ona hediye edilir.) | (O bir kitap hediye alıyor.) |\n| Die Sekretärin reicht ihr die Unterlagen. | Die Unterlagen werden ihr gereicht. | Sie **bekommt** die Unterlagen **gereicht**. |\n| (Sekreter ona belgeleri uzatıyor.) | (Belgeler ona uzatılır.) | (O belgeleri uzatılmış olarak alıyor.) |\n| Der Friseur schneidet mir die Haare. | Die Haare werden mir geschnitten. | Ich **bekomme** die Haare **geschnitten**. |\n| (Kuaför saçlarımı kesiyor.) | (Saçlarım kesilir.) | (Saçlarımı kestiriyorum.) |\n\n> **Not:** bekommen-Passiv konuşma dilinde çok yaygındır. Yazı dilinde *kriegen* yerine *bekommen* tercih edilir.\n\n---\n\n### Özet Karşılaştırma Tablosu\n\n| Yapı | Anlam | Aktif/Pasif | Modal Anlam | Örnek |\n|------|-------|-------------|-------------|-------|\n| sein + zu + Inf. | -ılabilir/-ılmalıdır | Pasif | können/müssen | Das ist zu machen. |\n| haben + zu + Inf. | -malıdır | Aktif | müssen | Ich habe zu arbeiten. |\n| Gerundiv | -ılması gereken | Pasif (sıfat) | müssen/können | die zu lesende Arbeit |\n| bekommen + P.II | alıcıya odaklı pasif | Pasif (Dativ) | — | Er bekommt es geschenkt. |",
+      "keyTerms": [
+        {
+          "german": "sein + zu + Infinitiv",
+          "turkish": "yapılabilir / yapılmalıdır (pasif + modal)",
+          "example": "Das Problem ist leicht zu lösen. (Sorun kolayca çözülebilir.)"
+        },
+        {
+          "german": "haben + zu + Infinitiv",
+          "turkish": "yapmak zorunda (aktif + zorunluluk)",
+          "example": "Ich habe viel zu tun. (Yapacak çok işim var.)"
+        },
+        {
+          "german": "das Gerundiv",
+          "turkish": "yapılması gereken (zu + Partizip I sıfat olarak)",
+          "example": "Die zu lösende Aufgabe ist schwierig. (Çözülmesi gereken ödev zor.)"
+        },
+        {
+          "german": "das bekommen-Passiv",
+          "turkish": "alıcı pasifi (Dativ nesnesine odaklı)",
+          "example": "Er bekommt das Buch geschenkt. (O kitabı hediye olarak alıyor.)"
+        },
+        {
+          "german": "die Passiversatzform",
+          "turkish": "pasif alternatif yapı",
+          "example": "Es gibt verschiedene Passiversatzformen im Deutschen. (Almanca'da çeşitli pasif alternatif yapıları vardır.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-07-q1",
+          "type": "multiple-choice",
+          "question": "\"Das Problem ist leicht zu lösen.\" cümlesi hangi anlama gelir?",
+          "options": [
+            "Sorun çözüldü.",
+            "Sorun kolayca çözülebilir.",
+            "Sorun çözülmek isteniyor.",
+            "Sorun çözülmüş olmalı."
+          ],
+          "correctAnswer": "Sorun kolayca çözülebilir.",
+          "explanation": "'sein + zu + Infinitiv' yapısı burada olasılık (können) anlamı taşır: 'Das Problem kann leicht gelöst werden.'"
+        },
+        {
+          "id": "c1-07-q2",
+          "type": "fill-blank",
+          "question": "Die ___ Aufgabe ist sehr schwierig. (çözülmesi gereken – Gerundiv)",
+          "correctAnswer": "zu lösende",
+          "explanation": "Gerundiv = zu + Partizip I + sıfat çekimi. 'lösen' → 'lösend' → 'zu lösende' (die Aufgabe dişil olduğu için -e eki)."
+        },
+        {
+          "id": "c1-07-q3",
+          "type": "true-false",
+          "question": "'haben + zu + Infinitiv' yapısı pasif anlam taşır.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Yanlış",
+          "explanation": "'haben + zu + Infinitiv' aktif anlam taşır ve zorunluluk (müssen) ifade eder. Pasif anlam taşıyan 'sein + zu + Infinitiv' ile karıştırılmamalıdır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Pasif Alternatif Yapılar Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 12 cümle ver: 4 tanesi werden-Passiv ile, 4 tanesi aktif cümle, 4 tanesi Modalverb + Passiv ile olsun. Benden bunları şu yapılara dönüştürmemi iste: sein + zu + Infinitiv, haben + zu + Infinitiv, Gerundiv ve bekommen-Passiv. Her cümlenin Türkçe karşılığını da ver ve hangi modal anlamın (können, müssen, dürfen) ortaya çıktığını açıkla."
+        },
+        {
+          "title": "Gerundiv ile Akademik Metin",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana bir iş raporu veya akademik metin bağlamında 8 cümle ver ve her cümlede Gerundiv yapısı (zu + Partizip I) kullanmamı iste. Örneğin: 'die bis Freitag einzureichenden Unterlagen' gibi. Genişletilmiş Gerundiv yapıları da dahil etmem gereksin. Cevaplarımı kontrol et ve sıfat çekimini açıkla."
+        }
+      ]
+    },
+    {
+      "id": "c1-08",
+      "phaseId": "c1",
+      "title": "Funktionsverbgefüge (İşlev Fiilleri)",
+      "subtitle": "Nomen-Verb-Verbindungen für C1",
+      "estimatedMinutes": 35,
+      "order": 8,
+      "content": "## Funktionsverbgefüge (FVG) – İşlev Fiili Yapıları\n\nFunktionsverbgefüge (FVG), bir isim ile anlamsal olarak \"hafif\" bir fiilden oluşan kalıplaşmış yapılardır. Fiilin asıl anlamı zayıflamış, anlam yükü isme geçmiştir. FVG'ler resmi, akademik ve gazetecilik dilinin vazgeçilmez unsurlarıdır.\n\n### FVG vs. Basit Fiil\n\n| FVG | Basit Fiil | Fark |\n|-----|-----------|------|\n| eine Entscheidung treffen | entscheiden | FVG daha resmi |\n| Kritik üben | kritisieren | FVG daha diplomatik |\n| in Betracht ziehen | berücksichtigen | FVG daha akademik |\n\n---\n\n### FVG'ler İşlevlerine Göre\n\n#### A) Başlangıç İfade Eden FVG'ler (Beginn)\n\n| FVG | Basit Fiil | Türkçe | Örnek Cümle |\n|-----|-----------|--------|-------------|\n| **in Gang setzen** | starten | harekete geçirmek | Die Regierung hat ein neues Programm **in Gang gesetzt**. (Hükümet yeni bir program başlattı.) |\n| **in Kraft treten** | gelten | yürürlüğe girmek | Das Gesetz **tritt** am 1. Januar **in Kraft**. (Yasa 1 Ocak'ta yürürlüğe giriyor.) |\n| **in Angriff nehmen** | beginnen | ele almak / girişmek | Wir müssen das Problem **in Angriff nehmen**. (Sorunu ele almalıyız.) |\n| **in Erscheinung treten** | erscheinen | ortaya çıkmak | Neue Symptome **treten in Erscheinung**. (Yeni belirtiler ortaya çıkıyor.) |\n| **in Bewegung setzen** | bewegen | harekete geçirmek | Die Nachricht **setzte** alles **in Bewegung**. (Haber her şeyi harekete geçirdi.) |\n\n#### B) Sonlandırma İfade Eden FVG'ler (Ende)\n\n| FVG | Basit Fiil | Türkçe | Örnek Cümle |\n|-----|-----------|--------|-------------|\n| **zum Abschluss bringen** | abschließen | tamamlamak | Wir müssen das Projekt **zum Abschluss bringen**. (Projeyi tamamlamalıyız.) |\n| **zu Ende bringen** | beenden | sonlandırmak | Er konnte die Rede nicht **zu Ende bringen**. (Konuşmayı bitiremedi.) |\n| **zum Stillstand bringen** | stoppen | durdurmak | Die Polizei **brachte** den Verkehr **zum Stillstand**. (Polis trafiği durdurdu.) |\n| **zum Erliegen bringen** | lahmlegen | felce uğratmak | Der Streik **brachte** die Produktion **zum Erliegen**. (Grev üretimi felce uğrattı.) |\n| **außer Kraft setzen** | aufheben | yürürlükten kaldırmak | Das Gesetz wurde **außer Kraft gesetzt**. (Yasa yürürlükten kaldırıldı.) |\n\n#### C) Verme/Sağlama İfade Eden FVG'ler (Geben/Stellen)\n\n| FVG | Basit Fiil | Türkçe | Örnek Cümle |\n|-----|-----------|--------|-------------|\n| **zur Verfügung stellen** | bereitstellen | sağlamak / sunmak | Die Firma **stellt** neue Computer **zur Verfügung**. (Firma yeni bilgisayarlar sağlıyor.) |\n| **zur Verfügung stehen** | verfügbar sein | mevcut olmak | Die Daten **stehen** Ihnen **zur Verfügung**. (Veriler sizin için mevcuttur.) |\n| **in Aussicht stellen** | versprechen | vadetmek | Die Regierung **stellte** Reformen **in Aussicht**. (Hükümet reformları vaat etti.) |\n| **Bescheid geben** | informieren | haber vermek | Bitte **geben** Sie mir **Bescheid**. (Lütfen bana haber verin.) |\n| **zur Kenntnis nehmen** | erfahren | bilgisine almak | Wir **nehmen** Ihre Beschwerde **zur Kenntnis**. (Şikayetinizi bilgimize alıyoruz.) |\n| **Auskunft geben/erteilen** | informieren | bilgi vermek | Können Sie mir **Auskunft geben**? (Bana bilgi verebilir misiniz?) |\n\n#### D) Ulaşma/Sonuç İfade Eden FVG'ler (Ergebnis/Ziel)\n\n| FVG | Basit Fiil | Türkçe | Örnek Cümle |\n|-----|-----------|--------|-------------|\n| **zu einem Ergebnis kommen** | ein Ergebnis erzielen | bir sonuca varmak | Die Forscher **kamen** zu einem überraschenden **Ergebnis**. (Araştırmacılar şaşırtıcı bir sonuca vardı.) |\n| **eine Einigung erzielen** | sich einigen | uzlaşmak | Die Parteien **erzielten** eine **Einigung**. (Taraflar uzlaştı.) |\n| **einen Kompromiss schließen** | sich kompromissbereit zeigen | uzlaşma sağlamak | Man muss **einen Kompromiss schließen**. (Uzlaşma sağlanmalı.) |\n| **eine Entscheidung treffen** | entscheiden | karar vermek | Der Vorstand **trifft** die **Entscheidung**. (Yönetim kurulu karar veriyor.) |\n| **zum Ausdruck bringen** | ausdrücken | ifade etmek | Sie **brachte** ihre Meinung **zum Ausdruck**. (Fikrini ifade etti.) |\n\n#### E) Diğer Önemli FVG'ler\n\n| FVG | Basit Fiil | Türkçe | Örnek Cümle |\n|-----|-----------|--------|-------------|\n| **in Betracht ziehen** | berücksichtigen | dikkate almak | Man sollte alle Optionen **in Betracht ziehen**. (Tüm seçenekler dikkate alınmalı.) |\n| **in Frage stellen** | bezweifeln | sorgulamak | Er **stellt** die Ergebnisse **in Frage**. (Sonuçları sorguluyor.) |\n| **in Frage kommen** | möglich sein | söz konusu olmak | Diese Lösung **kommt** nicht **in Frage**. (Bu çözüm söz konusu değil.) |\n| **in Kauf nehmen** | akzeptieren | göze almak | Wir müssen die Risiken **in Kauf nehmen**. (Riskleri göze almak zorundayız.) |\n| **in Anspruch nehmen** | nutzen | yararlanmak | Sie **nimmt** die Beratung **in Anspruch**. (Danışmanlık hizmetinden yararlanıyor.) |\n| **Rücksicht nehmen** (auf) | berücksichtigen | göz önünde bulundurmak | Bitte **nehmen** Sie **Rücksicht** auf andere. (Lütfen başkalarını da düşünün.) |\n| **Stellung nehmen** (zu) | sich äußern | görüş bildirmek | Der Minister **nahm** zu dem Thema **Stellung**. (Bakan konuyla ilgili görüş bildirdi.) |\n| **einen Antrag stellen** | beantragen | başvuruda bulunmak | Sie hat **einen Antrag** auf Visum **gestellt**. (Vize başvurusunda bulundu.) |\n| **einen Beitrag leisten** | beitragen | katkıda bulunmak | Jeder kann **einen Beitrag** zum Umweltschutz **leisten**. (Herkes çevre korumasına katkıda bulunabilir.) |\n| **Einfluss nehmen** (auf) | beeinflussen | etki etmek | Die Medien **nehmen Einfluss** auf die öffentliche Meinung. (Medya kamuoyunu etkiler.) |\n| **Abschied nehmen** | sich verabschieden | veda etmek | Er **nahm Abschied** von seinen Kollegen. (Meslektaşlarına veda etti.) |\n| **Kritik üben** (an) | kritisieren | eleştirmek | Die Opposition **übt Kritik** am Regierungskurs. (Muhalefet hükümet politikasını eleştiriyor.) |\n| **Wert legen** (auf) | wichtig finden | önem vermek | Sie **legt** großen **Wert** auf Pünktlichkeit. (Dakikliğe büyük önem veriyor.) |\n| **Bezug nehmen** (auf) | sich beziehen | atıfta bulunmak | Ich **nehme Bezug** auf Ihr Schreiben. (Yazınıza atıfta bulunuyorum.) |\n| **unter Druck setzen** | drängen | baskı altına almak | Die Konkurrenz **setzt** uns **unter Druck**. (Rekabet bizi baskı altına alıyor.) |\n\n---\n\n### FVG Kalıp Tablosu: Edat + İsim + Fiil\n\n| Edat | İsim | Fiil | Anlam |\n|------|------|------|-------|\n| in | Betracht | ziehen | dikkate almak |\n| in | Gang | setzen | başlatmak |\n| in | Frage | stellen/kommen | sorgulamak / söz konusu olmak |\n| in | Kauf | nehmen | göze almak |\n| in | Anspruch | nehmen | yararlanmak |\n| in | Kraft | treten/setzen | yürürlüğe girmek/koymak |\n| zum/zur | Verfügung | stehen/stellen | mevcut olmak / sağlamak |\n| zum | Abschluss | bringen/kommen | tamamlamak / tamamlanmak |\n| zum | Ausdruck | bringen/kommen | ifade etmek / ifade bulmak |\n| unter | Druck | setzen/stehen | baskı altına almak / baskı altında olmak |\n| auf | Kritik | stoßen | eleştiriyle karşılaşmak |",
+      "keyTerms": [
+        {
+          "german": "das Funktionsverbgefüge (FVG)",
+          "turkish": "işlev fiili yapısı",
+          "example": "FVG sind feste Nomen-Verb-Verbindungen. (FVG'ler sabit isim-fiil birleşimleridir.)"
+        },
+        {
+          "german": "in Gang setzen",
+          "turkish": "harekete geçirmek / başlatmak",
+          "example": "Die Reform wurde in Gang gesetzt. (Reform başlatıldı.)"
+        },
+        {
+          "german": "zum Abschluss bringen",
+          "turkish": "tamamlamak / sonuçlandırmak",
+          "example": "Wir bringen das Projekt zum Abschluss. (Projeyi tamamlıyoruz.)"
+        },
+        {
+          "german": "in Frage stellen",
+          "turkish": "sorgulamak / kuşku duymak",
+          "example": "Man darf die Ergebnisse nicht in Frage stellen. (Sonuçlar sorgulanmamalı.)"
+        },
+        {
+          "german": "Stellung nehmen (zu)",
+          "turkish": "görüş bildirmek",
+          "example": "Der Experte nahm zu dem Thema Stellung. (Uzman konuyla ilgili görüş bildirdi.)"
+        },
+        {
+          "german": "unter Druck setzen",
+          "turkish": "baskı altına almak",
+          "example": "Die Firma setzt die Mitarbeiter unter Druck. (Firma çalışanları baskı altına alıyor.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-08-q1",
+          "type": "multiple-choice",
+          "question": "\"berücksichtigen\" fiilinin FVG karşılığı hangisidir?",
+          "options": [
+            "in Frage stellen",
+            "in Betracht ziehen",
+            "in Kauf nehmen",
+            "in Anspruch nehmen"
+          ],
+          "correctAnswer": "in Betracht ziehen",
+          "explanation": "'in Betracht ziehen' = 'berücksichtigen' = dikkate almak, göz önünde bulundurmak."
+        },
+        {
+          "id": "c1-08-q2",
+          "type": "fill-blank",
+          "question": "Das Gesetz tritt am 1. Januar in ___ . (yürürlüğe girmek)",
+          "correctAnswer": "Kraft",
+          "explanation": "'in Kraft treten' = yürürlüğe girmek. 'Kraft' kelimesi 'güç' anlamına gelir."
+        },
+        {
+          "id": "c1-08-q3",
+          "type": "matching",
+          "question": "Doğru FVG – basit fiil eşleşmesini seçin:",
+          "options": [
+            "eine Entscheidung treffen → entscheiden",
+            "eine Entscheidung treffen → entlassen",
+            "Kritik üben → kritisieren",
+            "Kritik üben → kreieren"
+          ],
+          "correctAnswer": "eine Entscheidung treffen → entscheiden",
+          "explanation": "'eine Entscheidung treffen' = 'entscheiden' (karar vermek). 'Kritik üben' = 'kritisieren' (eleştirmek)."
+        },
+        {
+          "id": "c1-08-q4",
+          "type": "multiple-choice",
+          "question": "\"Die Firma ___ neue Computer zur Verfügung.\" cümlesinde boşluğa ne gelir?",
+          "options": ["steht", "stellt", "nimmt", "bringt"],
+          "correctAnswer": "stellt",
+          "explanation": "'zur Verfügung stellen' = sağlamak, sunmak. 'zur Verfügung stehen' ise mevcut olmak anlamına gelir. Burada firma sağlayan taraf olduğu için 'stellen' kullanılır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "FVG ile Cümle Kurma Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 15 basit fiil ver (örn: entscheiden, beginnen, informieren, beeinflussen vb.) ve her biri için uygun Funktionsverbgefüge'yi bulmamı iste. Sonra her FVG ile birer cümle kurmamı iste. Cevaplarımı kontrol et ve yanlışlarımı düzelt. FVG'nin hangi bağlamda (resmi, akademik, gazetecilik) kullanıldığını da açıkla."
+        },
+        {
+          "title": "FVG ile Metin Dönüştürme",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana basit fiillerle yazılmış kısa bir metin ver (iş mektubu, resmi rapor, gazete haberi gibi). Benden metindeki basit fiilleri uygun FVG'lerle değiştirmemi iste. Sonra doğru cevapları ver ve FVG kullanımının metnin stilini nasıl değiştirdiğini açıkla. Türkçe çevirilerini de ekle."
+        }
+      ]
+    },
+    {
+      "id": "c1-09",
+      "phaseId": "c1",
+      "title": "Textsorten und Register (Metin Türleri ve Üsluplar)",
+      "subtitle": "Textsorten, Register und Stilistik",
+      "estimatedMinutes": 30,
+      "order": 9,
+      "content": "## Textsorten und Register – Metin Türleri ve Üsluplar\n\nC1 seviyesinde farklı metin türlerini tanımak, üslup farklarını anlamak ve her metin türüne uygun yazabilmek gerekir. Bu ders, Almanca'daki temel metin türlerini ve üslup düzeylerini (Register) kapsar.\n\n---\n\n### Temel Metin Türleri (Textsorten)\n\n#### 1. Kommentar (Yorum Yazısı)\n\n**Amaç:** Bir konuya ilişkin kişisel görüş bildirmek\n\n**Özellikleri:**\n- Öznel bakış açısı\n- Açık görüş beyanı\n- Argümanlarla desteklenmiş kanaat\n- Retorik sorular, ironi kullanılabilir\n\n**Yapısı:**\n1. Konuya giriş ve tez\n2. Argümanlar (lehte/aleyhte)\n3. Sonuç ve kişisel değerlendirme\n\n**Tipik Redemittel:**\n- Meines Erachtens ... (Bence ...)\n- Es steht außer Frage, dass ... (Tartışmasız bir şekilde ...)\n- Man muss sich fragen, ob ... (İnsan ... olup olmadığını sormalı.)\n\n---\n\n#### 2. Erörterung (Tartışmalı Kompozisyon)\n\n**Amaç:** Bir konuyu farklı açılardan tartışmak\n\n**Türleri:**\n- **Lineare Erörterung:** Tek yönlü argümantasyon\n- **Dialektische Erörterung:** Lehte ve aleyhte argümanlar (Pro & Contra)\n\n**Yapısı (Dialektisch):**\n1. **Einleitung:** Konuyu tanıtma, tez sorusu\n2. **Hauptteil – Pro:** Lehte argümanlar (en zayıftan güçlüye)\n3. **Hauptteil – Contra:** Aleyhte argümanlar (en zayıftan güçlüye)\n4. **Schluss:** Kişisel değerlendirme, sentez\n\n**Tipik Redemittel:**\n- Ein gewichtiges Argument dafür ist ... (Lehte önemli bir argüman ...)\n- Dem steht entgegen, dass ... (Buna karşı olarak ...)\n- Abwägend lässt sich sagen ... (Tartarak söylenebilir ki ...)\n\n---\n\n#### 3. Bericht (Rapor/Haber)\n\n**Amaç:** Olayları nesnel ve kronolojik aktarmak\n\n**Özellikleri:**\n- Tamamen nesnel\n- W-Fragen cevaplanır: Wer? Was? Wann? Wo? Wie? Warum?\n- Präteritum (geçmiş zaman) kullanılır\n- Kişisel yorum yapılmaz\n- Kısa ve öz cümleler\n\n**Tipik Redemittel:**\n- Am vergangenen Montag fand ... statt. (Geçen pazartesi ... gerçekleşti.)\n- Wie aus Kreisen der Regierung verlautete, ... (Hükümet çevrelerinden sızdığına göre, ...)\n- Den Angaben zufolge ... (Verilere göre ...)\n\n---\n\n#### 4. Zusammenfassung (Özet)\n\n**Amaç:** Bir metnin ana fikirlerini kısaca aktarmak\n\n**Özellikleri:**\n- Nesnel, kişisel yorum yok\n- Konjunktiv I kullanılabilir (dolaylı anlatım)\n- Kaynak metnin adı ve yazarı belirtilir\n- Kronolojik veya tematik sıralama\n\n**Tipik Redemittel:**\n- In dem Artikel von X wird ... thematisiert. (X'in makalesinde ... konusu işlenmektedir.)\n- Der Autor/Die Autorin vertritt die Ansicht, dass ... (Yazar ... görüşünü savunmaktadır.)\n- Abschließend weist X darauf hin, dass ... (Sonuç olarak X, ... olduğuna dikkat çekmektedir.)\n\n---\n\n#### 5. Stellungnahme (Görüş Bildirme)\n\n**Amaç:** Bir konuya ilişkin resmi ve yapılandırılmış görüş\n\n**Özellikleri:**\n- Yapılandırılmış argümantasyon\n- Resmi ton\n- Somut öneriler içerir\n\n**Tipik Redemittel:**\n- Zu dem genannten Thema möchte ich wie folgt Stellung nehmen: ... (Söz konusu konu hakkında şu şekilde görüş bildirmek isterim: ...)\n- Ich vertrete die Auffassung, dass ... (... olduğu görüşündeyim.)\n- Aus den genannten Gründen plädiere ich für ... (Belirtilen nedenlerle ... için savunuyorum.)\n\n---\n\n### Register (Üslup Düzeyleri)\n\n| Register | Kullanım Alanı | Örnek |\n|----------|---------------|-------|\n| **Gehoben** (Yüksek/Edebi) | Edebiyat, resmi törenler | \"Es sei darauf hingewiesen, dass ...\" |\n| **Formell** (Resmi) | İş mektupları, akademik yazılar | \"Sehr geehrte Damen und Herren, ...\" |\n| **Standardsprachlich** (Standart) | Gazete, haber, ders kitapları | \"Die Regierung hat beschlossen, ...\" |\n| **Umgangssprachlich** (Günlük) | Arkadaş sohbeti, sosyal medya | \"Hey, hast du das gehört?\" |\n| **Vulgär/Slang** | Argo, küfür | — |\n\n### Register Karşılaştırma Örnekleri\n\n| Anlam | Formell | Standard | Umgangssprachlich |\n|-------|---------|----------|-------------------|\n| Başlamak | in Angriff nehmen | beginnen | loslegen |\n| Söylemek | erklären / darlegen | sagen / mitteilen | erzählen / reden |\n| Anlamak | nachvollziehen | verstehen | kapieren / raffen |\n| Yardım etmek | Unterstützung gewähren | helfen | unter die Arme greifen |\n| Sorun | Problematik | Problem | Sache / Ding |\n| Para | finanzielle Mittel | Geld | Kohle / Knete |\n\n---\n\n### Metin Türüne Göre Stil Rehberi\n\n| Özellik | Kommentar | Erörterung | Bericht | Zusammenfassung | Stellungnahme |\n|---------|-----------|------------|---------|-----------------|---------------|\n| Bakış açısı | Öznel | Dengeli | Nesnel | Nesnel | Öznel-yapılandırılmış |\n| Zaman | Präsens | Präsens | Präteritum | Präsens | Präsens |\n| Konjunktiv I | Nadir | Bazen | Sık | Sık | Nadir |\n| Modalpartikeln | Evet | Nadir | Hayır | Hayır | Nadir |\n| İroni/Retorik | Evet | Dikkatli | Hayır | Hayır | Çok az |",
+      "keyTerms": [
+        {
+          "german": "die Textsorte",
+          "turkish": "metin türü",
+          "example": "Jede Textsorte hat eigene Merkmale und Redemittel. (Her metin türünün kendine özgü özellikleri ve kalıp ifadeleri vardır.)"
+        },
+        {
+          "german": "das Register",
+          "turkish": "üslup düzeyi",
+          "example": "Im akademischen Register vermeidet man umgangssprachliche Ausdrücke. (Akademik üslupta günlük dil ifadelerinden kaçınılır.)"
+        },
+        {
+          "german": "die Erörterung",
+          "turkish": "tartışmalı kompozisyon",
+          "example": "Eine dialektische Erörterung beleuchtet Pro- und Contra-Argumente. (Diyalektik bir tartışma lehte ve aleyhte argümanları inceler.)"
+        },
+        {
+          "german": "die Stellungnahme",
+          "turkish": "görüş bildirme / resmi pozisyon alma",
+          "example": "In der Stellungnahme nimmt man zu einem Thema Stellung. (Stellungnahme'de bir konuya ilişkin görüş bildirilir.)"
+        },
+        {
+          "german": "die Zusammenfassung",
+          "turkish": "özet",
+          "example": "Eine Zusammenfassung gibt die Hauptideen eines Textes wieder. (Bir özet, metnin ana fikirlerini aktarır.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-09-q1",
+          "type": "multiple-choice",
+          "question": "Hangi metin türünde tamamen nesnel olunmalı ve W-Fragen cevaplanmalıdır?",
+          "options": ["Kommentar", "Erörterung", "Bericht", "Stellungnahme"],
+          "correctAnswer": "Bericht",
+          "explanation": "Bericht (rapor/haber) tamamen nesnel olmalı, kişisel yorum içermemeli ve Wer, Was, Wann, Wo, Wie, Warum sorularını cevaplamalıdır."
+        },
+        {
+          "id": "c1-09-q2",
+          "type": "multiple-choice",
+          "question": "Dialektische Erörterung'un doğru yapısı hangisidir?",
+          "options": [
+            "Giriş → Sonuç → Argümanlar",
+            "Giriş → Pro → Contra → Sonuç",
+            "Pro → Contra → Giriş → Sonuç",
+            "Sonuç → Pro → Contra → Giriş"
+          ],
+          "correctAnswer": "Giriş → Pro → Contra → Sonuç",
+          "explanation": "Dialektische Erörterung şu sırayı takip eder: Einleitung (giriş) → Pro-Argumente (lehte) → Contra-Argumente (aleyhte) → Schluss (sonuç/sentez)."
+        },
+        {
+          "id": "c1-09-q3",
+          "type": "true-false",
+          "question": "Zusammenfassung (özet) yazarken kişisel yorum eklenmelidir.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Yanlış",
+          "explanation": "Zusammenfassung nesnel olmalıdır. Kaynak metnin ana fikirleri aktarılır, kişisel yorum veya değerlendirme eklenmez."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Metin Türü Yazma Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 'Homeoffice: Vor- und Nachteile' (Evden Çalışma: Avantajlar ve Dezavantajlar) konusunda şu metin türlerinde kısa birer paragraf yazmamı söyle: 1) Bericht, 2) Kommentar, 3) Erörterung girişi. Her metin türü için uygun Redemittel ve üslup kullanmam gereksin. Yazdıklarımı metin türüne uygunluk açısından değerlendir. Türkçe geri bildirim ver."
+        },
+        {
+          "title": "Register Dönüştürme Pratiği",
+          "prompt": "Ben C1 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 5 cümle ver ve her cümleyi üç farklı Register'da (formell, standardsprachlich, umgangssprachlich) yazmamı iste. Örneğin aynı fikri resmi bir mektupta, gazetede ve arkadaşına WhatsApp'ta nasıl ifade edeceğimi göstereyim. Cevaplarımı kontrol et ve üslup hatalarımı düzelt."
+        }
+      ]
+    },
+    {
+      "id": "c1-10",
+      "phaseId": "c1",
+      "title": "Telc C1 Sınavı Hazırlık",
+      "subtitle": "Telc C1 Hochschule Prüfungsvorbereitung",
+      "estimatedMinutes": 45,
+      "order": 10,
+      "isTelcPrep": true,
+      "content": "## Telc C1 Hochschule – Sınav Hazırlık Rehberi\n\nTelc C1 Hochschule sınavı, Almanya'daki üniversitelere kabul için gereken dil yeterlilik sınavıdır. Bu kapsamlı rehber, sınavın tüm bölümlerini, puanlama sistemini, stratejileri ve örnek görevleri içerir.\n\n---\n\n### Sınav Genel Yapısı\n\n| Bölüm | Süre | Puan | İçerik |\n|-------|------|------|--------|\n| **Leseverstehen (Okuma)** | 70 dk | 48 puan | 4 bölüm |\n| **Hörverstehen (Dinleme)** | ~40 dk | 48 puan | 3 bölüm |\n| **Schriftlicher Ausdruck (Yazma)** | 70 dk | 48 puan | 1 Erörterung |\n| **Mündlicher Ausdruck (Konuşma)** | ~16 dk (çift) | 48 puan | 2 bölüm |\n| **Toplam** | ~3.5 saat | 192 puan | Geçme: 60% |\n\n> **Geçme koşulu:** Her bölümden ayrı ayrı geçmek gerekmez, ancak Schriftlicher ve Mündlicher Ausdruck'tan toplamda en az 60% alınmalıdır.\n\n---\n\n### BÖLÜM 1: Leseverstehen (Okuma Anlama) – 70 Dakika\n\n#### Teil 1: Textrekonstruktion (8 puan)\n- Bir metinden çıkarılmış 8 cümleyi doğru yere yerleştirme\n- Metin akademik veya gazetecilik türünde\n- **Strateji:** Bağlaçlara, zamirlere ve mantıksal akışa dikkat edin\n\n#### Teil 2: Selektives Lesen (12 puan)\n- 6 kısa metin, 12 ifade → her ifadenin hangi metne ait olduğunu belirleme\n- Metinler farklı bakış açılarını temsil eder\n- **Strateji:** Önce ifadeleri okuyun, anahtar kelimeleri işaretleyin\n\n#### Teil 3: Detailverstehen (16 puan)\n- Uzun bir metin, 8 çoktan seçmeli soru\n- Akademik/bilimsel metin türünde\n- **Strateji:** Soruları önce okuyun, metinde ilgili yerleri bulun\n\n#### Teil 4: Wortschatz und Struktur (12 puan)\n- Boşluk doldurma (Lückentext), 12 soru\n- Kelime bilgisi, dilbilgisi, bağlaçlar\n- **Strateji:** Bağlama bakın, FVG'lere ve edatlara dikkat edin\n\n---\n\n### BÖLÜM 2: Hörverstehen (Dinleme Anlama) – ~40 Dakika\n\n#### Teil 1: Globalverstehen (8 puan)\n- 8 kısa konuşma/monolog\n- Her biri için bir soru (çoktan seçmeli)\n- **Strateji:** Ana fikri yakalayın, detaylara takılmayın\n\n#### Teil 2: Detailverstehen (20 puan)\n- Uzun bir konuşma veya röportaj\n- 10 doğru/yanlış sorusu\n- İki kez dinlenilir\n- **Strateji:** İlk dinlemede genel anlam, ikinci dinlemede detaylar\n\n#### Teil 3: Informationen entnehmen (20 puan)\n- Akademik bir ders/konferans kaydı\n- 10 soru (kısa cevap veya boşluk doldurma)\n- Yalnızca bir kez dinlenilir\n- **Strateji:** Not alın, anahtar kelimelere odaklanın\n\n---\n\n### BÖLÜM 3: Schriftlicher Ausdruck (Yazılı Anlatım) – 70 Dakika\n\n#### Görev: Erörterung (Tartışmalı Kompozisyon)\n- Akademik bir konu verilir\n- ~350 kelime beklenir\n- Lehte ve aleyhte argümanlar sunulmalı\n- Kişisel görüş ile bitirilmeli\n\n#### Örnek Konu:\n> *\"Sollten Universitäten Anwesenheitspflicht einführen? Erörtern Sie die Vor- und Nachteile und nehmen Sie persönlich Stellung.\"*\n> (Üniversiteler devam zorunluluğu getirmeli mi? Avantaj ve dezavantajları tartışın ve kişisel görüşünüzü belirtin.)\n\n#### Erörterung Yapısı (350 Kelime Modeli)\n\n**Einleitung (~50 Kelime):**\n- Konuyu tanıtma\n- Güncellik/relevans\n- Tez sorusu\n\n**Hauptteil – Pro (~100 Kelime):**\n- 2-3 lehte argüman\n- Her argüman için örnek/kanıt\n- Geçiş ifadeleri\n\n**Hauptteil – Contra (~100 Kelime):**\n- 2-3 aleyhte argüman\n- Karşı argümanlarla denge\n\n**Schluss (~100 Kelime):**\n- Argümanları değerlendirme\n- Kişisel görüş\n- Gelecek perspektifi\n\n#### Yazma İçin Önemli Redemittel\n\n| İşlev | Redemittel |\n|-------|------------|\n| Giriş | In der heutigen Zeit wird oft diskutiert, ob/wie ... |\n| Lehte | Ein wesentlicher Vorteil besteht darin, dass ... |\n| Aleyhte | Demgegenüber ist zu bedenken, dass ... |\n| Örnek | Dies lässt sich am Beispiel von ... verdeutlichen. |\n| Sonuç | Abwägend lässt sich feststellen, dass ... |\n| Kişisel görüş | Meiner Ansicht nach überwiegen die Vorteile/Nachteile. |\n\n---\n\n### BÖLÜM 4: Mündlicher Ausdruck (Sözlü Anlatım) – ~16 Dakika\n\n#### Teil 1: Präsentation (~5 Dakika)\n- Verilen bir konuda 3 dakika sunum\n- 2 dakika hazırlık süresi\n- Yapılandırılmış, açık ve akıcı olmalı\n\n#### Sunum Yapısı\n\n| Bölüm | İçerik | Süre |\n|-------|--------|------|\n| Giriş | Konu tanıtımı, kişisel bağlantı | ~30 sn |\n| Ana Kısım | 2-3 ana nokta, örnekler | ~2 dk |\n| Sonuç | Özet, kişisel değerlendirme | ~30 sn |\n\n**Sunum Redemittel:**\n- In meiner Präsentation möchte ich über ... sprechen. (Sunumumda ... hakkında konuşmak istiyorum.)\n- Zunächst möchte ich auf ... eingehen. (Öncelikle ...'ye değinmek istiyorum.)\n- Ein weiterer wichtiger Aspekt ist ... (Diğer önemli bir husus ...)\n- Zusammenfassend möchte ich sagen, dass ... (Özetlemek gerekirse ... demek istiyorum.)\n\n#### Teil 2: Diskussion (~8 Dakika)\n- Partner ile tartışma\n- Verilen konuda farklı görüşleri tartışma\n- Aktif dinleme, soru sorma, uzlaşma arama\n\n**Tartışma Redemittel:**\n- Da bin ich anderer Meinung, denn ... (Bu konuda farklı düşünüyorum, çünkü ...)\n- Das sehe ich ähnlich, allerdings ... (Benzer görüşteyüm, ancak ...)\n- Könnten Sie das etwas genauer erklären? (Bunu biraz daha detaylı açıklayabilir misiniz?)\n- Lassen Sie mich noch einen Punkt hinzufügen. (Bir nokta daha eklememe izin verin.)\n\n---\n\n### Zusammenfassung Yazma Tekniği\n\nÖzet yazmak sınavda ve akademik hayatta kritik bir beceridir.\n\n**Adımlar:**\n1. Metni iki kez okuyun\n2. Her paragrafın ana fikrini not edin\n3. Konjunktiv I ile dolaylı anlatım kullanın\n4. Kendi kelimelerinizle ifade edin (parafraz)\n5. Kişisel yorum eklemeyin\n\n**Şablon:**\n> In dem Artikel \"[Titel]\" von [Autor], veröffentlicht in [Quelle], wird das Thema [Thema] behandelt. Der Autor vertritt die These, dass ... Zunächst führt er an, dass ... Des Weiteren betont er, ... Abschließend kommt er zu dem Schluss, dass ...\n\n---\n\n### C1 Puanlama Kriterleri\n\n| Kriter | Açıklama | Ağırlık |\n|--------|----------|--------|\n| Aufgabenerfüllung | Görevi yerine getirme, konuya uygunluk | Yüksek |\n| Kohärenz/Kohäsion | Tutarlılık, bağlantı ifadeleri | Yüksek |\n| Wortschatz | Kelime zenginliği, FVG kullanımı | Orta |\n| Strukturen | Dilbilgisi doğruluğu, yapı çeşitliliği | Orta |\n| Aussprache (Mündlich) | Telaffuz, akıcılık | Orta |\n\n---\n\n### 8 Haftalık Çalışma Planı\n\n| Hafta | Odak | Aktiviteler |\n|-------|------|-------------|\n| 1-2 | Leseverstehen | Akademik metinler okuma, kelime çalışma |\n| 3-4 | Hörverstehen | Podcast, Vorlesung dinleme, not alma |\n| 5-6 | Schreiben | Erörterung yazma, Zusammenfassung pratiği |\n| 7 | Sprechen | Sunum pratiği, tartışma simulasyonu |\n| 8 | Genel Tekrar | Tam deneme sınavı, zayıf alanları güçlendirme |\n\n**Günlük Çalışma (2-3 saat):**\n- 30 dk okuma + soru çözme\n- 30 dk dinleme + not alma\n- 30 dk yazma pratiği\n- 30 dk kelime/FVG çalışma\n- 30 dk konuşma pratiği (sesli okuma, kayıt)",
+      "keyTerms": [
+        {
+          "german": "die Erörterung",
+          "turkish": "tartışmalı kompozisyon (Telc yazma görevi)",
+          "example": "In der Erörterung sollen Pro- und Contra-Argumente dargestellt werden. (Tartışmalı kompozisyonda lehte ve aleyhte argümanlar sunulmalıdır.)"
+        },
+        {
+          "german": "das Leseverstehen",
+          "turkish": "okuduğunu anlama",
+          "example": "Das Leseverstehen umfasst vier Teile mit verschiedenen Aufgabentypen. (Okuduğunu anlama bölümü farklı görev türleriyle dört bölümden oluşur.)"
+        },
+        {
+          "german": "das Hörverstehen",
+          "turkish": "dinlediğini anlama",
+          "example": "Im Hörverstehen wird auch eine Vorlesung abgespielt. (Dinlediğini anlama bölümünde bir ders kaydı da dinletilir.)"
+        },
+        {
+          "german": "die Präsentation",
+          "turkish": "sunum (sözlü sınav bölümü)",
+          "example": "In der Präsentation muss man drei Minuten frei sprechen. (Sunumda üç dakika serbest konuşulmalıdır.)"
+        },
+        {
+          "german": "die Zusammenfassung",
+          "turkish": "özet",
+          "example": "Eine gute Zusammenfassung gibt nur die Hauptideen wieder. (İyi bir özet yalnızca ana fikirleri aktarır.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c1-10-q1",
+          "type": "multiple-choice",
+          "question": "Telc C1 Hochschule sınavında Schriftlicher Ausdruck bölümünde hangi metin türü yazılmalıdır?",
+          "options": ["Bericht", "Zusammenfassung", "Erörterung", "Kommentar"],
+          "correctAnswer": "Erörterung",
+          "explanation": "Telc C1 Hochschule sınavının yazma bölümünde akademik bir konuda Erörterung (tartışmalı kompozisyon) yazılır. ~350 kelime beklenir."
+        },
+        {
+          "id": "c1-10-q2",
+          "type": "multiple-choice",
+          "question": "Hörverstehen Teil 3'te ne dinletilir?",
+          "options": [
+            "Kısa diyaloglar",
+            "Radyo haberleri",
+            "Akademik ders/konferans kaydı",
+            "Film sahneleri"
+          ],
+          "correctAnswer": "Akademik ders/konferans kaydı",
+          "explanation": "Hörverstehen Teil 3'te bir Vorlesung (üniversite dersi) veya akademik konferans kaydı dinletilir. Bu bölüm yalnızca bir kez dinlenilir."
+        },
+        {
+          "id": "c1-10-q3",
+          "type": "fill-blank",
+          "question": "Telc C1 sınavında geçme barajı toplam puanın yüzde ___'dır.",
+          "correctAnswer": "60",
+          "explanation": "Telc C1 sınavında geçme barajı toplam puanın %60'ıdır. 192 puan üzerinden en az 115.2 puan almak gerekir."
+        },
+        {
+          "id": "c1-10-q4",
+          "type": "true-false",
+          "question": "Mündlicher Ausdruck bölümünde Präsentation için 10 dakika hazırlık süresi verilir.",
+          "options": ["Doğru", "Yanlış"],
+          "correctAnswer": "Yanlış",
+          "explanation": "Präsentation için yalnızca 2 dakika hazırlık süresi verilir. Sunum süresi yaklaşık 3 dakikadır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Telc C1 Erörterung Pratiği",
+          "prompt": "Ben Telc C1 Hochschule sınavına hazırlanan bir Türk öğrenciyim. Bana sınav formatına uygun bir Erörterung konusu ver (üniversite/akademik bağlamda). Konuyla ilgili lehte ve aleyhte argümanlar bulmama yardım et, sonra 350 kelimelik bir Erörterung yazmamı iste. Yazdığımı Telc puanlama kriterlerine göre değerlendir: Aufgabenerfüllung, Kohärenz, Wortschatz, Strukturen. Hatalarımı düzelt ve iyileştirme önerileri sun. Geri bildirimini Türkçe ver."
+        },
+        {
+          "title": "Telc C1 Mündliche Prüfung Simulasyonu",
+          "prompt": "Ben Telc C1 Hochschule sınavına hazırlanan bir Türk öğrenciyim. Benimle sözlü sınav simulasyonu yap. Önce bana bir sunum konusu ver, 3 dakikalık bir sunum hazırlamamı iste. Sonra sunumum hakkında sorular sor ve benimle tartışma yap. Akıcılığımı, Redemittel kullanımımı, argümantasyonumu ve dilbilgisimi değerlendir. Türkçe geri bildirim ver."
+        }
+      ]
+    }
+  ]
+}

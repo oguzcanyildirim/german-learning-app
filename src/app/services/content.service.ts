@@ -1,11 +1,11 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, of, BehaviorSubject } from 'rxjs';
+import { Observable, of, BehaviorSubject, forkJoin } from 'rxjs';
 import { map, tap } from 'rxjs/operators';
 import { Phase, Lesson } from '../models/lesson.model';
 
-// Loads and caches lesson content from the bundled JSON files.
-// All content is shipped with the app for offline access.
+// Loads and caches lesson content from per-level JSON files.
+// Each CEFR level has its own file for cleaner content management.
 
 @Injectable({
   providedIn: 'root'
@@ -15,15 +15,21 @@ export class ContentService {
   private phasesSubject = new BehaviorSubject<Phase[]>([]);
   private loaded = false;
 
+  private readonly levelFiles = ['a1', 'a2', 'b1', 'b2', 'c1', 'c2'];
+
   constructor(private http: HttpClient) {}
 
-  // Load all phases and lessons from the bundled JSON
+  // Load all phases from separate per-level JSON files
   loadContent(): Observable<Phase[]> {
     if (this.loaded) {
       return of(this.phases);
     }
 
-    return this.http.get<Phase[]>('assets/content/lessons.json').pipe(
+    const requests = this.levelFiles.map(level =>
+      this.http.get<Phase>(`assets/content/${level}.json`)
+    );
+
+    return forkJoin(requests).pipe(
       tap(phases => {
         this.phases = phases;
         this.phasesSubject.next(phases);

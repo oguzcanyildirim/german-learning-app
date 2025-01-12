@@ -1,0 +1,1023 @@
+{
+  "id": "a2",
+  "title": "A2 - Grundstufe",
+  "subtitle": "Temel Seviye / Elementary",
+  "level": "A2",
+  "color": "#14b8a6",
+  "icon": "flower-outline",
+  "lessons": [
+    {
+      "id": "a2-01",
+      "phaseId": "a2",
+      "title": "Akkusativ (Belirtme Hali)",
+      "subtitle": "Der Akkusativ",
+      "estimatedMinutes": 20,
+      "order": 1,
+      "content": "## Akkusativ Nedir?\n\nAlmanca'da **Akkusativ** (4. hal / belirtme hali), Turkce'deki **-i, -ı, -u, -ü** eklerine karsilik gelir. Cumledeki **dogrudan nesneyi** (direktes Objekt) belirtir.\n\nTurkce'de: \"Ben **kitabi** okuyorum.\" → \"kitabi\" belirtme halindedir.\nAlmanca'da: \"Ich lese **das Buch**.\" → \"das Buch\" Akkusativ'dedir.\n\n---\n\n## Artikel Degisimleri (Akkusativ'de)\n\nAkkusativ'de **sadece erkek (maskulin) artikeller** degisir! Disi, nötr ve cogul artikeller ayni kalir.\n\n| Cins | Nominativ (Yalin) | Akkusativ (Belirtme) | Degisim |\n|------|-------------------|---------------------|----------|\n| Maskulin (erkek) | **der** | **den** | degisir! |\n| Feminin (disi) | **die** | **die** | ayni kalir |\n| Neutrum (notr) | **das** | **das** | ayni kalir |\n| Plural (cogul) | **die** | **die** | ayni kalir |\n\n> **Altin Kural:** Akkusativ'de sadece **der → den** olur. Gerisi ayni kalir!\n\n---\n\n## Unbestimmter Artikel (Belirsiz Artikel)\n\n| Cins | Nominativ | Akkusativ | Degisim |\n|------|-----------|-----------|----------|\n| Maskulin | **ein** | **einen** | degisir! |\n| Feminin | **eine** | **eine** | ayni kalir |\n| Neutrum | **ein** | **ein** | ayni kalir |\n\n---\n\n## Olumsuz Artikel (Negativartikel)\n\n| Cins | Nominativ | Akkusativ |\n|------|-----------|----------|\n| Maskulin | **kein** | **keinen** |\n| Feminin | **keine** | **keine** |\n| Neutrum | **kein** | **kein** |\n| Plural | **keine** | **keine** |\n\n---\n\n## Iyelik Zamirleri Akkusativ'de\n\nIyelik zamirleri de ayni kurala uyar — sadece maskulinde degisim olur:\n\n| Zamir | Nominativ | Akkusativ |\n|-------|-----------|----------|\n| mein (benim) | mein Hund | mein**en** Hund |\n| dein (senin) | dein Hund | dein**en** Hund |\n| sein (onun - erkek) | sein Hund | sein**en** Hund |\n| ihr (onun - kadin) | ihr Hund | ihr**en** Hund |\n| unser (bizim) | unser Hund | unser**en** Hund |\n| euer (sizin) | euer Hund | eur**en** Hund |\n\n> **Dikkat:** \"euer\" kelimesinde Akkusativ'de icerideki \"e\" duser: euer → euren.\n\n---\n\n## Akkusativ Kullanan Fiiller\n\nBu fiiller her zaman Akkusativ nesnesi alir:\n\n| Fiil | Anlami | Ornek |\n|------|--------|-------|\n| haben | sahip olmak | Ich habe **einen Bruder**. (Bir erkek kardesim var.) |\n| brauchen | ihtiyac duymak | Ich brauche **den Schlüssel**. (Anahtara ihtiyacim var.) |\n| kaufen | satin almak | Er kauft **einen Computer**. (Bir bilgisayar satin aliyor.) |\n| trinken | icmek | Sie trinkt **einen Kaffee**. (Bir kahve iciyor.) |\n| essen | yemek | Wir essen **den Kuchen**. (Pastayi yiyoruz.) |\n| lesen | okumak | Ich lese **ein Buch**. (Bir kitap okuyorum.) |\n| sehen | gormek | Siehst du **den Mann**? (Adami goruyor musun?) |\n| suchen | aramak | Ich suche **meinen Schlüssel**. (Anahtarimi ariyorum.) |\n| finden | bulmak | Hast du **den Fehler** gefunden? (Hatayi buldun mu?) |\n| kennen | tanimak | Ich kenne **diesen Mann**. (Bu adami taniyorum.) |\n\n---\n\n## Ornek Cumleler\n\n| Nominativ | Akkusativ |\n|-----------|-----------|\n| **Der Hund** ist groß. (Kopek buyuk.) | Ich sehe **den Hund**. (Kopegi goruyorum.) |\n| **Ein Mann** steht dort. (Bir adam orada duruyor.) | Ich kenne **einen Mann**. (Bir adami taniyorum.) |\n| **Das Kind** spielt. (Cocuk oynuyor.) | Ich sehe **das Kind**. (Cocugu goruyorum.) |\n| **Die Frau** ist nett. (Kadin nazik.) | Ich kenne **die Frau**. (Kadini taniyorum.) |\n\n---\n\n## Turkce ile Karsilastirma\n\n| Turkce | Almanca |\n|--------|---------|\n| Ben adam**i** goruyorum. (-i belirtme eki) | Ich sehe **den** Mann. (der→den) |\n| Ben bir kitab**i** okuyorum. | Ich lese **ein** Buch. (neutrum, degismez) |\n| Ben kopeg**i** seviyorum. | Ich liebe **den** Hund. (der→den) |\n\n> **Hatirlatma:** Turkce'de her isim belirtme hali eki alir, ama Almanca'da **sadece maskulin** artikeller degisir!",
+      "keyTerms": [
+        {
+          "german": "den (Akkusativ maskulin)",
+          "turkish": "belirtme hali erkek artikel",
+          "example": "Ich sehe den Mann. (Adami goruyorum.)"
+        },
+        {
+          "german": "einen",
+          "turkish": "belirsiz artikel Akkusativ erkek",
+          "example": "Ich brauche einen Stift. (Bir kaleme ihtiyacim var.)"
+        },
+        {
+          "german": "keinen",
+          "turkish": "olumsuz artikel Akkusativ erkek",
+          "example": "Ich habe keinen Hunger. (Acligim yok.)"
+        },
+        {
+          "german": "meinen",
+          "turkish": "benim (Akkusativ erkek)",
+          "example": "Ich suche meinen Schlüssel. (Anahtarimi ariyorum.)"
+        },
+        {
+          "german": "brauchen + Akkusativ",
+          "turkish": "ihtiyac duymak (belirtme hali ile)",
+          "example": "Wir brauchen den Bus. (Otobuse ihtiyacimiz var.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-01-q1",
+          "type": "multiple-choice",
+          "question": "Akkusativ'de 'der' artikeli neye donusur?",
+          "options": ["dem", "den", "des", "der"],
+          "correctAnswer": "den",
+          "explanation": "Akkusativ'de sadece maskulin artikel degisir: der → den. Disi (die), notr (das) ve cogul (die) ayni kalir."
+        },
+        {
+          "id": "a2-01-q2",
+          "type": "fill-blank",
+          "question": "Ich kaufe ___ Tisch. (Ben masayi satin aliyorum.) (der Tisch = erkek)",
+          "options": ["den", "der", "das", "die"],
+          "correctAnswer": "den",
+          "explanation": "'Tisch' maskulin bir isimdir (der Tisch). Akkusativ'de der → den olur. Bu yuzden 'den Tisch' dogrudur."
+        },
+        {
+          "id": "a2-01-q3",
+          "type": "true-false",
+          "question": "Akkusativ'de 'die' artikeli degismez, ayni kalir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Dogru",
+          "explanation": "Evet, Akkusativ'de sadece maskulin artikel degisir (der→den). Feminin 'die', neutrum 'das' ve plural 'die' ayni kalir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Akkusativ Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana Akkusativ (belirtme hali) pratigi yaptir. 10 cumle ver ve bosluklara dogru artikeli (den, die, das, einen, eine, ein) yazmami iste. Sonra cevaplari kontrol et ve hatalarimi acikla. Turkce aciklama yap."
+        },
+        {
+          "title": "Akkusativ Hikaye",
+          "prompt": "Bana Akkusativ kullanan basit bir Almanca hikaye yaz (A2 seviyesi). Hikayelerde mumkun oldugunca cok Akkusativ nesnesi kullan. Her cumlenin altina Turkce cevirisini yaz ve hangi kelimenin Akkusativ oldugunu isaretleyerek acikla."
+        }
+      ]
+    },
+    {
+      "id": "a2-02",
+      "phaseId": "a2",
+      "title": "Dativ (Yonelme Hali)",
+      "subtitle": "Der Dativ",
+      "estimatedMinutes": 25,
+      "order": 2,
+      "content": "## Dativ Nedir?\n\nAlmanca'da **Dativ** (3. hal / yonelme hali), Turkce'deki **-e, -a** eklerine karsilik gelir. Cumledeki **dolayli nesneyi** (indirektes Objekt) belirtir.\n\nTurkce'de: \"Ben **adama** yardim ediyorum.\" → \"adama\" yonelme halindedir.\nAlmanca'da: \"Ich helfe **dem Mann**.\" → \"dem Mann\" Dativ'dedir.\n\n---\n\n## Artikel Degisimleri (Dativ'de)\n\nDativ'de **tum artikeller** degisir!\n\n| Cins | Nominativ | Akkusativ | **Dativ** |\n|------|-----------|-----------|----------|\n| Maskulin | der | den | **dem** |\n| Feminin | die | die | **der** |\n| Neutrum | das | das | **dem** |\n| Plural | die | die | **den + -n** |\n\n> **Dikkat:** Cogulda (Plural) artikelin yani sira isme de **-n** eklenir!\n> Ornek: die Kinder → den Kinder**n** (cocuklara)\n\n---\n\n## Belirsiz Artikel (Dativ'de)\n\n| Cins | Nominativ | Akkusativ | **Dativ** |\n|------|-----------|-----------|----------|\n| Maskulin | ein | einen | **einem** |\n| Feminin | eine | eine | **einer** |\n| Neutrum | ein | ein | **einem** |\n\n---\n\n## Olumsuz Artikel (Dativ'de)\n\n| Cins | Nominativ | Akkusativ | **Dativ** |\n|------|-----------|-----------|----------|\n| Maskulin | kein | keinen | **keinem** |\n| Feminin | keine | keine | **keiner** |\n| Neutrum | kein | kein | **keinem** |\n| Plural | keine | keine | **keinen** |\n\n---\n\n## Kisisel Zamirler (Dativ'de)\n\n| Nominativ | Akkusativ | **Dativ** | Turkce |\n|-----------|-----------|----------|--------|\n| ich | mich | **mir** | bana |\n| du | dich | **dir** | sana |\n| er | ihn | **ihm** | ona (erkek) |\n| sie | sie | **ihr** | ona (kadin) |\n| es | es | **ihm** | ona (notr) |\n| wir | uns | **uns** | bize |\n| ihr | euch | **euch** | size |\n| sie/Sie | sie/Sie | **ihnen/Ihnen** | onlara/Size |\n\n---\n\n## Dativ Kullanan Fiiller\n\nBazi Almanca fiiller **her zaman Dativ** alir. Bunlari ezberlemek gerekir:\n\n| Fiil | Anlami | Ornek |\n|------|--------|-------|\n| **helfen** | yardim etmek | Ich helfe **dem Mann**. (Adama yardim ediyorum.) |\n| **danken** | tesekkur etmek | Ich danke **dir**. (Sana tesekkur ederim.) |\n| **gehören** | ait olmak | Das Buch gehört **mir**. (Kitap bana ait.) |\n| **gefallen** | hosuna gitmek | Die Stadt gefällt **mir**. (Sehir hosuma gidiyor.) |\n| **geben** | vermek | Ich gebe **dem Kind** ein Geschenk. (Cocuga hediye veriyorum.) |\n| **schmecken** | lezzetli olmak | Das Essen schmeckt **mir**. (Yemek bana lezzetli geliyor.) |\n| **antworten** | cevap vermek | Ich antworte **dem Lehrer**. (Ogretmene cevap veriyorum.) |\n| **glauben** | inanmak | Ich glaube **dir**. (Sana inaniyorum.) |\n| **gratulieren** | tebrik etmek | Ich gratuliere **dir**. (Seni tebrik ederim.) |\n| **passen** | uymak | Die Hose passt **mir**. (Pantolon bana uyuyor.) |\n\n---\n\n## Dativ + Akkusativ Birlikte\n\nBazi fiiller hem Dativ (kime?) hem Akkusativ (neyi?) nesnesi alir:\n\n| Fiil | Ornek | Aciklama |\n|------|-------|----------|\n| geben | Ich gebe **dem Kind** (Dativ) **einen Ball** (Akk.). | Cocuga bir top veriyorum. |\n| schenken | Er schenkt **seiner Mutter** (Dat.) **Blumen** (Akk.). | Annesine cicek hediye ediyor. |\n| zeigen | Sie zeigt **mir** (Dat.) **die Stadt** (Akk.). | Bana sehri gosteriyor. |\n| erklären | Der Lehrer erklärt **den Schülern** (Dat.) **die Grammatik** (Akk.). | Ogretmen ogrencilere grameri acikliyor. |\n\n> **Sira kurali:** Iki isim varsa → Dativ once gelir. Zamir varsa → zamir once gelir.\n> - Ich gebe **dem Mann** **das Buch**. (isim + isim: Dativ once)\n> - Ich gebe **es ihm**. (zamir + zamir: Akkusativ once)\n\n---\n\n## Turkce ile Karsilastirma\n\n| Turkce | Almanca |\n|--------|---------|\n| Adam**a** yardim ediyorum. (-a yonelme eki) | Ich helfe **dem** Mann. |\n| San**a** bir kitap veriyorum. | Ich gebe **dir** ein Buch. |\n| Cocuklar**a** anlatiyorum. | Ich erzähle **den Kindern**. |\n\n> Turkce'de yonelme hali -e/-a eki ile yapilir. Almanca'da ise artikel degisir (dem/der/den).",
+      "keyTerms": [
+        {
+          "german": "dem (Dativ maskulin/neutrum)",
+          "turkish": "yonelme hali erkek/notr artikel",
+          "example": "Ich helfe dem Mann. (Adama yardim ediyorum.)"
+        },
+        {
+          "german": "der (Dativ feminin)",
+          "turkish": "yonelme hali disi artikel",
+          "example": "Ich gebe der Frau das Buch. (Kadina kitabi veriyorum.)"
+        },
+        {
+          "german": "mir / dir / ihm / ihr",
+          "turkish": "bana / sana / ona (erkek) / ona (kadin)",
+          "example": "Kannst du mir helfen? (Bana yardim edebilir misin?)"
+        },
+        {
+          "german": "helfen + Dativ",
+          "turkish": "yardim etmek (yonelme hali ile)",
+          "example": "Ich helfe dir gern. (Sana seve seve yardim ederim.)"
+        },
+        {
+          "german": "gefallen + Dativ",
+          "turkish": "hosuna gitmek",
+          "example": "Das Kleid gefällt mir. (Elbise hosuma gidiyor.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-02-q1",
+          "type": "multiple-choice",
+          "question": "Dativ'de 'die' (feminin) artikeli neye donusur?",
+          "options": ["dem", "den", "der", "die"],
+          "correctAnswer": "der",
+          "explanation": "Dativ'de feminin artikel 'die' → 'der' olur. Ornek: Ich helfe der Frau."
+        },
+        {
+          "id": "a2-02-q2",
+          "type": "fill-blank",
+          "question": "Das Buch gehört ___ (ich). (Kitap bana ait.)",
+          "options": ["mich", "mir", "mein", "ich"],
+          "correctAnswer": "mir",
+          "explanation": "'gehören' fiili Dativ alir. 'ich' zamirinin Dativ hali 'mir'dir."
+        },
+        {
+          "id": "a2-02-q3",
+          "type": "multiple-choice",
+          "question": "Cogul (Plural) Dativ'de ne olur?",
+          "options": [
+            "Sadece artikel degisir (den)",
+            "Sadece isme -n eklenir",
+            "Hem artikel 'den' olur hem isme -n eklenir",
+            "Hicbir degisiklik olmaz"
+          ],
+          "correctAnswer": "Hem artikel 'den' olur hem isme -n eklenir",
+          "explanation": "Cogul Dativ'de artikel 'den' olur VE isme '-n' eklenir. Ornek: die Kinder → den Kindern."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Dativ Fiil Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana Dativ kullanan fiillerle (helfen, danken, gehören, gefallen, geben, schmecken, passen, antworten) 10 cumle ver. Her cumlede bosluk birak ve dogru Dativ formunu (dem, der, den, mir, dir, ihm, ihr) yazmami iste. Sonra kontrol et. Turkce aciklama yap."
+        },
+        {
+          "title": "Akkusativ vs Dativ",
+          "prompt": "Bana Akkusativ ve Dativ arasindaki farki anlamam icin 10 cumle cifti ver. Ayni fiilin bazen Akkusativ, bazen Dativ aldigini gosteren ornekler kullan. Her ornekte neden Akkusativ veya Dativ kullanildigini Turkce acikla. A2 seviyesine uygun basit cumleler olsun."
+        }
+      ]
+    },
+    {
+      "id": "a2-03",
+      "phaseId": "a2",
+      "title": "Trennbare Verben (Ayrilabilen Fiiller)",
+      "subtitle": "Trennbare Verben",
+      "estimatedMinutes": 20,
+      "order": 3,
+      "content": "## Trennbare Verben Nedir?\n\nAlmanca'da bazi fiiller **ayrilabilen on eklerle** (Präfix) baslar. Bu fiillerde on ek, simdiki zamanda cumlenin **sonuna** gider.\n\nTurkce'de boyle bir yapi yoktur, bu yuzden Almanca'ya ozgu bir kavramdir.\n\n**Ornek:**\n- **aufstehen** (kalkmak) → Ich **stehe** um 7 Uhr **auf**. (Saat 7'de kalkiyorum.)\n- On ek **auf** cumlenin sonuna gitti!\n\n---\n\n## Ayrilabilen On Ekler\n\nAsagidaki on ekler **her zaman** ayrilir:\n\n| On Ek | Anlami | Ornek Fiil | Anlami |\n|-------|--------|-----------|--------|\n| **an-** | -e/-a dogru | an**rufen** | telefon etmek |\n| **auf-** | yukari, acmak | auf**stehen** | kalkmak |\n| **aus-** | disari | aus**gehen** | disari cikmak |\n| **ein-** | iceri | ein**kaufen** | alisveris yapmak |\n| **mit-** | birlikte | mit**kommen** | birlikte gelmek |\n| **vor-** | one | vor**bereiten** | hazirlamak |\n| **zu-** | -e dogru, kapatmak | zu**machen** | kapatmak |\n| **ab-** | asagi, uzaklasma | ab**fahren** | hareket etmek |\n| **weg-** | uzaga | weg**gehen** | gitmek |\n| **zurück-** | geri | zurück**kommen** | geri gelmek |\n| **fern-** | uzak | fern**sehen** | TV izlemek |\n| **her-** | buraya | her**kommen** | buraya gelmek |\n| **hin-** | oraya | hin**gehen** | oraya gitmek |\n\n---\n\n## Cumle Yapisi (Simdiki Zaman)\n\nAyrilabilen fiilde **fiil koku** 2. sirada, **on ek** cumle sonunda kalir:\n\n| Almanca | Turkce | Aciklama |\n|---------|--------|----------|\n| Ich **stehe** um 7 Uhr **auf**. | Saat 7'de kalkiyorum. | aufstehen |\n| Er **ruft** seine Mutter **an**. | Annesini ariyor. | anrufen |\n| Wir **kaufen** im Supermarkt **ein**. | Markette alisveris yapiyoruz. | einkaufen |\n| Sie **macht** die Tür **zu**. | Kapiyi kapatiyor. | zumachen |\n| Der Zug **fährt** um 9 Uhr **ab**. | Tren saat 9'da kalkiyor. | abfahren |\n| Ich **sehe** abends **fern**. | Aksamlari TV izliyorum. | fernsehen |\n| Er **bereitet** das Essen **vor**. | Yemegi hazirliyor. | vorbereiten |\n| Kommst du **mit**? | Birlikte geliyor musun? | mitkommen |\n\n---\n\n## 15+ Onemli Ayrilabilen Fiil Listesi\n\n| Fiil | Anlami | Ornek Cumle |\n|------|--------|-------------|\n| **aufstehen** | kalkmak | Ich stehe früh auf. (Erken kalkiyorum.) |\n| **anrufen** | telefon etmek | Ruf mich an! (Beni ara!) |\n| **aufmachen** | acmak | Mach das Fenster auf! (Pencereyi ac!) |\n| **zumachen** | kapatmak | Mach die Tür zu! (Kapiyi kapat!) |\n| **einkaufen** | alisveris yapmak | Wir kaufen samstags ein. (Cumartesi alisveris yapiyoruz.) |\n| **mitkommen** | birlikte gelmek | Kommst du mit? (Sen de geliyor musun?) |\n| **ausgehen** | disari cikmak | Wir gehen heute aus. (Bugun disari cikiyoruz.) |\n| **anfangen** | baslamak | Der Film fängt um 8 an. (Film saat 8'de basliyor.) |\n| **aufhören** | bitmek/durmak | Hör auf! (Dur!/Birak!) |\n| **aufräumen** | toplamak/duzenlemek | Räum dein Zimmer auf! (Odani topla!) |\n| **fernsehen** | TV izlemek | Abends sehe ich fern. (Aksamlari TV izliyorum.) |\n| **abfahren** | hareket etmek | Der Bus fährt bald ab. (Otobus yakinda kalkiyor.) |\n| **ankommen** | varmak | Wann kommst du an? (Ne zaman variyorsun?) |\n| **zurückkommen** | geri gelmek | Ich komme morgen zurück. (Yarin geri geliyorum.) |\n| **vorbereiten** | hazirlamak | Ich bereite das Frühstück vor. (Kahvaltiyi hazirliyorum.) |\n| **einladen** | davet etmek | Ich lade dich ein. (Seni davet ediyorum.) |\n| **abholen** | almaya gelmek | Ich hole dich ab. (Seni almaya geliyorum.) |\n\n---\n\n## Perfekt'te Ayrilabilen Fiiller\n\nPerfekt'te (gecmis zaman) on ek ve fiil **tekrar birlesir** ve araya **ge-** girer:\n\n| Mastar | Partizip II | Ornek |\n|--------|------------|-------|\n| aufstehen | **auf-ge-standen** | Ich bin aufgestanden. (Kalktim.) |\n| anrufen | **an-ge-rufen** | Ich habe angerufen. (Telefon ettim.) |\n| einkaufen | **ein-ge-kauft** | Wir haben eingekauft. (Alisveris yaptik.) |\n| zumachen | **zu-ge-macht** | Er hat zugemacht. (Kapatti.) |\n| mitkommen | **mit-ge-kommen** | Sie ist mitgekommen. (Birlikte geldi.) |\n| fernsehen | **fern-ge-sehen** | Ich habe ferngesehen. (TV izledim.) |\n\n> **Formul:** On ek + **ge** + fiil koku + **-t** (duzensiz: **-en**)\n\n---\n\n## Ayrilmayan On Ekler (Dikkat!)\n\nBu on ekler **hic ayrilmaz**: be-, emp-, ent-, er-, ge-, miss-, ver-, zer-\n\n| Fiil | Anlami | Ayrilir mi? |\n|------|--------|------------|\n| **ver**stehen | anlamak | Hayir! → Ich verstehe. |\n| **be**suchen | ziyaret etmek | Hayir! → Ich besuche dich. |\n| **er**zählen | anlatmak | Hayir! → Er erzählt. |",
+      "keyTerms": [
+        {
+          "german": "aufstehen",
+          "turkish": "kalkmak (ayrilabilen fiil)",
+          "example": "Ich stehe um 7 Uhr auf. (Saat 7'de kalkiyorum.)"
+        },
+        {
+          "german": "anrufen",
+          "turkish": "telefon etmek",
+          "example": "Ich rufe dich morgen an. (Seni yarin ariyorum.)"
+        },
+        {
+          "german": "einkaufen",
+          "turkish": "alisveris yapmak",
+          "example": "Wir kaufen im Supermarkt ein. (Markette alisveris yapiyoruz.)"
+        },
+        {
+          "german": "fernsehen",
+          "turkish": "televizyon izlemek",
+          "example": "Abends sehe ich fern. (Aksamlari TV izliyorum.)"
+        },
+        {
+          "german": "mitkommen",
+          "turkish": "birlikte gelmek",
+          "example": "Kommst du mit? (Sen de geliyor musun?)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-03-q1",
+          "type": "multiple-choice",
+          "question": "'anrufen' fiili simdiki zamanda nasil ayrilir? (ich ...)",
+          "options": [
+            "Ich anrufe dich.",
+            "Ich rufe dich an.",
+            "Ich rufe an dich.",
+            "Ich an rufe dich."
+          ],
+          "correctAnswer": "Ich rufe dich an.",
+          "explanation": "Ayrilabilen fiillerde fiil koku 2. sirada kalir, on ek (an) cumlenin sonuna gider: Ich rufe dich an."
+        },
+        {
+          "id": "a2-03-q2",
+          "type": "fill-blank",
+          "question": "Er ___ jeden Tag früh ___. (aufstehen) (O her gun erken kalkar.)",
+          "options": ["steht...auf", "stehen...auf", "aufsteht...", "steht...an"],
+          "correctAnswer": "steht...auf",
+          "explanation": "'aufstehen' ayrilabilen bir fiildir. 'er' icin fiil koku 'steht', on ek 'auf' sona gider."
+        },
+        {
+          "id": "a2-03-q3",
+          "type": "true-false",
+          "question": "'verstehen' (anlamak) ayrilabilen bir fiildir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Yanlis",
+          "explanation": "'ver-' ayrilmayan on eklerden biridir (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-). Bu yuzden 'verstehen' ayrilmaz: Ich verstehe."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Ayrilabilen Fiil Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 10 ayrilabilen fiil (trennbare Verben) iceren cumle ver. Cumlelerde bosluklari birak — fiil koku ve on eki dogru yere yerlestirmem gereksin. Sonra cevaplarimi kontrol et. Turkce aciklama yap."
+        },
+        {
+          "title": "Gunluk Rutin",
+          "prompt": "Bana ayrilabilen fiilleri kullanarak bir gunluk rutin yazimi iste. Sabah kalkisindan aksam yatisina kadar en az 10 ayrilabilen fiil kullanan bir metin yazmam icin bana rehberlik et. Her fiili Turkce anlamiyla birlikte goster. A2 seviyesine uygun olsun."
+        }
+      ]
+    },
+    {
+      "id": "a2-04",
+      "phaseId": "a2",
+      "title": "Modalverben (Kip Fiilleri)",
+      "subtitle": "Modalverben",
+      "estimatedMinutes": 25,
+      "order": 4,
+      "content": "## Modalverben Nedir?\n\n**Kip fiilleri** (Modalverben), bir eylemin **nasil** yapildigini veya yapilmasi gerektigini belirten yardimci fiillerdir. Almanca'da 6 kip fiili vardir.\n\nCumle yapisinda kip fiili **2. sirada** cekilir, asil fiil ise **mastar haliyle cumle sonuna** gider.\n\n> Ich **kann** Deutsch **sprechen**. (Almanca konusabiliyorum.)\n> → \"kann\" 2. sirada, \"sprechen\" sonda.\n\n---\n\n## 6 Modalverb ve Anlamlari\n\n| Modalverb | Anlami | Ornek |\n|-----------|--------|-------|\n| **können** | -ebilmek/-abilmek (yetenek) | Ich kann schwimmen. (Yuzebiliyorum.) |\n| **müssen** | -meli/-mali (zorunluluk) | Ich muss arbeiten. (Calismam gerekiyor.) |\n| **wollen** | istemek (guclu istek) | Ich will Deutsch lernen. (Almanca ogrenmek istiyorum.) |\n| **sollen** | -meli/-mali (tavsiye/gorev) | Du sollst mehr lernen. (Daha cok calismalisin.) |\n| **dürfen** | izin/musaade | Darf ich fragen? (Sorabilir miyim?) |\n| **mögen** | sevmek/hoslanmak | Ich mag Schokolade. (Cikolatayi severim.) |\n| **möchten** | istemek (kibar) | Ich möchte einen Kaffee. (Bir kahve istiyorum.) |\n\n---\n\n## Cekim Tablolari\n\n### können (yapabilmek)\n\n| Ozne | Cekim |\n|------|-------|\n| ich | **kann** |\n| du | **kannst** |\n| er/sie/es | **kann** |\n| wir | **können** |\n| ihr | **könnt** |\n| sie/Sie | **können** |\n\n### müssen (zorunda olmak)\n\n| Ozne | Cekim |\n|------|-------|\n| ich | **muss** |\n| du | **musst** |\n| er/sie/es | **muss** |\n| wir | **müssen** |\n| ihr | **müsst** |\n| sie/Sie | **müssen** |\n\n### wollen (istemek)\n\n| Ozne | Cekim |\n|------|-------|\n| ich | **will** |\n| du | **willst** |\n| er/sie/es | **will** |\n| wir | **wollen** |\n| ihr | **wollt** |\n| sie/Sie | **wollen** |\n\n### sollen (yapmali)\n\n| Ozne | Cekim |\n|------|-------|\n| ich | **soll** |\n| du | **sollst** |\n| er/sie/es | **soll** |\n| wir | **sollen** |\n| ihr | **sollt** |\n| sie/Sie | **sollen** |\n\n### dürfen (izinli olmak)\n\n| Ozne | Cekim |\n|------|-------|\n| ich | **darf** |\n| du | **darfst** |\n| er/sie/es | **darf** |\n| wir | **dürfen** |\n| ihr | **dürft** |\n| sie/Sie | **dürfen** |\n\n### mögen (sevmek) / möchten (istemek - kibar)\n\n| Ozne | mögen | möchten |\n|------|-------|---------|\n| ich | **mag** | **möchte** |\n| du | **magst** | **möchtest** |\n| er/sie/es | **mag** | **möchte** |\n| wir | **mögen** | **möchten** |\n| ihr | **mögt** | **möchtet** |\n| sie/Sie | **mögen** | **möchten** |\n\n---\n\n## Cumle Yapisi\n\nKip fiili ile cumlede **iki fiil** bulunur:\n1. **Kip fiili** → 2. sirada, cekimli\n2. **Asil fiil** → cumle sonunda, mastar (Infinitiv) hali\n\n| Cumle | Aciklama |\n|-------|----------|\n| Ich **kann** gut **schwimmen**. | Iyi yuzebiliyorum. |\n| Du **musst** jetzt **gehen**. | Simdi gitmen gerekiyor. |\n| Er **will** ein Auto **kaufen**. | Bir araba almak istiyor. |\n| Wir **dürfen** hier nicht **rauchen**. | Burada sigara icemeyiz. |\n| **Kannst** du mir **helfen**? | Bana yardim edebilir misin? |\n\n> **Soru cumlelerinde:** Kip fiili basa gelir, asil fiil yine sonda kalir.\n\n---\n\n## müssen vs sollen Farki\n\n| müssen | sollen |\n|--------|--------|\n| Kendi ic zorunluluk veya dis mecburiyet | Baskasinin tavsiyesi veya gorevi |\n| Ich **muss** zum Arzt. (Doktora gitmeliyim - hastayim.) | Ich **soll** zum Arzt. (Doktora gitmeliyim - doktor dedi.) |\n| Kesin zorunluluk | Tavsiye/beklenti |\n\n## können vs dürfen Farki\n\n| können | dürfen |\n|--------|--------|\n| Yetenek / fiziksel kapasite | Izin / musaade |\n| Ich **kann** schwimmen. (Yuzebiliyorum - biliyorum.) | Ich **darf** hier schwimmen. (Burada yuzebilirim - izin var.) |\n\n## wollen vs möchten Farki\n\n| wollen | möchten |\n|--------|---------|\n| Guclu, dogrudan istek | Kibar, nazik istek |\n| Ich **will** das! (Bunu istiyorum!) | Ich **möchte** bitte Wasser. (Su istiyorum lutfen.) |\n| Gunluk konusma | Resmi / kibar ortam |",
+      "keyTerms": [
+        {
+          "german": "können",
+          "turkish": "-ebilmek / yapabilmek",
+          "example": "Ich kann Deutsch sprechen. (Almanca konusabiliyorum.)"
+        },
+        {
+          "german": "müssen",
+          "turkish": "-meli/-mali / zorunda olmak",
+          "example": "Ich muss jetzt gehen. (Simdi gitmem gerekiyor.)"
+        },
+        {
+          "german": "wollen",
+          "turkish": "istemek (guclu istek)",
+          "example": "Er will nach Deutschland fliegen. (Almanya'ya ucmak istiyor.)"
+        },
+        {
+          "german": "dürfen",
+          "turkish": "izinli olmak / -ebilmek (izin)",
+          "example": "Darf ich hier sitzen? (Buraya oturabilir miyim?)"
+        },
+        {
+          "german": "sollen",
+          "turkish": "yapmali (tavsiye/gorev)",
+          "example": "Du sollst mehr Wasser trinken. (Daha cok su icmelisin.)"
+        },
+        {
+          "german": "möchten",
+          "turkish": "istemek (kibar)",
+          "example": "Ich möchte einen Tee, bitte. (Bir cay istiyorum, lutfen.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-04-q1",
+          "type": "multiple-choice",
+          "question": "Kip fiili ile cumlede asil fiil nerede bulunur?",
+          "options": [
+            "Cumlenin basinda",
+            "Kip fiilinden hemen sonra",
+            "Cumlenin sonunda (mastar hali)",
+            "Cumlenin ortasinda"
+          ],
+          "correctAnswer": "Cumlenin sonunda (mastar hali)",
+          "explanation": "Kip fiili 2. sirada cekimli olarak bulunur, asil fiil ise her zaman cumlenin sonunda mastar (Infinitiv) haliyle yer alir."
+        },
+        {
+          "id": "a2-04-q2",
+          "type": "fill-blank",
+          "question": "___ du mir bitte helfen? (Bana yardim edebilir misin?)",
+          "options": ["Kannst", "Musst", "Willst", "Sollst"],
+          "correctAnswer": "Kannst",
+          "explanation": "Yetenek/imkan sormak icin 'können' kullanilir. 'du' icin cekimi 'kannst'tir."
+        },
+        {
+          "id": "a2-04-q3",
+          "type": "multiple-choice",
+          "question": "'müssen' ile 'sollen' arasindaki temel fark nedir?",
+          "options": [
+            "Hicbir fark yoktur",
+            "müssen = kendi zorunluluk, sollen = baskasinin tavsiyesi",
+            "müssen = izin, sollen = yetenek",
+            "müssen = istek, sollen = zorunluluk"
+          ],
+          "correctAnswer": "müssen = kendi zorunluluk, sollen = baskasinin tavsiyesi",
+          "explanation": "'müssen' kendi ic zorunlulugu veya kesin mecburiyeti, 'sollen' ise bir baskasinin tavsiyesini veya verdigi gorevi ifade eder."
+        },
+        {
+          "id": "a2-04-q4",
+          "type": "true-false",
+          "question": "'möchten', 'wollen' fiilinin kibar (nazik) halidir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Dogru",
+          "explanation": "Evet, 'möchten' aslinda 'mögen' fiilinin Konjunktiv II formudur ve 'wollen'in kibar alternatifi olarak kullanilir. Restoranda 'Ich möchte...' denir, 'Ich will...' kaba kacar."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Modalverben Diyalog",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Benimle bir diyalog pratigi yap. Senaryolar: 1) Restoranda siparis (möchten), 2) Doktorda (müssen/sollen), 3) Is gorusmesi (können). Her senaryoda 5-6 cumle olsun. Sonra benden benzeri cumleler kurmami iste ve hatalarimi duzelt. Turkce acikla."
+        },
+        {
+          "title": "Kip Fiil Secimi",
+          "prompt": "Bana 15 Turkce cumle ver ve her cumleyi Almancaya cevirirken hangi kip fiili (können, müssen, wollen, sollen, dürfen, möchten) kullanmam gerektigini sormami iste. Dogru cevabi verdikten sonra cumleyi Almanca olarak tamamlamamda yardimci ol. Neden o kip fiilini kullandigimi Turkce acikla."
+        }
+      ]
+    },
+    {
+      "id": "a2-05",
+      "phaseId": "a2",
+      "title": "Perfekt mit haben (Gecmis Zaman - haben ile)",
+      "subtitle": "Das Perfekt mit haben",
+      "estimatedMinutes": 25,
+      "order": 5,
+      "content": "## Perfekt Nedir?\n\n**Perfekt**, Almanca'da en cok kullanilan gecmis zaman kipidir. Gunluk konusmada gecmis olaylari anlatmak icin Perfekt kullanilir.\n\nTurkce karsiligi: **-di/-ti/-du/-tu** gecmis zaman.\n\nPerfekt iki parcadan olusur:\n1. **Yardimci fiil** (haben veya sein) → 2. sirada, cekimli\n2. **Partizip II** (gecmis zaman ortaci) → cumle sonunda\n\n> Ich **habe** gestern ein Buch **gelesen**. (Dun bir kitap okudum.)\n\n---\n\n## Partizip II Nasil Olusturulur?\n\n### Duzenli Fiiller (Regelmäßige Verben)\n\nFormul: **ge- + fiil koku + -t**\n\n| Mastar | Partizip II | Anlami |\n|--------|------------|--------|\n| machen | **ge-mach-t** | yapmak → yapti |\n| lernen | **ge-lern-t** | ogrenmek → ogrendi |\n| kaufen | **ge-kauf-t** | almak → aldi |\n| spielen | **ge-spiel-t** | oynamak → oynadi |\n| kochen | **ge-koch-t** | pisirmek → pisirdi |\n| wohnen | **ge-wohn-t** | oturmak → oturdu |\n| hören | **ge-hör-t** | duymak → duydu |\n| fragen | **ge-frag-t** | sormak → sordu |\n| sagen | **ge-sag-t** | soylemek → soyledi |\n| arbeiten | **ge-arbeit-et** | calismak → calisti |\n| warten | **ge-wart-et** | beklemek → bekledi |\n| antworten | **ge-antwort-et** | cevap vermek → cevap verdi |\n\n> **Dikkat:** Fiil koku **-t, -d, -n** ile bitiyorsa, telaffuz kolayligi icin **-et** eklenir: arbeiten → gearbeitet\n\n---\n\n### Duzensiz Fiiller (Unregelmäßige Verben)\n\nFormul: **ge- + degisen koku + -en**\n\nBu fiilleri ezberlemek gerekir!\n\n| Mastar | Partizip II | Anlami |\n|--------|------------|--------|\n| lesen | **gelesen** | okumak |\n| schreiben | **geschrieben** | yazmak |\n| sprechen | **gesprochen** | konusmak |\n| essen | **gegessen** | yemek |\n| trinken | **getrunken** | icmek |\n| nehmen | **genommen** | almak |\n| geben | **gegeben** | vermek |\n| finden | **gefunden** | bulmak |\n| helfen | **geholfen** | yardim etmek |\n| singen | **gesungen** | sarki soylemek |\n| sitzen | **gesessen** | oturmak |\n| schlafen | **geschlafen** | uyumak |\n| tragen | **getragen** | tasimak/giymek |\n| waschen | **gewaschen** | yikamak |\n| rufen | **gerufen** | cagirmak |\n| beginnen | **begonnen** | baslamak |\n| verstehen | **verstanden** | anlamak |\n| bekommen | **bekommen** | almak/elde etmek |\n| vergessen | **vergessen** | unutmak |\n| treffen | **getroffen** | bulusmak |\n\n---\n\n## ge- Almayan Fiiller\n\nBazi fiiller Partizip II'de **ge-** almaz:\n\n### 1. Ayrilmayan on ekli fiiller (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-)\n\n| Mastar | Partizip II | Anlami |\n|--------|------------|--------|\n| besuchen | **besucht** | ziyaret etmek |\n| erzählen | **erzählt** | anlatmak |\n| verstehen | **verstanden** | anlamak |\n| bekommen | **bekommen** | almak |\n| vergessen | **vergessen** | unutmak |\n| empfehlen | **empfohlen** | tavsiye etmek |\n\n### 2. -ieren ile biten fiiller\n\n| Mastar | Partizip II | Anlami |\n|--------|------------|--------|\n| telefonieren | **telefoniert** | telefon etmek |\n| studieren | **studiert** | okumak (universite) |\n| reparieren | **repariert** | tamir etmek |\n| fotografieren | **fotografiert** | fotograf cekmek |\n\n---\n\n## Ornek Cumleler\n\n| Almanca | Turkce |\n|---------|--------|\n| Ich **habe** gestern viel **gearbeitet**. | Dun cok calistim. |\n| **Hast** du das Buch **gelesen**? | Kitabi okudun mu? |\n| Er **hat** einen Brief **geschrieben**. | Bir mektup yazdi. |\n| Wir **haben** Pizza **gegessen**. | Pizza yedik. |\n| Sie **hat** Deutsch **gelernt**. | Almanca ogrendi. |\n| **Habt** ihr den Film **gesehen**? | Filmi gorduunuz mu? |\n| Ich **habe** dich nicht **verstanden**. | Seni anlamadim. |\n| Er **hat** seine Schlüssel **vergessen**. | Anahtarlarini unuttu. |\n\n---\n\n## Cumle Yapisi\n\n| Unsur | Pozisyon |\n|-------|----------|\n| Ozne | 1. sira |\n| **haben** (cekimli) | **2. sira** |\n| Diger ogeler (zaman, yer, vs.) | Ortada |\n| **Partizip II** | **Cumle sonu** |\n\n> **Soru cumlesi:** Haben/hast/hat + ozne + ... + Partizip II?\n> **Hast** du heute **gearbeitet**? (Bugun calistin mi?)",
+      "keyTerms": [
+        {
+          "german": "das Partizip II",
+          "turkish": "gecmis zaman ortaci (ge-...-t / ge-...-en)",
+          "example": "gemacht, gelesen, geschrieben"
+        },
+        {
+          "german": "Ich habe ... gemacht",
+          "turkish": "... yaptim",
+          "example": "Ich habe meine Hausaufgaben gemacht. (Odevlerimi yaptim.)"
+        },
+        {
+          "german": "gelesen",
+          "turkish": "okumak fiilinin Partizip II hali",
+          "example": "Ich habe das Buch gelesen. (Kitabi okudum.)"
+        },
+        {
+          "german": "geschrieben",
+          "turkish": "yazmak fiilinin Partizip II hali",
+          "example": "Er hat einen Brief geschrieben. (Bir mektup yazdi.)"
+        },
+        {
+          "german": "verstanden",
+          "turkish": "anlamak fiilinin Partizip II hali",
+          "example": "Hast du mich verstanden? (Beni anladın mı?)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-05-q1",
+          "type": "multiple-choice",
+          "question": "Duzenli fiillerde Partizip II nasil olusturulur?",
+          "options": [
+            "ge- + kök + -en",
+            "ge- + kök + -t",
+            "kök + -ge + -t",
+            "kök + -t"
+          ],
+          "correctAnswer": "ge- + kök + -t",
+          "explanation": "Duzenli fiillerde Partizip II formulu: ge- + fiil koku + -t. Ornek: machen → ge-mach-t."
+        },
+        {
+          "id": "a2-05-q2",
+          "type": "fill-blank",
+          "question": "Ich habe gestern viel ___ (lernen). (Dun cok calistim.)",
+          "options": ["gelernt", "gelernen", "lernt", "gelearnt"],
+          "correctAnswer": "gelernt",
+          "explanation": "'lernen' duzenli bir fiildir. Partizip II: ge- + lern + -t = gelernt."
+        },
+        {
+          "id": "a2-05-q3",
+          "type": "multiple-choice",
+          "question": "Hangi fiil Partizip II'de 'ge-' almaz?",
+          "options": ["machen", "kaufen", "besuchen", "spielen"],
+          "correctAnswer": "besuchen",
+          "explanation": "'besuchen' ayrilmayan on ekli (be-) bir fiildir. Bu fiiller ge- almaz: besuchen → besucht."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Partizip II Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 20 fiil ver (10 duzenli, 10 duzensiz) ve Partizip II formlarini yazmami iste. Sonra cevaplarimi kontrol et. Yanlis yaptiklarimi acikla ve dogru formlarini goster. Duzensiz fiillerin bir listesini de paylas. Turkce aciklama yap."
+        },
+        {
+          "title": "Dun Ne Yaptin?",
+          "prompt": "Bana 'Was hast du gestern gemacht?' (Dun ne yaptin?) sorusunu sor ve cevap vermem icin rehberlik et. En az 10 cumle kurmami iste. Her cumlede farkli bir Partizip II formu kullanmami sagla. Hatalarimi duzelt ve Turkce aciklama yap. A2 seviyesine uygun olsun."
+        }
+      ]
+    },
+    {
+      "id": "a2-06",
+      "phaseId": "a2",
+      "title": "Perfekt mit sein (Gecmis Zaman - sein ile)",
+      "subtitle": "Das Perfekt mit sein",
+      "estimatedMinutes": 20,
+      "order": 6,
+      "content": "## Sein ile Perfekt\n\nBircok fiil Perfekt'te **haben** ile kullanilir, ancak bazi fiiller **sein** ile kullanilir.\n\n**Temel Kural:** Asagidaki fiiller **sein** ile Perfekt yapar:\n1. **Hareket fiilleri** (yer degistirme) → gehen, fahren, fliegen, laufen...\n2. **Durum degisikligi fiilleri** → aufwachen, einschlafen, sterben, werden...\n3. **sein** ve **bleiben** fiilleri\n\n> Ich **bin** nach Berlin **gefahren**. (Berlin'e gittim. → yer degistirme)\n> Er **ist** eingeschlafen. (Uyuyakaladi. → durum degisikligi)\n\n---\n\n## Sein ile Kullanilan Fiiller Listesi\n\n### Hareket Fiilleri (Yer Degistirme)\n\n| Mastar | Partizip II | Anlami | Ornek |\n|--------|------------|--------|-------|\n| gehen | **gegangen** | gitmek (yuruyerek) | Ich bin ins Kino gegangen. (Sinemaya gittim.) |\n| fahren | **gefahren** | gitmek (tasitla) | Er ist nach Hamburg gefahren. (Hamburg'a gitti.) |\n| kommen | **gekommen** | gelmek | Sie ist spät gekommen. (Gec geldi.) |\n| fliegen | **geflogen** | ucmak | Wir sind nach Türkei geflogen. (Turkiye'ye uctuk.) |\n| laufen | **gelaufen** | kosmak/yurmek | Er ist schnell gelaufen. (Hizli kostu.) |\n| schwimmen | **geschwommen** | yuzmek | Sie ist im See geschwommen. (Golde yuzdu.) |\n| reisen | **gereist** | seyahat etmek | Wir sind nach Italien gereist. (Italya'ya seyahat ettik.) |\n| fallen | **gefallen** | dusmek | Das Kind ist gefallen. (Cocuk dustu.) |\n| steigen | **gestiegen** | cikmak/binmek | Ich bin in den Bus gestiegen. (Otobuse bindim.) |\n| rennen | **gerannt** | kosmak | Er ist zur Schule gerannt. (Okula kostu.) |\n| umziehen | **umgezogen** | tasinmak | Wir sind nach Berlin umgezogen. (Berlin'e tasindik.) |\n| zurückkommen | **zurückgekommen** | geri gelmek | Er ist zurückgekommen. (Geri geldi.) |\n\n### Durum Degisikligi Fiilleri\n\n| Mastar | Partizip II | Anlami | Ornek |\n|--------|------------|--------|-------|\n| aufwachen | **aufgewacht** | uyanmak | Ich bin um 6 aufgewacht. (6'da uyandim.) |\n| einschlafen | **eingeschlafen** | uyumak | Er ist spät eingeschlafen. (Gec uyudu.) |\n| sterben | **gestorben** | olmek | Er ist gestorben. (Oldu.) |\n| werden | **geworden** | olmak/donusmek | Sie ist Ärztin geworden. (Doktor oldu.) |\n| wachsen | **gewachsen** | buyumek | Das Kind ist gewachsen. (Cocuk buyudu.) |\n\n### Ozel Fiiller\n\n| Mastar | Partizip II | Anlami | Ornek |\n|--------|------------|--------|-------|\n| sein | **gewesen** | olmak | Ich bin in Berlin gewesen. (Berlin'de bulundum.) |\n| bleiben | **geblieben** | kalmak | Er ist zu Hause geblieben. (Evde kaldi.) |\n| passieren | **passiert** | olmak/meydana gelmek | Was ist passiert? (Ne oldu?) |\n\n---\n\n## Haben mi, Sein mi? Karar Tablosu\n\n| Kriter | Yardimci Fiil | Ornekler |\n|--------|--------------|----------|\n| Yer degistirme hareketi | **sein** | gehen, fahren, fliegen, kommen |\n| Durum degisikligi | **sein** | aufwachen, einschlafen, sterben |\n| sein, bleiben, passieren | **sein** | Ich bin gewesen, geblieben |\n| Gecisli fiiller (nesne alan) | **haben** | essen, trinken, lesen, kaufen |\n| Diger tum fiiller | **haben** | arbeiten, spielen, lernen |\n\n---\n\n## Dikkat: Ayni Fiil, Farkli Yardimci Fiil\n\nBazi fiiller anlama gore hem **haben** hem **sein** alabilir:\n\n| Fiil | haben ile (gecissiz degil) | sein ile (yer degistirme) |\n|------|--------------------------|-------------------------|\n| fahren | Ich **habe** das Auto **gefahren**. (Arabayi kullandim.) | Ich **bin** nach Berlin **gefahren**. (Berlin'e gittim.) |\n| schwimmen | Er **hat** eine Stunde **geschwommen**. (Bir saat yuzdu.) | Er **ist** über den See **geschwommen**. (Golun karsisina yuzdu.) |\n\n> **Kural:** Fiil bir **nesne** aliyorsa → haben. Yer degistirme varsa → sein.\n\n---\n\n## Ornek Cumleler\n\n| Almanca | Turkce |\n|---------|--------|\n| Ich **bin** gestern ins Kino **gegangen**. | Dun sinemaya gittim. |\n| **Bist** du schon einmal nach Deutschland **geflogen**? | Hic Almanya'ya uctun mu? |\n| Er **ist** um 7 Uhr **aufgewacht**. | Saat 7'de uyandi. |\n| Wir **sind** letztes Jahr **umgezogen**. | Gecen yil tasindik. |\n| Was **ist** passiert? | Ne oldu? |\n| Sie **ist** zu Hause **geblieben**. | Evde kaldi. |",
+      "keyTerms": [
+        {
+          "german": "Ich bin gegangen",
+          "turkish": "gittim (yer degistirme → sein ile)",
+          "example": "Ich bin ins Kino gegangen. (Sinemaya gittim.)"
+        },
+        {
+          "german": "gefahren",
+          "turkish": "gitmek (tasitla) Partizip II",
+          "example": "Er ist nach Berlin gefahren. (Berlin'e gitti.)"
+        },
+        {
+          "german": "gekommen",
+          "turkish": "gelmek Partizip II",
+          "example": "Sie ist spät gekommen. (Gec geldi.)"
+        },
+        {
+          "german": "geflogen",
+          "turkish": "ucmak Partizip II",
+          "example": "Wir sind in die Türkei geflogen. (Turkiye'ye uctuk.)"
+        },
+        {
+          "german": "geblieben",
+          "turkish": "kalmak Partizip II",
+          "example": "Ich bin zu Hause geblieben. (Evde kaldim.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-06-q1",
+          "type": "multiple-choice",
+          "question": "Hangi fiiller Perfekt'te 'sein' ile kullanilir?",
+          "options": [
+            "Nesne alan fiiller",
+            "Yer degistirme ve durum degisikligi fiilleri",
+            "Tum fiiller",
+            "Sadece duzenli fiiller"
+          ],
+          "correctAnswer": "Yer degistirme ve durum degisikligi fiilleri",
+          "explanation": "Yer degistirme fiilleri (gehen, fahren, fliegen), durum degisikligi fiilleri (aufwachen, sterben) ve sein/bleiben/passieren 'sein' ile Perfekt yapar."
+        },
+        {
+          "id": "a2-06-q2",
+          "type": "fill-blank",
+          "question": "Sie ___ nach Berlin ___ (fahren). (Berlin'e gitti.)",
+          "options": ["ist...gefahren", "hat...gefahren", "ist...gefahrt", "hat...gefahrt"],
+          "correctAnswer": "ist...gefahren",
+          "explanation": "'fahren' yer degistirme fiilidir ve 'sein' ile Perfekt yapar. Partizip II: gefahren (duzensiz)."
+        },
+        {
+          "id": "a2-06-q3",
+          "type": "true-false",
+          "question": "'bleiben' (kalmak) fiili Perfekt'te 'haben' ile kullanilir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Yanlis",
+          "explanation": "'bleiben' ozel fiillerdendir ve 'sein' ile Perfekt yapar: Ich bin geblieben. (Kaldim.)"
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Haben mi Sein mi?",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 15 fiil ver ve her biri icin Perfekt'te 'haben' mi yoksa 'sein' mi kullanildigini sormami iste. Her fiil icin neden o yardimci fiilin kullanildigini Turkce acikla. Sonra her fiilin Partizip II formunu da goster."
+        },
+        {
+          "title": "Tatil Hikayesi",
+          "prompt": "Bana 'sein' ile Perfekt yapan fiilleri kullanarak bir tatil hikayesi yazdır. Hikayede en az 10 farklı yer degistirme fiili olsun (gehen, fahren, fliegen, kommen, reisen, vb.). Her cumlenin altına Turkce cevirisini yaz. Sonra benden benzer bir hikaye yazmami iste."
+        }
+      ]
+    },
+    {
+      "id": "a2-07",
+      "phaseId": "a2",
+      "title": "Lokale Präpositionen (Yer Edatlari)",
+      "subtitle": "Wechselpräpositionen",
+      "estimatedMinutes": 25,
+      "order": 7,
+      "content": "## Wechselpräpositionen (Degisken Edatlar)\n\nAlmanca'da 9 edat hem **Akkusativ** hem **Dativ** ile kullanilabilir. Bunlara **Wechselpräpositionen** (degisken edatlar) denir.\n\n### Altin Kural:\n- **Wohin?** (Nereye?) → **Akkusativ** (hareket/yon)\n- **Wo?** (Nerede?) → **Dativ** (konum/duragan)\n\n---\n\n## 9 Wechselpräposition\n\n| Edat | Anlami |\n|------|--------|\n| **in** | icinde / icerisine |\n| **an** | yaninda / yanina / -de (dikey yuzey) |\n| **auf** | ustunde / ustune |\n| **über** | uzerinde / uzerine |\n| **unter** | altinda / altina |\n| **neben** | yaninda / yanina |\n| **vor** | onunde / onune |\n| **hinter** | arkasinda / arkasina |\n| **zwischen** | arasinda / arasina |\n\n> **Ezber yontemi:** IN AN AUF — ÜBER UNTER — NEBEN VOR HINTER ZWISCHEN\n\n---\n\n## Akkusativ (Wohin?) vs Dativ (Wo?)\n\n### Akkusativ - Hareket (Wohin? - Nereye?)\n\n| Ornek | Turkce |\n|-------|--------|\n| Ich gehe **in die** Schule. | Okul**a** gidiyorum. |\n| Er legt das Buch **auf den** Tisch. | Kitabi masa**ya** koyuyor. |\n| Sie hängt das Bild **an die** Wand. | Resmi duvar**a** asiyor. |\n| Das Kind läuft **hinter das** Haus. | Cocuk evin arka**sina** kosuyor. |\n| Ich stelle die Lampe **neben den** Schrank. | Lambayi dolabin yan**ina** koyuyorum. |\n\n### Dativ - Konum (Wo? - Nerede?)\n\n| Ornek | Turkce |\n|-------|--------|\n| Ich bin **in der** Schule. | Okul**da**yim. |\n| Das Buch liegt **auf dem** Tisch. | Kitap masa**da** duruyor. |\n| Das Bild hängt **an der** Wand. | Resim duvar**da** asili. |\n| Das Kind spielt **hinter dem** Haus. | Cocuk evin arka**sinda** oynuyor. |\n| Die Lampe steht **neben dem** Schrank. | Lamba dolabin yan**inda** duruyor. |\n\n---\n\n## Artikel Tablosu (Wechselpräp. ile)\n\n| Cins | Akkusativ (Wohin?) | Dativ (Wo?) |\n|------|-------------------|-------------|\n| Maskulin | in **den** Park | in **dem** (=im) Park |\n| Feminin | in **die** Küche | in **der** Küche |\n| Neutrum | in **das** (=ins) Zimmer | in **dem** (=im) Zimmer |\n| Plural | in **die** Berge | in **den** Bergen |\n\n### Onemli Kisaltmalar\n\n| Uzun Form | Kisaltma | Ornek |\n|-----------|----------|-------|\n| in dem | **im** | im Park (parkta) |\n| in das | **ins** | ins Kino (sinemaya) |\n| an dem | **am** | am Tisch (masada) |\n| an das | **ans** | ans Meer (denize) |\n| auf das | **aufs** | aufs Dach (catiya) |\n\n---\n\n## Onemli Fiil Ciftleri\n\nAlmanca'da bazi fiiller ciftler halinde kullanilir — biri hareket (Akkusativ), digeri konum (Dativ) ifade eder:\n\n| Hareket (Akk.) | Konum (Dat.) | Aciklama |\n|----------------|-------------|----------|\n| **legen** (yatirmak) | **liegen** (yatiyor olmak) | Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch. |\n| **stellen** (dikmek) | **stehen** (dikili olmak) | Ich stelle die Vase auf den Tisch. / Die Vase steht auf dem Tisch. |\n| **hängen** (asmak) | **hängen** (asili olmak) | Ich hänge das Bild an die Wand. / Das Bild hängt an der Wand. |\n| **setzen** (oturtmak) | **sitzen** (oturuyor olmak) | Ich setze das Kind auf den Stuhl. / Das Kind sitzt auf dem Stuhl. |\n\n> **legen/stellen/setzen/hängen** → Akkusativ (birisi birseyı bir yere koyuyor)\n> **liegen/stehen/sitzen/hängen** → Dativ (birsey bir yerde duruyor)\n\n---\n\n## Turkce ile Karsilastirma\n\n| Turkce | Almanca |\n|--------|---------|\n| Sinemaya gidiyorum. (-**a** yonelme) | Ich gehe **ins** Kino. (Akk.) |\n| Sinemadayim. (-**da** bulunma) | Ich bin **im** Kino. (Dat.) |\n| Masaya koyuyorum. (-**a** yonelme) | Ich lege es **auf den** Tisch. (Akk.) |\n| Masada duruyor. (-**da** bulunma) | Es liegt **auf dem** Tisch. (Dat.) |",
+      "keyTerms": [
+        {
+          "german": "Wohin? → Akkusativ",
+          "turkish": "Nereye? → Belirtme hali (hareket)",
+          "example": "Ich gehe in die Schule. (Okula gidiyorum.)"
+        },
+        {
+          "german": "Wo? → Dativ",
+          "turkish": "Nerede? → Yonelme hali (konum)",
+          "example": "Ich bin in der Schule. (Okuldayim.)"
+        },
+        {
+          "german": "im (= in dem)",
+          "turkish": "icinde (kisaltma, Dativ)",
+          "example": "Er ist im Büro. (Ofiste.)"
+        },
+        {
+          "german": "ins (= in das)",
+          "turkish": "icerisine (kisaltma, Akkusativ)",
+          "example": "Ich gehe ins Kino. (Sinemaya gidiyorum.)"
+        },
+        {
+          "german": "legen / liegen",
+          "turkish": "yatirmak (hareket) / yatiyor olmak (konum)",
+          "example": "Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch."
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-07-q1",
+          "type": "multiple-choice",
+          "question": "Wechselpräpositionen'de Akkusativ ne zaman kullanilir?",
+          "options": [
+            "Wo? (nerede) sorusuna cevap verirken",
+            "Wohin? (nereye) sorusuna cevap verirken",
+            "Wann? (ne zaman) sorusuna cevap verirken",
+            "Warum? (neden) sorusuna cevap verirken"
+          ],
+          "correctAnswer": "Wohin? (nereye) sorusuna cevap verirken",
+          "explanation": "Wechselpräpositionen'de hareket/yon (Wohin?) sorusunda Akkusativ, konum (Wo?) sorusunda Dativ kullanilir."
+        },
+        {
+          "id": "a2-07-q2",
+          "type": "fill-blank",
+          "question": "Das Buch liegt ___ Tisch. (Kitap masada duruyor.)",
+          "options": ["auf den", "auf dem", "auf das", "auf der"],
+          "correctAnswer": "auf dem",
+          "explanation": "'liegen' konum fiilidir (Wo? → Dativ). 'der Tisch' maskulindir, Dativ'de 'dem' olur: auf dem Tisch."
+        },
+        {
+          "id": "a2-07-q3",
+          "type": "true-false",
+          "question": "'in dem' kisaltmasi 'im' seklindedir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Dogru",
+          "explanation": "Evet, 'in dem' → 'im' olarak kisaltilir. Ornek: im Park = in dem Park."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Wo oder Wohin?",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 10 cumle ver ve her cumlede bosluk birak. Bosluklara dogru edati Akkusativ (Wohin?) veya Dativ (Wo?) ile tamamlamam gereksin. Her cumlede 9 Wechselpräposition'dan birini kullan. Sonra cevaplarimi kontrol et ve Turkce acikla."
+        },
+        {
+          "title": "Ev Tasviri",
+          "prompt": "Bana bir evi tasvir et ve esyalarin nerede oldugunu sor. Ornegin: 'Wo steht der Fernseher? Wo liegt das Buch?' gibi 10 soru sor. Ben Almanca cevap vereyim (auf dem Tisch, im Regal, neben dem Sofa vs.). Sonra hatalarimi duzelt. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-08",
+      "phaseId": "a2",
+      "title": "Temporale Präpositionen (Zaman Edatlari)",
+      "subtitle": "Temporale Präpositionen",
+      "estimatedMinutes": 20,
+      "order": 8,
+      "content": "## Zaman Edatlari Nedir?\n\nAlmanca'da zamani ifade etmek icin belirli edatlar kullanilir. Her edatin kullanildigi zaman dilimi farklidir.\n\n---\n\n## Temel Zaman Edatlari\n\n### am + Dativ (gunler ve gun bolumleri icin)\n\n**am** = an + dem (kisaltma)\n\nGunler ve gun bolumleri icin kullanilir:\n\n| Ornek | Turkce |\n|-------|--------|\n| **am** Montag | Pazartesi gunu |\n| **am** Dienstag | Sali gunu |\n| **am** Wochenende | Hafta sonu |\n| **am** Morgen | Sabahleyin |\n| **am** Abend | Aksamleyin |\n| **am** 1. Januar | 1 Ocak'ta |\n\n> **Istisna:** \"in der Nacht\" (geceleyin) — am degil!\n\n---\n\n### um + Akkusativ (saat icin)\n\nKesin saat belirtmek icin:\n\n| Ornek | Turkce |\n|-------|--------|\n| **um** 8 Uhr | Saat 8'de |\n| **um** 12:30 Uhr | Saat 12:30'da |\n| **um** Mitternacht | Gece yarisi |\n| **Um** wie viel Uhr? | Saat kacta? |\n\n---\n\n### im + Dativ (aylar ve mevsimler icin)\n\n**im** = in + dem (kisaltma)\n\n| Ornek | Turkce |\n|-------|--------|\n| **im** Januar | Ocak'ta |\n| **im** Sommer | Yazin |\n| **im** Winter | Kisin |\n| **im** Frühling | Ilkbaharda |\n| **im** Herbst | Sonbaharda |\n| **im** März | Mart'ta |\n\n---\n\n### von ... bis (....den ....-e kadar)\n\nBaslangic ve bitis zamani icin:\n\n| Ornek | Turkce |\n|-------|--------|\n| **von** Montag **bis** Freitag | Pazartesiden Cumaya kadar |\n| **von** 8 **bis** 17 Uhr | 8'den 17'ye kadar |\n| **von** Januar **bis** März | Ocak'tan Mart'a kadar |\n| **von** morgens **bis** abends | Sabahtan aksama kadar |\n\n---\n\n### seit + Dativ (....-den beri)\n\nGecmiste baslayip hala devam eden eylemler icin:\n\n| Ornek | Turkce |\n|-------|--------|\n| **seit** zwei Jahren | Iki yildir |\n| **seit** einer Woche | Bir haftadir |\n| **seit** Montag | Pazartesiden beri |\n| **seit** 2020 | 2020'den beri |\n| Ich lerne **seit** drei Monaten Deutsch. | Uc aydir Almanca ogreniyorum. |\n\n> **Dikkat:** \"seit\" ile fiil **simdiki zaman** (Präsens) cekimlenir! Turkce'de de ayni: \"Uc aydir ogreniyorum\" (simdiki zaman).\n\n---\n\n### ab + Dativ (....-den itibaren)\n\nGelecekte baslamasi beklenen eylemler icin:\n\n| Ornek | Turkce |\n|-------|--------|\n| **ab** morgen | Yarindan itibaren |\n| **ab** nächster Woche | Gelecek haftadan itibaren |\n| **ab** September | Eylulden itibaren |\n| **ab** sofort | Hemen simdi, su andan itibaren |\n\n> **seit vs ab Farki:**\n> - **seit**: Gecmisten simdi'ye → Seit gestern bin ich krank. (Dundan beri hastayim.)\n> - **ab**: Simdi'den gelecege → Ab morgen esse ich gesund. (Yarindan itibaren saglikli yiyecegim.)\n\n---\n\n### nach + Dativ (....-den sonra)\n\n| Ornek | Turkce |\n|-------|--------|\n| **nach** dem Essen | Yemekten sonra |\n| **nach** der Arbeit | Isten sonra |\n| **nach** dem Unterricht | Dersten sonra |\n| **nach** einer Stunde | Bir saat sonra |\n\n---\n\n### vor + Dativ (....-den once)\n\n| Ornek | Turkce |\n|-------|--------|\n| **vor** dem Essen | Yemekten once |\n| **vor** der Prüfung | Sinavdan once |\n| **vor** zwei Tagen | Iki gun once |\n| **vor** dem Schlafen | Uyumadan once |\n\n---\n\n## Ozet Tablosu\n\n| Edat | Kullanim | Ornek |\n|------|----------|-------|\n| **am** | Gun, gun bolumu | am Montag, am Abend |\n| **um** | Saat | um 8 Uhr |\n| **im** | Ay, mevsim | im Januar, im Sommer |\n| **von...bis** | Baslangic-bitis | von 8 bis 17 Uhr |\n| **seit** | ...den beri (devam eden) | seit drei Jahren |\n| **ab** | ...den itibaren (gelecek) | ab morgen |\n| **nach** | ...den sonra | nach dem Essen |\n| **vor** | ...den once | vor der Prüfung |\n\n---\n\n## Turkce ile Karsilastirma\n\n| Turkce | Almanca |\n|--------|---------|\n| Pazartesi gunu | **am** Montag |\n| Saat 8'de | **um** 8 Uhr |\n| Ocak'ta | **im** Januar |\n| Iki yil**dir** | **seit** zwei Jahren |\n| Yarin**dan** itibaren | **ab** morgen |\n| Yemekten **sonra** | **nach** dem Essen |\n| Sinavdan **once** | **vor** der Prüfung |",
+      "keyTerms": [
+        {
+          "german": "am Montag",
+          "turkish": "Pazartesi gunu (gun icin am)",
+          "example": "Am Montag habe ich Deutschkurs. (Pazartesi Almanca kursum var.)"
+        },
+        {
+          "german": "um 8 Uhr",
+          "turkish": "Saat 8'de (saat icin um)",
+          "example": "Der Unterricht beginnt um 8 Uhr. (Ders saat 8'de baslar.)"
+        },
+        {
+          "german": "im Sommer",
+          "turkish": "Yazin (mevsim icin im)",
+          "example": "Im Sommer fahren wir ans Meer. (Yazin denize gidiyoruz.)"
+        },
+        {
+          "german": "seit + Dativ",
+          "turkish": "...den beri (devam eden)",
+          "example": "Ich wohne seit drei Jahren hier. (Uc yildir burada yasiyorum.)"
+        },
+        {
+          "german": "nach dem Essen",
+          "turkish": "yemekten sonra",
+          "example": "Nach dem Essen trinke ich Tee. (Yemekten sonra cay icerim.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-08-q1",
+          "type": "multiple-choice",
+          "question": "Saat ifade ederken hangi edat kullanilir?",
+          "options": ["am", "um", "im", "seit"],
+          "correctAnswer": "um",
+          "explanation": "Saat icin 'um' edati kullanilir: um 8 Uhr (saat 8'de), um 12:30 Uhr (saat 12:30'da)."
+        },
+        {
+          "id": "a2-08-q2",
+          "type": "fill-blank",
+          "question": "Ich lerne ___ zwei Monaten Deutsch. (Iki aydir Almanca ogreniyorum.)",
+          "options": ["seit", "ab", "vor", "nach"],
+          "correctAnswer": "seit",
+          "explanation": "Gecmiste baslayip hala devam eden eylemler icin 'seit' kullanilir. Turkce'deki '-dir/-dır' ekine karsilik gelir."
+        },
+        {
+          "id": "a2-08-q3",
+          "type": "multiple-choice",
+          "question": "'seit' ve 'ab' arasindaki fark nedir?",
+          "options": [
+            "Hicbir fark yoktur",
+            "seit = gecmisten simdi'ye, ab = simdi'den gelecege",
+            "seit = gelecek, ab = gecmis",
+            "seit = saat icin, ab = gun icin"
+          ],
+          "correctAnswer": "seit = gecmisten simdi'ye, ab = simdi'den gelecege",
+          "explanation": "'seit' gecmiste baslayip devam eden durumlar icin (seit drei Jahren), 'ab' gelecekte baslayacak durumlar icin (ab morgen) kullanilir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Zaman Edati Secimi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 12 Turkce cumle ver ve her cumlede zaman ifadesi olsun. Benden dogru Almanca zaman edatini (am, um, im, seit, ab, von...bis, nach, vor) secmemi ve cumleyi Almanca'ya cevirmemi iste. Sonra cevaplarimi kontrol et ve hatalarimi Turkce acikla."
+        },
+        {
+          "title": "Haftalik Program",
+          "prompt": "Benden haftalik bir program (Wochenplan) yazmami iste. Her gun ve saati iceren etkinlikler olsun. Zaman edatlarini (am Montag, um 9 Uhr, von 8 bis 12, nach dem Mittagessen vs.) dogru kullanmami kontrol et. En az 10 cumle olsun. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-09",
+      "phaseId": "a2",
+      "title": "Possessivpronomen (Iyelik Zamirleri)",
+      "subtitle": "Possessivpronomen",
+      "estimatedMinutes": 20,
+      "order": 9,
+      "content": "## Possessivpronomen Nedir?\n\nIyelik zamirleri, bir seyin **kime ait** oldugunu belirten kelimelerdir. Turkce'deki **-im, -in, -i, -imiz, -iniz, -leri** eklerine karsilik gelir.\n\n---\n\n## Iyelik Zamirleri (Temel Form)\n\n| Kisisel Zamir | Iyelik Zamiri | Turkce |\n|---------------|--------------|--------|\n| ich | **mein** | benim |\n| du | **dein** | senin |\n| er | **sein** | onun (erkek) |\n| sie | **ihr** | onun (kadin) |\n| es | **sein** | onun (notr) |\n| wir | **unser** | bizim |\n| ihr | **euer** | sizin |\n| sie | **ihr** | onlarin |\n| Sie | **Ihr** | Sizin (resmi) |\n\n---\n\n## Hal Degisimleri (Nominativ, Akkusativ, Dativ)\n\nIyelik zamirleri, ismin cinsiyetine ve cumledeki haline gore ek alir. Kurallar **ein/kein** ile aynidir!\n\n### Maskulin (erkek isimlerle)\n\n| Hal | mein | Ornek |\n|----|------|-------|\n| Nominativ | mein Bruder | **Mein** Bruder ist groß. (Kardesim buyuk.) |\n| Akkusativ | mein**en** Bruder | Ich sehe mein**en** Bruder. (Kardesimi goruyorum.) |\n| Dativ | mein**em** Bruder | Ich helfe mein**em** Bruder. (Kardesime yardim ediyorum.) |\n\n### Feminin (disi isimlerle)\n\n| Hal | mein | Ornek |\n|----|------|-------|\n| Nominativ | mein**e** Schwester | **Meine** Schwester ist nett. (Kiz kardesim nazik.) |\n| Akkusativ | mein**e** Schwester | Ich besuche mein**e** Schwester. (Kiz kardesimi ziyaret ediyorum.) |\n| Dativ | mein**er** Schwester | Ich helfe mein**er** Schwester. (Kiz kardesime yardim ediyorum.) |\n\n### Neutrum (notr isimlerle)\n\n| Hal | mein | Ornek |\n|----|------|-------|\n| Nominativ | mein Kind | **Mein** Kind spielt. (Cocugum oynuyor.) |\n| Akkusativ | mein Kind | Ich liebe mein Kind. (Cocugumu seviyorum.) |\n| Dativ | mein**em** Kind | Ich gebe mein**em** Kind Schokolade. (Cocuguma cikolata veriyorum.) |\n\n### Plural (cogul isimlerle)\n\n| Hal | mein | Ornek |\n|----|------|-------|\n| Nominativ | mein**e** Kinder | **Meine** Kinder sind klein. (Cocuklarim kucuk.) |\n| Akkusativ | mein**e** Kinder | Ich liebe mein**e** Kinder. (Cocuklarimi seviyorum.) |\n| Dativ | mein**en** Kindern | Ich gebe mein**en** Kindern Eis. (Cocuklarima dondurma veriyorum.) |\n\n---\n\n## Tam Tablo (tum iyelik zamirleri)\n\n### Nominativ\n\n| | Maskulin | Feminin | Neutrum | Plural |\n|---|---------|---------|---------|--------|\n| ich | mein | meine | mein | meine |\n| du | dein | deine | dein | deine |\n| er | sein | seine | sein | seine |\n| sie | ihr | ihre | ihr | ihre |\n| wir | unser | unsere | unser | unsere |\n| ihr | euer | eure | euer | eure |\n| sie/Sie | ihr/Ihr | ihre/Ihre | ihr/Ihr | ihre/Ihre |\n\n### Akkusativ\n\n| | Maskulin | Feminin | Neutrum | Plural |\n|---|---------|---------|---------|--------|\n| ich | meinen | meine | mein | meine |\n| du | deinen | deine | dein | deine |\n| er | seinen | seine | sein | seine |\n| sie | ihren | ihre | ihr | ihre |\n| wir | unseren | unsere | unser | unsere |\n| ihr | euren | eure | euer | eure |\n| sie/Sie | ihren/Ihren | ihre/Ihre | ihr/Ihr | ihre/Ihre |\n\n### Dativ\n\n| | Maskulin | Feminin | Neutrum | Plural |\n|---|---------|---------|---------|--------|\n| ich | meinem | meiner | meinem | meinen |\n| du | deinem | deiner | deinem | deinen |\n| er | seinem | seiner | seinem | seinen |\n| sie | ihrem | ihrer | ihrem | ihren |\n| wir | unserem | unserer | unserem | unseren |\n| ihr | eurem | eurer | eurem | euren |\n| sie/Sie | ihrem/Ihrem | ihrer/Ihrer | ihrem/Ihrem | ihren/Ihren |\n\n---\n\n## Onemli Notlar\n\n- **euer** kelimesinde ek alirken icerideki **e** duser:\n  - euer → eur**e** (feminin/plural Nominativ)\n  - euer → eur**en** (maskulin Akkusativ)\n  - euer → eur**em** (maskulin/neutrum Dativ)\n\n- **sein** hem \"onun (erkek)\" hem \"onun (notr)\" anlamina gelir.\n- **ihr** hem \"onun (kadin)\" hem \"onlarin\" hem \"Sizin (resmi)\" anlamina gelir — buyuk/kucuk harf ve baglama dikkat!\n\n---\n\n## Ornek Cumleler\n\n| Almanca | Turkce |\n|---------|--------|\n| **Mein** Vater arbeitet viel. | Babam cok calisiyor. |\n| Ich besuche **meine** Großmutter. | Buyukannemi ziyaret ediyorum. |\n| Er liebt **seine** Frau. | Karisini seviyor. |\n| Wir fahren mit **unserem** Auto. | Arabamizla gidiyoruz. |\n| Habt ihr **eure** Hausaufgaben gemacht? | Odevlerinizi yaptiniz mi? |\n| **Ihre** Kinder sind sehr klug. | Cocuklari cok akilli. (onlarin) |",
+      "keyTerms": [
+        {
+          "german": "mein / meine / meinen",
+          "turkish": "benim (hal degisimlerine dikkat)",
+          "example": "Mein Bruder ist nett. / Ich sehe meinen Bruder."
+        },
+        {
+          "german": "sein / seine",
+          "turkish": "onun (erkek icin)",
+          "example": "Sein Auto ist neu. (Arabasi yeni.)"
+        },
+        {
+          "german": "ihr / ihre",
+          "turkish": "onun (kadin icin) / onlarin",
+          "example": "Ihre Tasche ist schön. (Cantasi guzel.)"
+        },
+        {
+          "german": "unser / unsere",
+          "turkish": "bizim",
+          "example": "Unsere Schule ist groß. (Okulumuz buyuk.)"
+        },
+        {
+          "german": "euer / eure",
+          "turkish": "sizin",
+          "example": "Euer Haus ist schön. (Eviniz guzel.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-09-q1",
+          "type": "fill-blank",
+          "question": "Ich suche ___ Schlüssel. (Anahtarimi ariyorum.) (der Schlüssel = maskulin)",
+          "options": ["mein", "meine", "meinen", "meinem"],
+          "correctAnswer": "meinen",
+          "explanation": "'suchen' Akkusativ alan bir fiildir. 'der Schlüssel' maskulindir. Maskulin Akkusativ'de mein → meinen olur."
+        },
+        {
+          "id": "a2-09-q2",
+          "type": "multiple-choice",
+          "question": "'euer' kelimesinin feminin Nominativ formu nedir?",
+          "options": ["euere", "eure", "euer", "eurem"],
+          "correctAnswer": "eure",
+          "explanation": "'euer' kelimesinde ek alirken icerideki 'e' duser: euer → eure (euere degil!)."
+        },
+        {
+          "id": "a2-09-q3",
+          "type": "true-false",
+          "question": "Iyelik zamirlerinin ek alma kurallari 'ein/kein' ile aynidir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Dogru",
+          "explanation": "Evet, iyelik zamirleri (mein, dein, sein...) tamamen ein/kein ile ayni ekleri alir. Bu nedenle 'ein-Wörter' olarak da adlandirilir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Iyelik Zamiri Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 12 cumle ver ve her cumlede iyelik zamiri boslugu birak. Bosluklara dogru iyelik zamirini (mein, dein, sein, ihr, unser, euer) dogru hal ekiyle (Nominativ/Akkusativ/Dativ) yazmami iste. Her cumlenin yaninda cinsiyet ve hal bilgisini ver. Sonra kontrol et ve Turkce acikla."
+        },
+        {
+          "title": "Aile Tanitimi",
+          "prompt": "Bana Almanca ailemi tanitma metni yazmam icin rehberlik et. Iyelik zamirlerini kullanarak ailenin her uyesini anlatmam gereksin (mein Vater, meine Mutter, mein Bruder, meine Schwester vs.). En az 10 cumle olsun. Hatalarimi duzelt. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-10",
+      "phaseId": "a2",
+      "title": "Komparativ und Superlativ (Karsilastirma)",
+      "subtitle": "Komparativ und Superlativ",
+      "estimatedMinutes": 20,
+      "order": 10,
+      "content": "## Karsilastirma Nedir?\n\nAlmanca'da sifatlarin uc derecesi vardir:\n\n1. **Positiv** (normal) → schnell (hizli)\n2. **Komparativ** (karsilastirma) → schnell**er** (daha hizli)\n3. **Superlativ** (en ust derece) → **am** schnellst**en** (en hizli)\n\nTurkce karsiligi:\n- Komparativ = **daha** + sifat\n- Superlativ = **en** + sifat\n\n---\n\n## Duzenli Karsilastirma\n\n### Temel Kural\n\n| Derece | Formul | Ornek |\n|--------|--------|-------|\n| Positiv | sifat | schnell (hizli) |\n| Komparativ | sifat + **-er** | schnell**er** (daha hizli) |\n| Superlativ | **am** + sifat + **-sten** | **am** schnellst**en** (en hizli) |\n\n### Ornekler\n\n| Positiv | Komparativ | Superlativ | Turkce |\n|---------|-----------|------------|--------|\n| klein | kleiner | am kleinsten | kucuk |\n| schnell | schneller | am schnellsten | hizli |\n| langsam | langsamer | am langsamsten | yavas |\n| billig | billiger | am billigsten | ucuz |\n| schön | schöner | am schönsten | guzel |\n| leicht | leichter | am leichtesten | kolay |\n| neu | neuer | am neuesten | yeni |\n| interessant | interessanter | am interessantesten | ilginc |\n\n---\n\n## Umlaut Alan Sifatlar\n\nBazi tek heceli sifatlar Komparativ ve Superlativ'de **Umlaut** alir:\n\n| Positiv | Komparativ | Superlativ | Turkce |\n|---------|-----------|------------|--------|\n| alt | **ä**lter | am **ä**ltesten | yasli |\n| jung | j**ü**nger | am j**ü**ngsten | genc |\n| groß | gr**ö**ßer | am gr**ö**ßten | buyuk |\n| kurz | k**ü**rzer | am k**ü**rzesten | kisa |\n| lang | l**ä**nger | am l**ä**ngsten | uzun |\n| warm | w**ä**rmer | am w**ä**rmsten | sicak |\n| kalt | k**ä**lter | am k**ä**ltesten | soguk |\n| stark | st**ä**rker | am st**ä**rksten | guclu |\n| klug | kl**ü**ger | am kl**ü**gsten | akilli |\n\n---\n\n## Duzensiz Karsilastirma\n\nBu sifatlari ezberlemek gerekir:\n\n| Positiv | Komparativ | Superlativ | Turkce |\n|---------|-----------|------------|--------|\n| **gut** | **besser** | **am besten** | iyi |\n| **viel** | **mehr** | **am meisten** | cok |\n| **gern** | **lieber** | **am liebsten** | seve seve |\n| **hoch** | **höher** | **am höchsten** | yuksek |\n| **nah** | **näher** | **am nächsten** | yakin |\n\n---\n\n## als vs wie\n\n| Yapı | Kullanim | Ornek |\n|------|----------|-------|\n| so + sifat + **wie** | Esitlik (... kadar) | Er ist **so** groß **wie** ich. (Benim kadar buyuk.) |\n| Komparativ + **als** | Farklilik (... -den daha) | Er ist größer **als** ich. (Benden daha buyuk.) |\n\n> **Dikkat:** Turkce'de \"...den daha\" → Almanca'da \"Komparativ + als\"\n> Turkce'de \"...kadar\" → Almanca'da \"so ... wie\"\n\n---\n\n## Ornek Cumleler\n\n### Komparativ (daha)\n\n| Almanca | Turkce |\n|---------|--------|\n| Berlin ist **größer als** München. | Berlin, Munih'ten daha buyuk. |\n| Mein Auto ist **schneller als** dein Auto. | Arabam seninkinden daha hizli. |\n| Deutsch ist **schwerer als** Englisch. | Almanca, Ingilizce'den daha zor. |\n| Ich esse **lieber** Pizza **als** Pasta. | Makarnadan cok pizzayi tercih ederim. |\n\n### Superlativ (en)\n\n| Almanca | Turkce |\n|---------|--------|\n| Berlin ist die **größte** Stadt Deutschlands. | Berlin, Almanya'nin en buyuk sehri. |\n| Das ist das **beste** Restaurant. | Bu en iyi restoran. |\n| Er läuft **am schnellsten**. | O en hizli kosuyor. |\n| **Am liebsten** esse ich Pizza. | En cok pizzayi severim. |\n\n### Esitlik (kadar)\n\n| Almanca | Turkce |\n|---------|--------|\n| Maria ist **so alt wie** Thomas. | Maria, Thomas kadar yasli. |\n| Tee ist **so gut wie** Kaffee. | Cay, kahve kadar iyi. |\n\n---\n\n## Sifat Olarak Kullanim\n\nSuperlativ sifat olarak isimden once kullanilirsa, sifat ekleri alir:\n\n| Yapi | Ornek |\n|------|-------|\n| Nominativ | Das ist **der beste** Film. (Bu en iyi film.) |\n| Akkusativ | Ich habe **den besten** Film gesehen. (En iyi filmi gordum.) |\n| Dativ | Ich wohne in **der schönsten** Stadt. (En guzel sehirde yasiyorum.) |",
+      "keyTerms": [
+        {
+          "german": "Komparativ (-er)",
+          "turkish": "daha ... (karsilastirma derecesi)",
+          "example": "Deutsch ist schwerer als Englisch. (Almanca Ingilizce'den daha zor.)"
+        },
+        {
+          "german": "Superlativ (am ...-sten)",
+          "turkish": "en ... (en ust derece)",
+          "example": "Er ist am schnellsten. (O en hizli.)"
+        },
+        {
+          "german": "als (karsilastirma)",
+          "turkish": "-den daha (fark belirtir)",
+          "example": "Berlin ist größer als München. (Berlin Munih'ten daha buyuk.)"
+        },
+        {
+          "german": "so ... wie",
+          "turkish": "... kadar (esitlik belirtir)",
+          "example": "Er ist so groß wie ich. (Benim kadar uzun.)"
+        },
+        {
+          "german": "besser / am besten",
+          "turkish": "daha iyi / en iyi (duzensiz)",
+          "example": "Dieses Restaurant ist besser als das andere. (Bu restoran digerinden daha iyi.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-10-q1",
+          "type": "multiple-choice",
+          "question": "'gut' sifatinin Komparativ formu nedir?",
+          "options": ["guter", "güter", "besser", "mehr gut"],
+          "correctAnswer": "besser",
+          "explanation": "'gut' duzensiz bir sifatdir: gut → besser → am besten. 'guter' yanlis olur."
+        },
+        {
+          "id": "a2-10-q2",
+          "type": "fill-blank",
+          "question": "Maria ist größer ___ Thomas. (Maria, Thomas'tan daha buyuk.)",
+          "options": ["wie", "als", "so", "von"],
+          "correctAnswer": "als",
+          "explanation": "Karsilastirmada fark belirtmek icin Komparativ + 'als' kullanilir. 'wie' esitlik icin kullanilir (so ... wie)."
+        },
+        {
+          "id": "a2-10-q3",
+          "type": "true-false",
+          "question": "'alt' sifati Komparativ'de Umlaut alarak 'älter' olur.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Dogru",
+          "explanation": "Evet, 'alt' tek heceli sifatlardan biridir ve Umlaut alir: alt → älter → am ältesten."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Karsilastirma Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 10 sifat ver ve her birinin Positiv, Komparativ, Superlativ formlarini yazmami iste. Iclerinde Umlaut alan ve duzensiz sifatlar da olsun. Sonra bu sifatlarla cumle kurmami iste (als ve wie kullanarak). Hatalarimi duzelt. Turkce aciklama yap."
+        },
+        {
+          "title": "Sehir Karsilastirmasi",
+          "prompt": "Bana iki sehri (ornegin Istanbul ve Berlin) karsilastiran bir metin yazmami iste. Komparativ (daha buyuk, daha sicak, daha eski) ve Superlativ (en guzel, en buyuk) kullanan en az 10 cumle olsun. als/wie kullanimini da kontrol et. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-11",
+      "phaseId": "a2",
+      "title": "Imperativ (Emir Kipi)",
+      "subtitle": "Der Imperativ",
+      "estimatedMinutes": 20,
+      "order": 11,
+      "content": "## Imperativ Nedir?\n\nImperativ (emir kipi), birine **emir, rica, tavsiye veya talimat** vermek icin kullanilir.\n\nTurkce'deki karsiligi: \"Gel!\", \"Oturun!\", \"Lutfen bekleyiniz!\"\n\nAlmanca'da **uc farkli** Imperativ formu vardir:\n1. **du-Form** (sen - samimi)\n2. **ihr-Form** (siz - samimi cogul)\n3. **Sie-Form** (Siz - resmi/kibar)\n\n---\n\n## du-Form (Sen icin)\n\nFiil kokune **dogrudan** hitap edilir. Genellikle **-st** eki duser:\n\n| Mastar | du-Form (normal) | Imperativ | Ornek |\n|--------|-----------------|-----------|-------|\n| kommen | du komm**st** | **Komm!** | Gel! |\n| machen | du mach**st** | **Mach!** | Yap! |\n| gehen | du geh**st** | **Geh!** | Git! |\n| trinken | du trink**st** | **Trink!** | Ic! |\n| lernen | du lern**st** | **Lern!** | Ogren! |\n| hören | du hör**st** | **Hör!** | Dinle! |\n| warten | du wart**est** | **Warte!** | Bekle! |\n| öffnen | du öffn**est** | **Öffne!** | Ac! |\n\n> **Kural:** Fiil koku -t, -d, -n ile bitiyorsa **-e** eklenir: warten → wart**e**, öffnen → öffn**e**\n\n### e→i / e→ie Degisimi (Duzensiz)\n\nBazi fiillerde kokteki **e** harfi degisir:\n\n| Mastar | du-Form | Imperativ | Ornek |\n|--------|---------|-----------|-------|\n| lesen | du liest | **Lies!** | Oku! |\n| sprechen | du sprichst | **Sprich!** | Konus! |\n| nehmen | du nimmst | **Nimm!** | Al! |\n| geben | du gibst | **Gib!** | Ver! |\n| essen | du isst | **Iss!** | Ye! |\n| helfen | du hilfst | **Hilf!** | Yardim et! |\n| sehen | du siehst | **Sieh!** | Bak!/Gor! |\n| vergessen | du vergisst | **Vergiss!** | Unutma! |\n\n> **Dikkat:** Umlaut (a→ä) degisimi Imperativ'de **olmaz!**\n> fahren → du fährst → ama Imperativ: **Fahr!** (Fähr degil!)\n> schlafen → du schläfst → ama Imperativ: **Schlaf!**\n\n---\n\n## ihr-Form (Siz icin - Samimi Cogul)\n\nNormal **ihr** cekimi ile aynidir:\n\n| Mastar | ihr-Form | Imperativ | Ornek |\n|--------|---------|-----------|-------|\n| kommen | ihr kommt | **Kommt!** | Gelin! |\n| machen | ihr macht | **Macht!** | Yapin! |\n| lesen | ihr lest | **Lest!** | Okuyun! |\n| sprechen | ihr sprecht | **Sprecht!** | Konusun! |\n| gehen | ihr geht | **Geht!** | Gidin! |\n| warten | ihr wartet | **Wartet!** | Bekleyin! |\n\n---\n\n## Sie-Form (Siz icin - Resmi/Kibar)\n\nMastar + **Sie** (ters sirada):\n\n| Mastar | Imperativ | Ornek |\n|--------|-----------|-------|\n| kommen | **Kommen Sie!** | Geliniz! |\n| machen | **Machen Sie!** | Yapiniz! |\n| lesen | **Lesen Sie!** | Okuyunuz! |\n| sprechen | **Sprechen Sie!** | Konusunuz! |\n| warten | **Warten Sie!** | Bekleyiniz! |\n| setzen | **Setzen Sie sich!** | Oturunuz! |\n\n---\n\n## Ozel Fiil: sein (olmak)\n\n| Form | Imperativ | Ornek |\n|------|-----------|-------|\n| du | **Sei!** | Sei ruhig! (Sessiz ol!) |\n| ihr | **Seid!** | Seid vorsichtig! (Dikkatli olun!) |\n| Sie | **Seien Sie!** | Seien Sie bitte pünktlich! (Lutfen dakik olunuz!) |\n\n---\n\n## Ozet Tablosu\n\n| Mastar | du | ihr | Sie |\n|--------|-----|------|------|\n| kommen | Komm! | Kommt! | Kommen Sie! |\n| lesen | Lies! | Lest! | Lesen Sie! |\n| sprechen | Sprich! | Sprecht! | Sprechen Sie! |\n| nehmen | Nimm! | Nehmt! | Nehmen Sie! |\n| geben | Gib! | Gebt! | Geben Sie! |\n| sein | Sei! | Seid! | Seien Sie! |\n| fahren | Fahr! | Fahrt! | Fahren Sie! |\n| schlafen | Schlaf! | Schlaft! | Schlafen Sie! |\n\n---\n\n## Gunluk Hayatta Imperativ\n\n| Durum | Ornek |\n|-------|-------|\n| Ailede (du) | **Räum** dein Zimmer **auf**! (Odani topla!) |\n| Sinifta (ihr) | **Macht** eure Bücher **auf**! (Kitaplarinizi acin!) |\n| Resmi (Sie) | **Füllen Sie** bitte das Formular **aus**! (Lutfen formu doldurun!) |\n| Tavsiye | **Trink** mehr Wasser! (Daha cok su ic!) |\n| Uyari | **Vergiss** nicht! (Unutma!) |\n| Rica | **Hilf** mir bitte! (Lutfen bana yardim et!) |\n\n> **Ayrilabilen fiillerde:** On ek yine cumle sonuna gider!\n> aufräumen → **Räum** ... **auf**!",
+      "keyTerms": [
+        {
+          "german": "Komm! (du-Imperativ)",
+          "turkish": "Gel! (sen icin emir)",
+          "example": "Komm schnell! (Cabuk gel!)"
+        },
+        {
+          "german": "Lies! (du-Imperativ, duzensiz)",
+          "turkish": "Oku! (e→ie degisimi)",
+          "example": "Lies das Buch! (Kitabi oku!)"
+        },
+        {
+          "german": "Kommt! (ihr-Imperativ)",
+          "turkish": "Gelin! (siz icin emir, samimi)",
+          "example": "Kommt bitte rein! (Lutfen iceri gelin!)"
+        },
+        {
+          "german": "Kommen Sie! (Sie-Imperativ)",
+          "turkish": "Geliniz! (siz icin emir, resmi)",
+          "example": "Kommen Sie bitte herein! (Lutfen iceri geliniz!)"
+        },
+        {
+          "german": "Sei ruhig!",
+          "turkish": "Sessiz ol! (sein'in du-Imperativ'i)",
+          "example": "Sei bitte leise! (Lutfen sessiz ol!)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-11-q1",
+          "type": "multiple-choice",
+          "question": "'lesen' fiilinin du-Form Imperativ'i nedir?",
+          "options": ["Lese!", "Les!", "Lies!", "Liest!"],
+          "correctAnswer": "Lies!",
+          "explanation": "'lesen' duzensiz bir fiildir ve e→ie degisimi yapar. du liest → Imperativ: Lies! (Oku!)"
+        },
+        {
+          "id": "a2-11-q2",
+          "type": "fill-blank",
+          "question": "___ Sie bitte das Fenster! (öffnen) (Lutfen pencereyi acin!)",
+          "options": ["Öffne", "Öffnen", "Öffnet", "Öffnest"],
+          "correctAnswer": "Öffnen",
+          "explanation": "Sie-Form Imperativ'de fiil mastar + Sie seklinde kullanilir: Öffnen Sie! (Aciniz!)"
+        },
+        {
+          "id": "a2-11-q3",
+          "type": "true-false",
+          "question": "'fahren' fiilinin du-Imperativ'inde Umlaut kullanilir: 'Fähr!'",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Yanlis",
+          "explanation": "Umlaut (a→ä) degisimi Imperativ'de olmaz! fahren → Fahr! (Fähr degil!). Sadece e→i/ie degisimi olur."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Imperativ Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 10 fiil ver ve her biri icin du/ihr/Sie Imperativ formlarini yazmami iste. Iclerinde duzensiz fiiller (e→i degisimi yapanlar) ve ayrilabilen fiiller de olsun. Sonra cevaplarimi kontrol et. Turkce aciklama yap."
+        },
+        {
+          "title": "Yemek Tarifi",
+          "prompt": "Bana basit bir Alman yemek tarifini Imperativ formuyla yaz (du-Form kullanarak). Her adimda farkli bir fiil olsun (schneiden, waschen, kochen, mischen, geben, warten vs.). En az 8 adim olsun. Sonra benden benzer bir tarifi yazmami iste ve hatalarimi duzelt. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-12",
+      "phaseId": "a2",
+      "title": "Nebensätze Einführung (Yan Cumlelere Giris)",
+      "subtitle": "Nebensätze mit weil, dass, wenn, ob",
+      "estimatedMinutes": 25,
+      "order": 12,
+      "content": "## Nebensätze Nedir?\n\nAlmanca'da iki tur cumle vardir:\n1. **Hauptsatz** (ana cumle) → fiil 2. sirada\n2. **Nebensatz** (yan cumle) → fiil **cumle sonunda**\n\nYan cumleler bir baglac ile baslar ve ana cumleye ek bilgi verir.\n\n**En onemli kural:** Yan cumlede **fiil cumlenin en sonuna** gider!\n\n> Ana cumle: Ich lerne Deutsch. (Almanca ogreniyorum.)\n> Yan cumle: ..., **weil** ich in Deutschland **arbeiten will**. (..., cunku Almanya'da calismak istiyorum.)\n\n---\n\n## 4 Temel Baglac\n\n### 1. weil (cunku)\n\nNeden/sebep bildirmek icin:\n\n| Ana Cumle | Yan Cumle | Turkce |\n|-----------|-----------|--------|\n| Ich lerne Deutsch, | **weil** ich in Deutschland arbeiten **will**. | Almanca ogreniyorum, cunku Almanya'da calismak istiyorum. |\n| Er ist müde, | **weil** er gestern spät ins Bett **gegangen ist**. | Yorgun, cunku dun gec yatti. |\n| Sie bleibt zu Hause, | **weil** sie krank **ist**. | Evde kaliyor, cunku hasta. |\n| Wir nehmen ein Taxi, | **weil** der Bus nicht **fährt**. | Taksi aliyoruz, cunku otobus calismiyor. |\n\n> **Dikkat:** Perfekt yan cumlede: yardimci fiil (haben/sein) en sona gider!\n> ...weil er das Buch gelesen **hat**. (...cunku kitabi okumus.)\n\n---\n\n### 2. dass (ki / -dIğInI / -dIğI)\n\nBir durum veya dusunceyi aktarmak icin:\n\n| Ana Cumle | Yan Cumle | Turkce |\n|-----------|-----------|--------|\n| Ich denke, | **dass** Deutsch interessant **ist**. | Almanca'nin ilginc oldugunu dusunuyorum. |\n| Er sagt, | **dass** er morgen **kommt**. | Yarin gelecegini soyluyor. |\n| Ich hoffe, | **dass** du mir **hilfst**. | Bana yardim edecegini umuyorum. |\n| Es ist wichtig, | **dass** man viel **übt**. | Cok pratik yapmanin onemli oldugunu... |\n| Ich weiß, | **dass** sie in Berlin **wohnt**. | Berlin'de yasadigini biliyorum. |\n\n---\n\n### 3. wenn (eger / -dIğIndA / -InCA)\n\nKosul veya zaman bildirmek icin:\n\n| Ana Cumle | Yan Cumle | Turkce |\n|-----------|-----------|--------|\n| Ich bin glücklich, | **wenn** die Sonne **scheint**. | Gunes parladiginda mutluyum. |\n| **Wenn** es **regnet**, | bleibe ich zu Hause. | Yagmur yaginca evde kalirim. |\n| Ruf mich an, | **wenn** du Zeit **hast**. | Vaktin olunca beni ara. |\n| **Wenn** ich Geld **hätte**, | würde ich reisen. | Param olsa seyahat ederdim. |\n| Ich esse Pizza, | **wenn** ich Hunger **habe**. | Acikinca pizza yerim. |\n\n> **Dikkat:** \"wenn\" yan cumle basta gelirse, ana cumle fiille baslar:\n> **Wenn** es regnet, **bleibe** ich zu Hause. (Ters sira!)\n\n---\n\n### 4. ob (olup olmadigini / -Ip -mAdIğInI)\n\nDolayli soru / belirsizlik icin:\n\n| Ana Cumle | Yan Cumle | Turkce |\n|-----------|-----------|--------|\n| Ich weiß nicht, | **ob** er **kommt**. | Gelip gelmeyecegini bilmiyorum. |\n| Kannst du mir sagen, | **ob** der Zug pünktlich **ist**? | Trenin zamaninda olup olmadigini soyleyebilir misin? |\n| Ich frage mich, | **ob** das richtig **ist**. | Bunun dogru olup olmadigini merak ediyorum. |\n| Er fragt, | **ob** wir morgen **kommen**. | Yarin gelip gelmeyecegimizi soruyor. |\n\n---\n\n## Cumle Yapisi Kurallari\n\n### Kural 1: Yan cumlede fiil sona gider\n\n| Dogru | Yanlis |\n|-------|--------|\n| ...weil ich Deutsch **lerne**. | ...weil ich **lerne** Deutsch. |\n| ...dass er morgen **kommt**. | ...dass er **kommt** morgen. |\n\n### Kural 2: Kip fiili + asil fiil → kip fiili en sona\n\n| Dogru | Yanlis |\n|-------|--------|\n| ...weil ich Deutsch lernen **will**. | ...weil ich **will** Deutsch lernen. |\n| ...dass er kommen **kann**. | ...dass er **kann** kommen. |\n\n### Kural 3: Perfekt → haben/sein en sona\n\n| Dogru | Yanlis |\n|-------|--------|\n| ...weil er das Buch gelesen **hat**. | ...weil er **hat** das Buch gelesen. |\n| ...weil sie nach Berlin gefahren **ist**. | ...weil sie **ist** nach Berlin gefahren. |\n\n### Kural 4: Yan cumle basta → ana cumlede fiil hemen sonra\n\n| Yapi | Ornek |\n|------|-------|\n| Yan cumle + ana cumle | **Wenn** es regnet, **bleibe** ich zu Hause. |\n| Ana cumle + yan cumle | Ich bleibe zu Hause, **wenn** es regnet. |\n\n> Yan cumle basta gelirse, ana cumlede fiil **hemen** yan cumleden sonra gelir (ters sira).\n\n---\n\n## Turkce ile Karsilastirma\n\n| Turkce | Almanca | Baglac |\n|--------|---------|--------|\n| ...cunku hasta**yim**. | ...weil ich krank **bin**. | weil |\n| ...oldug**unu** biliyorum. | ...dass er krank **ist**. | dass |\n| Yagmur yag**inca**... | Wenn es **regnet**... | wenn |\n| ...gelip gelmeye**cegini**... | ...ob er **kommt**. | ob |",
+      "keyTerms": [
+        {
+          "german": "weil (cunku)",
+          "turkish": "cunku (neden baglaci)",
+          "example": "Ich bleibe zu Hause, weil ich krank bin. (Evde kaliyorum, cunku hastayim.)"
+        },
+        {
+          "german": "dass (ki)",
+          "turkish": "ki / -dIğI (aktarma baglaci)",
+          "example": "Ich denke, dass Deutsch schön ist. (Almanca'nin guzel oldugunu dusunuyorum.)"
+        },
+        {
+          "german": "wenn (eger/...InCA)",
+          "turkish": "eger / -dIğIndA (kosul/zaman)",
+          "example": "Wenn ich Zeit habe, lese ich. (Vaktim olunca okurum.)"
+        },
+        {
+          "german": "ob (olup olmadigini)",
+          "turkish": "-Ip -mAdIğInI (dolayli soru)",
+          "example": "Ich weiß nicht, ob er kommt. (Gelip gelmeyecegini bilmiyorum.)"
+        },
+        {
+          "german": "Verb am Ende (fiil sonda)",
+          "turkish": "yan cumlede fiil cumle sonuna gider",
+          "example": "...weil ich Deutsch lerne. (...cunku Almanca ogreniyorum.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-12-q1",
+          "type": "multiple-choice",
+          "question": "Yan cumlede (Nebensatz) fiil nerede bulunur?",
+          "options": [
+            "Cumlenin basinda",
+            "2. sirada",
+            "Cumlenin sonunda",
+            "Baglactan hemen sonra"
+          ],
+          "correctAnswer": "Cumlenin sonunda",
+          "explanation": "Yan cumlede (Nebensatz) fiil her zaman cumlenin en sonuna gider. Bu Almanca'nin en onemli yapisal kurallarindan biridir."
+        },
+        {
+          "id": "a2-12-q2",
+          "type": "fill-blank",
+          "question": "Ich bleibe zu Hause, ___ ich krank bin. (Evde kaliyorum, cunku hastayim.)",
+          "options": ["dass", "weil", "ob", "wenn"],
+          "correctAnswer": "weil",
+          "explanation": "Neden/sebep bildirmek icin 'weil' (cunku) baglaci kullanilir."
+        },
+        {
+          "id": "a2-12-q3",
+          "type": "true-false",
+          "question": "Yan cumle basta gelirse, ana cumlede fiil 3. siraya gecer.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Yanlis",
+          "explanation": "Yan cumle basta gelirse, ana cumlede fiil hemen yan cumleden sonra gelir (1. siraya), 3. siraya degil. Ornek: Wenn es regnet, bleibe ich zu Hause."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Yan Cumle Pratigi",
+          "prompt": "Ben A2 seviyesinde Almanca ogrenen bir Turk ogrenciyim. Bana 12 Turkce cumle ver (her baglactan 3'er tane: weil, dass, wenn, ob) ve bunlari Almancaya cevirmemi iste. Ozellikle fiil sirasina dikkat etmemi isteyerek kontrol et. Hatalarimi Turkce acikla ve dogru cumlelerle karsilastir."
+        },
+        {
+          "title": "Neden ve Kosul Diyalogu",
+          "prompt": "Benimle bir diyalog kur. Bana 'Warum?' (Neden?) sorulari sor ve ben 'weil' ile cevap vereyim. Sonra 'Was machst du, wenn...?' (Ne zaman... ne yaparsin?) sorulari sor ve ben 'wenn' ile cevap vereyim. Her cevabimda fiil sirasini kontrol et. En az 10 soru-cevap olsun. Turkce aciklama yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-13",
+      "phaseId": "a2",
+      "title": "Telc A2 Sinavi Hazirlik",
+      "subtitle": "Telc A2 Prüfungsvorbereitung",
+      "estimatedMinutes": 30,
+      "order": 13,
+      "isTelcPrep": true,
+      "content": "## Telc A2 Sinavi Nedir?\n\n**Telc A2** (The European Language Certificates), Avrupa Dil Portfolyosu'na (GER) uygun, A2 seviyesini belgeleyen uluslararasi gecerliligi olan bir Almanca sinavidir.\n\nBu sinav ozellikle **Almanya'da yasama izni**, **aile birlesimi** ve **entegrasyon kursu** icin gereklidir.\n\n---\n\n## Sinav Yapisi\n\n| Bolum | Sure | Puan | Aciklama |\n|-------|------|------|----------|\n| **Hören** (Dinleme) | ~20 dk | 75 puan | 3 bolum, toplam ~20 soru |\n| **Lesen** (Okuma) | 30 dk | 75 puan | 3 bolum, toplam ~20 soru |\n| **Schreiben** (Yazma) | 30 dk | 75 puan | 2 gorev: kisa mesaj + form doldurma |\n| **Sprechen** (Konusma) | ~15 dk | 75 puan | 3 bolum: kendini tanitma, soru-cevap, ortakla planlama |\n| **Toplam** | ~95 dk | **300 puan** | Gecme notu: 180 puan (%60) |\n\n> **Onemli:** Her bolumde ayri ayri gecme zorunlulugu yoktur, toplam 180 puan yeterlidir. Ancak yazili ve sozlu sinavlarin her birinden en az %60 alinmalidir.\n\n---\n\n## Bolum 1: Hören (Dinleme)\n\n### Yapi\n- **Teil 1:** Kisa diyaloglar (5 soru) — dogru/yanlis\n- **Teil 2:** Uzun bir konusma (5 soru) — coktan secmeli\n- **Teil 3:** Kisa anonslar/mesajlar (5 soru) — eslestirme\n\n### Hazirlik Stratejileri\n- Sorulari ses kaydini dinlemeden **once** okuyun\n- Anahtar kelimelere odaklanin\n- Her kayit **iki kez** calinir — ilkinde genel anlami, ikincisinde detaylari yakalamaya calisin\n- Gunluk konulara alisik olun: alisveris, randevu, ulasim, hava durumu\n\n### Ornek Soru (Teil 1 - Richtig/Falsch)\n\n*Dinleme metni: \"Guten Tag, ich möchte einen Termin beim Arzt machen. Geht es am Donnerstag um 10 Uhr?\"*\n\n**Soru:** Die Person möchte am Donnerstag zum Arzt. (Kisi Persembe gunu doktora gitmek istiyor.)\n- [x] Richtig (Dogru)\n- [ ] Falsch (Yanlis)\n\n---\n\n## Bolum 2: Lesen (Okuma)\n\n### Yapi\n- **Teil 1:** Kisa metinler + eslestirme (5 soru)\n- **Teil 2:** Bir metin + dogru/yanlis (5 soru)\n- **Teil 3:** Ilanlar/tabelalar + eslestirme (5 soru)\n\n### Hazirlik Stratejileri\n- Her gun kisa Almanca metinler okuyun (basit haberler, ilanlar)\n- Sorulari once okuyun, sonra metinde anahtar kelimeleri arayin\n- Eslestirme sorularinda eleme yontemi kullanin\n- Dikkat: Tuzak secenekler olabilir (benzer ama farkli anlam)\n\n### Ornek Soru (Teil 2 - Richtig/Falsch)\n\n*Metin: \"Das Schwimmbad ist von Montag bis Freitag von 8 bis 20 Uhr geöffnet. Am Wochenende öffnet es um 9 Uhr.\"*\n\n**Soru:** Am Samstag kann man ab 8 Uhr schwimmen. (Cumartesi saat 8'den itibaren yuzulebilir.)\n- [ ] Richtig\n- [x] Falsch → Hafta sonu saat 9'da aciliyor.\n\n---\n\n## Bolum 3: Schreiben (Yazma)\n\n### Yapi\n- **Aufgabe 1:** Kisa mesaj yazma (SMS, e-posta, not) — ~30-40 kelime\n- **Aufgabe 2:** Form/anket doldurma\n\n### Ornek Gorev 1: Kisa Mesaj\n\n**Gorev:** Arkadasiniz sizi dogum gunune davet etti. Yanit yazin:\n- Tesekkur edin\n- Gelip gelemeyeceginizi soyleyin\n- Bir soru sorun\n\n**Ornek Cevap:**\n\n> Liebe Maria,\n>\n> vielen Dank für die Einladung zu deiner Geburtstagsfeier! Ich komme sehr gern. Um wie viel Uhr fängt die Party an? Soll ich etwas mitbringen?\n>\n> Liebe Grüße,\n> Ahmet\n\n### Ornek Gorev 2: Form Doldurma\n\n| Alan | Yazilacak |\n|------|----------|\n| Vorname: | Ahmet |\n| Nachname: | Yilmaz |\n| Geburtsdatum: | 15.03.1990 |\n| Adresse: | Berliner Str. 45, 10115 Berlin |\n| Telefonnummer: | 0176-12345678 |\n| E-Mail: | ahmet@email.de |\n| Beruf: | Student |\n| Unterschrift: | A. Yilmaz |\n\n### Yazma Stratejileri\n- Anrede (hitap) ve Grußformel (kapanış) kullanin\n- Samimi: Liebe/Lieber ... + Liebe Grüße\n- Resmi: Sehr geehrte/r ... + Mit freundlichen Grüßen\n- Tum noktalara cevap verin (gorevde 3 nokta varsa, 3'une de degininin)\n- Basit cumleler kurun, karmasik yapilardan kacinin\n\n---\n\n## Bolum 4: Sprechen (Konusma)\n\n### Yapi\n- **Teil 1:** Kendini tanitma (~2 dk) — isim, yas, memleket, aile, is, hobiler\n- **Teil 2:** Soru-cevap — kartlar uzerinden soru sormak ve cevap vermek\n- **Teil 3:** Ortakla planlama — bir etkinlik/randevu planlamak\n\n### Kendini Tanitma (Teil 1) Sablonu\n\n> Guten Tag, mein Name ist [isim]. Ich bin [yas] Jahre alt und komme aus der Türkei. Ich wohne seit [sure] in [sehir]. Ich bin [meslek]. Ich bin verheiratet/ledig und habe [sayi] Kinder. In meiner Freizeit [hobi] ich gern. Ich lerne Deutsch, weil ich in Deutschland leben und arbeiten möchte.\n\n### Ortakla Planlama (Teil 3) Kullanisli Ifadeler\n\n| Almanca | Turkce |\n|---------|--------|\n| Wollen wir...? | ... yapalim mi? |\n| Wie wäre es mit...? | ... nasil olur? |\n| Ich schlage vor, dass... | ... onerecegim... |\n| Einverstanden! | Tamam! / Kabul! |\n| Das ist eine gute Idee. | Bu iyi bir fikir. |\n| Wann passt es dir? | Sana ne zaman uygun? |\n| Treffen wir uns um...? | Saat ...'da bulusam mi? |\n| Wo sollen wir uns treffen? | Nerede bulusacagiz? |\n| Sollen wir ... mitbringen? | ... getirelim mi? |\n\n---\n\n## Genel Sinav Stratejileri\n\n1. **Zaman yonetimi:** Her bolum icin zamani kontrol edin\n2. **Bos birakmayin:** Bilmediginiz sorularda tahmin edin\n3. **Anahtar kelimeler:** Sorulardaki anahtar kelimeleri isaretleyin\n4. **Basit yapin:** Karmasik cumleler yerine kisa, dogru cumleler kurun\n5. **Pratik yapin:** Ornek sinavlari cozun (telc.net'te ornek sinavlar var)\n6. **Gunluk pratik:** Her gun 15 dk Almanca dinleyin ve konusun\n\n---\n\n## Sinav Gunu Kontrol Listesi\n\n- [ ] Kimlik belgesi (Ausweis/Pass)\n- [ ] Kalem ve silgi\n- [ ] Sinav yerine erken gidin (30 dk once)\n- [ ] Sinav oncesi Almanca dusunmeye baslayin\n- [ ] Rahat ve sakin olun — A2 seviyesinde mukemmel olmaniz gerekmiyor!",
+      "keyTerms": [
+        {
+          "german": "die Prüfung",
+          "turkish": "sinav",
+          "example": "Die Telc A2 Prüfung hat vier Teile. (Telc A2 sinavinin dort bolumu var.)"
+        },
+        {
+          "german": "Hören, Lesen, Schreiben, Sprechen",
+          "turkish": "Dinleme, Okuma, Yazma, Konusma",
+          "example": "Der Hören-Teil dauert 20 Minuten. (Dinleme bolumu 20 dakika surer.)"
+        },
+        {
+          "german": "die Einladung",
+          "turkish": "davet",
+          "example": "Vielen Dank für die Einladung. (Davet icin cok tesekkurler.)"
+        },
+        {
+          "german": "Sehr geehrte Damen und Herren",
+          "turkish": "Sayın Bayanlar ve Baylar (resmi hitap)",
+          "example": "Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen..."
+        },
+        {
+          "german": "Mit freundlichen Grüßen",
+          "turkish": "Saygilarimla (resmi kapanış)",
+          "example": "Mit freundlichen Grüßen, Ahmet Yilmaz"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "a2-13-q1",
+          "type": "multiple-choice",
+          "question": "Telc A2 sinavinda toplam kac puan var?",
+          "options": ["100 puan", "200 puan", "300 puan", "400 puan"],
+          "correctAnswer": "300 puan",
+          "explanation": "Telc A2 sinavinda toplam 300 puan vardir (4 bolum x 75 puan). Gecme notu 180 puandir (%60)."
+        },
+        {
+          "id": "a2-13-q2",
+          "type": "multiple-choice",
+          "question": "Schreiben (Yazma) bolumunde hangi gorevler vardir?",
+          "options": [
+            "Uzun bir kompozisyon yazmak",
+            "Kisa mesaj yazmak ve form doldurmak",
+            "Bir hikaye yazmak",
+            "Bir mektup ve bir siir yazmak"
+          ],
+          "correctAnswer": "Kisa mesaj yazmak ve form doldurmak",
+          "explanation": "Yazma bolumunde iki gorev vardir: 1) Kisa mesaj (SMS, e-posta, not - ~30-40 kelime), 2) Form/anket doldurma."
+        },
+        {
+          "id": "a2-13-q3",
+          "type": "true-false",
+          "question": "Telc A2 sinavinda Hören (Dinleme) bolumunde ses kayitlari sadece bir kez calinir.",
+          "options": ["Dogru", "Yanlis"],
+          "correctAnswer": "Yanlis",
+          "explanation": "Telc A2 sinavinda ses kayitlari iki kez calinir. Ilkinde genel anlami, ikincisinde detaylari yakalamaniz beklenir."
+        },
+        {
+          "id": "a2-13-q4",
+          "type": "multiple-choice",
+          "question": "Sprechen (Konusma) bolumunun Teil 1'inde ne yapmaniz gerekir?",
+          "options": [
+            "Bir resim aciklamak",
+            "Kendini tanitmak",
+            "Bir hikaye anlatmak",
+            "Bir tartismaya katilmak"
+          ],
+          "correctAnswer": "Kendini tanitmak",
+          "explanation": "Konusma bolumunun Teil 1'inde kendinizi tanitmaniz gerekir: isim, yas, memleket, aile, is, hobiler gibi konularda ~2 dakika konusursiniz."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Sinav Simulasyonu",
+          "prompt": "Ben Telc A2 sinavina hazirlanan bir Turk ogrenciyim. Bana bir sinav simulasyonu yap: 1) Hören bolumu icin bir diyalog yaz ve sorular sor, 2) Lesen bolumu icin kisa bir metin ver ve richtig/falsch sorulari sor, 3) Schreiben bolumu icin bir mesaj yazma gorevi ver, 4) Sprechen bolumu icin kendimi tanitmami iste. Her bolumdeki cevaplarimi degerlendir ve puan ver. Turkce aciklama yap."
+        },
+        {
+          "title": "Konusma Pratigi",
+          "prompt": "Bana Telc A2 Sprechen (konusma) bolumu icin pratik yaptir. Oncelikle kendimi tanitmami iste (Teil 1). Sonra bana kartlar uzerinden sorular sor — ben cevap vereyim (Teil 2). Son olarak benimle bir etkinlik planlayalim, ornegin bir piknik veya sinema plani (Teil 3). Her adimda kullanisli ifadeler oner ve hatalarimi duzelt. Turkce aciklama yap."
+        }
+      ]
+    }
+  ]
+}

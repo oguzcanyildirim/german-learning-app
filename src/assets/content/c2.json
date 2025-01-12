@@ -1,0 +1,706 @@
+{
+  "id": "c2",
+  "title": "C2 - Meisterschaft",
+  "subtitle": "Ustalık Seviyesi / Mastery",
+  "level": "C2",
+  "color": "#d97706",
+  "icon": "diamond-outline",
+  "lessons": [
+    {
+      "id": "c2-01",
+      "phaseId": "c2",
+      "title": "Üslup Bilgisi",
+      "subtitle": "Stilistik und Register",
+      "estimatedMinutes": 35,
+      "order": 1,
+      "content": "## Almanca'da Üslup ve Dil Düzeyleri (Stilistik und Register)\n\nC2 seviyesinde dili gerçek anlamda ustaca kullanmak, yalnızca dilbilgisi kurallarını bilmekle değil, **hangi bağlamda hangi dil düzeyinin kullanılacağını** bilmekle mümkündür. Almanca'da üç temel dil düzeyi (Register) bulunur: **Hochsprache** (yüksek dil / standart dil), **Umgangssprache** (günlük konuşma dili) ve **Dialekt** (lehçe).\n\n---\n\n### 1. Hochsprache (Standart Almanca / Yüksek Dil)\n\nHochsprache, yazılı metinlerde, haberlerde, akademik ortamlarda ve resmi konuşmalarda kullanılan standart Almancadır. Almanya, Avusturya ve İsviçre'de ortak anlaşma dili olarak kabul edilir.\n\n| Özellik | Açıklama |\n|---------|----------|\n| Kullanım alanı | Akademik metinler, haber bültenleri, resmi yazışmalar |\n| Dilbilgisi | Tam ve kurallara uygun cümle yapıları |\n| Kelime seçimi | Seçkin, özenli ve kesin ifadeler |\n| Örnek | *Die Regierung hat beschlossen, die Maßnahmen zu verschärfen.* (Hükümet, önlemleri sıkılaştırmaya karar verdi.) |\n\n**Akademik üslup özellikleri:**\n- Pasif yapıların yoğun kullanımı: *Es wurde festgestellt, dass...* (... olduğu tespit edilmiştir.)\n- Nominalizasyon (fiillerin isim yapılması): *die Durchführung* (uygulama), *die Berücksichtigung* (dikkate alma)\n- Konjunktiv I dolaylı aktarım: *Der Autor behaupte, dies sei korrekt.* (Yazar bunun doğru olduğunu iddia ediyor.)\n- Uzun, karmaşık cümle yapıları (Schachtelsätze)\n\n---\n\n### 2. Umgangssprache (Günlük Konuşma Dili)\n\nGünlük hayatta arkadaşlarla, ailede ve informal ortamlarda kullanılan dildir. Dilbilgisi kuralları gevşetilir, kısaltmalar ve argo ifadeler sıkça yer alır.\n\n| Hochsprache | Umgangssprache | Türkçe |\n|-------------|----------------|--------|\n| Das ist nicht wahr. | Das stimmt doch nicht! | Bu doğru değil! |\n| Ich habe keine Ahnung. | Keine Ahnung! / Kein Plan! | Hiçbir fikrim yok! |\n| Das ist hervorragend. | Das ist echt cool! | Bu gerçekten harika! |\n| Ich bin sehr müde. | Ich bin total fertig. | Bitkin haldeyim. |\n| Das gefällt mir nicht. | Das ist nicht so mein Ding. | Bu benim tarzım değil. |\n\n**Umgangssprache'nin tipik özellikleri:**\n- Kısaltmalar: *'ne* yerine *eine*, *'n* yerine *ein*, *hab'* yerine *habe*\n- Soru yapısında ters çevirme yerine tonlama: *Du kommst mit?* (Sen de geliyor musun?)\n- Dolgu sözcükler: *halt, eben, eigentlich, irgendwie* (işte, zaten, aslında, bir şekilde)\n- Yoğun partikül kullanımı: *Mach das mal!* (Şunu bir yap!), *Das ist ja toll!* (Bu gerçekten harika!)\n\n---\n\n### 3. Dialekt (Lehçe)\n\nAlmanca, bölgesel lehçeler açısından son derece zengindir. Her bölgenin kendine özgü telaffuzu, kelime dağarcığı ve hatta dilbilgisi kuralları vardır.\n\n| Lehçe | Bölge | Örnek | Hochsprache Karşılığı |\n|-------|-------|-------|-----------------------|\n| Bairisch | Bavyera | *I mog di.* | *Ich mag dich.* (Seni seviyorum.) |\n| Schwäbisch | Baden-Württemberg | *Mir hend koi Geld.* | *Wir haben kein Geld.* (Paramız yok.) |\n| Sächsisch | Saksonya | *Nu gloobsch!* | *Na, glaubst du!* (Şimdi inanıyor musun!) |\n| Plattdeutsch | Kuzey Almanya | *Moin!* | *Guten Morgen!* (Günaydın!) |\n| Kölsch | Köln | *Dat es jot.* | *Das ist gut.* (Bu iyi.) |\n| Wienerisch | Viyana | *Grüß Gott!* / *Baba!* | *Hallo!* / *Großartig!* |\n\n> **Not:** Lehçeler genellikle konuşma dilinde kullanılır. Yazılı metinlerde nadiren görülür. Ancak edebiyatta ve tiyatroda bölgesel renk katmak için bilinçli olarak kullanılabilir.\n\n---\n\n### 4. Yazılı ve Sözlü Dil Arasındaki Farklar\n\n| Özellik | Yazılı Dil (Schriftsprache) | Sözlü Dil (gesprochene Sprache) |\n|---------|---------------------------|----------------------------------|\n| Cümle yapısı | Uzun, iç içe geçmiş yan cümleler | Kısa, basit cümleler |\n| Dilbilgisi | Tam kurallara uygun | Kısaltmalar, eksik cümleler |\n| Kelime seçimi | Özenli, kesin | Gündelik, argo |\n| Örnek | *Obwohl die wirtschaftliche Lage angespannt ist, konnte ein Wachstum verzeichnet werden.* | *Also, die Wirtschaft läuft grad nicht so gut, aber es geht bergauf.* |\n\n---\n\n### 5. Gazetecilik Dili (Journalistische Sprache)\n\nGazete ve haber metinlerinde kendine özgü bir üslup kullanılır:\n\n- **Başlık kısaltmaları:** *Kanzler kündigt Reformen an* (Başbakan reformları duyurdu) — fiil sonda değil, başlıklarda kısa ve çarpıcı\n- **Dolaylı aktarım (Konjunktiv I):** *Der Minister sagte, er habe keine Kenntnis davon.* (Bakan, bundan haberi olmadığını söyledi.)\n- **Pasif yapılar:** *Es wurde bekannt gegeben, dass...* (... olduğu açıklandı.)\n- **Nominal üslup:** *die Bekanntgabe der Ergebnisse* (sonuçların açıklanması)\n\n---\n\n### 6. Edebi Dil (Literarische Sprache)\n\nEdebiyatta dil, estetik bir araç olarak kullanılır. Mecazlar, benzetmeler ve semboller yoğun biçimde yer alır.\n\n- *Die Nacht breitete ihren schwarzen Mantel über die Stadt.* (Gece, siyah pelerinini şehrin üzerine serdi.) — Kişileştirme\n- *Er war ein Fels in der Brandung.* (O, fırtınadaki kayaydı.) — Metafor\n\n---\n\n### 7. Code-Switching (Dil Düzeyi Değiştirme)\n\nC2 düzeyinde bir konuşmacı, **bağlama göre dil düzeyini bilinçli olarak değiştirebilmelidir.** Örneğin:\n\n- Bir iş toplantısında: *Wir sollten die Quartalszahlen einer eingehenden Analyse unterziehen.* (Çeyrek dönem rakamlarını detaylı bir analize tabi tutmalıyız.)\n- Aynı kişi arkadaşlarıyla: *Ey, die Zahlen sehen echt mies aus, Alter!* (Hey, rakamlar gerçekten kötü görünüyor, dostum!)\n- Bir akademik sunumda: *Unter Berücksichtigung der vorliegenden Daten lässt sich schlussfolgern, dass...* (Mevcut veriler dikkate alındığında şu sonuca varılabilir ki...)\n\n**İpucu:** Üslup değiştirme yeteneği, dil sınavlarında (özellikle Goethe C2 - GDS) aktif olarak test edilen bir beceridir.",
+      "keyTerms": [
+        {
+          "german": "die Hochsprache",
+          "turkish": "standart dil / yüksek dil",
+          "example": "Die Hochsprache wird in Nachrichtensendungen verwendet. (Standart dil haber programlarında kullanılır.)"
+        },
+        {
+          "german": "die Umgangssprache",
+          "turkish": "günlük konuşma dili",
+          "example": "In der Umgangssprache sagt man 'ne statt eine. (Günlük dilde 'eine' yerine 'ne' denir.)"
+        },
+        {
+          "german": "der Dialekt",
+          "turkish": "lehçe / ağız",
+          "example": "Bayerisch ist ein bekannter deutscher Dialekt. (Bavyeraca, bilinen bir Alman lehçesidir.)"
+        },
+        {
+          "german": "das Register",
+          "turkish": "dil düzeyi / üslup katmanı",
+          "example": "Je nach Situation wechselt man das Register. (Duruma göre dil düzeyi değiştirilir.)"
+        },
+        {
+          "german": "der Code-Wechsel",
+          "turkish": "dil düzeyi değiştirme",
+          "example": "Code-Switching ist eine wichtige Kompetenz auf C2-Niveau. (Kod değiştirme, C2 seviyesinde önemli bir beceridir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-01-q1",
+          "type": "multiple-choice",
+          "question": "Aşağıdaki cümlelerden hangisi Hochsprache (standart dil) örneğidir?",
+          "options": [
+            "Ey, das ist echt cool!",
+            "Die Regierung hat beschlossen, die Maßnahmen zu verschärfen.",
+            "I mog di.",
+            "Das ist nicht so mein Ding."
+          ],
+          "correctAnswer": "Die Regierung hat beschlossen, die Maßnahmen zu verschärfen.",
+          "explanation": "Bu cümle resmi, kurallara uygun ve standart Almanca ile yazılmış bir Hochsprache örneğidir. Diğerleri günlük konuşma dili (Umgangssprache) veya lehçe (Dialekt) örnekleridir."
+        },
+        {
+          "id": "c2-01-q2",
+          "type": "true-false",
+          "question": "Almanca lehçeler (Dialekte) genellikle yazılı metinlerde de standart olarak kullanılır.",
+          "correctAnswer": "Yanlış",
+          "options": ["Doğru", "Yanlış"],
+          "explanation": "Lehçeler genellikle konuşma dilinde kullanılır. Yazılı metinlerde standart Almanca (Hochsprache) tercih edilir. Lehçe, edebiyat ve tiyatroda bilinçli bir tercih olarak kullanılabilir."
+        },
+        {
+          "id": "c2-01-q3",
+          "type": "multiple-choice",
+          "question": "'Moin!' selamlaması hangi Alman lehçesine aittir?",
+          "options": [
+            "Bairisch (Bavyera)",
+            "Schwäbisch (Schwaben)",
+            "Plattdeutsch (Kuzey Almanya)",
+            "Sächsisch (Saksonya)"
+          ],
+          "correctAnswer": "Plattdeutsch (Kuzey Almanya)",
+          "explanation": "'Moin!' Kuzey Almanya'da yaygın olarak kullanılan bir selamlama ifadesidir ve Plattdeutsch (Aşağı Almanca) geleneğinden gelir. Hochsprache karşılığı 'Guten Morgen!' veya 'Hallo!' olarak düşünülebilir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Üslup Analizi Pratiği",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana aynı konuyu (örneğin iklim değişikliği) üç farklı dil düzeyinde yazan kısa paragraflar oluştur: 1) Akademik Hochsprache, 2) Gazete haberi üslubu, 3) Günlük konuşma dili (Umgangssprache). Her paragrafın altına hangi üslup özelliklerinin kullanıldığını Türkçe olarak açıkla."
+        },
+        {
+          "title": "Lehçe Tanıma Egzersizi",
+          "prompt": "Bana 5 farklı Alman lehçesinden (Bairisch, Schwäbisch, Kölsch, Plattdeutsch, Wienerisch) kısa diyaloglar yaz. Her diyalogun yanına Hochsprache karşılığını ve Türkçe çevirisini ekle. Lehçelerin tipik özelliklerini (ses değişimleri, özel kelimeler) Türkçe olarak açıkla."
+        }
+      ]
+    },
+    {
+      "id": "c2-02",
+      "phaseId": "c2",
+      "title": "Deyimler ve Atasözleri",
+      "subtitle": "Redewendungen und Idiome",
+      "estimatedMinutes": 40,
+      "order": 2,
+      "content": "## Almanca Deyimler ve Atasözleri (Redewendungen und Idiome)\n\nBir dilde gerçek ustalık, deyimleri ve kalıp ifadeleri doğal bir şekilde kullanabilmekle ölçülür. Almanca, zengin deyim hazinesiyle bilinir. Bu derste en yaygın Almanca deyimleri tematik olarak öğreneceksiniz.\n\n---\n\n### 1. Vücut Bölümleriyle İlgili Deyimler (Körperteile)\n\n| Deyim | Kelimesi Kelimesine | Anlamı | Türkçe Karşılığı |\n|-------|---------------------|--------|------------------|\n| **die Daumen drücken** | başparmakları basmak | birine şans dilemek | parmak çaprazlamak |\n| **die Nase voll haben** | burnu dolu olmak | bir şeyden bıkmak | bıkmak, gına gelmek |\n| **auf großem Fuß leben** | büyük ayak üzerinde yaşamak | lüks yaşamak | gösterişli yaşamak |\n| **jemandem den Rücken stärken** | birinin sırtını güçlendirmek | destek olmak | arkasında durmak |\n| **Hals über Kopf** | boyun üstünden baş | aceleyle, düşünmeden | telaşla, baş aşağı |\n| **ein Auge zudrücken** | bir gözünü kapatmak | görmezden gelmek | göz yummak |\n| **jemandem auf die Nerven gehen** | birinin sinirlerine gitmek | sinirlendirmek | sinir etmek |\n| **kalte Füße bekommen** | soğuk ayaklar almak | korkmak, caymak | ayakları üşümek |\n| **sich etwas hinter die Ohren schreiben** | kulaklarının arkasına yazmak | bir şeyi iyice aklına koymak | kulağına küpe olsun |\n| **Hand und Fuß haben** | eli ayağı olmak | mantıklı ve sağlam olmak | temeli sağlam olmak |\n\n> **Köken:** *die Daumen drücken* — Eski Germen inancına göre başparmak şans getiren bir parmaktı ve onu bastırmak iyi enerjiyi tutmak anlamına gelirdi.\n\n---\n\n### 2. Hayvanlarla İlgili Deyimler (Tiere)\n\n| Deyim | Kelimesi Kelimesine | Anlamı | Türkçe Karşılığı |\n|-------|---------------------|--------|------------------|\n| **einen Vogel haben** | bir kuşu olmak | deli/çılgın olmak | bir tahtası eksik |\n| **Schwein haben** | domuzu olmak | şanslı olmak | şansı yaver gitmek |\n| **da liegt der Hund begraben** | köpek orada gömülü | asıl mesele o | işin püf noktası |\n| **mit jemandem ein Hühnchen zu rupfen haben** | biriyle yolunacak bir tavuğu olmak | hesaplaşacak bir konu olmak | kozunu paylaşmak |\n| **die Katze im Sack kaufen** | kediye çuvaldaki satın almak | görmeden almak | kedi/domuz almak |\n| **wie ein Elefant im Porzellanladen** | porselen dükkânında fil gibi | kaba, sakarca | fil gibi davranmak |\n| **den Bock zum Gärtner machen** | tekeyi bahçıvan yapmak | yanlış kişiyi işe koymak | kurdu koyun ağılına koymak |\n| **Krokodilstränen weinen** | timsah gözyaşları dökmek | sahte ağlamak | timsah gözyaşı dökmek |\n\n> **Köken:** *Schwein haben* — Ortaçağ'da yarışmalarda sonuncu kalan kişiye teselli ödülü olarak bir domuz verilirdi. Kaybetmesine rağmen bir şey kazanmak, yani \"şanslı olmak\" anlamına geldi.\n\n---\n\n### 3. Yiyecek ve İçeceklerle İlgili Deyimler (Essen und Trinken)\n\n| Deyim | Kelimesi Kelimesine | Anlamı | Türkçe Karşılığı |\n|-------|---------------------|--------|------------------|\n| **das ist nicht mein Bier** | bu benim biram değil | beni ilgilendirmez | benim sorunum değil |\n| **seinen Senf dazugeben** | hardallını eklemek | gereksiz fikir belirtmek | lafa karışmak |\n| **um den heißen Brei herumreden** | sıcak lapanın etrafında konuşmak | konuyu dolanmak | lafı dolandırmak |\n| **in den sauren Apfel beißen** | ekşi elmayı ısırmak | istemeyerek kabullenmek | zor olanı kabullenmek |\n| **die Kirsche auf der Torte** | pastanın üstündeki kiraz | en güzel detay | işin en güzel yanı |\n| **alles in Butter** | her şey tereyağında | her şey yolunda | her şey tıkırında |\n| **jemanden in die Pfanne hauen** | birini tavaya vurmak | birini kötü duruma düşürmek | birini çamura sürüklemek |\n\n> **Köken:** *das ist nicht mein Bier* — Bira, Alman kültüründe kişisel bir tercih konusudur. \"Benim biram değil\" demek, \"benim meselemle ilgisi yok\" anlamına gelir.\n\n---\n\n### 4. Renklerle İlgili Deyimler (Farben)\n\n| Deyim | Kelimesi Kelimesine | Anlamı | Türkçe Karşılığı |\n|-------|---------------------|--------|------------------|\n| **blau machen** | mavi yapmak | işi kırmak, devamsızlık | tatil yapmak, asmak |\n| **rot sehen** | kırmızı görmek | çok sinirlenip kontrolü kaybetmek | gözü dönmek |\n| **grün vor Neid werden** | kıskançlıktan yeşil olmak | çok kıskanmak | kıskançlıktan çatlamak |\n| **eine weiße Weste haben** | beyaz yelek giymek | temiz sicili olmak | eli temiz olmak |\n| **ins Schwarze treffen** | siyaha isabet ettirmek | tam doğruyu bulmak | tam isabetli olmak |\n| **schwarz auf weiß** | siyah beyaz üzerinde | yazılı, kanıtlanmış | siyah beyaz yazılmış |\n| **das Blaue vom Himmel versprechen** | gökyüzünün maviliğini vaat etmek | gerçekleştirilemez vaatlerde bulunmak | yalan vaatlerde bulunmak |\n\n> **Köken:** *blau machen* — Ortaçağ'da boyacılar kumaşları indigo ile boyarken, boyama sürecinde kumaşların bir gün güneşte beklemesi gerekiyordu ve bu \"mavi günde\" boyacılar çalışmıyordu.\n\n---\n\n### 5. Doğa ve Hava Durumu Deyimleri (Natur und Wetter)\n\n| Deyim | Anlamı | Türkçe Karşılığı |\n|-------|--------|------------------|\n| **jemanden im Regen stehen lassen** | birini zor durumda yalnız bırakmak | yüzüstü bırakmak |\n| **nach Regen kommt Sonnenschein** | yağmurdan sonra güneş gelir | sabır taşı her şeyi deler |\n| **unter einer Decke stecken** | bir örtünün altında olmak | gizli iş birliği yapmak |\n| **auf Wolke sieben schweben** | yedinci bulutta süzülmek | çok mutlu olmak |\n\n---\n\n### 6. Para ve İş Deyimleri (Geld und Arbeit)\n\n| Deyim | Anlamı | Türkçe Karşılığı |\n|-------|--------|------------------|\n| **Geld zum Fenster hinauswerfen** | parayı pencereden atmak | parayı çarçur etmek |\n| **auf keinen grünen Zweig kommen** | yeşil dala ulaşamamak | bir türlü başarılı olamamak |\n| **den Nagel auf den Kopf treffen** | çivinin başına vurmak | tam isabetli konuşmak |\n| **unter den Tisch fallen** | masanın altına düşmek | görmezden gelinmek |\n\n---\n\n### 7. Atasözleri (Sprichwörter)\n\n| Atasözü | Türkçe Karşılığı |\n|---------|------------------|\n| *Übung macht den Meister.* | Alıştırma usta yapar. |\n| *Morgenstund hat Gold im Mund.* | Erken kalkan yol alır. |\n| *Wer zuletzt lacht, lacht am besten.* | Son gülen iyi güler. |\n| *Aller Anfang ist schwer.* | Her başlangıç zordur. |\n| *Ohne Fleiß kein Preis.* | Emek olmadan yemek olmaz. |",
+      "keyTerms": [
+        {
+          "german": "die Redewendung",
+          "turkish": "deyim / kalıp ifade",
+          "example": "Deutsche Redewendungen machen die Sprache lebendig. (Alman deyimleri dili canlı kılar.)"
+        },
+        {
+          "german": "das Sprichwort",
+          "turkish": "atasözü",
+          "example": "Übung macht den Meister ist ein bekanntes Sprichwort. (Alıştırma usta yapar, bilinen bir atasözüdür.)"
+        },
+        {
+          "german": "die Daumen drücken",
+          "turkish": "şans dilemek",
+          "example": "Ich drücke dir die Daumen für die Prüfung! (Sınav için sana şans diliyorum!)"
+        },
+        {
+          "german": "einen Vogel haben",
+          "turkish": "kaçık olmak / bir tahtası eksik",
+          "example": "Du hast wohl einen Vogel! (Galiba bir tahtanız eksik!)"
+        },
+        {
+          "german": "blau machen",
+          "turkish": "işi asmak / kaytarmak",
+          "example": "Am Freitag mache ich blau. (Cuma günü işi asıyorum.)"
+        },
+        {
+          "german": "ins Schwarze treffen",
+          "turkish": "tam isabetli olmak",
+          "example": "Mit deiner Analyse hast du ins Schwarze getroffen. (Analizinle tam isabetli oldun.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-02-q1",
+          "type": "matching",
+          "question": "Aşağıdaki Almanca deyimleri Türkçe karşılıklarıyla eşleştirin.",
+          "correctAnswer": "die Daumen drücken = şans dilemek",
+          "matchPairs": [
+            { "left": "die Daumen drücken", "right": "şans dilemek" },
+            { "left": "die Nase voll haben", "right": "bıkmak" },
+            { "left": "Schwein haben", "right": "şanslı olmak" },
+            { "left": "blau machen", "right": "işi asmak" }
+          ],
+          "explanation": "Bu deyimler Almanca'nın en yaygın kullanılan kalıp ifadelerindendir. Kelime kelime çevirileri genellikle anlamlarını yansıtmaz."
+        },
+        {
+          "id": "c2-02-q2",
+          "type": "multiple-choice",
+          "question": "'Das ist nicht mein Bier' deyiminin Türkçe karşılığı nedir?",
+          "options": [
+            "Bu benim en sevdiğim içecek değil.",
+            "Bu beni ilgilendirmez.",
+            "Bu konuyu bilmiyorum.",
+            "Bu benim tercihim değil."
+          ],
+          "correctAnswer": "Bu beni ilgilendirmez.",
+          "explanation": "'Das ist nicht mein Bier' (Bu benim biram değil) deyimi, bir konunun kişiyi ilgilendirmediğini, sorumluluk almak istemediğini ifade eder."
+        },
+        {
+          "id": "c2-02-q3",
+          "type": "fill-blank",
+          "question": "'Rot ___' deyimi çok sinirlenip kontrolü kaybetmek anlamına gelir.",
+          "correctAnswer": "sehen",
+          "explanation": "'Rot sehen' (kırmızı görmek) deyimi, çok sinirlenip kontrolü kaybetmek anlamına gelir. Boğaların kırmızı renkten sinirlenmesi inancından gelir."
+        },
+        {
+          "id": "c2-02-q4",
+          "type": "multiple-choice",
+          "question": "'Schwein haben' deyiminin kökeninde ne yatar?",
+          "options": [
+            "Domuz çiftçiliğinin zenginlik göstergesi olması",
+            "Ortaçağ'da yarışmalarda sonuncuya teselli ödülü olarak domuz verilmesi",
+            "Domuzların şanslı hayvanlar sayılması",
+            "Almanların domuz eti tüketiminin yaygın olması"
+          ],
+          "correctAnswer": "Ortaçağ'da yarışmalarda sonuncuya teselli ödülü olarak domuz verilmesi",
+          "explanation": "Ortaçağ'da yarışmalarda sonuncu kalan kişiye teselli ödülü olarak bir domuz verilirdi. Kaybetmesine rağmen bir şey kazanmak, 'şanslı olmak' anlamını kazandı."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Deyim Kullanma Pratiği",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 10 farklı günlük yaşam senaryosu ver (iş, okul, arkadaşlık vb.) ve her senaryoda uygun bir Almanca deyim (Redewendung) kullanarak kısa bir diyalog yaz. Deyimlerin anlamlarını ve neden o bağlamda kullanıldığını Türkçe olarak açıkla."
+        },
+        {
+          "title": "Deyim Hikâyeleri",
+          "prompt": "Şu 10 Almanca deyimin köken hikâyelerini Türkçe olarak anlat ve her birini bir örnek cümle ile göster: 1) die Daumen drücken, 2) blau machen, 3) Schwein haben, 4) ins Fettnäpfchen treten, 5) den Nagel auf den Kopf treffen, 6) auf keinen grünen Zweig kommen, 7) die Katze im Sack kaufen, 8) Krokodilstränen weinen, 9) jemanden im Regen stehen lassen, 10) um den heißen Brei herumreden."
+        }
+      ]
+    },
+    {
+      "id": "c2-03",
+      "phaseId": "c2",
+      "title": "Metin Çözümleme",
+      "subtitle": "Textanalyse und Textkritik",
+      "estimatedMinutes": 35,
+      "order": 3,
+      "content": "## Metin Çözümleme ve Metin Eleştirisi (Textanalyse und Textkritik)\n\nC2 seviyesinde bir metin yalnızca okunmaz, aynı zamanda **çözümlenir, yorumlanır ve eleştirilir.** Bu ders, Almanca metinleri derinlemesine analiz etme becerilerini kapsar: argümanları tespit etme, retorik araçlarını tanıma, tonu değerlendirme ve eleştirel okuma stratejileri.\n\n---\n\n### 1. Metin Analizi Nedir? (Was ist Textanalyse?)\n\nTextanalyse, bir metnin **yapısını, dilini, amacını ve etkisini** sistematik olarak inceleme sürecidir.\n\n**Temel sorular:**\n- *Was ist die Hauptaussage des Textes?* (Metnin ana iddiası nedir?)\n- *Welche Argumente werden verwendet?* (Hangi argümanlar kullanılmıştır?)\n- *An wen richtet sich der Text?* (Metin kime yönelik?)\n- *Welche sprachlichen Mittel werden eingesetzt?* (Hangi dil araçları kullanılmıştır?)\n- *Welche Wirkung erzielt der Text?* (Metin nasıl bir etki yaratır?)\n\n---\n\n### 2. Metin Türleri ve Özellikleri (Textsorten)\n\n| Metin Türü | Almanca | Amacı | Dil Özellikleri |\n|------------|---------|-------|------------------|\n| Makale | der Artikel | bilgilendirmek | nesnel, açık, kanıta dayalı |\n| Yorum/Köşe yazısı | der Kommentar | görüş bildirmek | öznel, ikna edici |\n| Röportaj | das Interview | bilgi almak | soru-cevap, doğrudan alıntı |\n| Deneme | der Essay | düşünce geliştirmek | kişisel, yansıtıcı |\n| Bilimsel metin | der Fachtext | bilgi aktarmak | teknik terimler, pasif yapılar |\n| Edebi metin | der literarische Text | estetik yaratmak | mecazlar, semboller, ritim |\n\n---\n\n### 3. Üslup Araçları (Stilmittel / Rhetorische Figuren)\n\nC2 seviyesinde tanımanız gereken temel üslup araçları:\n\n| Stilmittel | Türkçe | Açıklama | Örnek |\n|------------|--------|----------|-------|\n| **die Metapher** | metafor / eğretileme | doğrudan benzetme olmadan bir kavramı başka bir kavramla ifade etme | *Er ist ein Fels in der Brandung.* (O, fırtınadaki kayaydı.) |\n| **die Ironie** | ironi / alaysılama | söylenenin tersini kastetme | *Das hast du ja toll gemacht!* (Bunu gerçekten harika yaptın! — aslında başarısız) |\n| **die Hyperbel** | abartma | aşırı büyütme | *Ich habe dir das schon tausendmal gesagt!* (Bunu sana bin kere söyledim!) |\n| **der Euphemismus** | örtmece / yumuşatma | hoş olmayan bir şeyi yumuşak ifade etme | *Er ist von uns gegangen.* (O aramızdan ayrıldı. — öldü) |\n| **das Paradoxon** | paradoks / çelişki | çelişkili gibi görünen ama derin anlam taşıyan ifade | *Weniger ist mehr.* (Az olan çoktur.) |\n| **die Alliteration** | ses yinelenmesi | art arda gelen kelimelerin aynı sesle başlaması | *Milch macht müde Männer munter.* (Süt yorgun adamları canlandırır.) |\n| **die Personifikation** | kişileştirme | cansız varlıklara insan özellikleri verme | *Die Sonne lacht.* (Güneş gülüyor.) |\n| **der Vergleich** | benzetme / karşılaştırma | \"wie\" ile yapılan açık benzetme | *Er ist stark wie ein Bär.* (Ayı gibi güçlü.) |\n| **die Anapher** | tekrarlama | cümle başlarında aynı kelimenin tekrarı | *Ich sehe Berge. Ich sehe Täler. Ich sehe Hoffnung.* (Dağlar görüyorum. Vadiler görüyorum. Umut görüyorum.) |\n| **die Antithese** | karşıtlık | zıt kavramları yan yana koyma | *Krieg und Frieden, Liebe und Hass.* (Savaş ve barış, aşk ve nefret.) |\n\n---\n\n### 4. Argüman Analizi (Argumentationsanalyse)\n\nBir metnin argüman yapısını çözümlerken şu unsurları arayın:\n\n- **These (Tez):** Yazarın ana iddiası — *Die Digitalisierung verändert die Arbeitswelt grundlegend.* (Dijitalleşme iş dünyasını temelden değiştiriyor.)\n- **Argumente (Kanıtlar):** Tezi destekleyen gerekçeler\n- **Beispiele (Örnekler):** Somut örnekler ve veriler\n- **Gegenargumente (Karşı argümanlar):** Olası itirazlar ve bunlara yanıtlar\n- **Schlussfolgerung (Sonuç):** Çıkarılan sonuç\n\n**Argüman türleri:**\n\n| Argüman Türü | Almanca | Açıklama |\n|-------------|---------|----------|\n| Olgusal | Faktenargument | İstatistik ve verilere dayanan |\n| Uzman görüşü | Autoritätsargument | Uzman veya kurumun görüşüne atıfta bulunan |\n| Normatif | normatives Argument | Değer ve ilkelere dayanan |\n| Dolaylı | indirektes Argument | Karşı tarafın zayıf yönlerini hedef alan |\n\n---\n\n### 5. Eleştirel Okuma Stratejileri (Kritisches Lesen)\n\n1. **Birinci okuma:** Genel anlam ve konuyu kavrama\n2. **İkinci okuma:** Anahtar kelimeleri, tez ve argümanları işaretleme\n3. **Üçüncü okuma:** Üslup araçlarını, tonu ve yazarın niyetini analiz etme\n\n**Sorulacak kritik sorular:**\n- *Ist die Argumentation schlüssig?* (Argümantasyon tutarlı mı?)\n- *Welche Perspektive wird eingenommen?* (Hangi bakış açısı benimsenmiş?)\n- *Was wird nicht gesagt?* (Ne söylenmemiş? — eksik bilgi)\n- *Welche Wirkung hat die Wortwahl?* (Kelime seçimi nasıl bir etki yaratıyor?)\n\n---\n\n### 6. Örnek Metin Analizi\n\n**Metin:**\n> *Die Digitalisierung ist längst keine Zukunftsmusik mehr — sie ist Realität. Während die einen darin eine Chance sehen, warnen andere vor den Schattenseiten: Arbeitsplatzverlust, Datenmissbrauch und soziale Isolation. Doch wer genauer hinsieht, erkennt: Die größte Gefahr liegt nicht in der Technologie selbst, sondern in unserem Umgang mit ihr.*\n\n**Analiz:**\n- **Tez:** Dijitalleşmenin gerçek tehlikesi teknolojinin kendisinde değil, onu nasıl kullandığımızdadır.\n- **Üslup araçları:** Antithese (*Chance — Schattenseiten*), Metapher (*Zukunftsmusik* = gelecek müziği, yani uzak gelecek), Dreiergruppe (*Arbeitsplatzverlust, Datenmissbrauch, soziale Isolation*)\n- **Argüman yapısı:** Konuya giriş → karşıt görüşlerin sunumu → yazarın kendi tezi\n- **Ton:** Dengeli, düşündürücü, eleştirel\n\n---\n\n### 7. Metin Analizi Yazarken Kullanılacak İfadeler (Redemittel)\n\n| Amaç | Almanca İfade |\n|------|---------------|\n| Ana fikri belirtme | *Der Text befasst sich mit dem Thema...* / *Die Hauptaussage lautet...* |\n| Argüman analizi | *Der Autor argumentiert, dass...* / *Als Beleg wird angeführt, dass...* |\n| Üslup analizi | *Der Autor bedient sich der Metapher...* / *Auffällig ist die Verwendung von...* |\n| Eleştiri | *Kritisch zu betrachten ist...* / *Es fehlt eine Auseinandersetzung mit...* |\n| Sonuç | *Zusammenfassend lässt sich sagen, dass...* / *Abschließend ist festzuhalten...* |",
+      "keyTerms": [
+        {
+          "german": "die Textanalyse",
+          "turkish": "metin çözümleme / analizi",
+          "example": "Eine gründliche Textanalyse berücksichtigt Inhalt, Sprache und Wirkung. (Kapsamlı bir metin analizi içerik, dil ve etkiyi dikkate alır.)"
+        },
+        {
+          "german": "das Stilmittel",
+          "turkish": "üslup aracı / retorik figür",
+          "example": "Die Metapher ist ein häufig verwendetes Stilmittel. (Metafor, sıkça kullanılan bir üslup aracıdır.)"
+        },
+        {
+          "german": "die Argumentation",
+          "turkish": "argümantasyon / kanıtlama",
+          "example": "Die Argumentation des Autors ist überzeugend. (Yazarın argümantasyonu ikna edicidir.)"
+        },
+        {
+          "german": "die Ironie",
+          "turkish": "ironi / alaysılama",
+          "example": "Der Autor verwendet Ironie, um seine Kritik zu verstärken. (Yazar eleştirisini güçlendirmek için ironi kullanır.)"
+        },
+        {
+          "german": "der Euphemismus",
+          "turkish": "örtmece / yumuşatma",
+          "example": "\"Er ist von uns gegangen\" ist ein Euphemismus für \"gestorben\". (\"Aramızdan ayrıldı\" ifadesi \"öldü\" için bir örtmecedir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-03-q1",
+          "type": "multiple-choice",
+          "question": "'Er ist ein Fels in der Brandung' cümlesinde kullanılan üslup aracı hangisidir?",
+          "options": [
+            "Hyperbel (Abartma)",
+            "Metapher (Metafor)",
+            "Ironie (İroni)",
+            "Euphemismus (Örtmece)"
+          ],
+          "correctAnswer": "Metapher (Metafor)",
+          "explanation": "Bu cümlede kişi doğrudan 'kaya'ya benzetilmektedir, ancak 'gibi' (wie) kelimesi kullanılmadan. Bu, metafor (Metapher) kullanımına örnektir. 'Wie' kullansaydı, karşılaştırma (Vergleich) olurdu."
+        },
+        {
+          "id": "c2-03-q2",
+          "type": "multiple-choice",
+          "question": "Bir metin analizinde 'Welche Perspektive wird eingenommen?' sorusu neyi araştırır?",
+          "options": [
+            "Metnin uzunluğunu",
+            "Yazarın bakış açısını ve konumlanmasını",
+            "Metnin yayınlandığı gazeteyi",
+            "Okurun tepkisini"
+          ],
+          "correctAnswer": "Yazarın bakış açısını ve konumlanmasını",
+          "explanation": "'Welche Perspektive wird eingenommen?' (Hangi bakış açısı benimsenmiş?) sorusu, yazarın konuya hangi açıdan yaklaştığını, tarafsız mı yoksa belirli bir görüşü mü savunduğunu analiz etmeye yarar."
+        },
+        {
+          "id": "c2-03-q3",
+          "type": "true-false",
+          "question": "Euphemismus (örtmece), hoş olmayan bir durumu daha yumuşak ifadelerle anlatma tekniğidir.",
+          "correctAnswer": "Doğru",
+          "options": ["Doğru", "Yanlış"],
+          "explanation": "Euphemismus, olumsuz veya rahatsız edici konuları daha hafif, dolaylı ifadelerle anlatma tekniğidir. Örneğin: 'Er ist von uns gegangen' (Aramızdan ayrıldı) yerine 'Er ist gestorben' (Öldü)."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Stilmittel Analiz Pratiği",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana bir Almanca gazete makalesi (200-300 kelime) yaz ve sonra bu makalenin detaylı bir metin analizini (Textanalyse) yap. Analizde şunları kapsa: 1) Ana fikir (Hauptaussage), 2) Kullanılan argümanlar, 3) Üslup araçları (Stilmittel), 4) Ton ve yazarın tutumu. Tüm açıklamaları Türkçe yap."
+        },
+        {
+          "title": "Metin Eleştirisi Yazma",
+          "prompt": "Bana bir Almanca fikir yazısı (Kommentar) ver ve bu yazıya eleştirel bir yanıt (Stellungnahme) yazmamdaki adımları göster. Yanıtımda kullanabileceğim akademik Almanca ifadeleri (Redemittel) listele ve her birinin Türkçe karşılığını yaz. Sonra benim yazdığım yanıtı düzelt ve geri bildirim ver."
+        }
+      ]
+    },
+    {
+      "id": "c2-04",
+      "phaseId": "c2",
+      "title": "İleri Kelime Türetme",
+      "subtitle": "Erweiterte Wortbildung",
+      "estimatedMinutes": 40,
+      "order": 4,
+      "content": "## İleri Düzey Kelime Türetme (Erweiterte Wortbildung)\n\nC2 seviyesinde zengin ve çeşitli bir kelime dağarcığı, akademik, mesleki ve günlük bağlamlarda kendinizi ifade edebilmenin temelidir. Bu derste Almanca'daki ileri düzey kelime oluşturma mekanizmalarını, yabancı kökenli kelimeleri, sahte dostları ve mesleki terminolojiyi ele alıyoruz.\n\n---\n\n### 1. Latince ve Yunanca Kökler (Lateinische und Griechische Wurzeln)\n\nAlmanca'daki pek çok bilimsel ve entelektüel kelime, Latince ve Yunanca köklerden türetilmiştir. Bu kökleri tanımak, yeni kelimelerin anlamını tahmin etmenizi kolaylaştırır.\n\n| Kök | Köken | Anlam | Almanca Örnekler |\n|-----|-------|-------|------------------|\n| *phil-* | Yunanca | sevgi | die **Phil**osophie (felsefe), der **Phil**ologe (filolog) |\n| *demo-* | Yunanca | halk | die **Demo**kratie (demokrasi), die **Demo**grafie (demografi) |\n| *psych-* | Yunanca | ruh | die **Psych**ologie (psikoloji), die **Psych**iatrie (psikiyatri) |\n| *bio-* | Yunanca | yaşam | die **Bio**logie (biyoloji), die **Bio**grafie (biyografi) |\n| *graph-* | Yunanca | yazma | die Foto**graf**ie (fotoğrafçılık), die **Graf**ik (grafik) |\n| *log-/logie* | Yunanca | bilim | die Techno**log**ie (teknoloji), die Sozio**log**ie (sosyoloji) |\n| *jur-/jus-* | Latince | hukuk | der **Jur**ist (hukukçu), die **Jus**tiz (adalet) |\n| *med-* | Latince | iyileştirmek | die **Med**izin (tıp), das **Med**ikament (ilaç) |\n| *port-* | Latince | taşımak | der Trans**port** (ulaşım), im**port**ieren (ithal etmek) |\n| *vert-* | Latince | dönmek | kon**vert**ieren (dönüştürmek), intro**vert**iert (içe dönük) |\n\n---\n\n### 2. Sahte Dostlar — Almanca-İngilizce (Falsche Freunde)\n\nAlmanca ve İngilizce'de benzer görünen ama farklı anlam taşıyan kelimelere dikkat edin:\n\n| Almanca | Anlam (Almanca) | İngilizce Sahte Dost | Gerçek İngilizce Karşılık |\n|---------|-----------------|---------------------|---------------------------|\n| **aktuell** | güncel | actual | current |\n| **bekommen** | almak, elde etmek | become | to get, to receive |\n| **der Chef** | patron, müdür | chef (aşçıbaşı) | boss |\n| **eventuell** | belki, olasılıkla | eventually | possibly, perhaps |\n| **die Fabrik** | fabrika | fabric (kumaş) | factory |\n| **der Gift** | zehir | gift (hediye) | poison |\n| **das Gymnasium** | lise | gymnasium (spor salonu) | high school |\n| **das Handy** | cep telefonu | handy (kullanışlı) | mobile phone |\n| **die Konfession** | mezhep | confession (itiraf) | denomination |\n| **die Kritik** | eleştiri | critique ≈ doğru | criticism, review |\n| **der Mist** | gübre, saçmalık | mist (sis) | manure, nonsense |\n| **sensibel** | hassas | sensible (mantıklı) | sensitive |\n| **sympathisch** | sevimli, hoş | sympathetic (sempatik) | likable, pleasant |\n\n---\n\n### 3. Tarihsel Kelime Evrimi (Historischer Sprachwandel)\n\nBazı Almanca kelimeler yüzyıllar içinde anlam değiştirmiştir:\n\n| Kelime | Eski Anlamı | Bugünkü Anlamı |\n|--------|-------------|----------------|\n| *schlecht* | düz, basit (eski Almanca) | kötü |\n| *billig* | adil, uygun (Mittelhochdeutsch) | ucuz |\n| *Weib* | kadın (nötr/saygılı) | kadın (bugün aşağılayıcı) |\n| *geil* | çılgın, coşkulu (eski) | harika (günlük dil) / şehvetli |\n\n---\n\n### 4. Neolojizmler (Yeni Kelimeler — Neologismen)\n\nAlmanca sürekli yeni kelimeler üretir, özellikle teknoloji ve toplumsal değişimlerle:\n\n| Neologismus | Anlamı | Açıklama |\n|-------------|--------|----------|\n| **der Shitstorm** | yoğun çevrimiçi eleştiri dalgası | İngilizceden alıntı |\n| **das Homeoffice** | evden çalışma | Pandemi sonrası yaygınlaştı |\n| **die Nachhaltigkeit** | sürdürülebilirlik | Çevre politikasında anahtar terim |\n| **der Influencer** | sosyal medya etkileyicisi | İngilizceden alıntı |\n| **die Fake News** | yalan haber | Siyasi söylemde yaygın |\n| **gendern** | cinsiyete duyarlı dil kullanmak | Toplumsal cinsiyet tartışması |\n| **die Energiewende** | enerji dönüşümü | Almanya'nın yenilenebilir enerjiye geçiş politikası |\n| **der Wutbürger** | öfkeli vatandaş | Politik hoşnutsuzluğu ifade eden yeni sözcük |\n\n---\n\n### 5. Mesleki Kelime Hazinesi (Fachwortschatz)\n\n#### Hukuk (Recht und Justiz)\n\n| Almanca | Türkçe | Örnek Cümle |\n|---------|--------|-------------|\n| der Rechtsanwalt | avukat | *Der Rechtsanwalt vertritt den Angeklagten.* (Avukat sanığı temsil ediyor.) |\n| die Verhandlung | duruşma | *Die Verhandlung beginnt um 9 Uhr.* (Duruşma saat 9'da başlıyor.) |\n| das Urteil | karar / hüküm | *Das Gericht hat das Urteil gesprochen.* (Mahkeme kararı açıkladı.) |\n| die Berufung | temyiz / itiraz | *Er hat Berufung eingelegt.* (Temyize başvurdu.) |\n| die Klage | dava | *Sie hat eine Klage eingereicht.* (Dava açtı.) |\n| der Zeuge | tanık | *Der Zeuge wurde vernommen.* (Tanık ifade verdi.) |\n| die Verordnung | yönetmelik / tüzük | *Die Verordnung tritt morgen in Kraft.* (Yönetmelik yarın yürürlüğe giriyor.) |\n\n#### Tıp (Medizin)\n\n| Almanca | Türkçe | Örnek Cümle |\n|---------|--------|-------------|\n| die Diagnose | tanı / teşhis | *Die Diagnose steht noch aus.* (Teşhis henüz konmadı.) |\n| die Behandlung | tedavi | *Die Behandlung dauert sechs Wochen.* (Tedavi altı hafta sürer.) |\n| der Befund | bulgu | *Der Befund war unauffällig.* (Bulgu normal çıktı.) |\n| die Anamnese | öykü / hasta geçmişi | *Die Anamnese ergab keine Vorerkrankungen.* (Anamnez önceki hastalık göstermedi.) |\n| die Nebenwirkung | yan etki | *Dieses Medikament hat starke Nebenwirkungen.* (Bu ilacın güçlü yan etkileri var.) |\n| die Überweisung | sevk | *Sie brauchen eine Überweisung zum Facharzt.* (Uzmana sevk gerekiyor.) |\n\n#### Teknoloji (Technologie)\n\n| Almanca | Türkçe | Örnek Cümle |\n|---------|--------|-------------|\n| der Datenschutz | veri koruma | *Der Datenschutz hat in der EU höchste Priorität.* (AB'de veri koruma en yüksek önceliktir.) |\n| die Schnittstelle | arayüz | *Die Schnittstelle zwischen den Systemen muss optimiert werden.* (Sistemler arası arayüz optimize edilmeli.) |\n| die Implementierung | uygulama / hayata geçirme | *Die Implementierung der Software dauert drei Monate.* (Yazılımın uygulanması üç ay sürer.) |\n| die Datenmigration | veri taşıma | *Die Datenmigration erfordert sorgfältige Planung.* (Veri taşıma dikkatli planlama gerektirir.) |\n| die Verschlüsselung | şifreleme | *Die Verschlüsselung schützt sensible Daten.* (Şifreleme hassas verileri korur.) |\n| die Künstliche Intelligenz (KI) | yapay zekâ | *KI verändert die Arbeitswelt grundlegend.* (Yapay zekâ iş dünyasını temelden değiştiriyor.) |\n\n#### İş Dünyası (Wirtschaft und Geschäft)\n\n| Almanca | Türkçe | Örnek Cümle |\n|---------|--------|-------------|\n| der Quartalsbericht | çeyrek dönem raporu | *Der Quartalsbericht zeigt ein starkes Wachstum.* (Çeyrek dönem raporu güçlü bir büyüme gösteriyor.) |\n| die Geschäftsbedingungen | ticari koşullar | *Die Geschäftsbedingungen wurden aktualisiert.* (Ticari koşullar güncellendi.) |\n| die Rendite | getiri / verim | *Die Rendite lag bei 5 Prozent.* (Getiri yüzde 5 seviyesindeydi.) |\n| die Fusion | birleşme | *Die Fusion der beiden Unternehmen ist abgeschlossen.* (İki şirketin birleşmesi tamamlandı.) |\n| die Bilanz | bilanço | *Die Bilanz fällt positiv aus.* (Bilanço olumlu çıkıyor.) |\n| die Insolvenz | iflas | *Das Unternehmen hat Insolvenz angemeldet.* (Şirket iflas başvurusunda bulundu.) |",
+      "keyTerms": [
+        {
+          "german": "der Neologismus",
+          "turkish": "yeni kelime / neolojizm",
+          "example": "Homeoffice ist ein Neologismus, der seit 2020 sehr verbreitet ist. (Homeoffice, 2020'den beri çok yaygın olan bir neolojizmdir.)"
+        },
+        {
+          "german": "der falsche Freund",
+          "turkish": "sahte dost (yalancı eşdeğer)",
+          "example": "\"Bekommen\" und \"become\" sind falsche Freunde. (\"Bekommen\" ve \"become\" sahte dostlardır.)"
+        },
+        {
+          "german": "die Wortbildung",
+          "turkish": "kelime türetme",
+          "example": "Die deutsche Wortbildung ermöglicht sehr lange Komposita. (Almanca kelime türetme, çok uzun bileşik kelimeler oluşturmaya olanak tanır.)"
+        },
+        {
+          "german": "der Datenschutz",
+          "turkish": "veri koruma",
+          "example": "Datenschutz ist in Deutschland ein Grundrecht. (Veri koruma Almanya'da temel bir haktır.)"
+        },
+        {
+          "german": "die Verhandlung",
+          "turkish": "duruşma / müzakere",
+          "example": "Die Verhandlung wurde auf nächste Woche vertagt. (Duruşma gelecek haftaya ertelendi.)"
+        },
+        {
+          "german": "die Nachhaltigkeit",
+          "turkish": "sürdürülebilirlik",
+          "example": "Nachhaltigkeit ist das Schlüsselwort der modernen Umweltpolitik. (Sürdürülebilirlik, modern çevre politikasının anahtar kelimesidir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-04-q1",
+          "type": "multiple-choice",
+          "question": "Almanca 'bekommen' fiili ne anlama gelir?",
+          "options": [
+            "olmak (to become)",
+            "almak, elde etmek (to get, to receive)",
+            "gelmek (to come)",
+            "başlamak (to begin)"
+          ],
+          "correctAnswer": "almak, elde etmek (to get, to receive)",
+          "explanation": "'Bekommen' İngilizce 'become' ile benzer görünse de (sahte dost), aslında 'almak, elde etmek' anlamına gelir. Örnek: 'Ich habe ein Geschenk bekommen.' (Bir hediye aldım.)"
+        },
+        {
+          "id": "c2-04-q2",
+          "type": "fill-blank",
+          "question": "Almanca'da 'veri koruma' kavramı ___ olarak ifade edilir.",
+          "correctAnswer": "Datenschutz",
+          "explanation": "Datenschutz (Daten = veri + Schutz = koruma), Almanya'da özellikle AB Genel Veri Koruma Yönetmeliği (DSGVO) bağlamında çok önemli bir kavramdır."
+        },
+        {
+          "id": "c2-04-q3",
+          "type": "multiple-choice",
+          "question": "Aşağıdakilerden hangisi Almanca'da 'Neologismus' (yeni kelime) değildir?",
+          "options": [
+            "Homeoffice",
+            "Shitstorm",
+            "Wanderlust",
+            "Energiewende"
+          ],
+          "correctAnswer": "Wanderlust",
+          "explanation": "'Wanderlust' (gezme tutkusu) eski bir Almanca kelimedir ve neolojizm sayılmaz. Diğerleri (Homeoffice, Shitstorm, Energiewende) son yıllarda dile giren veya yeni anlam kazanan kelimelerdir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Sahte Dostlar Egzersizi",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana 20 adet Almanca-İngilizce sahte dost (falsche Freunde) listesi oluştur. Her biri için: 1) Almanca kelime ve gerçek anlamı, 2) İngilizce'deki benzer kelime ve İngilizce anlamı, 3) Bir Almanca örnek cümle ve Türkçe çevirisi. Sonra bana 5 cümle ver ve sahte dost hatası olup olmadığını bulmamı iste."
+        },
+        {
+          "title": "Mesleki Kelime Hazinesi",
+          "prompt": "Bana hukuk, tıp, teknoloji ve finans alanlarında kullanılan Almanca mesleki terimleri (Fachwörter) öğret. Her alan için 15 terim, Türkçe anlamı ve bir örnek cümle ver. Sonra bu terimleri kullanarak kısa bir mesleki metin yazmamdaki yardım et ve hatalarımı düzelt."
+        }
+      ]
+    },
+    {
+      "id": "c2-05",
+      "phaseId": "c2",
+      "title": "Edebi Dil",
+      "subtitle": "Literarische Sprache",
+      "estimatedMinutes": 35,
+      "order": 5,
+      "content": "## Almanca Edebi Dil (Literarische Sprache)\n\nAlman edebiyatı, dünya edebiyatının en zengin geleneklerinden birine sahiptir. C2 seviyesinde edebi metinleri okuyabilmek, anlayabilmek ve analiz edebilmek beklenir. Bu ders, seçilmiş edebi pasajlar üzerinden edebi dili, anlatım tekniklerini ve dönemlere özgü üslup özelliklerini inceler.\n\n---\n\n### 1. Alman Edebiyatının Büyük İsimleri ve Dönemleri\n\n| Dönem | Yıllar | Temsilciler | Temel Özellikler |\n|-------|--------|-------------|------------------|\n| Klassik (Weimarer Klassik) | 1786–1832 | Goethe, Schiller | Harmoni, insanlık ideali, antik Yunan etkisi |\n| Romantik | 1795–1835 | Novalis, Eichendorff | Doğa, duygu, hayal gücü, gizem |\n| Realizm | 1848–1890 | Fontane, Storm | Gerçekçilik, toplumsal konular |\n| Expressionismus | 1910–1925 | Kafka, Trakl | İç dünya, korku, yabancılaşma |\n| Nachkriegsliteratur | 1945–1970 | Böll, Grass | Savaş sonrası hesaplaşma |\n| Gegenwartsliteratur | 1970– | Herta Müller, Daniel Kehlmann | Çoğulculuk, göç, kimlik |\n\n---\n\n### 2. Goethe — Alman Edebiyatının Zirvesi\n\n**Johann Wolfgang von Goethe (1749–1832)**, Alman edebiyatının en önemli figürüdür.\n\n**Faust'tan bir pasaj:**\n\n> *Habe nun, ach! Philosophie,*\n> *Juristerei und Medizin,*\n> *Und leider auch Theologie*\n> *Durchaus studiert, mit heißem Bemühn.*\n> *Da steh ich nun, ich armer Tor,*\n> *Und bin so klug als wie zuvor!*\n\n**Türkçe çeviri:**\n> Ah, artık Felsefe, Hukuk, Tıp ve ne yazık ki Teoloji'yi de — hepsini büyük çabayla baştan sona okudum. İşte burada duruyorum, zavallı bir budala, ve eskisi kadar bilgeyim!\n\n**Analiz:**\n- **Tema:** Bilginin sınırlılığı, insanın anlam arayışı\n- **Üslup:** Klasik kafiye düzeni (Paarreim: ach/Tor, Bemühn/zuvor), yüksek dil, ironik ton\n- **Konjunktiv kullanımı yok** — doğrudan, güçlü ifadeler\n- **\"ich armer Tor\"**: Kendini küçümseme, alçakgönüllülük figürü\n\n---\n\n### 3. Kafka — Modernliğin Yabancılaşması\n\n**Franz Kafka (1883–1924)**, eserlerinde yabancılaşma, bürokrasi ve varoluşsal kaygıyı işlemiştir.\n\n**Die Verwandlung (Dönüşüm) — açılış cümlesi:**\n\n> *Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.*\n\n**Türkçe çeviri:**\n> Gregor Samsa bir sabah huzursuz düşlerden uyandığında, yatağında dev bir böceğe dönüşmüş olduğunu gördü.\n\n**Analiz:**\n- **Üslup:** Sakin, nesnel bir ton — olağanüstü bir olay sıradan bir şekilde anlatılır\n- **Anlatı perspektifi:** Er/Sie-Erzähler (üçüncü kişi anlatıcı), ama Gregor'un iç dünyasına odaklı (personale Erzählperspektive)\n- **Dil:** Uzun, karmaşık bir ana cümle, geçmiş zaman (Präteritum), resmi bir mesafe\n- **Tema:** Yabancılaşma (Entfremdung), kimlik kaybı, toplumsal dışlanma\n\n---\n\n### 4. Hesse — İç Yolculuk\n\n**Hermann Hesse (1877–1962)**, iç dünyayı ve ruhsal arayışı merkeze alan eserleriyle Nobel Edebiyat Ödülü kazanmıştır.\n\n**Siddhartha'dan:**\n\n> *Man braucht vor niemand Angst zu haben. Wenn man jemanden fürchtet, dann kommt es daher, dass man diesem Jemand Macht über sich eingeräumt hat.*\n\n**Türkçe çeviri:**\n> Kimsenin korkmasına gerek yoktur. Birinden korkuyorsan, bunun nedeni o kişiye senin üzerinde güç tanımış olmandır.\n\n**Analiz:**\n- **Konjunktiv II kullanımı yok**, doğrudan bilgelik ifadesi\n- **man** zamir kullanımı: Genel geçer bir hakikat olarak sunma\n- **Tema:** Bireysel özgürlük, iç güç, kendi yolunu bulma\n\n---\n\n### 5. Edebiyatta Konjunktiv Kullanımı\n\nEdebi metinlerde Konjunktiv, günlük dilden farklı olarak yaygın ve bilinçli kullanılır:\n\n**Konjunktiv I — Dolaylı Aktarım (Indirekte Rede):**\n- *Der Erzähler sagte, er sei müde.* (Anlatıcı yorgun olduğunu söyledi.)\n- *Sie behauptete, sie habe nichts gewusst.* (Hiçbir şey bilmediğini iddia etti.)\n\n**Konjunktiv II — Gerçek dışı/Hayal (Irrealis):**\n- *Wäre ich ein Vogel, flöge ich davon.* (Bir kuş olsaydım, uçar giderdim.)\n- *Hätte er geschwiegen, wäre er Philosoph geblieben.* (Sussaydı, filozof olarak kalırdı.)\n\n**Tarihsel Konjunktiv (Historischer Konjunktiv):**\n- Eski metinlerde Konjunktiv II, Konjunktiv I yerine kullanılırdı: *Er sagte, er wäre krank.* (modern: *er sei krank*)\n\n---\n\n### 6. Anlatım Teknikleri (Erzähltechniken)\n\n| Teknik | Almanca | Açıklama | Örnek |\n|--------|---------|----------|-------|\n| Birinci kişi anlatıcı | Ich-Erzähler | Olaylar \"ben\" perspektifinden anlatılır | Kafka - *Der Prozess* (kısmen) |\n| Üçüncü kişi anlatıcı | Er/Sie-Erzähler | Dışarıdan bir bakış açısı | Kafka - *Die Verwandlung* |\n| Her şeyi bilen anlatıcı | Allwissender Erzähler | Tüm karakterlerin düşüncelerini bilen | Thomas Mann - *Buddenbrooks* |\n| İç monolog | Innerer Monolog | Karakterin düşüncelerinin doğrudan aktarılması | Arthur Schnitzler - *Fräulein Else* |\n| Bilinç akışı | Bewusstseinsstrom | Düşüncelerin kesintisiz, düzensiz akışı | Modernist edebiyat |\n| Çerçeve anlatı | Rahmenerzählung | Bir hikâye içinde hikâye | Storm - *Der Schimmelreiter* |\n\n---\n\n### 7. Eski ve Modern Alman Edebiyat Dili Karşılaştırması\n\n| Özellik | Klasik Dönem (Goethe çağı) | Modern Edebiyat |\n|---------|--------------------------|------------------|\n| Cümle yapısı | Uzun, karmaşık, çok yan cümleli | Daha kısa, parçalı |\n| Kelime seçimi | Yüksek, şiirsel | Günlük, bazen argo |\n| Zaman kullanımı | Präteritum ağırlıklı | Perfekt ve Präsens de sık |\n| Konjunktiv | Yaygın ve çeşitli | Daha az ve basitleştirilmiş |\n| Ton | Formal, görkemli | Bireysel, deneysel |",
+      "keyTerms": [
+        {
+          "german": "die Erzählperspektive",
+          "turkish": "anlatı perspektifi / bakış açısı",
+          "example": "Kafka verwendet eine personale Erzählperspektive. (Kafka kişiye bağlı bir anlatı perspektifi kullanır.)"
+        },
+        {
+          "german": "die Entfremdung",
+          "turkish": "yabancılaşma",
+          "example": "Entfremdung ist ein zentrales Thema bei Kafka. (Yabancılaşma, Kafka'da merkezi bir temadır.)"
+        },
+        {
+          "german": "der Ich-Erzähler",
+          "turkish": "birinci kişi anlatıcı (ben-anlatıcı)",
+          "example": "Der Ich-Erzähler berichtet aus seiner eigenen Sicht. (Ben-anlatıcı kendi bakış açısından aktarır.)"
+        },
+        {
+          "german": "der Konjunktiv",
+          "turkish": "dilek kipi (konjunktif)",
+          "example": "In literarischen Texten wird der Konjunktiv häufig verwendet. (Edebi metinlerde dilek kipi sıkça kullanılır.)"
+        },
+        {
+          "german": "die Rahmenerzählung",
+          "turkish": "çerçeve anlatı (hikâye içinde hikâye)",
+          "example": "Der Schimmelreiter ist ein klassisches Beispiel für eine Rahmenerzählung. (Schimmelreiter, çerçeve anlatının klasik bir örneğidir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-05-q1",
+          "type": "multiple-choice",
+          "question": "Kafka'nın 'Die Verwandlung' eserinde kullanılan anlatım tekniği hangisidir?",
+          "options": [
+            "Ich-Erzähler (Birinci kişi anlatıcı)",
+            "Personale Erzählperspektive (Kişiye bağlı üçüncü kişi)",
+            "Allwissender Erzähler (Her şeyi bilen anlatıcı)",
+            "Bewusstseinsstrom (Bilinç akışı)"
+          ],
+          "correctAnswer": "Personale Erzählperspektive (Kişiye bağlı üçüncü kişi)",
+          "explanation": "'Die Verwandlung' üçüncü kişi anlatıcı (Er-Erzähler) kullanır, ancak olaylar büyük ölçüde Gregor Samsa'nın bakış açısından filtrelenir. Bu, 'personale Erzählperspektive' olarak adlandırılır."
+        },
+        {
+          "id": "c2-05-q2",
+          "type": "true-false",
+          "question": "Goethe'nin Faust'unda ana tema bilginin sınırlılığı ve insanın anlam arayışıdır.",
+          "correctAnswer": "Doğru",
+          "options": ["Doğru", "Yanlış"],
+          "explanation": "Faust, tüm bilimleri okumuş ama hâlâ tatmin olmamış bir akademisyenin hikâyesidir. Temel tema, bilginin sınırlılığı ve insanın daha derin bir anlam arayışıdır."
+        },
+        {
+          "id": "c2-05-q3",
+          "type": "multiple-choice",
+          "question": "'Rahmenerzählung' (çerçeve anlatı) ne anlama gelir?",
+          "options": [
+            "Bir hikâyenin sonundan başlayarak anlatılması",
+            "Birden fazla anlatıcının olması",
+            "Bir hikâye içinde başka bir hikâyenin anlatılması",
+            "Sadece diyaloglarla ilerleyen anlatı"
+          ],
+          "correctAnswer": "Bir hikâye içinde başka bir hikâyenin anlatılması",
+          "explanation": "Rahmenerzählung'da bir dış hikâye (Rahmen = çerçeve) içinde bir iç hikâye (Binnenerzählung) anlatılır. Theodor Storm'un 'Der Schimmelreiter' eseri bu tekniğin klasik örneğidir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Edebi Metin Analizi",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana Kafka'nın 'Die Verwandlung' eserinden kısa bir pasaj ver ve bu pasajı birlikte analiz edelim. Analizde şunları kapsa: 1) Dil özellikleri (cümle yapısı, zaman kullanımı), 2) Anlatım tekniği, 3) Tematik analiz, 4) Üslup araçları. Tüm açıklamaları Türkçe yap, Almanca terimleri parantez içinde belirt."
+        },
+        {
+          "title": "Alman Edebiyat Dönemleri",
+          "prompt": "Bana Alman edebiyatının ana dönemlerini (Klassik, Romantik, Realismus, Expressionismus, Nachkriegsliteratur, Gegenwartsliteratur) her birinden birer örnek pasajla birlikte Türkçe olarak anlat. Her dönemin tipik dil özelliklerini ve temalarını karşılaştımalı bir tablo halinde sun."
+        }
+      ]
+    },
+    {
+      "id": "c2-06",
+      "phaseId": "c2",
+      "title": "Mesleki Dil",
+      "subtitle": "Fachsprache und Berufssprache",
+      "estimatedMinutes": 35,
+      "order": 6,
+      "content": "## Mesleki ve İş Almancası (Fachsprache und Berufssprache)\n\nC2 seviyesinde, farklı meslek alanlarında profesyonel düzeyde iletişim kurabilmek hedeflenir. Bu derste iş dünyası, hukuk, tıp ve teknoloji alanlarındaki mesleki dili, toplantı ve sunum becerilerini ele alıyoruz.\n\n---\n\n### 1. İş Dünyası Almancası (Geschäftsdeutsch)\n\n#### Resmi Yazışma Kalıpları\n\n| Amaç | Almanca İfade | Türkçe Karşılığı |\n|------|--------------|------------------|\n| Açılış | *Sehr geehrte Damen und Herren,* | Sayın Bayanlar ve Baylar, |\n| Konu belirtme | *Bezugnehmend auf Ihr Schreiben vom...* | ...tarihli yazınıza atıfta bulunarak... |\n| Talep | *Wir möchten Sie bitten, uns die Unterlagen zuzusenden.* | Belgeleri bize göndermenizi rica ederiz. |\n| Teşekkür | *Für Ihre Bemühungen danken wir Ihnen im Voraus.* | Emekleriniz için şimdiden teşekkür ederiz. |\n| Kapanış | *Mit freundlichen Grüßen* | Saygılarımla |\n| Ek belirtme | *Anbei erhalten Sie...* / *Im Anhang finden Sie...* | Ekte ... bulacaksınız. |\n\n#### İş Toplantısı Dili (Besprechungen)\n\n| Durum | Almanca İfade | Türkçe |\n|-------|--------------|--------|\n| Toplantı açma | *Ich eröffne die Sitzung und begrüße alle Anwesenden.* | Oturumu açıyor ve tüm katılımcıları selamlıyorum. |\n| Gündem sunma | *Auf der Tagesordnung stehen folgende Punkte...* | Gündemde şu maddeler yer almaktadır... |\n| Söz alma | *Darf ich an dieser Stelle etwas ergänzen?* | Bu noktada bir şey ekleyebilir miyim? |\n| Muhalefet | *Ich sehe das etwas anders.* / *Mit Verlaub, ich bin anderer Meinung.* | Bunu biraz farklı görüyorum. / İzninizle, farklı düşünüyorum. |\n| Onay | *Da stimme ich Ihnen vollkommen zu.* | Size tamamen katılıyorum. |\n| Karar alma | *Wir haben uns darauf geeinigt, dass...* | ... konusunda anlaştık. |\n| Toplantı kapatma | *Wenn es keine weiteren Punkte gibt, schließe ich die Sitzung.* | Başka madde yoksa oturumu kapatıyorum. |\n\n---\n\n### 2. Hukuk Almancası (Rechtssprache)\n\nHukuk dili, Almanca'nın en karmaşık ve en resmi register düzeyidir.\n\n#### Temel Hukuk Terimleri\n\n| Almanca | Türkçe | Açıklama |\n|---------|--------|----------|\n| die Verordnung | yönetmelik | Hükümet tarafından çıkarılan düzenleme |\n| die Rechtsgrundlage | hukuki dayanak | Bir eylemin yasal temeli |\n| das Grundgesetz (GG) | Anayasa | Almanya Federal Cumhuriyeti'nin anayasası |\n| der Beklagte | davalı | Aleyhine dava açılan kişi |\n| der Kläger | davacı | Davayı açan kişi |\n| die Verjährung | zamanaşımı | Hakkın belirli süre sonunda düşmesi |\n| der Sachverhalt | olaylar bütünü / dava konusu | Bir davanın olgusal temeli |\n| die Rechtsprechung | yargı / içtihat | Mahkemelerin karar verme pratiği |\n\n#### Hukuki Metin Örneği:\n\n> *Gemäß § 823 Abs. 1 BGB ist derjenige, der vorsätzlich oder fahrlässig das Leben, den Körper, die Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines anderen widerrechtlich verletzt, dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.*\n\n**Türkçe:** BGB (Medeni Kanun) madde 823, fıkra 1'e göre, kasıtlı veya ihmal sonucu bir başkasının yaşamını, bedenini, sağlığını, özgürlüğünü, mülkünü veya herhangi bir hakkını hukuka aykırı şekilde ihlal eden kişi, bundan doğan zararı tazmin etmekle yükümlüdür.\n\n---\n\n### 3. Tıp Almancası (Medizinische Fachsprache)\n\n#### Hasta-Doktor Diyalogu\n\n| Durum | Doktor (Almanca) | Türkçe |\n|-------|-----------------|--------|\n| Semptom sorma | *Welche Beschwerden haben Sie?* | Şikâyetleriniz nedir? |\n| Süre sorma | *Seit wann bestehen die Symptome?* | Belirtiler ne zamandır var? |\n| Muayene | *Ich werde Sie jetzt untersuchen.* | Şimdi sizi muayene edeceğim. |\n| Teşhis | *Dem Befund nach handelt es sich um...* | Bulgulara göre bu bir... |\n| Tedavi planı | *Ich verschreibe Ihnen ein Medikament.* | Size bir ilaç yazıyorum. |\n| Sevk | *Ich überweise Sie an einen Facharzt.* | Sizi bir uzmana sevk ediyorum. |\n\n#### Tıbbi Rapor Dili\n\n> *Anamnese: Der Patient klagt über seit drei Tagen bestehende Kopfschmerzen und intermittierendes Fieber. Befund: Temperatur 38,7°C, Rachenrötung. Diagnose: Akute Pharyngitis. Therapie: Symptomatische Behandlung, bei ausbleibender Besserung Wiedervorstellung in drei Tagen.*\n\n**Türkçe:** Anamnez: Hasta üç gündür süren baş ağrısı ve aralıklı ateşten şikâyet etmektedir. Bulgu: Ateş 38,7°C, boğaz kızarıklığı. Tanı: Akut farenjit. Tedavi: Semptomatik tedavi, iyileşme olmazsa üç gün sonra tekrar muayene.\n\n---\n\n### 4. Teknoloji Almancası (Technische Fachsprache)\n\n| Almanca | Türkçe | Örnek |\n|---------|--------|-------|\n| die Implementierung | uygulama / hayata geçirme | *Die Implementierung erfolgt in drei Phasen.* (Uygulama üç aşamada gerçekleşir.) |\n| die Datenmigration | veri taşıma / göçü | *Die Datenmigration vom Altsystem ist abgeschlossen.* (Eski sistemden veri taşıma tamamlandı.) |\n| die Skalierbarkeit | ölçeklenebilirlik | *Die Skalierbarkeit des Systems ist entscheidend.* (Sistemin ölçeklenebilirliği belirleyicidir.) |\n| die Anforderungsanalyse | gereksinim analizi | *Die Anforderungsanalyse bildet die Grundlage.* (Gereksinim analizi temeli oluşturur.) |\n| das Lastenheft | gereksinim şartnamesi | *Das Lastenheft definiert die Anforderungen.* (Gereksinim şartnamesi gereksinimleri tanımlar.) |\n| das Pflichtenheft | teknik şartname | *Im Pflichtenheft sind die Lösungen beschrieben.* (Teknik şartnamede çözümler açıklanmıştır.) |\n\n---\n\n### 5. Sunum Dili (Präsentationssprache)\n\n| Aşama | Almanca İfade | Türkçe |\n|-------|--------------|--------|\n| Giriş | *Meine Damen und Herren, ich freue mich, Ihnen heute unsere Ergebnisse vorzustellen.* | Bayanlar ve baylar, bugün sonuçlarımızı sunmaktan mutluluk duyuyorum. |\n| Yapı tanıtma | *Mein Vortrag gliedert sich in drei Teile.* | Sunumum üç bölümden oluşmaktadır. |\n| Geçiş | *Kommen wir nun zum nächsten Punkt.* | Şimdi bir sonraki konuya geçelim. |\n| Veri sunma | *Wie Sie der Grafik entnehmen können...* | Grafikten görebileceğiniz gibi... |\n| Sonuç | *Zusammenfassend möchte ich betonen, dass...* | Özetlemek gerekirse, şunu vurgulamak isterim ki... |\n| Soru alma | *Gibt es Fragen oder Anmerkungen?* | Soru veya görüşleriniz var mı? |\n\n---\n\n### 6. E-posta Üslubu: Resmi vs Yarı Resmi\n\n| Özellik | Resmi (Formal) | Yarı Resmi (Halb-formal) |\n|---------|---------------|-------------------------|\n| Hitap | *Sehr geehrter Herr Dr. Müller,* | *Lieber Herr Müller,* |\n| Ton | Mesafeli, nezaketli | Sıcak ama profesyonel |\n| Kapanış | *Mit freundlichen Grüßen* | *Beste Grüße* / *Viele Grüße* |\n| İstekte bulunma | *Ich wäre Ihnen sehr verbunden, wenn Sie...* | *Könnten Sie mir bitte...?* |\n| Teşekkür | *Für Ihre geschätzte Rückmeldung danke ich Ihnen.* | *Vielen Dank für Ihre Antwort!* |",
+      "keyTerms": [
+        {
+          "german": "die Geschäftsbedingungen",
+          "turkish": "ticari koşullar / iş şartları",
+          "example": "Die Allgemeinen Geschäftsbedingungen (AGB) regeln die Vertragsdetails. (Genel iş koşulları sözleşme detaylarını düzenler.)"
+        },
+        {
+          "german": "der Quartalsbericht",
+          "turkish": "çeyrek dönem raporu",
+          "example": "Der Quartalsbericht wird nächste Woche veröffentlicht. (Çeyrek dönem raporu gelecek hafta yayınlanacak.)"
+        },
+        {
+          "german": "die Rechtsgrundlage",
+          "turkish": "hukuki dayanak / yasal temel",
+          "example": "Jede Verordnung braucht eine Rechtsgrundlage. (Her yönetmeliğin bir hukuki dayanağa ihtiyacı vardır.)"
+        },
+        {
+          "german": "der Befund",
+          "turkish": "bulgu / muayene sonucu",
+          "example": "Der Befund war ohne pathologischen Hinweis. (Bulgu, patolojik bir işaret göstermedi.)"
+        },
+        {
+          "german": "die Anforderungsanalyse",
+          "turkish": "gereksinim analizi",
+          "example": "Die Anforderungsanalyse ist der erste Schritt im Projekt. (Gereksinim analizi projedeki ilk adımdır.)"
+        },
+        {
+          "german": "die Tagesordnung",
+          "turkish": "gündem",
+          "example": "Bitte sehen Sie sich die Tagesordnung vor der Sitzung an. (Lütfen toplantıdan önce gündeme bakın.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-06-q1",
+          "type": "multiple-choice",
+          "question": "Resmi bir Almanca iş mektubunda hangisi doğru kapanış ifadesidir?",
+          "options": [
+            "Tschüss!",
+            "Liebe Grüße",
+            "Mit freundlichen Grüßen",
+            "Bis bald!"
+          ],
+          "correctAnswer": "Mit freundlichen Grüßen",
+          "explanation": "'Mit freundlichen Grüßen' (Saygılarımla) resmi iş yazışmalarının standart kapanış ifadesidir. Diğer seçenekler günlük veya yarı resmi yazışmalarda kullanılır."
+        },
+        {
+          "id": "c2-06-q2",
+          "type": "fill-blank",
+          "question": "Almanca'da bir toplantının açılış cümlesi: 'Ich ___ die Sitzung und begrüße alle Anwesenden.'",
+          "correctAnswer": "eröffne",
+          "explanation": "'Die Sitzung eröffnen' (oturumu açmak) resmi toplantılarda kullanılan standart ifadedir. 'Eröffne' fiilinin birinci tekil şahıs çekimidir."
+        },
+        {
+          "id": "c2-06-q3",
+          "type": "matching",
+          "question": "Mesleki Almanca terimleri Türkçe karşılıklarıyla eşleştirin.",
+          "correctAnswer": "die Verordnung = yönetmelik",
+          "matchPairs": [
+            { "left": "die Verordnung", "right": "yönetmelik" },
+            { "left": "die Diagnose", "right": "teşhis / tanı" },
+            { "left": "die Implementierung", "right": "uygulama / hayata geçirme" },
+            { "left": "der Quartalsbericht", "right": "çeyrek dönem raporu" }
+          ],
+          "explanation": "Bu terimler dört farklı mesleki alandan (hukuk, tıp, teknoloji, iş) gelmektedir. C2 seviyesinde bu terimleri aktif olarak kullanabilmek beklenir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "İş Toplantısı Simülasyonu",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Benimle bir Almanca iş toplantısı simülasyonu yap. Senaryo: Bir yazılım şirketinde yeni projenin planlaması. Sen proje yöneticisi ol, ben de ekip lideri olayım. Toplantıyı resmi Almanca ile yürüt, arada bana profesyonel Almanca ifadeler öner ve cümlelerimi düzelt. Her turda hangi Redemittel kullandığımı ve hangi alternatifleri kullanabileceğimi Türkçe olarak açıkla."
+        },
+        {
+          "title": "Mesleki Metin Yazma",
+          "prompt": "Bana şu dört alanda birer kısa profesyonel metin yazmamda yardım et: 1) Bir iş teklifi mektubu (Geschäftsbrief), 2) Kısa bir hukuki açıklama (Rechtsgutachten), 3) Bir hasta raporu (Arztbericht), 4) Bir teknik proje özeti (Projektbeschreibung). Her metin için bir taslak oluştur, terimleri Türkçe açıkla ve sonra benim versiyonumu düzelt."
+        }
+      ]
+    },
+    {
+      "id": "c2-07",
+      "phaseId": "c2",
+      "title": "Almancanın İncelikleri",
+      "subtitle": "Feinheiten der deutschen Grammatik",
+      "estimatedMinutes": 35,
+      "order": 7,
+      "content": "## Almancanın Dilbilgisel İncelikleri (Feinheiten der deutschen Grammatik)\n\nC2 seviyesinde dilbilgisinin temel kurallarını bilmek yeterli değildir. Asıl ustalık, **istisnaları, nüansları ve üslupsal seçimleri** kavramakla gelir. Bu derste, ana dili Almanca olanların bile bazen yanlış yaptığı incelikleri ele alıyoruz.\n\n---\n\n### 1. brauchen + zu (Kullanım İnceliği)\n\n**Kural:** *brauchen* fiili olumsuz cümlelerde *müssen* yerine kullanılabilir, ancak **zu + Infinitiv** yapısını gerektirir.\n\n| Doğru Kullanım | Yanlış (Yaygın Hata) | Türkçe |\n|---------------|----------------------|--------|\n| *Du brauchst nicht **zu** kommen.* | *Du brauchst nicht kommen.* | Gelmen gerekmiyor. |\n| *Er braucht das nicht **zu** wissen.* | *Er braucht das nicht wissen.* | Bunu bilmesi gerekmiyor. |\n| *Sie braucht nur **zu** fragen.* | *Sie braucht nur fragen.* | Sadece sorması yeterli. |\n\n> **Not:** Günlük konuşma dilinde \"zu\" sıkça düşürülür ve bu yaygın olarak kabul edilir. Ancak yazılı dilde ve sınavlarda *zu* kullanmak gerekir.\n\n**Duden'in kuralı:** *Wer brauchen ohne zu gebraucht, braucht brauchen gar nicht zu gebrauchen.* (\"brauchen\"ı \"zu\" olmadan kullanan kişinin \"brauchen\"ı kullanmasına hiç gerek yoktur.) — Bu ünlü söz, kuralı espritüel biçimde özetler.\n\n---\n\n### 2. Kalıplaşmış Konjunktiv İfadeler (Konjunktiv in festen Wendungen)\n\nBazı Konjunktiv yapıları, günlük dilde kalıplaşmış olarak yaşamaya devam eder:\n\n| İfade | Konjunktiv Türü | Anlamı | Kullanım |\n|-------|----------------|--------|----------|\n| ***Es lebe** der König!* | Konjunktiv I | Yaşasın kral! | Dilek, kutlama |\n| ***Seien** Sie so nett!* | Konjunktiv I | Lütfen nazik olun! | Kibar rica |\n| ***Gott sei** Dank!* | Konjunktiv I | Tanrıya şükür! | Rahatlama ifadesi |\n| ***Möge** er in Frieden ruhen.* | Konjunktiv I | Huzur içinde yatsın. | Anma, taziye |\n| ***Käme** er doch!* | Konjunktiv II | Keşke gelse! | Dilek |\n| ***Hätte** ich das gewusst!* | Konjunktiv II | Keşke bunu bilseydim! | Pişmanlık |\n| ***Wäre** ich doch geblieben!* | Konjunktiv II | Keşke kalsaydım! | Pişmanlık |\n| *Wie dem auch **sei**...* | Konjunktiv I | Her neyse, nasıl olursa olsun... | Bağlama, geçiş |\n| *Es **sei** denn, dass...* | Konjunktiv I | ... olmadığı sürece, meğer ki... | Koşul |\n| *Man **nehme** 200g Mehl...* | Konjunktiv I | 200g un alınız... | Yemek tarifleri (eski üslup) |\n\n---\n\n### 3. Rheinische Verlaufsform: sein + am + Infinitiv\n\nStandart Almancada resmi olarak kabul edilmese de, **am-Progressiv** yapısı günlük dilde yaygınlaşmaktadır. İngilizce'deki *present continuous* (-ing formu) gibi devam eden bir eylemi ifade eder.\n\n| Almanca (am-Progressiv) | Standart Almanca | Türkçe |\n|------------------------|------------------|--------|\n| *Ich bin am Kochen.* | *Ich koche gerade.* | Yemek pişiriyorum (şu anda). |\n| *Er ist am Arbeiten.* | *Er arbeitet gerade.* | Çalışıyor (şu anda). |\n| *Wir sind am Überlegen.* | *Wir überlegen gerade.* | Düşünüyoruz (şu anda). |\n| *Sie ist am Telefonieren.* | *Sie telefoniert gerade.* | Telefon konuşması yapıyor. |\n\n> **Not:** Bu yapı Ren bölgesinden (Rheinland) kaynaklanır ve **Rheinische Verlaufsform** olarak adlandırılır. Akademik metinlerde kullanılmaz, ancak konuşma dilinde çok yaygındır ve dilbilimciler tarafından giderek daha fazla kabul görmektedir.\n\n---\n\n### 4. Tarihsel ve Üslupsal Konjunktiv II Formları\n\nModern Almancada birçok Konjunktiv II formu \"würde + Infinitiv\" ile değiştirilmiştir, ancak edebi ve yüksek üsluplu metinlerde orijinal formlar hâlâ kullanılır:\n\n| Fiil | Modern (würde) | Edebi/Eski Form | Türkçe |\n|------|----------------|----------------|--------|\n| helfen | würde helfen | ***hülfe*** | yardım ederdi |\n| sterben | würde sterben | ***stürbe*** | ölürdü |\n| werfen | würde werfen | ***würfe*** | atardı |\n| stehen | würde stehen | ***stünde*** | dururdu |\n| beginnen | würde beginnen | ***begönne*** | başlardı |\n| gewinnen | würde gewinnen | ***gewönne*** | kazanırdı |\n| fliegen | würde fliegen | ***flöge*** | uçardı |\n| schließen | würde schließen | ***schlösse*** | kapardı |\n\n> **Not:** Bu formlar günlük konuşmada neredeyse hiç duyulmaz, ancak yüksek düzeyli metinlerde, edebiyatta ve C2 sınavlarında karşınıza çıkabilir.\n\n---\n\n### 5. Üslupsal Devrik Cümle (Stilistische Inversion)\n\nAlmancada fiil ikinci pozisyondadır (V2 kuralı), ancak üslup amacıyla farklı öğeler birinci pozisyona getirilebilir:\n\n**Normal sıralama:**\n*Ich habe das Buch gestern gelesen.* (Kitabı dün okudum.)\n\n**Devrik cümle örnekleri:**\n\n| Devrik Cümle | Vurgulanan Öğe | Etki |\n|-------------|---------------|------|\n| ***Gestern** habe ich das Buch gelesen.* | Zaman | Dün — ne zaman yaptığı vurgulanır |\n| ***Das Buch** habe ich gestern gelesen.* | Nesne | Kitap — neyi okuduğu vurgulanır |\n| ***Gelesen** habe ich das Buch gestern.* | Eylem | Okudum — eylemin kendisi vurgulanır |\n| ***Selten** hat man so etwas erlebt.* | Sıklık | Nadiren — nadirlik vurgulanır |\n| ***Kaum** hatte er das gesagt, da...* | Zamanlama | Daha yeni — hemen ardından gelen eylem |\n\n---\n\n### 6. Kenar Durumlar ve İstisnalar\n\n#### a) Genitiv mi Dativ mi? (Genitiv-Dativ Schwankung)\n\nBazı edatlar tarihsel olarak Genitiv alır ama günlük dilde Dativ'e kayar:\n\n| Edat | Standart (Genitiv) | Günlük Dil (Dativ) |\n|------|-------------------|--------------------|\n| wegen | *wegen **des** Wetters* | *wegen **dem** Wetter* |\n| trotz | *trotz **des** Regens* | *trotz **dem** Regen* |\n| während | *während **des** Krieges* | *während **dem** Krieg* |\n\n> **Sınav ipucu:** C2 sınavlarında her zaman Genitiv kullanın!\n\n#### b) Sıfat Çekimleme İstisnaları\n\nBazı sıfatlar düzensiz çekimlenir:\n- *hoch* → *ein **hoher** Berg* (yüksek bir dağ) — \"c\" düşer\n- *dunkel* → *ein **dunkler** Raum* (karanlık bir oda) — \"e\" düşer\n- *teuer* → *ein **teures** Auto* (pahalı bir araba) — \"e\" düşer\n\n#### c) Çift Anlam Taşıyan Kelimeler (Artikelwechsel = Anlam Değişimi)\n\n| Kelime | der/die/das | Anlam |\n|--------|------------|-------|\n| der See | erkek | göl |\n| die See | dişil | deniz |\n| der Band | erkek | cilt (kitap) |\n| das Band | nötr | bant, şerit |\n| die Band | dişil | müzik grubu |\n| der Leiter | erkek | lider, yönetici |\n| die Leiter | dişil | merdiven |",
+      "keyTerms": [
+        {
+          "german": "brauchen + zu + Infinitiv",
+          "turkish": "gerekmek (olumsuz: gerekmemek)",
+          "example": "Du brauchst nicht zu kommen. (Gelmen gerekmiyor.)"
+        },
+        {
+          "german": "die Verlaufsform",
+          "turkish": "süregelen eylem formu (am + Infinitiv)",
+          "example": "Ich bin am Arbeiten. (Çalışıyorum — şu anda devam ediyor.)"
+        },
+        {
+          "german": "die Inversion",
+          "turkish": "devrik cümle / söz dizimi değişimi",
+          "example": "Selten hat man so etwas gesehen. (Böyle bir şey nadiren görülmüştür.)"
+        },
+        {
+          "german": "der Konjunktiv I",
+          "turkish": "dilek kipi I (dolaylı aktarım)",
+          "example": "Es lebe die Freiheit! (Yaşasın özgürlük!)"
+        },
+        {
+          "german": "der Artikelwechsel",
+          "turkish": "artikelle anlam değişimi",
+          "example": "Der See (göl) und die See (deniz) haben unterschiedliche Bedeutungen. (Der See ve die See farklı anlamlara gelir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-07-q1",
+          "type": "fill-blank",
+          "question": "Du brauchst nicht ___ kommen. (Gelmen gerekmiyor.)",
+          "correctAnswer": "zu",
+          "explanation": "'brauchen' fiili olumsuz cümlelerde 'zu + Infinitiv' yapısıyla kullanılır. 'Du brauchst nicht zu kommen.' Günlük konuşmada 'zu' düşürülse de yazılı dilde kullanılması gerekir."
+        },
+        {
+          "id": "c2-07-q2",
+          "type": "multiple-choice",
+          "question": "'Ich bin am Kochen' yapısı ne olarak adlandırılır?",
+          "options": [
+            "Passiv (Edilgen yapı)",
+            "Rheinische Verlaufsform (Ren süreğen formu)",
+            "Konjunktiv I",
+            "Plusquamperfekt"
+          ],
+          "correctAnswer": "Rheinische Verlaufsform (Ren süreğen formu)",
+          "explanation": "'sein + am + Infinitiv' yapısı, Ren bölgesinden kaynaklanan ve İngilizce'deki 'present continuous' gibi devam eden bir eylemi ifade eden Rheinische Verlaufsform olarak adlandırılır."
+        },
+        {
+          "id": "c2-07-q3",
+          "type": "multiple-choice",
+          "question": "'Der See' ve 'die See' arasındaki fark nedir?",
+          "options": [
+            "İkisi de aynı anlama gelir (göl)",
+            "der See = göl, die See = deniz",
+            "der See = deniz, die See = göl",
+            "der See = nehir, die See = okyanus"
+          ],
+          "correctAnswer": "der See = göl, die See = deniz",
+          "explanation": "Almancada 'See' kelimesi artikeline göre anlam değiştirir: 'der See' (erkek) = göl, 'die See' (dişil) = deniz. Bu tür artikelle anlam değişimine 'Artikelwechsel' denir."
+        },
+        {
+          "id": "c2-07-q4",
+          "type": "true-false",
+          "question": "'Gott sei Dank!' ifadesinde Konjunktiv I kullanılmıştır.",
+          "correctAnswer": "Doğru",
+          "options": ["Doğru", "Yanlış"],
+          "explanation": "'Gott sei Dank!' ifadesindeki 'sei', 'sein' fiilinin Konjunktiv I formudur. Bu kalıplaşmış bir dilek ifadesidir: 'Tanrıya şükür olsun!' anlamına gelir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Dilbilgisi İncelikleri Pratiği",
+          "prompt": "Ben C2 seviyesinde Almanca öğrenen bir Türk öğrenciyim. Bana Almanca dilbilgisinin en ince noktalarını test eden 15 cümle ver. Her cümlede bir incelik olsun: brauchen + zu, kalıplaşmış Konjunktiv, Artikelwechsel, Genitiv/Dativ kayması, sıfat çekimleme istisnaları vb. Doğru cevabı ve açıklamasını Türkçe olarak yaz."
+        },
+        {
+          "title": "Konjunktiv Formları Karşılaştırması",
+          "prompt": "Bana Almancanın tarihsel Konjunktiv II formlarını (hülfe, stürbe, flöge vb.) modern 'würde + Infinitiv' karşılıklarıyla karşılaştımalı olarak öğret. Her form için bir edebi metin örneği ve bir modern cümle ver. Hangi bağlamlarda eski formların hâlâ tercih edildiğini Türkçe olarak açıkla."
+        }
+      ]
+    },
+    {
+      "id": "c2-08",
+      "phaseId": "c2",
+      "title": "Telc C2 / Goethe C2 (GDS) Sınavı Hazırlık",
+      "subtitle": "Telc C2 / Goethe C2 (GDS) Prüfungsvorbereitung",
+      "estimatedMinutes": 40,
+      "order": 8,
+      "isTelcPrep": true,
+      "content": "## Telc C2 ve Goethe C2 (GDS) Sınav Hazırlığı\n\nC2 seviyesi, Avrupa Ortak Dil Çerçevesi'nin (GER) en yüksek düzeyidir. Bu seviyede sınavlara girmek, Almanya'da akademik kariyer, üst düzey iş pozisyonları veya çevirmenlik için gereklidir. İki ana sınav vardır: **Telc Deutsch C2** ve **Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom (GDS)**.\n\n---\n\n### 1. Sınav Karşılaştırması\n\n| Özellik | Telc Deutsch C2 | Goethe C2 (GDS) |\n|---------|----------------|------------------|\n| Tam adı | Telc Deutsch C2 | Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom |\n| Düzenleyen | telc GmbH | Goethe-Institut |\n| Süre | yaklaşık 3,5 saat | yaklaşık 3,5 saat |\n| Bölümler | 4 (Lesen, Hören, Schreiben, Sprechen) | 4 (Lesen, Hören, Schreiben, Sprechen) |\n| Geçme notu | Her bölümde en az %60 | Her bölümde en az %60 |\n| Geçerlilik | Süresiz | Süresiz |\n| Kabul | Üniversiteler, işverenler, göç daireleri | Üniversiteler, işverenler, göç daireleri |\n| Fiyat (yaklaşık) | 200–300 € | 250–350 € |\n\n---\n\n### 2. Leseverstehen (Okuduğunu Anlama) — 80 dakika\n\n**Goethe GDS formatı — 4 bölüm:**\n\n| Bölüm | Görev | Metin Türü | Soru Sayısı |\n|-------|-------|-----------|-------------|\n| Teil 1 | Uzun akademik metin, detay soruları | Bilimsel makale, uzun gazete yazısı | 10 |\n| Teil 2 | Kısa metinleri uygun başlıklarla eşleştirme | Gazete başlıkları, kısa haberler | 10 |\n| Teil 3 | Boşluk doldurma (dilbilgisi ve kelime) | Akademik/edebi metin | 10 |\n| Teil 4 | Metin karşılaştırma, yazarların görüşlerini eşleştirme | İki veya daha fazla fikir yazısı | 10 |\n\n**Strateji ipuçları:**\n- Teil 1: Metni ilk okumada genel anlamı kavrayın, ikinci okumada detay sorularına odaklanın\n- Teil 2: Önce tüm başlıkları okuyun, sonra metinleri tarayın\n- Teil 3: Dilbilgisi kalıplarına dikkat edin — genellikle edatlar, artikeller veya fiil çekimleri sorulur\n- Teil 4: Her yazarın ana tezini belirleyin ve karşılaştırın\n\n---\n\n### 3. Hörverstehen (Dinleme) — 35 dakika\n\n| Bölüm | Görev | İçerik |\n|-------|-------|--------|\n| Teil 1 | Uzun bir konuşma/sunum dinleme, detay soruları | Akademik ders, konferans, röportaj |\n| Teil 2 | Kısa diyaloglar veya monologlar, eşleştirme | Günlük ve profesyonel durumlar |\n\n**Strateji ipuçları:**\n- Dinlemeden önce soruları mutlaka okuyun\n- Not alın — ama anahtar kelimeleri, uzun cümleler değil\n- İkinci dinlemede ilk yanıtlarınızı kontrol edin\n- Konuşmacının tonuna ve vurgusuna dikkat edin — ironi ve nüanslar test edilir\n\n---\n\n### 4. Schriftlicher Ausdruck (Yazılı İfade) — 80 dakika\n\n**İki yazma görevi:**\n\n#### Aufgabe 1: Zusammenfassung (Özet) — yaklaşık 250 kelime\n\nBir akademik metin özetlenmeli. Kendi görüşünüz eklenmemeli.\n\n**Zusammenfassung yazma adımları:**\n1. Metni dikkatlice okuyun ve ana argümanları belirleyin\n2. Her paragrafın ana fikrini bir cümleyle not edin\n3. Konjunktiv I ile dolaylı aktarım yapın\n4. Kendi kelimelerinizle yeniden formüle edin (paraphrasieren)\n5. Mantıksal bağlantı kelimeleri kullanın\n\n**Kullanılacak ifadeler (Redemittel):**\n\n| Amaç | İfade |\n|------|-------|\n| Giriş | *Der vorliegende Text von [Autor] befasst sich mit dem Thema...* |\n| Ana fikir | *Die zentrale These des Autors lautet...* |\n| Argüman aktarma | *Der Autor führt an, dass...* / *Er argumentiert, dass...* |\n| Dolaylı aktarım | *Laut dem Autor sei... / Der Autor behaupte, dass...* |\n| Sonuç | *Abschließend kommt der Autor zu dem Schluss, dass...* |\n\n#### Aufgabe 2: Erörterung (Tartışmalı Yazı) — yaklaşık 350 kelime\n\nBir konuda lehte ve aleyhte argümanlar sunulmalı, kendi pozisyonunuz belirtilmeli.\n\n**Erörterung yapısı:**\n\n| Bölüm | İçerik | Uzunluk |\n|-------|--------|---------|\n| Einleitung | Konuya giriş, tezin sunumu | 2-3 cümle |\n| Hauptteil — Pro | Lehte argümanlar (en az 2-3) | 1-2 paragraf |\n| Hauptteil — Kontra | Aleyhte argümanlar (en az 2-3) | 1-2 paragraf |\n| Schluss | Kendi pozisyonunuz ve sonuç | 2-3 cümle |\n\n**Kullanılacak ifadeler:**\n\n| Amaç | İfade |\n|------|-------|\n| Lehte | *Dafür spricht, dass...* / *Ein gewichtiges Argument ist...* |\n| Aleyhte | *Dagegen lässt sich einwenden, dass...* / *Kritisch zu betrachten ist...* |\n| Kendi görüş | *Meines Erachtens...* / *Ich vertrete die Auffassung, dass...* |\n| Sonuç | *Alles in allem lässt sich festhalten, dass...* |\n\n---\n\n### 5. Mündlicher Ausdruck (Sözlü İfade) — yaklaşık 15 dakika\n\n**İki bölüm:**\n\n| Bölüm | Görev | Süre |\n|-------|-------|------|\n| Monolog | Bir konuda sunum yapma (hazırlık süresi var) | 5-8 dakika |\n| Diyalog | Bir sınav ortağıyla tartışma/müzakere | 5-7 dakika |\n\n**Değerlendirme kriterleri:**\n\n| Kriter | Açıklama | Ağırlık |\n|--------|----------|--------|\n| Aufgabenbewältigung | Görevi yerine getirme | %25 |\n| Kohärenz und Flüssigkeit | Tutarlılık ve akıcılık | %25 |\n| Wortschatz | Kelime çeşitliliği ve doğruluğu | %25 |\n| Strukturen | Dilbilgisi doğruluğu ve çeşitliliği | %25 |\n\n**Sunum (Monolog) Redemittel:**\n\n| Aşama | İfade |\n|-------|-------|\n| Giriş | *Ich möchte heute über das Thema ... sprechen.* |\n| Yapı | *Zunächst werde ich auf ... eingehen, dann ... und abschließend ...* |\n| Örnek | *Dies möchte ich an einem Beispiel verdeutlichen:* |\n| Sonuç | *Zusammenfassend möchte ich festhalten, dass...* |\n\n---\n\n### 6. C2 Düzeyinde Argümantasyon (Argumentation auf C2-Niveau)\n\nC2 sınavında argümanlarınız:\n- **Çok yönlü** olmalı: Lehte ve aleyhte bakış açıları\n- **Kanıta dayalı** olmalı: Somut örnekler, istatistikler\n- **Mantıksal** olmalı: Neden-sonuç ilişkileri açık\n- **Nüanslı** olmalı: Siyah-beyaz değil, gri tonlar\n\n**Örnek argümantasyon konusu:** *Sollte Künstliche Intelligenz im Bildungswesen eingesetzt werden?* (Yapay zekâ eğitim sisteminde kullanılmalı mı?)\n\n| Argüman Türü | Örnek |\n|-------------|-------|\n| Pro | *KI kann den Unterricht individualisieren und auf die Bedürfnisse jedes Schülers eingehen.* (YZ, dersi bireyselleştirebilir ve her öğrencinin ihtiyaçlarına göre uyarlayabilir.) |\n| Kontra | *Der übermäßige Einsatz von KI könnte die sozialen Kompetenzen der Schüler beeinträchtigen.* (YZ'nin aşırı kullanımı öğrencilerin sosyal yetkinliklerini olumsuz etkileyebilir.) |\n| Nuanciert | *KI sollte als Ergänzung, nicht als Ersatz für menschliche Lehrkräfte betrachtet werden.* (YZ, insan öğretmenlerin yerine değil, tamamlayıcısı olarak görülmelidir.) |\n\n---\n\n### 7. Puanlama Kriterleri (Bewertungskriterien)\n\n| Bölüm | Maks. Puan | Geçme |\n|-------|-----------|-------|\n| Lesen | 40 | 24 (%60) |\n| Hören | 40 | 24 (%60) |\n| Schreiben | 40 | 24 (%60) |\n| Sprechen | 40 | 24 (%60) |\n| **Toplam** | **160** | **96** |\n\n> **Önemli:** Her bölümden ayrı ayrı en az %60 almak zorunludur. Toplam puanın yüksek olması yeterli değildir.\n\n---\n\n### 8. Örnek Sınav Görevi (Muster-Aufgabe)\n\n**Zusammenfassung görevi:**\n\n*Fassen Sie den folgenden Text in eigenen Worten zusammen (ca. 250 Wörter). Geben Sie die Hauptargumente und die Schlussfolgerung des Autors wieder. Verwenden Sie indirekte Rede.*\n\n(Aşağıdaki metni kendi cümlelerinizle özetleyin (yaklaşık 250 kelime). Yazarın ana argümanlarını ve sonucunu aktarın. Dolaylı aktarım kullanın.)\n\n**Örnek başlangıç:**\n\n*Der vorliegende Text von Professor Dr. Schmidt, erschienen in der Frankfurter Allgemeinen Zeitung am 15. März 2024, befasst sich mit den Auswirkungen der Digitalisierung auf den Arbeitsmarkt. Der Autor vertritt die These, dass die Digitalisierung zwar Arbeitsplätze vernichte, gleichzeitig aber neue Berufsfelder schaffe...*",
+      "keyTerms": [
+        {
+          "german": "die Zusammenfassung",
+          "turkish": "özet / özetleme",
+          "example": "Fassen Sie den Text in eigenen Worten zusammen. (Metni kendi kelimelerinizle özetleyin.)"
+        },
+        {
+          "german": "die Erörterung",
+          "turkish": "tartışmalı yazı / münakaşa yazısı",
+          "example": "In der Erörterung werden Pro- und Kontra-Argumente dargestellt. (Tartışmalı yazıda lehte ve aleyhte argümanlar sunulur.)"
+        },
+        {
+          "german": "die indirekte Rede",
+          "turkish": "dolaylı aktarım / dolaylı anlatım",
+          "example": "Der Autor behaupte, die These sei bewiesen. (Yazar, tezin kanıtlandığını iddia ediyor.)"
+        },
+        {
+          "german": "die Redemittel",
+          "turkish": "kalıp ifadeler / söz kalıpları",
+          "example": "C2-Redemittel sind für die Prüfung unverzichtbar. (C2 kalıp ifadeleri sınav için vazgeçilmezdir.)"
+        },
+        {
+          "german": "das Hörverstehen",
+          "turkish": "dinlediğini anlama",
+          "example": "Im Hörverstehen werden akademische Vorträge getestet. (Dinlediğini anlamada akademik sunumlar test edilir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "c2-08-q1",
+          "type": "multiple-choice",
+          "question": "Goethe C2 (GDS) sınavının Schreiben (yazma) bölümünde kaç görev vardır?",
+          "options": [
+            "1 (sadece Erörterung)",
+            "2 (Zusammenfassung + Erörterung)",
+            "3 (Zusammenfassung + Erörterung + Brief)",
+            "4 (dört farklı yazma görevi)"
+          ],
+          "correctAnswer": "2 (Zusammenfassung + Erörterung)",
+          "explanation": "Goethe C2 sınavının yazma bölümünde iki görev vardır: 1) Zusammenfassung (akademik metin özeti, yaklaşık 250 kelime), 2) Erörterung (tartışmalı yazı, yaklaşık 350 kelime). Toplam süre 80 dakikadır."
+        },
+        {
+          "id": "c2-08-q2",
+          "type": "true-false",
+          "question": "C2 sınavında geçmek için toplam puanın %60'ını almak yeterlidir; her bölümden ayrı geçme zorunluluğu yoktur.",
+          "correctAnswer": "Yanlış",
+          "options": ["Doğru", "Yanlış"],
+          "explanation": "Her bölümden (Lesen, Hören, Schreiben, Sprechen) ayrı ayrı en az %60 almak zorunludur. Toplam puanın yüksek olması tek başına yeterli değildir."
+        },
+        {
+          "id": "c2-08-q3",
+          "type": "multiple-choice",
+          "question": "Zusammenfassung (özet) yazarken hangisi YAPILMAMALIDIR?",
+          "options": [
+            "Konjunktiv I ile dolaylı aktarım kullanmak",
+            "Metni kendi kelimelerinizle yeniden formüle etmek",
+            "Kendi kişisel görüşünüzü eklemek",
+            "Yazarın ana argümanlarını aktarmak"
+          ],
+          "correctAnswer": "Kendi kişisel görüşünüzü eklemek",
+          "explanation": "Zusammenfassung'da amaç metni nesnel olarak özetlemektir. Kendi görüşünüzü eklemeniz beklenmez ve puan kaybına yol açar. Kişisel görüş sadece Erörterung bölümünde istenir."
+        },
+        {
+          "id": "c2-08-q4",
+          "type": "fill-blank",
+          "question": "'Der Autor behaupte, die These ___ bewiesen.' cümlesinde boşluğa gelmesi gereken Konjunktiv I formu nedir?",
+          "correctAnswer": "sei",
+          "explanation": "Dolaylı aktarımda (indirekte Rede) 'sein' fiilinin Konjunktiv I formu 'sei' kullanılır. 'Der Autor behaupte, die These sei bewiesen.' = Yazar, tezin kanıtlandığını iddia ediyor."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Zusammenfassung Pratiği",
+          "prompt": "Ben Goethe C2 (GDS) sınavına hazırlanıyorum. Bana yaklaşık 500-600 kelimelik akademik düzeyde bir Almanca metin ver (konu: dijitalleşme, çevre veya eğitim). Bu metni Zusammenfassung formatında özetlememe yardım et. Önce ben özetimi yazayım, sonra sen düzelt: 1) Konjunktiv I kullanımımı kontrol et, 2) Kendi kelimelerimle ifade edip etmediğimi değerlendir, 3) Gereksiz detayları ayıkla, 4) Yapısal önerilerde bulun."
+        },
+        {
+          "title": "Erörterung Yazma Pratiği",
+          "prompt": "Bana C2 sınav formatında bir Erörterung (tartışmalı yazı) konusu ver ve birlikte yazalım. Adımları şöyle yapalım: 1) Konuyu tanıt ve tezimi oluşturmama yardım et, 2) Lehte (Pro) 3 argüman bulmama yardım et, 3) Aleyhte (Kontra) 3 argüman bulmama yardım et, 4) Argümanları Almanca cümlelere dönüştürmeme yardım et, 5) Sonuç bölümünü yazalım. Her aşamada kullanılacak Redemittel'leri Türkçe açıklamasıyla birlikte öner."
+        }
+      ]
+    }
+  ]
+}

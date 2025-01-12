@@ -1,0 +1,921 @@
+{
+  "id": "b2",
+  "title": "B2 - Obere Mittelstufe",
+  "subtitle": "Üst Orta Seviye / Upper Intermediate",
+  "level": "B2",
+  "color": "#6366f1",
+  "icon": "school-outline",
+  "lessons": [
+    {
+      "id": "b2-01",
+      "phaseId": "b2",
+      "title": "Konjunktiv II Geçmiş Zaman",
+      "subtitle": "Konjunktiv II Vergangenheit",
+      "estimatedMinutes": 30,
+      "order": 1,
+      "content": "## Konjunktiv II Geçmiş Zaman (Konjunktiv II Vergangenheit)\n\nKonjunktiv II Vergangenheit, geçmişte **gerçekleşmemiş** durumları, pişmanlıkları ve varsayımları ifade etmek için kullanılır. Türkçe'deki \"keşke yapsaydım\", \"bilseydim yapardım\" gibi yapılara karşılık gelir.\n\n---\n\n### Yapı: hätte / wäre + Partizip II\n\nKonjunktiv II Vergangenheit iki yardımcı fiilden biri ile kurulur:\n\n| Yardımcı Fiil | Kullanım Alanı | Örnek |\n|---------------|----------------|-------|\n| **hätte** + Partizip II | Çoğu fiil (haben ile Perfekt yapanlar) | Ich **hätte** das **gemacht**. (Onu yapardım.) |\n| **wäre** + Partizip II | Hareket/durum fiilleri (sein ile Perfekt yapanlar) | Ich **wäre** **gekommen**. (Gelirdim.) |\n\n### hätte Çekimi\n\n| Özne | hätte |\n|------|-------|\n| ich | hätte |\n| du | hättest |\n| er/sie/es | hätte |\n| wir | hätten |\n| ihr | hättet |\n| sie/Sie | hätten |\n\n### wäre Çekimi\n\n| Özne | wäre |\n|------|------|\n| ich | wäre |\n| du | wärst |\n| er/sie/es | wäre |\n| wir | wären |\n| ihr | wärt |\n| sie/Sie | wären |\n\n---\n\n### Koşullu Cümleler (Irreale Bedingungssätze der Vergangenheit)\n\nGeçmişte gerçekleşmemiş koşulları ifade ederken **Wenn + Konjunktiv II Vergangenheit** yapısı kullanılır:\n\n| Almanca | Türkçe |\n|---------|--------|\n| **Wenn ich das gewusst hätte, wäre ich gekommen.** | Bunu bilseydim, gelirdim. |\n| **Wenn er früher aufgestanden wäre, hätte er den Zug nicht verpasst.** | Daha erken kalksaydı, treni kaçırmazdı. |\n| **Wenn wir mehr Geld gehabt hätten, hätten wir ein Haus gekauft.** | Daha fazla paramız olsaydı, bir ev alırdık. |\n| **Wenn du mich gefragt hättest, hätte ich dir geholfen.** | Bana sorsaydın, sana yardım ederdim. |\n| **Hätte ich mehr gelernt, hätte ich die Prüfung bestanden.** | Daha çok çalışsaydım, sınavı geçerdim. |\n\n> **Dikkat:** \"Wenn\" atıldığında fiil cümlenin başına gelir:\n> - Wenn ich das gewusst hätte... → **Hätte** ich das gewusst...\n\n---\n\n### Pişmanlık İfade Etme (Bedauern ausdrücken)\n\nKonjunktiv II Vergangenheit, pişmanlık ifade etmek için çok sık kullanılır:\n\n| Almanca | Türkçe |\n|---------|--------|\n| Ich **hätte** das nicht **sagen sollen**. | Bunu söylememeliyidim. |\n| Du **hättest** vorsichtiger **sein sollen**. | Daha dikkatli olmalıydın. |\n| Wir **hätten** früher **anfangen sollen**. | Daha erken başlamalıydık. |\n| Er **hätte** nicht so viel Geld **ausgeben sollen**. | Bu kadar çok para harcamamalıydı. |\n\n> **Kalıp:** hätte + Partizip II + sollen/können/müssen\n\n---\n\n### Konjunktiv II Şimdiki vs. Geçmiş Karşılaştırma\n\n| Zaman | Yapı | Örnek |\n|-------|------|-------|\n| Şimdiki (Gegenwart) | würde + Infinitiv / wäre/hätte | Wenn ich reich **wäre**, **würde** ich reisen. (Zengin olsam, seyahat ederdim.) |\n| Geçmiş (Vergangenheit) | hätte/wäre + Partizip II | Wenn ich reich **gewesen wäre**, **hätte** ich gereist. (Zengin olsaydım, seyahat ederdim.) |\n\n---\n\n### Yaygın Kullanım Kalıpları\n\n| Kalıp | Türkçe | Örnek |\n|-------|--------|-------|\n| Fast hätte ich... | Neredeyse ... yapacaktım | Fast hätte ich den Bus verpasst. (Neredeyse otobüsü kaçırıyordum.) |\n| Beinahe wäre... | Neredeyse ... olacaktı | Beinahe wäre er gestürzt. (Neredeyse düşecekti.) |\n| An deiner Stelle hätte ich... | Senin yerinde olsam ... yapardım | An deiner Stelle hätte ich das akzeptiert. (Senin yerinde olsam kabul ederdim.) |",
+      "keyTerms": [
+        {
+          "german": "hätte + Partizip II",
+          "turkish": "... yapmış olurdum (geçmişte gerçekleşmemiş)",
+          "example": "Ich hätte das gemacht. (Onu yapardım / yapmış olurdum.)"
+        },
+        {
+          "german": "wäre + Partizip II",
+          "turkish": "... olmuş olurdum / gitmiş olurdum",
+          "example": "Ich wäre nach Berlin gefahren. (Berlin'e gitmiş olurdum.)"
+        },
+        {
+          "german": "Wenn ich das gewusst hätte...",
+          "turkish": "Bunu bilseydim...",
+          "example": "Wenn ich das gewusst hätte, hätte ich anders gehandelt. (Bunu bilseydim, farklı davranırdım.)"
+        },
+        {
+          "german": "hätte ... sollen",
+          "turkish": "... yapmalıydım (pişmanlık)",
+          "example": "Ich hätte mehr lernen sollen. (Daha çok çalışmalıydım.)"
+        },
+        {
+          "german": "An deiner Stelle hätte ich...",
+          "turkish": "Senin yerinde olsam ... yapardım",
+          "example": "An deiner Stelle hätte ich zugestimmt. (Senin yerinde olsam kabul ederdim.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-01-q1",
+          "type": "multiple-choice",
+          "question": "'Wenn ich mehr Zeit ___ ___, hätte ich das Buch gelesen.' cümlesinde boşluklara ne gelir?",
+          "options": [
+            "habe gehabt",
+            "gehabt hätte",
+            "hatte gehabt",
+            "haben würde"
+          ],
+          "correctAnswer": "gehabt hätte",
+          "explanation": "Konjunktiv II Vergangenheit'ta 'Wenn' yan cümlesinde 'hätte + Partizip II' yapısı kullanılır. Yan cümlede fiil sonda olduğu için sıralama: Partizip II + hätte şeklindedir."
+        },
+        {
+          "id": "b2-01-q2",
+          "type": "fill-blank",
+          "question": "Wenn er früher aufgestanden ___, hätte er den Zug nicht verpasst. (Daha erken kalksaydı, treni kaçırmazdı.)",
+          "correctAnswer": "wäre",
+          "explanation": "'aufstehen' fiili Perfekt'te 'sein' ile çekimlenir (ist aufgestanden), bu yüzden Konjunktiv II Vergangenheit'ta 'wäre' kullanılır."
+        },
+        {
+          "id": "b2-01-q3",
+          "type": "true-false",
+          "question": "'Ich hätte das nicht machen sollen' cümlesi bir pişmanlık ifade eder.",
+          "correctAnswer": "Dogru",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "'hätte + Partizip II + sollen' yapısı '... yapmamalıydım' anlamında pişmanlık ifade eder. 'Bunu yapmamalıydım' anlamına gelir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Konjunktiv II Vergangenheit Pratik",
+          "prompt": "Almanca B2 seviyesinde Konjunktiv II Vergangenheit (hätte/wäre + Partizip II) konusunu pratik yapmak istiyorum. Bana 10 tane Türkçe cümle ver (keşke yapsaydım, bilseydim yapardım gibi), ben bunları Almanca'ya çevireyim, sen kontrol et ve açıklama yap. Her cümleden sonra doğru cevabı ve dilbilgisi açıklamasını Türkçe olarak ver."
+        },
+        {
+          "title": "Pişmanlık ve Varsayım Diyaloğu",
+          "prompt": "Benimle Almanca bir diyalog yap. Senaryo: Geçmişte yanlış bir karar verdim (örneğin yanlış bölüm seçtim veya bir fırsatı kaçırdım). Konjunktiv II Vergangenheit kullanarak pişmanlıklarımı ifade edeceğim. Sen de bana sorular sor ve benim cümlelerimi düzelt. Tüm dilbilgisi açıklamalarını Türkçe yap."
+        }
+      ]
+    },
+    {
+      "id": "b2-02",
+      "phaseId": "b2",
+      "title": "Edilgen Yapı İleri Seviye",
+      "subtitle": "Passiv Erweiterungen",
+      "estimatedMinutes": 35,
+      "order": 2,
+      "content": "## Edilgen Yapı İleri Seviye (Passiv Erweiterungen)\n\nB1 seviyesinde öğrendiğiniz temel edilgen yapıyı (Vorgangspassiv) genişletiyoruz. B2 seviyesinde Zustandspassiv, Subjektloses Passiv, modal fiillerle edilgen yapı ve edilgen yapı alternatifleri ele alınacak.\n\n---\n\n### 1. Vorgangspassiv vs. Zustandspassiv\n\n#### Vorgangspassiv (Oluş Edilgeni) — werden + Partizip II\nBir eylemin **sürecini** vurgular. \"Yapılıyor / yapıldı\" anlamındadır.\n\n| Zaman | Yapı | Örnek |\n|-------|------|-------|\n| Präsens | wird + Partizip II | Das Fenster **wird geöffnet**. (Pencere açılıyor.) |\n| Präteritum | wurde + Partizip II | Das Fenster **wurde geöffnet**. (Pencere açıldı.) |\n| Perfekt | ist + Partizip II + worden | Das Fenster **ist geöffnet worden**. (Pencere açılmış.) |\n\n#### Zustandspassiv (Durum Edilgeni) — sein + Partizip II\nEylemin **sonucunu/durumunu** vurgular. \"Açık / yapılmış durumda\" anlamındadır.\n\n| Zaman | Yapı | Örnek |\n|-------|------|-------|\n| Präsens | ist + Partizip II | Das Fenster **ist geöffnet**. (Pencere açık.) |\n| Präteritum | war + Partizip II | Das Fenster **war geöffnet**. (Pencere açıktı.) |\n\n> **Karşılaştırma:**\n> - Das Fenster **wird** gerade **geöffnet**. → Pencere şu anda açılıyor. (süreç)\n> - Das Fenster **ist geöffnet**. → Pencere açık (durumda). (sonuç)\n\n---\n\n### 2. Subjektloses Passiv (Öznesi Olmayan Edilgen)\n\nBazı edilgen cümlelerin öznesi olmaz. Bu durumda genellikle **\"Es\"** yer tutucu olarak kullanılır:\n\n| Almanca | Türkçe |\n|---------|--------|\n| **Es wird** hier nicht **geraucht**. | Burada sigara içilmez. |\n| **Es wurde** viel **getanzt**. | Çok dans edildi. |\n| **Es wird** sonntags nicht **gearbeitet**. | Pazar günleri çalışılmaz. |\n| Hier **wird** nicht **geraucht**. | Burada sigara içilmez. |\n\n> **Kural:** Es, cümlenin başında değilse düşer: Hier wird nicht geraucht.\n> Bu yapı özellikle geçişsiz fiillerle (intransitive Verben) kullanılır.\n\n---\n\n### 3. Modal Fiillerle Passiv (Passiv mit Modalverben)\n\nEdilgen yapı modal fiillerle birleştirilebilir:\n\n| Yapı | Örnek | Türkçe |\n|------|-------|--------|\n| Modalverb + Partizip II + werden | Das **muss** sofort **erledigt werden**. | Bu hemen halledilmeli. |\n| | Das **kann** leicht **repariert werden**. | Bu kolayca tamir edilebilir. |\n| | Der Brief **soll** heute **geschrieben werden**. | Mektup bugün yazılmalı. |\n| | Das **darf** nicht **vergessen werden**. | Bu unutulmamalı. |\n\n**Geçmiş zamanda:**\n\n| Yapı | Örnek | Türkçe |\n|------|-------|--------|\n| Modalverb (Prät.) + Part. II + werden | Das **musste** sofort **erledigt werden**. | Bu hemen halledilmeliydi. |\n| hat/haben + Part. II + werden + Modalverb (Infinitiv) | Das **hat** sofort **erledigt werden müssen**. | Bunun hemen halledilmesi gerekti. |\n\n---\n\n### 4. Passiv Alternatifleri (Passiversatzformen)\n\nAlmanca'da edilgen yapı yerine kullanılabilecek alternatif yapılar:\n\n| Alternatif | Yapı | Örnek | Türkçe |\n|-----------|------|-------|--------|\n| **man** | man + Aktiv | **Man** spricht hier Deutsch. | Burada Almanca konuşulur. |\n| **sich lassen** | sich lassen + Infinitiv | Das Problem **lässt sich** leicht **lösen**. | Problem kolayca çözülebilir. |\n| **-bar** sıfatları | Adjektiv auf -bar | Das ist **machbar**. | Bu yapılabilir. |\n| **-lich** sıfatları | Adjektiv auf -lich | Das ist **verständlich**. | Bu anlaşılır. |\n| **zu + Infinitiv** | sein + zu + Infinitiv | Das **ist** leicht **zu lösen**. | Bu kolayca çözülebilir. |\n\n> **Önemli:** Resmi ve akademik yazılarda edilgen yapı tercih edilir. Konuşma dilinde alternatifler daha yaygındır.\n\n---\n\n### Özet Tablo\n\n| Yapı | Vurgu | Örnek |\n|------|-------|-------|\n| Vorgangspassiv | Eylem süreci | Das Auto **wird repariert**. |\n| Zustandspassiv | Eylem sonucu | Das Auto **ist repariert**. |\n| Subjektloses Passiv | Genel ifade | **Es wird** viel **gelacht**. |\n| Passiv + Modalverb | Zorunluluk/olasılık | Das **muss gemacht werden**. |\n| Passiversatz (man) | Belirsiz özne | **Man** macht das so. |\n| Passiversatz (sich lassen) | Olasılık | Das **lässt sich** machen. |",
+      "keyTerms": [
+        {
+          "german": "Zustandspassiv (sein + Partizip II)",
+          "turkish": "durum edilgeni (... durumda)",
+          "example": "Das Fenster ist geöffnet. (Pencere açık durumda.)"
+        },
+        {
+          "german": "Vorgangspassiv (werden + Partizip II)",
+          "turkish": "oluş edilgeni (... yapılıyor)",
+          "example": "Das Fenster wird geöffnet. (Pencere açılıyor.)"
+        },
+        {
+          "german": "Subjektloses Passiv",
+          "turkish": "öznesi olmayan edilgen yapı",
+          "example": "Es wird hier nicht geraucht. (Burada sigara içilmez.)"
+        },
+        {
+          "german": "sich lassen + Infinitiv",
+          "turkish": "edilgen alternatif: ... yapılabilir",
+          "example": "Das lässt sich leicht erklären. (Bu kolayca açıklanabilir.)"
+        },
+        {
+          "german": "-bar (Adjektivsuffix)",
+          "turkish": "-abilir/-ebilir anlamında sıfat son eki",
+          "example": "Das ist machbar. (Bu yapılabilir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-02-q1",
+          "type": "multiple-choice",
+          "question": "'Das Fenster ist geöffnet.' cümlesi hangi yapıya örnektir?",
+          "options": [
+            "Vorgangspassiv",
+            "Zustandspassiv",
+            "Subjektloses Passiv",
+            "Aktiv"
+          ],
+          "correctAnswer": "Zustandspassiv",
+          "explanation": "'sein + Partizip II' yapısı Zustandspassiv'dir. Pencerenin açık olma durumunu (sonucunu) ifade eder, açılma sürecini değil."
+        },
+        {
+          "id": "b2-02-q2",
+          "type": "fill-blank",
+          "question": "Das Problem ___ ___ leicht lösen. (Problem kolayca çözülebilir.) — sich lassen yapısını kullanın.",
+          "correctAnswer": "lässt sich",
+          "explanation": "'sich lassen + Infinitiv' yapısı edilgen yapıya alternatif olarak 'yapılabilir' anlamında kullanılır."
+        },
+        {
+          "id": "b2-02-q3",
+          "type": "true-false",
+          "question": "'Es wird getanzt' cümlesinde 'Es' gerçek bir öznedir.",
+          "correctAnswer": "Yanlis",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "Subjektloses Passiv'de 'Es' gerçek bir özne değil, yer tutucu (Platzhalter) bir öğedir. Cümle başında değilse düşebilir: Hier wird getanzt."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Passiv Dönüştürme Alıştırması",
+          "prompt": "Almanca B2 seviyesinde Passiv konusunu pratik yapmak istiyorum. Bana 10 tane aktif cümle ver, ben bunları sırayla Vorgangspassiv, Zustandspassiv ve sich lassen yapısına dönüştüreyim. Her birini kontrol et ve Türkçe açıklama yap. Cümlelerde farklı zamanlar kullan (Präsens, Präteritum, Perfekt)."
+        },
+        {
+          "title": "Modal Fiillerle Passiv Pratik",
+          "prompt": "Almanca B2 seviyesinde Modal fiillerle Passiv (Passiv mit Modalverben) konusunu pratik yapmak istiyorum. Bana günlük hayattan 8 tane Türkçe cümle ver (örneğin: 'Bu hemen halledilmeli', 'Burada sigara içilmemeli'), ben bunları Almanca'ya modal fiil + Passiv yapısıyla çevireyim. Her cümleyi kontrol et ve dilbilgisi açıklamasını Türkçe yap."
+        }
+      ]
+    },
+    {
+      "id": "b2-03",
+      "phaseId": "b2",
+      "title": "Sıfat Olarak Ortaçlar",
+      "subtitle": "Partizipien als Adjektive",
+      "estimatedMinutes": 30,
+      "order": 3,
+      "content": "## Sıfat Olarak Ortaçlar (Partizipien als Adjektive)\n\nAlmanca'da fiillerden türetilen Partizip I ve Partizip II sıfat olarak kullanılabilir. Bu yapı, özellikle yazılı dilde ve akademik metinlerde çok yaygındır.\n\n---\n\n### 1. Partizip I (Partizip Präsens) — Sıfat Olarak\n\nPartizip I = **Fiil kökü + d** (lachend, spielend, kommend)\n\nSıfat olarak kullanıldığında **devam eden bir eylemi** ifade eder. Türkçe'deki \"-en / -an\" ortacına karşılık gelir.\n\n| Partizip I | Türkçe | Örnek |\n|-----------|--------|-------|\n| lachend | gülen | das **lachende** Kind (gülen çocuk) |\n| spielend | oynayan | die **spielenden** Kinder (oynayan çocuklar) |\n| kommend | gelen/gelecek | die **kommende** Woche (gelecek hafta) |\n| schlafend | uyuyan | der **schlafende** Hund (uyuyan köpek) |\n| brennend | yanan | das **brennende** Haus (yanan ev) |\n| weinend | ağlayan | das **weinende** Mädchen (ağlayan kız) |\n\n> **Kural:** Partizip I sıfat olarak kullanıldığında normal sıfat çekimi kurallarına uyar:\n> - der lachend**e** Mann (gülen adam) — Nominativ, bestimmt\n> - ein lachend**er** Mann (gülen bir adam) — Nominativ, unbestimmt\n> - dem lachend**en** Kind — Dativ\n\n---\n\n### 2. Partizip II — Sıfat Olarak\n\nPartizip II = **ge- + Fiil kökü + -t/-en** (gemacht, gelesen, geschrieben)\n\nSıfat olarak kullanıldığında **tamamlanmış bir eylemi** ifade eder. Türkçe'deki \"-mış/-miş\" ortacına karşılık gelir.\n\n| Partizip II | Türkçe | Örnek |\n|------------|--------|-------|\n| gelesen | okunmuş | das **gelesene** Buch (okunmuş kitap) |\n| gekocht | pişirilmiş | die **gekochte** Suppe (pişirilmiş çorba) |\n| geschrieben | yazılmış | der **geschriebene** Brief (yazılmış mektup) |\n| repariert | tamir edilmiş | das **reparierte** Auto (tamir edilmiş araba) |\n| geöffnet | açılmış | die **geöffnete** Tür (açılmış kapı) |\n| verloren | kaybolmuş | der **verlorene** Schlüssel (kaybolmuş anahtar) |\n\n> **Önemli Fark:**\n> - Partizip I → aktif anlam, devam eden: das **lachende** Kind = gülen çocuk (çocuk gülüyor)\n> - Partizip II → pasif anlam, tamamlanmış: das **gelesene** Buch = okunmuş kitap (kitap okundu)\n\n---\n\n### 3. Genişletilmiş Ortaç Yapıları (Erweiterte Partizipialattribute)\n\nAlmanca'da ortaç sıfatın önüne ek bilgi eklenebilir. Bu yapılar Türkçe'de yan cümle ile karşılanır:\n\n| Almanca (Partizipialattribut) | Eşdeğer Yan Cümle | Türkçe |\n|-------------------------------|--------------------|---------|\n| der **seit zwei Stunden wartende** Patient | der Patient, der seit zwei Stunden wartet | iki saattir bekleyen hasta |\n| das **von meinem Vater geschriebene** Buch | das Buch, das von meinem Vater geschrieben wurde | babam tarafından yazılmış kitap |\n| die **in Berlin lebende** Familie | die Familie, die in Berlin lebt | Berlin'de yaşayan aile |\n| der **letztes Jahr renovierte** Park | der Park, der letztes Jahr renoviert wurde | geçen yıl yenilenen park |\n| die **am Montag stattfindende** Konferenz | die Konferenz, die am Montag stattfindet | pazartesi gerçekleşecek konferans |\n\n> **Dönüştürme Kuralı:**\n> 1. Yan cümlede fiili belirleyin\n> 2. Partizip I (devam eden) veya Partizip II (tamamlanmış/edilgen) yapın\n> 3. Sıfat çekimi ekleyin\n> 4. Tüm ek bilgiyi ortacın önüne koyun\n\n---\n\n### 4. Pratik Örnekler ve Dönüştürmeler\n\n| Yan Cümle | Partizipialattribut |\n|-----------|---------------------|\n| Der Mann, der dort steht, ist mein Lehrer. | Der **dort stehende** Mann ist mein Lehrer. |\n| Das Auto, das gestern repariert wurde, funktioniert wieder. | Das **gestern reparierte** Auto funktioniert wieder. |\n| Die Studentin, die aus der Türkei kommt, spricht gut Deutsch. | Die **aus der Türkei kommende** Studentin spricht gut Deutsch. |\n| Der Vertrag, der letzte Woche unterschrieben wurde, ist gültig. | Der **letzte Woche unterschriebene** Vertrag ist gültig. |\n\n---\n\n### Özet\n\n| Özellik | Partizip I | Partizip II |\n|---------|-----------|-------------|\n| Yapılış | Fiil + d | ge- + Fiil + -t/-en |\n| Anlam | Aktif, devam eden | Pasif, tamamlanmış |\n| Türkçe karşılık | -en/-an | -mış/-miş, -ılmış/-ilmiş |\n| Örnek | das lachende Kind | das gelesene Buch |",
+      "keyTerms": [
+        {
+          "german": "Partizip I (Partizip Präsens)",
+          "turkish": "şimdiki zaman ortacı (-en/-an)",
+          "example": "das lachende Kind (gülen çocuk)"
+        },
+        {
+          "german": "Partizip II als Adjektiv",
+          "turkish": "geçmiş zaman ortacı sıfat olarak (-mış/-miş)",
+          "example": "das gelesene Buch (okunmuş kitap)"
+        },
+        {
+          "german": "Partizipialattribut",
+          "turkish": "genişletilmiş ortaç yapısı",
+          "example": "der seit zwei Stunden wartende Patient (iki saattir bekleyen hasta)"
+        },
+        {
+          "german": "erweitert",
+          "turkish": "genişletilmiş",
+          "example": "die in Berlin lebende Familie (Berlin'de yaşayan aile)"
+        },
+        {
+          "german": "Relativsatz → Partizip",
+          "turkish": "yan cümleden ortaç yapısına dönüştürme",
+          "example": "Der Mann, der dort steht → der dort stehende Mann"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-03-q1",
+          "type": "multiple-choice",
+          "question": "'das ... Kind' (gülen çocuk) boşluğa hangi ortaç gelir?",
+          "options": [
+            "gelachte",
+            "lachende",
+            "lachte",
+            "gelachene"
+          ],
+          "correctAnswer": "lachende",
+          "explanation": "Devam eden bir eylemi ifade etmek için Partizip I (lachend) kullanılır. Sıfat olarak 'das' ile kullanıldığında çekim eki -e alır: das lachende Kind."
+        },
+        {
+          "id": "b2-03-q2",
+          "type": "fill-blank",
+          "question": "Der ___ Brief lag auf dem Tisch. (Yazılmış mektup masanın üstündeydi.) — Partizip II von 'schreiben' kullanın.",
+          "correctAnswer": "geschriebene",
+          "explanation": "Tamamlanmış/edilgen anlam için Partizip II kullanılır: geschrieben + sıfat çekim eki -e = geschriebene."
+        },
+        {
+          "id": "b2-03-q3",
+          "type": "multiple-choice",
+          "question": "'Die aus der Türkei kommende Studentin' cümlesini yan cümle olarak nasıl yazarsınız?",
+          "options": [
+            "Die Studentin, die aus der Türkei kommt",
+            "Die Studentin, die aus der Türkei gekommen ist",
+            "Die Studentin, die aus der Türkei kam",
+            "Die Studentin, die aus der Türkei kommen wird"
+          ],
+          "correctAnswer": "Die Studentin, die aus der Türkei kommt",
+          "explanation": "Partizip I (kommende) aktif ve devam eden anlamdadır. Yan cümlede Präsens kullanılır: die aus der Türkei kommt."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Partizip Dönüştürme Alıştırması",
+          "prompt": "Almanca B2 seviyesinde Partizipien als Adjektive konusunu pratik yapmak istiyorum. Bana 10 tane Almanca yan cümle (Relativsatz) ver, ben bunları genişletilmiş ortaç yapısına (erweitertes Partizipialattribut) dönüştüreyim. Her birini kontrol et ve Türkçe açıklama yap. Hem Partizip I hem Partizip II örnekleri olsun."
+        },
+        {
+          "title": "Metin İçinde Partizip Kullanımı",
+          "prompt": "Bana Almanca B2 seviyesinde bir gazete haberi yaz (yaklaşık 150 kelime). Haberde en az 6 tane ortaç sıfat (Partizipialattribut) kullansın. Ben bu ortaçları bulup altını çizeyim ve Türkçe'ye çevireyim. Sonra kontrol et ve açıklamalarını Türkçe yap."
+        }
+      ]
+    },
+    {
+      "id": "b2-04",
+      "phaseId": "b2",
+      "title": "İsimleştirme",
+      "subtitle": "Nominalisierung",
+      "estimatedMinutes": 30,
+      "order": 4,
+      "content": "## İsimleştirme (Nominalisierung)\n\nNominalisierung, fiilleri ve sıfatları isimlere dönüştürme işlemidir. Almanca'da akademik, resmi ve yazılı dilde çok sık kullanılır. Bu yapıyı anlamak ve kullanmak B2 seviyesinin temel hedeflerinden biridir.\n\n---\n\n### 1. Fiilden İsim Türetme\n\n#### a) Fiil Mastarından İsim (das + Infinitiv)\n\nHer fiil masdarı büyük harfle yazılarak isim haline getirilebilir. Cinsiyet her zaman **das** (nötr) olur:\n\n| Fiil | İsim | Türkçe |\n|------|------|--------|\n| lernen | **das Lernen** | öğrenme |\n| lesen | **das Lesen** | okuma |\n| essen | **das Essen** | yemek yeme / yemek |\n| schlafen | **das Schlafen** | uyuma |\n| reisen | **das Reisen** | seyahat etme |\n| rauchen | **das Rauchen** | sigara içme |\n\n> **Örnek:** Das **Lernen** einer neuen Sprache braucht Zeit. (Yeni bir dil **öğrenme** zaman gerektirir.)\n\n#### b) -ung Son Eki (die + Fiil kökü + ung)\n\nEn yaygın isimleştirme son ekidir. Cinsiyet her zaman **die** (dişil) olur:\n\n| Fiil | İsim | Türkçe |\n|------|------|--------|\n| entscheiden | die **Entscheidung** | karar |\n| bedeuten | die **Bedeutung** | anlam |\n| bilden | die **Bildung** | eğitim |\n| wohnen | die **Wohnung** | daire/konut |\n| übersetzen | die **Übersetzung** | çeviri |\n| erfahren | die **Erfahrung** | deneyim |\n| vorstellen | die **Vorstellung** | sunum / hayal |\n| verbessern | die **Verbesserung** | iyileştirme |\n| entwickeln | die **Entwicklung** | gelişme |\n| verändern | die **Veränderung** | değişim |\n\n---\n\n### 2. Sıfattan İsim Türetme\n\n#### a) -heit Son Eki (die + Sıfat + heit)\n\nGenellikle tek heceli sıfatlara eklenir:\n\n| Sıfat | İsim | Türkçe |\n|-------|------|--------|\n| frei | die **Freiheit** | özgürlük |\n| krank | die **Krankheit** | hastalık |\n| schön | die **Schönheit** | güzellik |\n| dumm | die **Dummheit** | aptallık |\n| sicher | die **Sicherheit** | güvenlik |\n| gesund | die **Gesundheit** | sağlık |\n\n#### b) -keit Son Eki (die + Sıfat + keit)\n\nGenellikle **-ig, -lich, -bar, -sam** ile biten sıfatlara eklenir:\n\n| Sıfat | İsim | Türkçe |\n|-------|------|--------|\n| möglich | die **Möglichkeit** | olasılık |\n| wichtig | die **Wichtigkeit** | önem |\n| fähig | die **Fähigkeit** | yetenek |\n| abhängig | die **Abhängigkeit** | bağımlılık |\n| einsam | die **Einsamkeit** | yalnızlık |\n| dankbar | die **Dankbarkeit** | şükran |\n| freundlich | die **Freundlichkeit** | nezaket |\n\n---\n\n### 3. Diğer Önemli Son Ekler\n\n#### -schaft (die)\n\n| Kök | İsim | Türkçe |\n|-----|------|--------|\n| Freund | die **Freundschaft** | arkadaşlık |\n| Gesellschaft | die **Gesellschaft** | toplum |\n| Wissenschaft | die **Wissenschaft** | bilim |\n| Wirtschaft | die **Wirtschaft** | ekonomi |\n| Mannschaft | die **Mannschaft** | takım |\n| Bereitschaft | die **Bereitschaft** | hazır olma |\n\n#### -tum (das / der)\n\n| Kök | İsim | Türkçe |\n|-----|------|--------|\n| reich | der **Reichtum** | zenginlik |\n| eigen | das **Eigentum** | mülkiyet |\n| wachsen | das **Wachstum** | büyüme |\n| irren | der **Irrtum** | yanılgı |\n\n#### -nis (das / die)\n\n| Kök | İsim | Türkçe |\n|-----|------|--------|\n| erkennen | die **Erkenntnis** | kavrayış |\n| erleben | das **Erlebnis** | deneyim/yaşantı |\n| ergeben | das **Ergebnis** | sonuç |\n| erlauben | die **Erlaubnis** | izin |\n| verstehen | das **Verständnis** | anlayış |\n\n---\n\n### 4. Cümlelerin İsimleştirilmesi\n\nAkademik yazılarda cümleler isimleştirilerek daha kısa ve öz ifadeler elde edilir:\n\n| Cümle (Verbaler Stil) | İsimleştirilmiş (Nominaler Stil) |\n|------------------------|----------------------------------|\n| Wir haben die Daten **analysiert**. | Die **Analyse** der Daten war erfolgreich. |\n| Die Bevölkerung **wächst** schnell. | Das schnelle **Wachstum** der Bevölkerung... |\n| Man muss die Regeln **beachten**. | Die **Beachtung** der Regeln ist wichtig. |\n| Er hat sich darum **bemüht**. | Seine **Bemühung** war vergeblich. |\n| Sie hat sich **entschieden**. | Ihre **Entscheidung** steht fest. |\n\n---\n\n### Özet: Son Ek Tablosu\n\n| Son Ek | Cinsiyet | Kullanım | Örnek |\n|--------|----------|----------|-------|\n| -ung | die | Fiillerden | die Entscheidung |\n| -heit | die | Tek heceli sıfatlardan | die Freiheit |\n| -keit | die | -ig/-lich/-bar sıfatlardan | die Möglichkeit |\n| -schaft | die | İsim/sıfatlardan | die Freundschaft |\n| -tum | das/der | İsim/sıfatlardan | das Wachstum |\n| -nis | das/die | Fiil/sıfatlardan | das Ergebnis |\n| Infinitiv | das | Tüm fiillerden | das Lernen |",
+      "keyTerms": [
+        {
+          "german": "die Nominalisierung",
+          "turkish": "isimleştirme",
+          "example": "Die Nominalisierung ist im Deutschen sehr wichtig. (İsimleştirme Almanca'da çok önemlidir.)"
+        },
+        {
+          "german": "-ung (Suffix)",
+          "turkish": "-ung son eki (fiilden isim)",
+          "example": "entscheiden → die Entscheidung (karar vermek → karar)"
+        },
+        {
+          "german": "-heit / -keit",
+          "turkish": "sıfattan isim türetme son ekleri",
+          "example": "frei → die Freiheit (özgür → özgürlük)"
+        },
+        {
+          "german": "das + Infinitiv",
+          "turkish": "mastar isimleştirme",
+          "example": "Das Lernen macht Spaß. (Öğrenme eğlencelidir.)"
+        },
+        {
+          "german": "nominaler Stil",
+          "turkish": "isimsel üslup (akademik/resmi dil)",
+          "example": "Die Analyse der Daten... (Verilerin analizi...)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-04-q1",
+          "type": "multiple-choice",
+          "question": "'möglich' sıfatından isim türetmek için hangi son ek kullanılır?",
+          "options": [
+            "-ung",
+            "-heit",
+            "-keit",
+            "-schaft"
+          ],
+          "correctAnswer": "-keit",
+          "explanation": "'-lich' ile biten sıfatlar '-keit' son ekini alır: möglich → die Möglichkeit. -ig, -lich, -bar, -sam ile biten sıfatlar genellikle -keit alır."
+        },
+        {
+          "id": "b2-04-q2",
+          "type": "fill-blank",
+          "question": "Das ___ einer neuen Sprache braucht viel Geduld. (Yeni bir dil öğrenme çok sabır gerektirir.) — 'lernen' fiilinin isimleştirilmiş hali",
+          "correctAnswer": "Lernen",
+          "explanation": "Fiil mastarı büyük harfle yazılarak isim haline getirilir: lernen → das Lernen. Cinsiyet her zaman 'das' (nötr) olur."
+        },
+        {
+          "id": "b2-04-q3",
+          "type": "matching",
+          "question": "Aşağıdaki fiil-isim eşleştirmelerinden hangisi doğrudur?",
+          "options": [
+            "übersetzen → die Übersetzung",
+            "übersetzen → die Übersetzheit",
+            "übersetzen → das Übersetznis",
+            "übersetzen → die Übersetzschaft"
+          ],
+          "correctAnswer": "übersetzen → die Übersetzung",
+          "explanation": "'übersetzen' fiili '-ung' son eki alarak 'die Übersetzung' (çeviri) olur. Fiillerden isim türetmede en yaygın son ek '-ung'dur."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Nominalisierung Dönüştürme",
+          "prompt": "Almanca B2 seviyesinde Nominalisierung konusunu pratik yapmak istiyorum. Bana 10 tane fiil içeren Almanca cümle ver, ben bunları isimsel üsluba (nominaler Stil) dönüştüreyim. Örneğin: 'Wir haben die Daten analysiert.' → 'Die Analyse der Daten war erfolgreich.' Her birini kontrol et, doğru son eki ve cinsiyet (Artikel) bilgisini açıkla. Açıklamaları Türkçe yap."
+        },
+        {
+          "title": "Son Ek Egzersizi",
+          "prompt": "Almanca B2 seviyesinde kelime türetme son eklerini (-ung, -heit, -keit, -schaft, -tum, -nis) pratik yapmak istiyorum. Bana 15 tane Almanca fiil ve sıfat ver, ben bunlardan isim türeteyim ve doğru artikeli (der/die/das) yazayım. Her birini kontrol et ve Türkçe anlamını ver."
+        }
+      ]
+    },
+    {
+      "id": "b2-05",
+      "phaseId": "b2",
+      "title": "İleri Bağlaçlar",
+      "subtitle": "Konnektoren für Fortgeschrittene",
+      "estimatedMinutes": 35,
+      "order": 5,
+      "content": "## İleri Bağlaçlar (Konnektoren für Fortgeschrittene)\n\nB2 seviyesinde bağlaçları kategorilere ayırarak öğrenmek, hem yazılı hem sözlü ifade gücünü artırır. Her kategori farklı mantıksal ilişkiler kurar.\n\n---\n\n### 1. Kausal — Neden Belirten Bağlaçlar\n\n| Bağlaç | Pozisyon | Örnek | Türkçe |\n|--------|----------|-------|--------|\n| **weil** | Yan cümle (Verb sonda) | Ich bleibe zu Hause, **weil** ich krank **bin**. | Evde kalıyorum, çünkü hastayım. |\n| **da** | Yan cümle (Verb sonda) | **Da** er kein Geld **hatte**, konnte er nicht reisen. | Parası olmadığı için seyahat edemedi. |\n| **denn** | Ana cümle (Sıra değişmez) | Ich bleibe zu Hause, **denn** ich **bin** krank. | Evde kalıyorum, çünkü hastayım. |\n| **nämlich** | Adverb (Pozisyon 3+) | Er kam nicht. Er war **nämlich** krank. | Gelmedi. Çünkü hastaydı. |\n| **aufgrund** + Gen. | Edat | **Aufgrund** des Wetters... | Hava durumu nedeniyle... |\n| **wegen** + Gen. | Edat | **Wegen** der Krankheit... | Hastalık nedeniyle... |\n\n> **weil vs. da:** \"da\" daha çok yazılı dilde ve bilinen/bariz nedenleri ifade ederken kullanılır. \"weil\" konuşma dilinde daha yaygındır.\n\n---\n\n### 2. Konzessiv — Karşıtlık/Taviz Bağlaçları\n\n\"Buna rağmen\" anlamında, beklenmedik bir sonucu ifade eder:\n\n| Bağlaç | Pozisyon | Örnek | Türkçe |\n|--------|----------|-------|--------|\n| **obwohl** | Yan cümle | **Obwohl** er müde **war**, arbeitete er weiter. | Yorgun olmasına rağmen çalışmaya devam etti. |\n| **trotzdem** | Adverb (Pozisyon 1 veya 3) | Er war müde. **Trotzdem** arbeitete er weiter. | Yorgundu. Yine de çalışmaya devam etti. |\n| **dennoch** | Adverb (resmi) | Die Lage war schwierig, **dennoch** gab er nicht auf. | Durum zordu, yine de pes etmedi. |\n| **trotz** + Gen. | Edat | **Trotz** des Regens gingen wir spazieren. | Yağmura rağmen yürüyüşe çıktık. |\n| **obgleich** | Yan cümle (yazılı dil) | **Obgleich** die Kosten hoch **sind**, lohnt es sich. | Maliyetler yüksek olsa da buna değer. |\n\n> **obwohl vs. trotzdem:** \"obwohl\" yan cümle kurar (fiil sonda), \"trotzdem\" ana cümlede kullanılır (fiil 2. pozisyonda).\n\n---\n\n### 3. Konsekutiv — Sonuç Bildiren Bağlaçlar\n\n| Bağlaç | Pozisyon | Örnek | Türkçe |\n|--------|----------|-------|--------|\n| **deshalb** | Adverb (Poz. 1) | Es regnet. **Deshalb** bleibe ich zu Hause. | Yağmur yağıyor. Bu yüzden evde kalıyorum. |\n| **deswegen** | Adverb | Er war krank, **deswegen** kam er nicht. | Hastaydı, bu yüzden gelmedi. |\n| **daher** | Adverb (resmi) | Die Straßen sind glatt, **daher** sollten Sie vorsichtig fahren. | Yollar kaygan, bu nedenle dikkatli sürmelisiniz. |\n| **folglich** | Adverb (resmi) | Er hat nicht gelernt, **folglich** hat er die Prüfung nicht bestanden. | Çalışmadı, dolayısıyla sınavı geçemedi. |\n| **infolgedessen** | Adverb (çok resmi) | Die Firma ging bankrott. **Infolgedessen** verloren viele ihren Job. | Firma iflas etti. Bunun sonucunda birçokları işini kaybetti. |\n| **sodass** | Yan cümle | Er sprach so leise, **sodass** niemand ihn hörte. | O kadar sessiz konuştu ki kimse onu duymadı. |\n\n---\n\n### 4. Adversativ — Karşılaştırma/Zıtlık Bağlaçları\n\n| Bağlaç | Pozisyon | Örnek | Türkçe |\n|--------|----------|-------|--------|\n| **aber** | Bağlaç (Poz. 0) | Ich bin müde, **aber** ich arbeite weiter. | Yorgunum ama çalışmaya devam ediyorum. |\n| **jedoch** | Adverb (Poz. 1 veya 3) | Er ist intelligent, **jedoch** faul. | Zeki, ancak tembel. |\n| **allerdings** | Adverb | Das Essen war gut, **allerdings** teuer. | Yemek iyiydi, ancak pahalıydı. |\n| **dagegen** | Adverb | Er liebt Kaffee. Sie trinkt **dagegen** nur Tee. | O kahve seviyor. Oysa o sadece çay içiyor. |\n| **während** | Yan cümle | **Während** er fleißig arbeitet, ist sie eher faul. | O çalışkan bir şekilde çalışırken, o daha tembel. |\n\n---\n\n### 5. Final — Amaç Bildiren Bağlaçlar\n\n| Bağlaç | Yapı | Örnek | Türkçe |\n|--------|------|-------|--------|\n| **damit** | Yan cümle (farklı özne) | Ich erkläre es, **damit** du es **verstehst**. | Senin anlaman için açıklıyorum. |\n| **um...zu** | Infinitiv (aynı özne) | Ich lerne Deutsch, **um** in Deutschland **zu arbeiten**. | Almanya'da çalışmak için Almanca öğreniyorum. |\n\n> **Kural:** Aynı özne varsa **um...zu**, farklı özneler varsa **damit** kullanılır.\n\n---\n\n### 6. Konditional — Koşul Bildiren Bağlaçlar\n\n| Bağlaç | Yapı | Örnek | Türkçe |\n|--------|------|-------|--------|\n| **wenn** | Yan cümle | **Wenn** du Zeit **hast**, ruf mich an. | Vaktin olursa beni ara. |\n| **falls** | Yan cümle | **Falls** es **regnet**, nehmen wir den Bus. | Yağmur yağarsa otobüse bineriz. |\n| **sofern** | Yan cümle (resmi) | **Sofern** keine Einwände **bestehen**, wird der Plan umgesetzt. | İtiraz olmadığı sürece plan uygulanacak. |\n\n---\n\n### Pozisyon Özet Tablosu\n\n| Tür | Pozisyon 0 (Bağlaç) | Yan cümle (Verb sonda) | Adverb (Poz. 1/3) | Edat + Gen. |\n|-----|---------------------|------------------------|--------------------|-----------|\n| Kausal | denn | weil, da | nämlich | aufgrund, wegen |\n| Konzessiv | — | obwohl, obgleich | trotzdem, dennoch | trotz |\n| Konsekutiv | — | sodass | deshalb, folglich, daher | infolge |\n| Adversativ | aber | während | jedoch, allerdings, dagegen | — |\n| Final | — | damit | — | — |\n| Konditional | — | wenn, falls, sofern | — | — |",
+      "keyTerms": [
+        {
+          "german": "obwohl / trotzdem",
+          "turkish": "...rağmen / yine de (taviz)",
+          "example": "Obwohl er müde war, arbeitete er weiter. (Yorgun olmasına rağmen çalışmaya devam etti.)"
+        },
+        {
+          "german": "folglich / infolgedessen",
+          "turkish": "dolayısıyla / bunun sonucunda",
+          "example": "Er hat nicht gelernt, folglich hat er die Prüfung nicht bestanden. (Çalışmadı, dolayısıyla sınavı geçemedi.)"
+        },
+        {
+          "german": "jedoch / allerdings",
+          "turkish": "ancak / bununla birlikte",
+          "example": "Das Essen war gut, allerdings teuer. (Yemek iyiydi, ancak pahalıydı.)"
+        },
+        {
+          "german": "damit / um...zu",
+          "turkish": "... için / amacıyla",
+          "example": "Ich lerne Deutsch, um in Deutschland zu arbeiten. (Almanya'da çalışmak için Almanca öğreniyorum.)"
+        },
+        {
+          "german": "falls / sofern",
+          "turkish": "eğer / ... olması halinde",
+          "example": "Falls es regnet, nehmen wir den Bus. (Yağmur yağarsa otobüse bineriz.)"
+        },
+        {
+          "german": "aufgrund + Genitiv",
+          "turkish": "... nedeniyle (edat + tamlayan)",
+          "example": "Aufgrund des schlechten Wetters blieben wir zu Hause. (Kötü hava nedeniyle evde kaldık.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-05-q1",
+          "type": "multiple-choice",
+          "question": "'Er war müde. ___ arbeitete er weiter.' boşluğa hangisi gelir?",
+          "options": [
+            "Obwohl",
+            "Trotzdem",
+            "Weil",
+            "Deshalb"
+          ],
+          "correctAnswer": "Trotzdem",
+          "explanation": "İki bağımsız cümle arasında 'buna rağmen' anlamı gerektiren yerde 'trotzdem' (Adverb) kullanılır. 'Obwohl' yan cümle kurar, burada iki ayrı cümle var."
+        },
+        {
+          "id": "b2-05-q2",
+          "type": "multiple-choice",
+          "question": "Aşağıdakilerden hangisinde fiil cümlenin sonunda yer alır?",
+          "options": [
+            "Er ist müde, denn er hat viel gearbeitet.",
+            "Er ist müde, weil er viel gearbeitet hat.",
+            "Er ist müde, trotzdem geht er zur Arbeit.",
+            "Er ist müde, deshalb bleibt er zu Hause."
+          ],
+          "correctAnswer": "Er ist müde, weil er viel gearbeitet hat.",
+          "explanation": "'weil' yan cümle kurar ve fiil cümlenin sonuna gider. 'denn' ana cümle bağlacıdır (söz dizimi değişmez), 'trotzdem' ve 'deshalb' ise adverb'dir."
+        },
+        {
+          "id": "b2-05-q3",
+          "type": "fill-blank",
+          "question": "Ich lerne Deutsch, ___ in Deutschland zu arbeiten. (Almanya'da çalışmak için Almanca öğreniyorum.)",
+          "correctAnswer": "um",
+          "explanation": "Aynı özne olduğunda amaç bildirmek için 'um...zu + Infinitiv' yapısı kullanılır."
+        },
+        {
+          "id": "b2-05-q4",
+          "type": "true-false",
+          "question": "'aufgrund' edatı Genitiv (tamlayan) ile kullanılır.",
+          "correctAnswer": "Dogru",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "'aufgrund' edatı Genitiv ile kullanılır: aufgrund des schlechten Wetters (kötü hava nedeniyle). 'wegen' de Genitiv gerektirir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Bağlaç Dönüştürme Egzersizi",
+          "prompt": "Almanca B2 seviyesinde Konnektoren konusunu pratik yapmak istiyorum. Bana 12 Almanca cümle çifti ver. Her çift için farklı bağlaç kategorileri kullan (kausal, konzessiv, konsekutiv, adversativ, final, konditional). Ben bu cümle çiftlerini uygun bağlaçlarla birleştireyim. Birden fazla doğru cevap olabilecek durumlarda tüm alternatifleri ve söz dizimi farklarını açıkla. Açıklamaları Türkçe yap."
+        },
+        {
+          "title": "Metin Yazma ve Bağlaç Kullanımı",
+          "prompt": "Almanca B2 seviyesinde bağlaç kullanımını pratik yapmak istiyorum. Bana bir konu ver (örneğin: uzaktan çalışma, sosyal medya, çevre koruma). Ben bu konu hakkında 150-200 kelimelik bir metin yazayım ve her kategoriden en az bir bağlaç kullanayım (obwohl, deshalb, jedoch, um...zu, falls vb.). Sonra metnimi kontrol et, bağlaç kullanımlarımı değerlendir ve Türkçe geri bildirim ver."
+        }
+      ]
+    },
+    {
+      "id": "b2-06",
+      "phaseId": "b2",
+      "title": "Ettirgen Yapı: lassen + Infinitiv",
+      "subtitle": "Lassen + Infinitiv",
+      "estimatedMinutes": 25,
+      "order": 6,
+      "content": "## Ettirgen Yapı: lassen + Infinitiv (Kausative Konstruktion)\n\nAlmanca'da **lassen** fiili çok yönlü bir fiildir. Ettirgen yapıda \"bir şeyi başkasına yaptırmak\" anlamında kullanılır. Türkçe'deki \"-tır/-tirmek\" yapısına karşılık gelir.\n\n---\n\n### 1. lassen Fiilinin Çekimi\n\n| Zaman | ich | du | er/sie/es | wir | ihr | sie/Sie |\n|-------|-----|-----|-----------|-----|-----|--------|\n| Präsens | lasse | lässt | lässt | lassen | lasst | lassen |\n| Präteritum | ließ | ließt | ließ | ließen | ließt | ließen |\n| Perfekt | habe ... lassen | hast ... lassen | hat ... lassen | haben ... lassen | habt ... lassen | haben ... lassen |\n\n> **Dikkat:** Perfekt'te \"gelassen\" değil, başka bir fiille kullanıldığında **\"lassen\"** (Ersatzinfinitiv) kullanılır.\n\n---\n\n### 2. Ettirgen Yapı (Kausativ): Başkasına Yaptırmak\n\nBir eylemi bizzat yapmak yerine başkasına yaptırmayı ifade eder:\n\n| Almanca | Türkçe | Açıklama |\n|---------|--------|----------|\n| Ich **lasse** mein Auto **reparieren**. | Arabamı **tamir ettiriyorum**. | Tamirci tamir ediyor |\n| Sie **lässt** sich die Haare **schneiden**. | Saçlarını **kestiriyor**. | Kuaför kesiyor |\n| Er **lässt** die Wohnung **putzen**. | Evi **temizletiyor**. | Temizlikçi temizliyor |\n| Wir **lassen** uns ein Haus **bauen**. | Bir ev **yaptırıyoruz**. | Müteahhit yapıyor |\n| Ich **lasse** mir eine Pizza **liefern**. | Pizza **sipariş ediyorum** (getirtiyorum). | Kurye getiriyor |\n| Er **lässt** den Anzug **ändern**. | Takım elbiseyi **değiştirtiyor**. | Terzi değiştiriyor |\n\n> **Yapı:** Subjekt + lassen + Objekt (Akkusativ) + Infinitiv\n\n---\n\n### 3. sich lassen — Edilgen Yapı Alternatifi\n\n**sich lassen + Infinitiv** yapısı \"yapılabilir\" anlamında edilgen yapı alternatifi olarak kullanılır:\n\n| Almanca | Türkçe | Passiv Karşılığı |\n|---------|--------|------------------|\n| Das **lässt sich** leicht **erklären**. | Bu kolayca **açıklanabilir**. | Das kann leicht erklärt werden. |\n| Das Problem **lässt sich** **lösen**. | Problem **çözülebilir**. | Das Problem kann gelöst werden. |\n| Das **lässt sich** nicht **ändern**. | Bu **değiştirilemez**. | Das kann nicht geändert werden. |\n| Der Text **lässt sich** gut **verstehen**. | Metin kolayca **anlaşılabilir**. | Der Text kann gut verstanden werden. |\n| Die Tür **lässt sich** nicht **öffnen**. | Kapı **açılamıyor**. | Die Tür kann nicht geöffnet werden. |\n\n---\n\n### 4. lassen — Perfekt'te Kullanımı\n\nPerfekt'te **lassen** başka bir infinitiv ile kullanıldığında özel bir kural geçerlidir:\n\n| Yapı | Örnek | Türkçe |\n|------|-------|--------|\n| Tek başına (Partizip II) | Ich habe das Buch hier **gelassen**. | Kitabı burada bıraktım. |\n| Infinitiv ile (Ersatzinfinitiv) | Ich habe mein Auto reparieren **lassen**. | Arabamı tamir ettirdim. |\n| | Sie hat sich die Haare schneiden **lassen**. | Saçlarını kestirdi. |\n| | Wir haben uns ein Haus bauen **lassen**. | Bir ev yaptırdık. |\n\n> **Kural:** lassen + başka bir fiil → Perfekt'te \"gelassen\" yerine **\"lassen\"** (Ersatzinfinitiv) kullanılır. Bu kural modal fiiller (können, müssen vb.) ile aynıdır.\n\n---\n\n### 5. lassen'in Diğer Anlamları\n\n| Anlam | Örnek | Türkçe |\n|-------|-------|--------|\n| Bırakmak | **Lass** mich in Ruhe! | Beni rahat bırak! |\n| İzin vermek | **Lass** uns gehen! | Hadi gidelim! |\n| Bırakmak (terk) | Ich habe den Schlüssel zu Hause **gelassen**. | Anahtarı evde bıraktım. |\n| Ettirmek | Ich **lasse** mir die Haare schneiden. | Saçlarımı kestiriyorum. |\n\n---\n\n### Karşılaştırma Tablosu\n\n| Cümle | Anlam | Yapı |\n|-------|-------|------|\n| Ich **repariere** mein Auto. | Arabamı (kendim) tamir ediyorum. | Aktiv |\n| Mein Auto **wird repariert**. | Arabam tamir ediliyor. | Passiv |\n| Ich **lasse** mein Auto **reparieren**. | Arabamı tamir **ettiriyorum**. | Kausativ (lassen) |\n| Mein Auto **lässt sich** **reparieren**. | Arabam tamir **edilebilir**. | Passiversatz (sich lassen) |",
+      "keyTerms": [
+        {
+          "german": "lassen + Infinitiv (Kausativ)",
+          "turkish": "ettirgen yapı: yaptırmak",
+          "example": "Ich lasse mein Auto reparieren. (Arabamı tamir ettiriyorum.)"
+        },
+        {
+          "german": "sich lassen + Infinitiv",
+          "turkish": "yapılabilir (edilgen alternatif)",
+          "example": "Das lässt sich machen. (Bu yapılabilir.)"
+        },
+        {
+          "german": "Ersatzinfinitiv",
+          "turkish": "yedek mastar (Perfekt'te gelassen yerine lassen)",
+          "example": "Ich habe mein Auto reparieren lassen. (Arabamı tamir ettirdim.)"
+        },
+        {
+          "german": "Lass uns...!",
+          "turkish": "Hadi ...yapalım!",
+          "example": "Lass uns ins Kino gehen! (Hadi sinemaya gidelim!)"
+        },
+        {
+          "german": "sich die Haare schneiden lassen",
+          "turkish": "saçlarını kestirmek",
+          "example": "Sie lässt sich die Haare schneiden. (Saçlarını kestiriyor.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-06-q1",
+          "type": "multiple-choice",
+          "question": "'Ich ___ mein Auto reparieren.' cümlesinde boşluğa ne gelir?",
+          "options": [
+            "lässt",
+            "lasse",
+            "lass",
+            "lasst"
+          ],
+          "correctAnswer": "lasse",
+          "explanation": "'ich' öznesi ile 'lassen' fiili 'lasse' olarak çekimlenir: Ich lasse mein Auto reparieren. (Arabamı tamir ettiriyorum.)"
+        },
+        {
+          "id": "b2-06-q2",
+          "type": "fill-blank",
+          "question": "Ich habe mir eine Pizza liefern ___. (Pizza sipariş ettirdim.)",
+          "correctAnswer": "lassen",
+          "explanation": "Perfekt'te 'lassen' başka bir fiille kullanıldığında 'gelassen' yerine 'lassen' (Ersatzinfinitiv) kullanılır."
+        },
+        {
+          "id": "b2-06-q3",
+          "type": "true-false",
+          "question": "'Das lässt sich leicht erklären' cümlesi 'Das kann leicht erklärt werden' ile aynı anlama gelir.",
+          "correctAnswer": "Dogru",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "'sich lassen + Infinitiv' yapısı 'können + Partizip II + werden' yapısına alternatiftir. Her ikisi de 'yapılabilir' anlamını taşır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Ettirgen Yapı Pratik",
+          "prompt": "Almanca B2 seviyesinde 'lassen + Infinitiv' (ettirgen yapı) konusunu pratik yapmak istiyorum. Bana günlük hayattan 10 Türkçe cümle ver (örneğin: saçlarımı kestiriyorum, arabamı yıkatıyorum, evi boyatıyorum). Ben bunları 'lassen' kullanarak Almanca'ya çevireyim. Her birini kontrol et, söz dizimini açıkla ve Türkçe geri bildirim ver. Ayrıca Perfekt formlarını da sorayım."
+        },
+        {
+          "title": "lassen vs. Passiv Karşılaştırma",
+          "prompt": "Almanca B2 seviyesinde 'lassen' fiilinin farklı kullanımlarını pratik yapmak istiyorum. Bana 8 cümle ver: bazıları kausativ (ettirgen), bazıları 'sich lassen' (edilgen alternatif), bazıları da 'bırakmak/izin vermek' anlamında olsun. Ben her cümlenin hangi anlama geldiğini Türkçe olarak açıklayayım ve gerektiğinde Passiv karşılığını yazayım. Kontrol et ve geri bildirim ver."
+        }
+      ]
+    },
+    {
+      "id": "b2-07",
+      "phaseId": "b2",
+      "title": "Genişletilmiş Sıfat Çekimi",
+      "subtitle": "Erweiterte Adjektivdeklination",
+      "estimatedMinutes": 30,
+      "order": 7,
+      "content": "## Genişletilmiş Sıfat Çekimi (Erweiterte Adjektivdeklination)\n\nB2 seviyesinde sıfat çekimini karmaşık yapılarla genişletiyoruz: birden fazla sıfat, ortaçtan türemiş sıfatlar, edatlı sıfatlar ve isimleştirilmiş sıfatlar.\n\n---\n\n### 1. Birden Fazla Sıfatla İsim Grubu\n\nBirden fazla sıfat art arda geldiğinde **hepsi aynı çekim ekini** alır:\n\n| Durum | Örnek | Türkçe |\n|-------|-------|--------|\n| Nom. (der) | der groß**e**, alt**e**, rot**e** Baum | büyük, eski, kırmızı ağaç |\n| Akk. (einen) | einen groß**en**, alt**en**, rot**en** Baum | büyük, eski, kırmızı bir ağaç |\n| Dat. (dem) | dem groß**en**, alt**en**, rot**en** Baum | büyük, eski, kırmızı ağaca |\n| Gen. (des) | des groß**en**, alt**en**, rot**en** Baumes | büyük, eski, kırmızı ağacın |\n\n> **Kural:** Tüm sıfatlar aynı çekim eki alır. Sıfat sıralaması genellikle: boyut → yaş → renk → materyal → köken\n\n---\n\n### 2. Ortaçtan Türemiş Sıfatlar (Partizipien als Adjektive)\n\nOrtaçlar sıfat olarak çekimlendiğinde normal sıfat çekimi kurallarına uyar:\n\n| Partizip | Sıfat Kullanımı | Türkçe |\n|----------|----------------|--------|\n| lächelnd | die lächelnd**e** Frau | gülümseyen kadın |\n| erschöpft | der erschöpft**e** Läufer | bitkin koşucu |\n| überraschend | ein überraschend**es** Ergebnis | şaşırtıcı bir sonuç |\n| vergessen | der vergessen**e** Geburtstag | unutulmuş doğum günü |\n| begeistert | die begeistert**en** Zuschauer | coşkulu izleyiciler |\n\n---\n\n### 3. Edatlı Sıfatlar (Adjektive mit Präpositionen)\n\nBirçok sıfat belirli edatlarla birlikte kullanılır. Bunları ezberlemek gerekir:\n\n| Sıfat + Edat | Türkçe | Örnek |\n|-------------|--------|-------|\n| **stolz auf** + Akk. | ... ile gurur duyan | Ich bin **stolz auf** meinen Sohn. (Oğlumla gurur duyuyorum.) |\n| **zufrieden mit** + Dat. | ... den memnun | Sie ist **zufrieden mit** ihrer Arbeit. (İşinden memnun.) |\n| **abhängig von** + Dat. | ... e bağımlı | Er ist **abhängig von** seinem Handy. (Telefonuna bağımlı.) |\n| **interessiert an** + Dat. | ... ile ilgilenen | Ich bin **interessiert an** Kunst. (Sanatla ilgileniyorum.) |\n| **verantwortlich für** + Akk. | ... den sorumlu | Wer ist **verantwortlich für** dieses Projekt? (Bu projeden kim sorumlu?) |\n| **bereit zu** + Dat. | ... e hazır | Wir sind **bereit zu** Verhandlungen. (Müzakerelere hazırız.) |\n| **überzeugt von** + Dat. | ... den emin/ikna olmuş | Ich bin **überzeugt von** seiner Ehrlichkeit. (Dürüstlüğünden eminim.) |\n| **eifersüchtig auf** + Akk. | ... e kıskanç | Sie ist **eifersüchtig auf** ihre Schwester. (Kız kardeşini kıskanıyor.) |\n| **enttäuscht von** + Dat. | ... den hayal kırıklığına uğramış | Ich bin **enttäuscht von** dem Ergebnis. (Sonuçtan hayal kırıklığına uğradım.) |\n| **gewöhnt an** + Akk. | ... e alışkın | Ich bin **gewöhnt an** das Wetter. (Havaya alışkınım.) |\n\n---\n\n### 4. İsimleştirilmiş Sıfatlar (Nominalisierte Adjektive)\n\nSıfatlar isim olarak kullanılabilir. Bu durumda sıfat büyük harfle başlar ve sıfat çekimine uyar:\n\n| Sıfat | İsimleştirilmiş | Türkçe |\n|-------|-----------------|--------|\n| deutsch | **der/die Deutsche** | Alman (kişi) |\n| fremd | **der/die Fremde** | yabancı (kişi) |\n| alt | **der/die Alte** | yaşlı (kişi) |\n| krank | **der/die Kranke** | hasta (kişi) |\n| angestellt | **der/die Angestellte** | çalışan/memur |\n| erwachsen | **der/die Erwachsene** | yetişkin |\n| verwandt | **der/die Verwandte** | akraba |\n\n**Nötr isimleştirmeler (soyut kavramlar):**\n\n| Sıfat | İsimleştirilmiş | Türkçe |\n|-------|-----------------|--------|\n| wichtig | **das Wichtige** | önemli olan şey |\n| gut | **das Gute** | iyi olan şey |\n| schön | **das Schöne** | güzel olan şey |\n| best- | **das Beste** | en iyi olan şey |\n| neu | **etwas/nichts Neues** | yeni bir şey / yeni bir şey yok |\n\n> **Çekim Kuralı:**\n> - **der** Deutsche (Nom.) → **den** Deutsch**en** (Akk.) → **dem** Deutsch**en** (Dat.)\n> - **ein** Deutsch**er** (Nom.) → **einen** Deutsch**en** (Akk.) → **einem** Deutsch**en** (Dat.)\n> - etwas/nichts + sıfat büyük harf + **-es**: etwas **Wichtiges**, nichts **Neues**\n\n---\n\n### Alıştırma İpuçları\n\n| Yapı | Soru | Örnek |\n|------|------|-------|\n| Çoklu sıfat | Hepsi aynı ek mi? | ein klein**er**, hübsch**er** Garten ✓ |\n| Edatlı sıfat | Hangi edat + hangi durum? | stolz auf + Akkusativ |\n| İsimleştirilmiş | Artikel ne? Çekim doğru mu? | der Deutsche, ein Deutscher |",
+      "keyTerms": [
+        {
+          "german": "stolz auf + Akkusativ",
+          "turkish": "... ile gurur duymak",
+          "example": "Ich bin stolz auf dich. (Seninle gurur duyuyorum.)"
+        },
+        {
+          "german": "zufrieden mit + Dativ",
+          "turkish": "... den memnun",
+          "example": "Ich bin zufrieden mit dem Ergebnis. (Sonuçtan memnunum.)"
+        },
+        {
+          "german": "der/die Deutsche",
+          "turkish": "Alman (isimleştirilmiş sıfat)",
+          "example": "Der Deutsche spricht gut Englisch. (Alman iyi İngilizce konuşuyor.)"
+        },
+        {
+          "german": "etwas/nichts Neues",
+          "turkish": "yeni bir şey / yeni bir şey yok",
+          "example": "Gibt es etwas Neues? (Yeni bir şey var mı?)"
+        },
+        {
+          "german": "Adjektivdeklination (Zusammenfassung)",
+          "turkish": "sıfat çekimi (özet)",
+          "example": "ein großer, alter, roter Baum (büyük, eski, kırmızı bir ağaç)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-07-q1",
+          "type": "fill-blank",
+          "question": "Ich bin stolz ___ meine Tochter. (Kızımla gurur duyuyorum.)",
+          "correctAnswer": "auf",
+          "explanation": "'stolz' sıfatı 'auf + Akkusativ' edatı ile kullanılır: stolz auf jemanden/etwas sein."
+        },
+        {
+          "id": "b2-07-q2",
+          "type": "multiple-choice",
+          "question": "'etwas ___' (önemli bir şey) boşluğa ne gelir?",
+          "options": [
+            "Wichtige",
+            "Wichtiger",
+            "Wichtiges",
+            "Wichtigem"
+          ],
+          "correctAnswer": "Wichtiges",
+          "explanation": "'etwas/nichts' ile isimleştirilmiş sıfatlar her zaman -es eki alır: etwas Wichtiges (önemli bir şey), nichts Neues (yeni bir şey yok)."
+        },
+        {
+          "id": "b2-07-q3",
+          "type": "multiple-choice",
+          "question": "'ein gut___, freundlich___ Mann' boşluklara hangi ekler gelir?",
+          "options": [
+            "-e, -e",
+            "-er, -er",
+            "-en, -en",
+            "-es, -es"
+          ],
+          "correctAnswer": "-er, -er",
+          "explanation": "Belirsiz artikel 'ein' ile Nominativ eril (maskulin) durumda sıfatlar -er eki alır: ein guter, freundlicher Mann."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Edatlı Sıfat Pratik",
+          "prompt": "Almanca B2 seviyesinde edatlı sıfatları (Adjektive mit Präpositionen) pratik yapmak istiyorum. Bana 15 tane Türkçe cümle ver (örneğin: 'onunla gurur duyuyorum', 'bu projeden sorumlusun'), ben bunları Almanca'ya doğru edatla çevireyim. Her birini kontrol et, edatı ve durumu (Akkusativ/Dativ) açıkla. Tüm açıklamaları Türkçe yap."
+        },
+        {
+          "title": "İsimleştirilmiş Sıfat Alıştırması",
+          "prompt": "Almanca B2 seviyesinde isimleştirilmiş sıfatları (nominalisierte Adjektive) pratik yapmak istiyorum. Bana 10 tane boşluk doldurma cümlesi ver. Cümlelerde der/die/das, ein/eine, etwas/nichts ile isimleştirilmiş sıfatlar olsun. Ben doğru çekim ekini yazayım. Her birini kontrol et ve sıfat çekim kuralını açıkla. Açıklamaları Türkçe yap."
+        }
+      ]
+    },
+    {
+      "id": "b2-08",
+      "phaseId": "b2",
+      "title": "Kelime Türetme",
+      "subtitle": "Wortbildung",
+      "estimatedMinutes": 35,
+      "order": 8,
+      "content": "## Kelime Türetme (Wortbildung)\n\nAlmanca'da kelime haznesini genişletmenin en etkili yolu kelime türetme kurallarını öğrenmektir. Bileşik isimler (Komposita), fiil ön ekleri ve sıfat/isim son ekleri bu dersin konularıdır.\n\n---\n\n### 1. Bileşik İsimler (Komposita)\n\nAlmanca, birden fazla kelimeyi birleştirerek yeni isimler oluşturma konusunda son derece üretkendir. **Son kelime** cinsiyeti ve anlamı belirler:\n\n| Bileşik İsim | Parçalar | Türkçe | Cinsiyet (son kelimeden) |\n|-------------|----------|--------|------------------------|\n| **der** Schlüssel + **das** Wort → | **das Schlüsselwort** | anahtar kelime | das (Wort) |\n| **die** Hand + **der** Schuh → | **der Handschuh** | eldiven | der (Schuh) |\n| **das** Buch + **die** Handlung → | **die Buchhandlung** | kitapçı | die (Handlung) |\n| **der** Zahn + **die** Bürste → | **die Zahnbürste** | diş fırçası | die (Bürste) |\n| **das** Haus + **die** Aufgabe → | **die Hausaufgabe** | ödev | die (Aufgabe) |\n| **die** Küche + **der** Schrank → | **der Küchenschrank** | mutfak dolabı | der (Schrank) |\n| **der** Kinder + **der** Garten → | **der Kindergarten** | anaokulu | der (Garten) |\n| **das** Flug + **der** Hafen → | **der Flughafen** | havalimanı | der (Hafen) |\n| **der** Geburts + **der** Tag → | **der Geburtstag** | doğum günü | der (Tag) |\n| **die** Straßen + **die** Bahn → | **die Straßenbahn** | tramvay | die (Bahn) |\n| **der** Wasser + **der** Hahn → | **der Wasserhahn** | musluk | der (Hahn) |\n| **das** Rat + **das** Haus → | **das Rathaus** | belediye binası | das (Haus) |\n\n> **Bağlantı Harfleri (Fugenzeichen):** Bazen kelimeler arasına -s-, -n-, -en-, -er- eklenir:\n> - Arbeit**s**platz, Freund**s**chaft, Geburt**s**tag\n> - Blume**n**laden, Straße**n**bahn\n> - Küche**n**schrank\n\n---\n\n### 2. Fiil Ön Ekleri (Verbpräfixe)\n\nÖn ekler fiillerin anlamını tamamen değiştirebilir:\n\n#### Ayrılmaz Ön Ekler (untrennbare Präfixe): be-, emp-, ent-, er-, ge-, miss-, ver-, zer-\n\n| Ön Ek | Anlam Etkisi | Örnek | Türkçe |\n|-------|-------------|-------|--------|\n| **be-** | Geçişli yapma | **be**suchen | ziyaret etmek |\n| | | **be**antworten | cevaplamak |\n| | | **be**zahlen | ödemek |\n| **emp-** | Algılama/alma | **emp**fehlen | tavsiye etmek |\n| | | **emp**finden | hissetmek |\n| | | **emp**fangen | karşılamak |\n| **ent-** | Uzaklaşma/olumsuzluk | **ent**schuldigen | özür dilemek |\n| | | **ent**decken | keşfetmek |\n| | | **ent**scheiden | karar vermek |\n| **er-** | Başarma/oluşum | **er**klären | açıklamak |\n| | | **er**reichen | ulaşmak |\n| | | **er**finden | icat etmek |\n| **ver-** | Değişim/yanlışlık | **ver**stehen | anlamak |\n| | | **ver**kaufen | satmak |\n| | | **ver**gessen | unutmak |\n| | | **ver**lieren | kaybetmek |\n| | | **ver**bieten | yasaklamak |\n| **zer-** | Parçalama/yıkım | **zer**stören | yıkmak/tahrip etmek |\n| | | **zer**brechen | kırmak/parçalamak |\n| **miss-** | Olumsuzluk/yanlışlık | **miss**verstehen | yanlış anlamak |\n| | | **miss**brauchen | kötüye kullanmak |\n\n---\n\n### 3. Sıfat Son Ekleri (Adjektivsuffixe)\n\n| Son Ek | Anlam | Örnekler | Türkçe |\n|--------|-------|----------|--------|\n| **-lich** | ... gibi, -sal/-sel | freund**lich** (arkadaş canlısı), herz**lich** (içten), möglich (mümkün), täg**lich** (günlük), gefähr**lich** (tehlikeli) | |\n| **-ig** | ... li, -lı | lust**ig** (komik/eğlenceli), trauer**ig** (üzgün), richt**ig** (doğru), fleiss**ig** (çalışkan), ruh**ig** (sakin) | |\n| **-isch** | ... ile ilgili, -ce/-ca | türk**isch** (Türk), polit**isch** (politik), typ**isch** (tipik), chem**isch** (kimyasal), iron**isch** (ironik) | |\n| **-bar** | yapılabilir | mach**bar** (yapılabilir), sicht**bar** (görünür), essbar (yenilebilir), trink**bar** (içilebilir), les**bar** (okunabilir) | |\n| **-los** | ... sız/-siz | arbeits**los** (işsiz), hoffnungs**los** (umutsuz), sinn**los** (anlamsız), obdach**los** (evsiz), sprachlos (dilsiz/şaşkın) | |\n| **-voll** | ... dolu | wunder**voll** (harika), kraft**voll** (güçlü), sinn**voll** (anlamlı), wert**voll** (değerli), freude**voll** (neşe dolu) | |\n| **-sam** | eğilimli, -sal | lang**sam** (yavaş), gemein**sam** (ortak), spar**sam** (tutumlu), aufmerk**sam** (dikkatli), wirk**sam** (etkili) | |\n\n---\n\n### 4. İsim Son Ekleri (Nomensuffixe)\n\n| Son Ek | Cinsiyet | Örnekler | Türkçe |\n|--------|----------|----------|--------|\n| **-er** | der | Lehr**er** (öğretmen), Fahr**er** (sürücü), Arbeit**er** (işçi) | eylemi yapan kişi |\n| **-in** | die | Lehrer**in** (kadın öğretmen), Ärzt**in** (kadın doktor) | dişil kişi |\n| **-ung** | die | Wohn**ung** (daire), Bild**ung** (eğitim) | fiilden isim |\n| **-heit** | die | Frei**heit** (özgürlük), Gesund**heit** (sağlık) | sıfattan isim |\n| **-keit** | die | Möglich**keit** (olasılık), Fähig**keit** (yetenek) | sıfattan isim |\n| **-schaft** | die | Freund**schaft** (arkadaşlık), Gesell**schaft** (toplum) | ilişki/grup |\n| **-nis** | das/die | Ergeb**nis** (sonuç), Erlaub**nis** (izin) | sonuç/durum |\n| **-tum** | das/der | Reich**tum** (zenginlik), Eigen**tum** (mülkiyet) | durum/soyut |\n\n---\n\n### 5. Kelime Aileleri (Wortfamilien)\n\nBir kök etrafında oluşan kelime ailesi örneği:\n\n**Kök: \"arbeit\" (çalış-)**\n\n| Kelime | Tür | Türkçe |\n|--------|-----|--------|\n| arbeiten | Fiil | çalışmak |\n| die Arbeit | İsim | iş/çalışma |\n| der Arbeiter | İsim | işçi |\n| die Arbeiterin | İsim | kadın işçi |\n| der Arbeitgeber | İsim | işveren |\n| der Arbeitnehmer | İsim | çalışan |\n| arbeitslos | Sıfat | işsiz |\n| die Arbeitslosigkeit | İsim | işsizlik |\n| der Arbeitsplatz | İsim | iş yeri |\n| die Zusammenarbeit | İsim | iş birliği |",
+      "keyTerms": [
+        {
+          "german": "Komposita (Bileşik İsimler)",
+          "turkish": "bileşik isimler (son kelime cinsiyeti belirler)",
+          "example": "der Handschuh (Hand + Schuh = eldiven)"
+        },
+        {
+          "german": "ver- (untrennbares Präfix)",
+          "turkish": "ayrılmaz ön ek (değişim/yanlışlık)",
+          "example": "verstehen (anlamak), verkaufen (satmak), vergessen (unutmak)"
+        },
+        {
+          "german": "-bar (Adjektivsuffix)",
+          "turkish": "-abilir/-ebilir (yapılabilirlik bildiren sıfat eki)",
+          "example": "machbar (yapılabilir), trinkbar (içilebilir)"
+        },
+        {
+          "german": "-los (Adjektivsuffix)",
+          "turkish": "-sız/-siz (yokluk bildiren sıfat eki)",
+          "example": "arbeitslos (işsiz), hoffnungslos (umutsuz)"
+        },
+        {
+          "german": "Fugenzeichen",
+          "turkish": "bağlantı harfi (bileşik isimlerde)",
+          "example": "Arbeit-s-platz, Geburt-s-tag, Blume-n-laden"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-08-q1",
+          "type": "multiple-choice",
+          "question": "'Zahnbürste' bileşik isminin cinsiyeti nedir?",
+          "options": [
+            "der",
+            "die",
+            "das",
+            "Belirsiz"
+          ],
+          "correctAnswer": "die",
+          "explanation": "Bileşik isimlerde cinsiyet son kelimeye göre belirlenir. 'Bürste' dişil (die) olduğu için: die Zahnbürste."
+        },
+        {
+          "id": "b2-08-q2",
+          "type": "fill-blank",
+          "question": "Das Buch ist gut ___. (Kitap iyi okunabilir.) — 'lesen' fiilinden '-bar' sıfat eki ile",
+          "correctAnswer": "lesbar",
+          "explanation": "'-bar' son eki fiil köküne eklenerek 'yapılabilir' anlamında sıfat oluşturur: lesen → lesbar (okunabilir)."
+        },
+        {
+          "id": "b2-08-q3",
+          "type": "multiple-choice",
+          "question": "'ver-' ön eki aşağıdaki fiillerden hangisinde 'yanlışlık/olumsuzluk' anlamı katar?",
+          "options": [
+            "verstehen",
+            "versprechen (söz vermek)",
+            "verlaufen (kaybolmak)",
+            "verkaufen"
+          ],
+          "correctAnswer": "verlaufen (kaybolmak)",
+          "explanation": "'sich verlaufen' (kaybolmak/yolunu şaşırmak) fiilinde 'ver-' ön eki yanlışlık/sapma anlamı katar. 'verstehen' (anlamak) ve 'verkaufen' (satmak) fiillerinde farklı anlam etkileri vardır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Bileşik İsim Oluşturma Oyunu",
+          "prompt": "Almanca B2 seviyesinde Komposita (bileşik isimler) konusunu pratik yapmak istiyorum. Benimle bir kelime oyunu oyna: Bana bir Almanca isim ver, ben o isimle mümkün olduğunca çok bileşik isim oluşturayım ve her birinin Türkçe anlamını yazayım. Sonra sen doğruları onayla, yanlışları düzelt ve eksik kalan önemli bileşik isimleri ekle. 5 tur oynayalım, her turda farklı bir kök kelime kullan. Cinsiyetleri (der/die/das) de kontrol et."
+        },
+        {
+          "title": "Ön Ek ve Son Ek Analizi",
+          "prompt": "Almanca B2 seviyesinde kelime türetme (Wortbildung) konusunu pratik yapmak istiyorum. Bana Almanca bir gazete metni ver (150-200 kelime). Ben metindeki türetilmiş kelimeleri bulayım ve her birinin köküne, ön ekine veya son ekine ayırayım (örneğin: Verbesserung = ver- + besser + -ung). Her kelimeyi analiz ettikten sonra kontrol et ve Türkçe açıklama yap."
+        }
+      ]
+    },
+    {
+      "id": "b2-09",
+      "phaseId": "b2",
+      "title": "Resmi Yazışmalar",
+      "subtitle": "Formelle Briefe und E-Mails",
+      "estimatedMinutes": 35,
+      "order": 9,
+      "content": "## Resmi Yazışmalar (Formelle Briefe und E-Mails)\n\nAlmanca'da resmi mektup ve e-posta yazımı belirli kurallara bağlıdır. B2 seviyesinde özellikle şikayet mektubu (Beschwerdebrief) ve iş başvurusu (Bewerbungsschreiben) öğrenilmelidir.\n\n---\n\n### 1. Resmi Mektup Formatı (Formeller Briefaufbau)\n\n```\nAbsender (Gönderici):\nMax Müller\nBerliner Straße 45\n80331 München\n\n                                        Empfänger (Alıcı):\n                                        Firma XYZ GmbH\n                                        Kundenservice\n                                        Hauptstraße 10\n                                        10115 Berlin\n\nMünchen, den 15. März 2026            (Yer ve Tarih)\n\nBetreff: Beschwerde über ... / Bewerbung als ...\n(Konu satırı - kalın yazılır)\n\nSehr geehrte Damen und Herren,         (Hitap)\nSehr geehrter Herr Schmidt,\nSehr geehrte Frau Müller,\n\n[Mektup metni]\n\nMit freundlichen Grüßen               (Kapanış)\n[İmza]\nMax Müller\n\nAnlage(n): Lebenslauf, Zeugnisse      (Ekler)\n```\n\n---\n\n### 2. Şikayet Mektubu (Beschwerdebrief)\n\nTelc B2 sınavında en sık karşılaşılan mektup türüdür.\n\n#### Redemittel (Kalıp İfadeler):\n\n**Giriş (Einleitung):**\n\n| Almanca | Türkçe |\n|---------|--------|\n| Ich schreibe Ihnen, **weil**... | Size yazıyorum, çünkü... |\n| Hiermit möchte ich mich **über ... beschweren**. | Bununla ... hakkında şikayette bulunmak istiyorum. |\n| Mit diesem Schreiben möchte ich Sie **auf ein Problem aufmerksam machen**. | Bu yazıyla bir soruna dikkatinizi çekmek istiyorum. |\n| **Bezugnehmend auf** Ihre Anzeige/Ihren Service... | İlanınıza/hizmetinize atıfla... |\n\n**Sorun Açıklama (Problem beschreiben):**\n\n| Almanca | Türkçe |\n|---------|--------|\n| Am [Datum] habe ich [Produkt/Dienstleistung] **bestellt/gekauft**. | [Tarih]'te [ürün/hizmeti] sipariş ettim/satın aldım. |\n| **Leider musste ich feststellen, dass**... | Ne yazık ki ... olduğunu fark ettim. |\n| Das Produkt **weist folgende Mängel auf**: ... | Üründe şu kusurlar mevcut: ... |\n| **Entgegen Ihrer Zusage** wurde ... nicht eingehalten. | Verdiğiniz söze aykırı olarak ... yerine getirilmedi. |\n\n**Talep (Forderung):**\n\n| Almanca | Türkçe |\n|---------|--------|\n| Ich **fordere Sie auf**, ... | Sizden ... talep ediyorum. |\n| Ich **bitte Sie**, mir ... **zu erstatten/umzutauschen**. | ... iade etmenizi / değiştirmenizi rica ediyorum. |\n| Ich **erwarte** eine Lösung **bis zum** [Datum]. | [Tarih]'e kadar bir çözüm bekliyorum. |\n| **Andernfalls** sehe ich mich gezwungen, rechtliche Schritte einzuleiten. | Aksi takdirde hukuki yollara başvurmak zorunda kalacağım. |\n\n**Kapanış (Schluss):**\n\n| Almanca | Türkçe |\n|---------|--------|\n| Ich **hoffe auf** eine baldige Rückmeldung. | Yakın zamanda geri dönüş yapmanızı umuyorum. |\n| Für Rückfragen **stehe ich Ihnen gerne zur Verfügung**. | Sorularınız için müsaitim. |\n| **Vielen Dank im Voraus** für Ihre Bemühungen. | Çabalarınız için şimdiden teşekkür ederim. |\n\n---\n\n### 3. Örnek Beschwerdebrief\n\n> Sehr geehrte Damen und Herren,\n>\n> hiermit möchte ich mich über den Service in Ihrem Restaurant am Goetheplatz beschweren.\n>\n> Am vergangenen Samstag, dem 8. März 2026, habe ich mit meiner Familie Ihr Restaurant besucht. Leider musste ich feststellen, dass der Service sehr unfreundlich war und das Essen erst nach einer Stunde serviert wurde. Darüber hinaus war die Suppe kalt und das bestellte Hauptgericht entsprach nicht der Beschreibung in der Speisekarte.\n>\n> Ich fordere Sie auf, sich für diese Unannehmlichkeiten zu entschuldigen und uns eine angemessene Entschädigung anzubieten.\n>\n> Ich hoffe auf eine baldige Rückmeldung und verbleibe\n>\n> mit freundlichen Grüßen\n> Ahmet Yılmaz\n\n---\n\n### 4. İş Başvurusu (Bewerbungsschreiben)\n\n#### Yapı:\n\n| Bölüm | İçerik | Kalıp İfadeler |\n|-------|--------|----------------|\n| Giriş | İlan referansı | Bezugnehmend auf Ihre Stellenanzeige vom ... bewerbe ich mich hiermit als ... |\n| | | Mit großem Interesse habe ich Ihre Anzeige gelesen und ... |\n| Motivasyon | Neden bu iş? | Besonders angesprochen hat mich ... |\n| | | Diese Stelle entspricht genau meinen Qualifikationen. |\n| Nitelikler | Deneyim ve beceriler | Derzeit bin ich als ... tätig. |\n| | | Ich verfüge über ... Jahre Berufserfahrung in ... |\n| | | Zu meinen Stärken gehören ... |\n| Kapanış | Mülakat talebi | Über eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen. |\n\n---\n\n### 5. E-posta Kuralları (E-Mail-Konventionen)\n\n| Öğe | Resmi | Yarı Resmi |\n|-----|-------|------------|\n| Hitap | Sehr geehrte/r ... | Liebe/r ... |\n| Kapanış | Mit freundlichen Grüßen | Beste Grüße / Viele Grüße |\n| Konu | Betreff: Anfrage bezüglich ... | Betreff: Frage zu ... |\n| Üslup | Konjunktiv II kullanımı (Ich würde Sie bitten...) | Doğrudan ifadeler (Können Sie mir...?) |\n\n> **Önemli Kurallar:**\n> - **Siezen**: Resmi yazışmalarda her zaman \"Sie\" kullanılır\n> - **Komma sonrası küçük harf**: Sehr geehrter Herr Müller**,** ←  sonraki satır küçük harfle başlar\n> - **Betreff satırında nokta yok**: Betreff: Beschwerde über den Service (nokta koymayın)",
+      "keyTerms": [
+        {
+          "german": "Sehr geehrte Damen und Herren",
+          "turkish": "Sayın Bayanlar ve Baylar (genel resmi hitap)",
+          "example": "Sehr geehrte Damen und Herren, hiermit möchte ich..."
+        },
+        {
+          "german": "Mit freundlichen Grüßen",
+          "turkish": "Saygılarımla (resmi kapanış)",
+          "example": "Ich hoffe auf eine baldige Rückmeldung. Mit freundlichen Grüßen, ..."
+        },
+        {
+          "german": "sich beschweren über + Akkusativ",
+          "turkish": "... hakkında şikayette bulunmak",
+          "example": "Ich möchte mich über den Service beschweren. (Hizmet hakkında şikayette bulunmak istiyorum.)"
+        },
+        {
+          "german": "Ich fordere Sie auf, ... zu + Infinitiv",
+          "turkish": "sizden ... talep ediyorum",
+          "example": "Ich fordere Sie auf, mir den Betrag zu erstatten. (Sizden tutarı iade etmenizi talep ediyorum.)"
+        },
+        {
+          "german": "Bezugnehmend auf + Akkusativ",
+          "turkish": "... e atıfla",
+          "example": "Bezugnehmend auf Ihre Stellenanzeige bewerbe ich mich als... (İş ilanınıza atıfla ... olarak başvuruyorum.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-09-q1",
+          "type": "multiple-choice",
+          "question": "Resmi bir Almanca mektubun standart kapanış ifadesi hangisidir?",
+          "options": [
+            "Liebe Grüße",
+            "Tschüss",
+            "Mit freundlichen Grüßen",
+            "Bis bald"
+          ],
+          "correctAnswer": "Mit freundlichen Grüßen",
+          "explanation": "'Mit freundlichen Grüßen' (Saygılarımla) resmi mektup ve e-postalarda standart kapanış ifadesidir. 'Liebe Grüße' ve 'Bis bald' samimi yazışmalar içindir."
+        },
+        {
+          "id": "b2-09-q2",
+          "type": "fill-blank",
+          "question": "Hiermit möchte ich mich ___ den schlechten Service beschweren. (Kötü hizmet hakkında şikayette bulunmak istiyorum.)",
+          "correctAnswer": "über",
+          "explanation": "'sich beschweren' fiili 'über + Akkusativ' edatıyla kullanılır: sich über etwas beschweren."
+        },
+        {
+          "id": "b2-09-q3",
+          "type": "true-false",
+          "question": "Almanca resmi mektuplarda hitap satırından sonra virgül konur ve sonraki satır küçük harfle başlar.",
+          "correctAnswer": "Dogru",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "Almanca'da 'Sehr geehrter Herr Müller,' satırından sonra virgül konur ve bir sonraki satır (mektup metni) küçük harfle başlar. Bu Türkçe ve İngilizce'den farklıdır."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Beschwerdebrief Yazma Pratik",
+          "prompt": "Almanca B2 seviyesinde Beschwerdebrief (şikayet mektubu) yazmayı pratik yapmak istiyorum. Bana bir senaryo ver (örneğin: bozuk ürün, kötü otel hizmeti, geç kargo). Ben bu senaryoya uygun resmi bir şikayet mektubu yazayım. Mektubumun formatını, kalıp ifadelerini (Redemittel), dilbilgisini ve üslubunu kontrol et. Eksik veya yanlış kısımları Türkçe açıkla ve düzeltilmiş versiyonu göster."
+        },
+        {
+          "title": "Bewerbungsschreiben Yazma",
+          "prompt": "Almanca B2 seviyesinde Bewerbungsschreiben (iş başvuru mektubu) yazmayı pratik yapmak istiyorum. Bana bir iş ilanı oluştur (pozisyon, gereksinimler, şirket bilgisi). Ben bu ilana uygun bir başvuru mektubu yazayım. Mektubumun yapısını, motivasyon bölümünü, nitelik ifadelerimi ve resmi üslubunu kontrol et. Türkçe geri bildirim ver ve iyileştirme önerileri sun."
+        }
+      ]
+    },
+    {
+      "id": "b2-10",
+      "phaseId": "b2",
+      "title": "Tartışma ve Argümantasyon",
+      "subtitle": "Erörterung und Argumentation",
+      "estimatedMinutes": 35,
+      "order": 10,
+      "content": "## Tartışma ve Argümantasyon (Erörterung und Argumentation)\n\nB2 seviyesinde tartışma metni (Erörterung) yazmak temel yazma becerilerinden biridir. Bu ders, argümantatif metin yapısını, kalıp ifadeleri ve strateji tekniklerini kapsar.\n\n---\n\n### 1. Erörterung Nedir?\n\nErörterung, bir konuyu lehte (Pro) ve aleyhte (Contra) argümanlarla tartışan ve sonuçta bir görüş bildiren yazılı metin türüdür. Telc B2 sınavında **Schreiben** bölümünde istenir.\n\n---\n\n### 2. Metin Yapısı (Textaufbau)\n\n| Bölüm | İçerik | Uzunluk |\n|-------|--------|----------|\n| **Einleitung** (Giriş) | Konuyu tanıtma, güncellik, genel bilgi | 2-3 cümle |\n| **Hauptteil** (Ana bölüm) | Pro ve Contra argümanlar + örnekler | 8-12 cümle |\n| **Schluss** (Sonuç) | Kendi görüşünüz, özet, gelecek bakışı | 2-3 cümle |\n\n---\n\n### 3. Giriş Kalıp İfadeleri (Einleitung - Redemittel)\n\n| Almanca | Türkçe |\n|---------|--------|\n| In der heutigen Zeit wird viel **über** ... **diskutiert**. | Günümüzde ... hakkında çok tartışılıyor. |\n| Das Thema ... **ist in den letzten Jahren immer wichtiger geworden**. | ... konusu son yıllarda giderek önem kazandı. |\n| ... **ist ein umstrittenes Thema**, das viele Menschen beschäftigt. | ... birçok insanı meşgul eden tartışmalı bir konu. |\n| **Es stellt sich die Frage, ob** ... | ... olup olmadığı sorusu ortaya çıkıyor. |\n| Im Folgenden möchte ich die **Vor- und Nachteile** von ... erörtern. | Aşağıda ... konusunun avantaj ve dezavantajlarını tartışmak istiyorum. |\n\n---\n\n### 4. Argüman Sunma (Argumente darstellen)\n\n#### Pro (Lehte) Kalıp İfadeleri:\n\n| Almanca | Türkçe |\n|---------|--------|\n| **Ein wichtiges Argument dafür ist, dass** ... | Lehte önemli bir argüman şudur ki ... |\n| **Dafür spricht**, dass ... | Lehte olan şu ki ... |\n| **Ein Vorteil ist**, dass ... | Bir avantaj şudur ki ... |\n| **Hinzu kommt**, dass ... | Buna ek olarak ... |\n| **Außerdem** muss man bedenken, dass ... | Ayrıca düşünülmeli ki ... |\n\n#### Contra (Aleyhte) Kalıp İfadeleri:\n\n| Almanca | Türkçe |\n|---------|--------|\n| **Dagegen spricht**, dass ... | Aleyhte olan şu ki ... |\n| **Ein Nachteil ist**, dass ... | Bir dezavantaj şudur ki ... |\n| **Andererseits** muss man beachten, dass ... | Öte yandan dikkat edilmeli ki ... |\n| **Kritiker argumentieren**, dass ... | Eleştirmenler ... olduğunu savunuyor. |\n| **Es darf jedoch nicht vergessen werden, dass** ... | Ancak unutulmamalıdır ki ... |\n\n---\n\n### 5. Kişisel Görüş İfade Etme (Eigene Meinung)\n\n| Almanca | Türkçe | Resmiyet |\n|---------|--------|----------|\n| **Meiner Meinung nach** ... | Bence ... | Normal |\n| **Ich bin der Ansicht, dass** ... | ... görüşündeyim. | Resmi |\n| **Ich bin der Überzeugung, dass** ... | ... olduğuna inanıyorum. | Çok resmi |\n| **Ich vertrete die Meinung, dass** ... | ... görüşünü savunuyorum. | Resmi |\n| **Es steht fest, dass** ... | ... olduğu kesindir. | Objektif/güçlü |\n| **Aus meiner Sicht** ... | Benim bakış açımdan ... | Normal |\n| **Meines Erachtens** ... | Kanımca ... | Resmi |\n| **Ich persönlich finde, dass** ... | Ben şahsen ... buluyorum. | Kişisel |\n\n---\n\n### 6. Geçiş İfadeleri (Übergangswörter)\n\n| Almanca | Türkçe | Kullanım |\n|---------|--------|----------|\n| **Einerseits ... andererseits** | Bir yandan ... öte yandan | Karşılaştırma |\n| **Zunächst** ... | Öncelikle ... | Sıralama |\n| **Darüber hinaus** | Bunun ötesinde | Ekleme |\n| **Im Gegensatz dazu** | Buna karşın | Zıtlık |\n| **Zusammenfassend** lässt sich sagen | Özetle söylenebilir ki | Sonuç |\n| **Abschließend** möchte ich sagen | Son olarak şunu söylemek isterim | Sonuç |\n| **Alles in allem** | Her şey göz önünde bulundurulduğunda | Sonuç |\n| **Letztendlich** | Sonuç olarak | Sonuç |\n\n---\n\n### 7. Sonuç Stratejileri (Schlussstrategien)\n\n| Strateji | Örnek | Türkçe |\n|----------|-------|--------|\n| Özet | **Zusammenfassend** lässt sich sagen, dass sowohl Vor- als auch Nachteile bestehen. | Özetle, hem avantajlar hem dezavantajlar mevcut. |\n| Kişisel görüş | **Abschließend** bin ich der Meinung, dass die Vorteile überwiegen. | Son olarak, avantajların ağır bastığı görüşündeyim. |\n| Gelecek bakışı | Es bleibt abzuwarten, wie sich die Situation in Zukunft **entwickeln wird**. | Durumun gelecekte nasıl gelişeceğini beklemek gerekir. |\n| Çağrı | Es ist an der Zeit, dass wir alle **Verantwortung übernehmen**. | Hepimizin sorumluluk alma zamanı geldi. |\n\n---\n\n### 8. Örnek Erörterung Konuları\n\n| Konu | Soru |\n|------|------|\n| Homeoffice | Sollte Homeoffice zur Regel werden? (Evden çalışma kural haline gelmeli mi?) |\n| Soziale Medien | Sind soziale Medien eine Gefahr für Jugendliche? (Sosyal medya gençler için tehlike mi?) |\n| Umweltschutz | Sollte man Plastiktüten komplett verbieten? (Plastik poşetler tamamen yasaklanmalı mı?) |\n| Bildung | Ist Notenvergabe in der Schule noch sinnvoll? (Okulda not sistemi hâlâ anlamlı mı?) |\n| Technologie | Ersetzt Künstliche Intelligenz den Menschen am Arbeitsplatz? (Yapay zekâ insanın yerini mi alıyor?) |",
+      "keyTerms": [
+        {
+          "german": "Meiner Meinung nach",
+          "turkish": "Bence / Benim görüşüme göre",
+          "example": "Meiner Meinung nach hat Homeoffice mehr Vorteile als Nachteile. (Bence evden çalışmanın dezavantajlardan çok avantajı var.)"
+        },
+        {
+          "german": "Ich bin der Ansicht, dass...",
+          "turkish": "... görüşündeyim (resmi)",
+          "example": "Ich bin der Ansicht, dass wir mehr für den Umweltschutz tun sollten. (Çevre koruma için daha çok şey yapılması gerektiği görüşündeyim.)"
+        },
+        {
+          "german": "Es steht fest, dass...",
+          "turkish": "... olduğu kesindir",
+          "example": "Es steht fest, dass Bildung der Schlüssel zum Erfolg ist. (Eğitimin başarının anahtarı olduğu kesindir.)"
+        },
+        {
+          "german": "Einerseits ... andererseits",
+          "turkish": "Bir yandan ... öte yandan",
+          "example": "Einerseits spart man Zeit, andererseits fehlt der soziale Kontakt. (Bir yandan zaman tasarrufu edilir, öte yandan sosyal iletişim eksik kalır.)"
+        },
+        {
+          "german": "Zusammenfassend lässt sich sagen",
+          "turkish": "Özetle söylenebilir ki",
+          "example": "Zusammenfassend lässt sich sagen, dass beide Seiten gute Argumente haben. (Özetle her iki tarafın da iyi argümanları olduğu söylenebilir.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-10-q1",
+          "type": "multiple-choice",
+          "question": "Bir Erörterung'un doğru yapı sıralaması hangisidir?",
+          "options": [
+            "Schluss → Hauptteil → Einleitung",
+            "Einleitung → Schluss → Hauptteil",
+            "Einleitung → Hauptteil → Schluss",
+            "Hauptteil → Einleitung → Schluss"
+          ],
+          "correctAnswer": "Einleitung → Hauptteil → Schluss",
+          "explanation": "Erörterung'un doğru yapısı: 1) Einleitung (Giriş) - konuyu tanıtma, 2) Hauptteil (Ana bölüm) - Pro/Contra argümanlar, 3) Schluss (Sonuç) - görüş ve özet."
+        },
+        {
+          "id": "b2-10-q2",
+          "type": "fill-blank",
+          "question": "___ Meinung nach sollte man mehr Sport treiben. (Bence daha çok spor yapılmalı.)",
+          "correctAnswer": "Meiner",
+          "explanation": "'Meiner Meinung nach' (bence/benim görüşüme göre) kalıp ifadesinde 'Meinung' dişil (die) olduğu için Dativ'de 'meiner' kullanılır."
+        },
+        {
+          "id": "b2-10-q3",
+          "type": "multiple-choice",
+          "question": "'Dagegen spricht, dass...' ifadesi hangi tür argüman sunar?",
+          "options": [
+            "Pro (lehte)",
+            "Contra (aleyhte)",
+            "Sonuç",
+            "Giriş"
+          ],
+          "correctAnswer": "Contra (aleyhte)",
+          "explanation": "'Dagegen spricht' (aleyhte olan şu ki) ifadesi aleyhte (Contra) argüman sunmak için kullanılan bir kalıp ifadedir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Erörterung Yazma Pratik",
+          "prompt": "Almanca B2 seviyesinde Erörterung (tartışma metni) yazmayı pratik yapmak istiyorum. Bana tartışmalı bir konu ver (örneğin: Homeoffice, sosyal medya, yapay zekâ). Ben bu konu hakkında Einleitung-Hauptteil-Schluss yapısında bir Erörterung yazayım (200-250 kelime). Metnimin yapısını, Pro/Contra argümanların dengesini, kalıp ifadeleri ve bağlaç kullanımını kontrol et. Türkçe geri bildirim ver ve not tahmini yap (B2 sınavı kriterlerine göre)."
+        },
+        {
+          "title": "Kalıp İfade Pratik",
+          "prompt": "Almanca B2 seviyesinde tartışma metni (Erörterung) için kullanılan kalıp ifadeleri (Redemittel) pratik yapmak istiyorum. Bana 10 tane Türkçe cümle ver (örneğin: 'Bence bu iyi bir fikir', 'Öte yandan dezavantajları da var', 'Sonuç olarak'). Ben bunları uygun Almanca kalıp ifadelerle çevireyim. Her birini kontrol et, alternatif ifadeler öner ve resmiyet düzeyini açıkla."
+        }
+      ]
+    },
+    {
+      "id": "b2-11",
+      "phaseId": "b2",
+      "title": "Telc B2 Sınavı Hazırlık",
+      "subtitle": "Telc B2 Prüfungsvorbereitung",
+      "estimatedMinutes": 40,
+      "order": 11,
+      "isTelcPrep": true,
+      "content": "## Telc B2 Sınavı Hazırlık (Telc B2 Prüfungsvorbereitung)\n\nTelc B2 sınavı, Avrupa Dil Portfolyosu'na göre B2 seviyesini belgelemek için kullanılan uluslararası geçerliliğe sahip bir sınavdır. Bu ders, sınavın yapısını, puanlama sistemini ve her bölüm için strateji ve kalıp ifadeleri içerir.\n\n---\n\n### 1. Sınav Genel Yapısı\n\n| Bölüm | Süre | Puan | Detay |\n|-------|------|------|-------|\n| **Leseverstehen** (Okuma) | 60 dk | 75 puan | 5 bölüm (Sprachbausteine dahil) |\n| **Hörverstehen** (Dinleme) | ~20 dk | 75 puan | 3 bölüm |\n| **Schriftlicher Ausdruck** (Yazma) | 30 dk | 45 puan | 1 metin (Erörterung veya Beschwerdebrief) |\n| **Mündliche Prüfung** (Konuşma) | ~15 dk (çift) | 75 puan | 3 bölüm |\n| **Toplam** | ~2,5 saat | **270 puan** | Geçme: en az %60 |\n\n> **Geçme Koşulu:** Hem yazılı hem sözlü bölümden ayrı ayrı en az %60 almak gerekir.\n\n---\n\n### 2. Leseverstehen (Okuma Anlama) — 60 Dakika\n\n| Bölüm | Görev | Soru | İpucu |\n|-------|-------|------|-------|\n| Teil 1 | 5 kişiyi 10 durumla eşleştirme | 5 | Anahtar kelimelerle eşleştirin, detaylara dikkat |\n| Teil 2 | Uzun metin, detay soruları (a/b/c) | 5 | Sorulardaki anahtar kelimeleri metinde arayın |\n| Teil 3 | Metne uygun ifadeleri seçme (Richtig/Falsch) | 5 | Her ifadeyi metinle karşılaştırın |\n| Teil 4 (Sprachbausteine 1) | Boşluk doldurma: bağlaçlar, edatlar | 10 | Dilbilgisi: bağlaçlar, edatlar, zamir |\n| Teil 5 (Sprachbausteine 2) | Boşluk doldurma: gramer yapıları | 5 | Sıfat çekimi, fiil çekimi, artikeller |\n\n**Strateji:**\n- Önce soruları okuyun, sonra metne geçin\n- Anahtar kelimeleri altını çizerek bulun\n- Zaman yönetimi: Teil 1-3 için 35 dk, Teil 4-5 için 25 dk\n\n---\n\n### 3. Hörverstehen (Dinleme Anlama) — ~20 Dakika\n\n| Bölüm | Görev | Dinleme | İpucu |\n|-------|-------|---------|-------|\n| Teil 1 | 5 kısa konuşma, her biri için bir soru (a/b/c) | 1 kez | İlk dinlemede cevabı işaretleyin |\n| Teil 2 | Uzun bir röportaj veya konuşma, detay soruları | 1 kez | Not alın, anahtar kelimeleri dinleyin |\n| Teil 3 | 5 kısa bilgilendirme (telefon mesajı, anons vb.) | 2 kez | İlk dinlemede genel anlam, ikincide detaylar |\n\n**Strateji:**\n- Dinleme başlamadan önce soruları okuyun\n- Not alırken kısaltma kullanın\n- Emin olmadığınız soruda en mantıklı cevabı seçin, boş bırakmayın\n\n---\n\n### 4. Schriftlicher Ausdruck (Yazma) — 30 Dakika\n\nİki seçenekten birini yazarsınız:\n\n#### Seçenek A: Erörterung (Tartışma Metni)\nBir konuyu Pro ve Contra argümanlarla tartışın.\n\n| Kriter | Açıklama | Puan |\n|--------|----------|------|\n| İçerik/Görev tamamlama | Konuya uygunluk, argüman kalitesi | 15 |\n| İletişimsel etkinlik | Anlaşılırlık, tutarlılık | 10 |\n| Dilbilgisi | Doğruluk, yapı çeşitliliği | 10 |\n| Kelime bilgisi | Uygunluk, çeşitlilik | 10 |\n\n#### Erörterung Şablonu:\n\n```\nSehr geehrte Damen und Herren,\n\nin der heutigen Zeit wird viel über [KONU] diskutiert. Es stellt sich \ndie Frage, ob [SORU]. Im Folgenden möchte ich die Vor- und Nachteile \nerörtern.\n\nEinerseits [PRO 1]. Darüber hinaus [PRO 2]. Hinzu kommt, dass [PRO 3].\n\nAndererseits [CONTRA 1]. Außerdem [CONTRA 2]. Es darf auch nicht \nvergessen werden, dass [CONTRA 3].\n\nAbschließend bin ich der Meinung, dass [GÖRÜŞ]. Meiner Ansicht nach \nüberwiegen die [Vorteile/Nachteile], da [NEDEN].\n\nMit freundlichen Grüßen\n[İSİM]\n```\n\n#### Seçenek B: Beschwerdebrief (Şikayet Mektubu)\n(Ders 9'daki yapıyı kullanın.)\n\n---\n\n### 5. Mündliche Prüfung (Konuşma) — ~15 Dakika\n\n**2 kişilik** olarak yapılır.\n\n#### Teil 1: Präsentation (Sunum) — ~3-4 dk\nBir konu hakkında sunum yaparsınız.\n\n| Redemittel | Türkçe |\n|-----------|--------|\n| In meiner Präsentation geht es um das Thema ... | Sunumumda ... konusunu ele alacağım. |\n| Zunächst möchte ich ... vorstellen. | Öncelikle ... tanıtmak istiyorum. |\n| In meinem Heimatland ... | Ülkemde ... |\n| Ich persönlich finde, dass ... | Ben şahsen ... buluyorum. |\n| Abschließend möchte ich sagen, dass ... | Son olarak şunu söylemek isterim ki ... |\n\n#### Teil 2: Diskussion (Tartışma) — ~5 dk\nPartnerinizin sunumu hakkında soru sorar ve tartışırsınız.\n\n| Redemittel | Türkçe |\n|-----------|--------|\n| Ich stimme dir/Ihnen zu, weil ... | Size katılıyorum, çünkü ... |\n| Da bin ich anderer Meinung, denn ... | Bu konuda farklı düşünüyorum, çünkü ... |\n| Könnten Sie das genauer erklären? | Bunu daha ayrıntılı açıklayabilir misiniz? |\n| Was meinen Sie damit? | Bununla ne demek istiyorsunuz? |\n| Das ist ein guter Punkt, aber ... | İyi bir nokta, ama ... |\n\n#### Teil 3: Problemlösung (Problem Çözme) — ~5 dk\nPartnerinizle birlikte bir problem senaryosu çözersiniz.\n\n| Redemittel | Türkçe |\n|-----------|--------|\n| Ich schlage vor, dass wir ... | ... öneriyorum. |\n| Wie wäre es, wenn wir ... ? | ... yapsak nasıl olur? |\n| Einverstanden! / Das finde ich gut. | Kabul! / İyi fikir. |\n| Ich bin nicht sicher, ob das funktioniert. | Bunun işe yarayıp yaramayacağından emin değilim. |\n| Können wir uns darauf einigen, dass ... ? | ... üzerinde anlaşabilir miyiz? |\n\n---\n\n### 6. Puanlama Detayları\n\n| Bölüm | Alt Limit (%60) | Maks |\n|-------|----------------|------|\n| Yazılı (Lesen + Hören + Schreiben) | 117 | 195 |\n| Sözlü (Sprechen) | 45 | 75 |\n| **Toplam Geçme** | **162** | **270** |\n\n---\n\n### 7. Çalışma Planı (4 Haftalık)\n\n| Hafta | Odak | Aktiviteler |\n|-------|------|-------------|\n| **1. Hafta** | Lesen + Wortschatz | Günde 2 okuma metni, bilinmeyen kelimeleri not et, Sprachbausteine alıştırmaları |\n| **2. Hafta** | Hören + Sprechen | Günde 1 dinleme, podcast/video, sunum provası |\n| **3. Hafta** | Schreiben | Her gün 1 Erörterung veya Beschwerdebrief yaz, Redemittel ezberle |\n| **4. Hafta** | Genel Tekrar + Deneme | 2 tam deneme sınavı, zaman yönetimi pratik |\n\n---\n\n### 8. Önemli İpuçları\n\n| İpucu | Açıklama |\n|-------|----------|\n| Zaman yönetimi | Yazma bölümünde 5 dk planlama, 20 dk yazma, 5 dk kontrol |\n| Boş bırakmayın | Çoktan seçmelide tahmin edin, puan kırılmaz |\n| Kalıp ifadeler | 15-20 kalıp ifadeyi ezberleyin, her bölüm için |\n| Pratik sınavlar | En az 3 tam deneme sınavı çözün |\n| Partner bulun | Konuşma bölümü için bir pratik partneri bulun |",
+      "keyTerms": [
+        {
+          "german": "Leseverstehen",
+          "turkish": "okuma anlama (sınav bölümü)",
+          "example": "Das Leseverstehen besteht aus 5 Teilen. (Okuma anlama 5 bölümden oluşur.)"
+        },
+        {
+          "german": "Hörverstehen",
+          "turkish": "dinleme anlama (sınav bölümü)",
+          "example": "Im Hörverstehen hört man 3 verschiedene Texte. (Dinleme anlamada 3 farklı metin dinlenir.)"
+        },
+        {
+          "german": "Schriftlicher Ausdruck",
+          "turkish": "yazılı ifade (yazma bölümü)",
+          "example": "Im Schriftlichen Ausdruck muss man einen Text von 200 Wörtern schreiben. (Yazma bölümünde 200 kelimelik bir metin yazılmalıdır.)"
+        },
+        {
+          "german": "Mündliche Prüfung",
+          "turkish": "sözlü sınav (konuşma bölümü)",
+          "example": "Die mündliche Prüfung dauert etwa 15 Minuten. (Sözlü sınav yaklaşık 15 dakika sürer.)"
+        },
+        {
+          "german": "Sprachbausteine",
+          "turkish": "dil yapı taşları (dilbilgisi boşluk doldurma)",
+          "example": "Sprachbausteine testen Grammatik und Wortschatz. (Sprachbausteine dilbilgisi ve kelime bilgisini test eder.)"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "b2-11-q1",
+          "type": "multiple-choice",
+          "question": "Telc B2 sınavında geçme notu toplam puanın yüzde kaçıdır?",
+          "options": [
+            "%50",
+            "%55",
+            "%60",
+            "%70"
+          ],
+          "correctAnswer": "%60",
+          "explanation": "Telc B2 sınavında geçmek için hem yazılı hem sözlü bölümden ayrı ayrı en az %60 almak gerekir."
+        },
+        {
+          "id": "b2-11-q2",
+          "type": "multiple-choice",
+          "question": "Mündliche Prüfung (Sözlü sınav) kaç bölümden oluşur?",
+          "options": [
+            "2 bölüm",
+            "3 bölüm",
+            "4 bölüm",
+            "5 bölüm"
+          ],
+          "correctAnswer": "3 bölüm",
+          "explanation": "Sözlü sınav 3 bölümden oluşur: Teil 1 - Präsentation (Sunum), Teil 2 - Diskussion (Tartışma), Teil 3 - Problemlösung (Problem Çözme)."
+        },
+        {
+          "id": "b2-11-q3",
+          "type": "true-false",
+          "question": "Schriftlicher Ausdruck bölümünde sadece Erörterung yazmak zorunludur.",
+          "correctAnswer": "Yanlis",
+          "options": [
+            "Dogru",
+            "Yanlis"
+          ],
+          "explanation": "Yazma bölümünde iki seçenek sunulur: Erörterung (tartışma metni) VEYA Beschwerdebrief (şikayet mektubu). İkisinden birini seçebilirsiniz."
+        },
+        {
+          "id": "b2-11-q4",
+          "type": "fill-blank",
+          "question": "In meiner Präsentation ___ es ___ das Thema Umweltschutz. (Sunumumda çevre koruma konusunu ele alacağım.)",
+          "correctAnswer": "geht, um",
+          "explanation": "'es geht um + Akkusativ' kalıp ifadesi 'konu ... hakkındadır' anlamına gelir. Sunuma giriş yaparken çok kullanılan bir ifadedir."
+        }
+      ],
+      "llmPrompts": [
+        {
+          "title": "Telc B2 Deneme Sınavı",
+          "prompt": "Almanca Telc B2 sınavına hazırlanıyorum. Bana bir mini deneme sınavı hazırla. İçinde şunlar olsun: 1) Leseverstehen: 200 kelimelik bir metin ve 5 soru (a/b/c), 2) Sprachbausteine: 5 boşluk doldurma sorusu (bağlaçlar, edatlar), 3) Schriftlicher Ausdruck: Bir Erörterung konusu ver. Her bölümü teker teker uygulayalım. Cevaplarımı kontrol et, doğru cevapları göster ve Türkçe açıklamalar yap. Puanlama kriterlerini uygula."
+        },
+        {
+          "title": "Mündliche Prüfung Simülasyonu",
+          "prompt": "Almanca Telc B2 sözlü sınavına hazırlanıyorum. Benimle sözlü sınav simülasyonu yap. 1) Bana bir sunum konusu ver (Teil 1: Präsentation), ben sunum yapayım, 2) Sunumum hakkında sorular sor (Teil 2: Diskussion), 3) Bir problem senaryosu ver ve birlikte çözelim (Teil 3: Problemlösung). Her aşamada Redemittel kullanımımı değerlendir, telaffuz önerilerini ve Türkçe geri bildirim ver."
+        }
+      ]
+    }
+  ]
+}
