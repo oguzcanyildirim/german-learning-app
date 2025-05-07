@@ -6,6 +6,7 @@ import { marked } from 'marked';
 import { ContentService } from '../services/content.service';
 import { ProgressService } from '../services/progress.service';
 import { Lesson, Phase } from '../models/lesson.model';
+import { QuizResult } from '../models/quiz.model';
 
 @Component({
   selector: 'app-lesson-detail',
@@ -19,9 +20,11 @@ export class LessonDetailPage implements OnInit {
   renderedContent: SafeHtml = '';
   showKeyTerms = false;
   showLlmPrompts = false;
+  showQuiz = false;
   nextLesson: Lesson | undefined;
   previousLesson: Lesson | undefined;
   isCompleted = false;
+  lastQuizResult: QuizResult | null = null;
 
   // Track time spent on this lesson
   private startTime = 0;
@@ -65,6 +68,15 @@ export class LessonDetailPage implements OnInit {
 
   toggleLlmPrompts(): void {
     this.showLlmPrompts = !this.showLlmPrompts;
+  }
+
+  toggleQuiz(): void {
+    this.showQuiz = !this.showQuiz;
+  }
+
+  onQuizCompleted(result: QuizResult): void {
+    this.lastQuizResult = result;
+    this.progressService.saveQuizResult(result);
   }
 
   async copyPrompt(promptText: string): Promise<void> {

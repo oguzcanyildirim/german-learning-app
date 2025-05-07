@@ -7,6 +7,7 @@ import {
   DailyStats,
   DEFAULT_PROGRESS,
 } from '../models/progress.model';
+import { QuizResult } from '../models/quiz.model';
 
 // Manages user progress data with local persistence via Capacitor Preferences.
 // Tracks lesson completion, quiz scores, study streaks, and daily stats.
@@ -98,6 +99,11 @@ export class ProgressService {
 
     this.updateDailyStats(today, { minutesStudied: minutes });
     await this.saveProgress();
+  }
+
+  // Save a quiz result and update lesson progress with the score
+  async saveQuizResult(result: QuizResult): Promise<void> {
+    await this.recordQuiz(result.lessonId, result.percentage);
   }
 
   isLessonCompleted(lessonId: string): boolean {

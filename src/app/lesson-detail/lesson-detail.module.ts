@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { LessonDetailPage } from './lesson-detail.page';
 import { LessonDetailPageRoutingModule } from './lesson-detail-routing.module';
+import { QuizComponent } from '../components/quiz/quiz.component';
 
 @NgModule({
   imports: [
@@ -12,6 +13,6 @@ import { LessonDetailPageRoutingModule } from './lesson-detail-routing.module';
     FormsModule,
     LessonDetailPageRoutingModule
   ],
-  declarations: [LessonDetailPage]
+  declarations: [LessonDetailPage, QuizComponent]
 })
 export class LessonDetailPageModule {}

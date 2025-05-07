@@ -1,0 +1,343 @@
+.quiz-container {
+  padding: 0 16px 20px;
+}
+
+.quiz-progress {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+
+  .progress-bar {
+    flex: 1;
+    height: 8px;
+    background: #e5e7eb;
+    border-radius: 4px;
+    overflow: hidden;
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #3b82f6, #6366f1);
+      border-radius: 4px;
+      transition: width 0.3s ease;
+    }
+  }
+
+  .progress-text {
+    font-size: 13px;
+    font-weight: 600;
+    color: #6b7280;
+    white-space: nowrap;
+  }
+}
+
+.question-card {
+  background: white;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.question-type-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+
+  &.multiple-choice { background: #dbeafe; color: #1d4ed8; }
+  &.fill-blank { background: #fef3c7; color: #92400e; }
+  &.true-false { background: #d1fae5; color: #065f46; }
+  &.matching { background: #ede9fe; color: #5b21b6; }
+}
+
+.question-text {
+  font-size: 17px;
+  font-weight: 600;
+  color: #1f2937;
+  line-height: 1.5;
+  margin: 0 0 16px;
+}
+
+// Multiple choice / true-false options
+.options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 14px 16px;
+  background: #f9fafb;
+  border: 2px solid #e5e7eb;
+  border-radius: 10px;
+  font-size: 15px;
+  color: #374151;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:hover:not(:disabled) {
+    border-color: #93c5fd;
+    background: #eff6ff;
+  }
+
+  &.selected {
+    border-color: #3b82f6;
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-weight: 500;
+  }
+
+  &.correct {
+    border-color: #10b981;
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  &.incorrect {
+    border-color: #ef4444;
+    background: #fee2e2;
+    color: #991b1b;
+  }
+
+  .result-icon {
+    font-size: 22px;
+    &.correct { color: #10b981; }
+    &.incorrect { color: #ef4444; }
+  }
+}
+
+// Fill in the blank
+.fill-blank-area {
+  .fill-input {
+    --background: #f9fafb;
+    --border-radius: 10px;
+    --padding-start: 14px;
+    --padding-end: 14px;
+    border: 2px solid #e5e7eb;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+
+  .correct-answer-hint {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 10px;
+    padding: 10px 12px;
+    background: #d1fae5;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #065f46;
+
+    ion-icon { font-size: 18px; }
+    strong { color: #047857; }
+  }
+}
+
+// Matching
+.matching-area {
+  .match-columns {
+    display: flex;
+    gap: 12px;
+  }
+
+  .match-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .match-item {
+    padding: 10px 12px;
+    border: 2px solid #e5e7eb;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+
+    &.left {
+      background: #f9fafb;
+
+      &.active {
+        border-color: #3b82f6;
+        background: #eff6ff;
+      }
+
+      &.matched {
+        border-color: #6366f1;
+        background: #eef2ff;
+      }
+
+      &.correct { border-color: #10b981; background: #d1fae5; }
+      &.incorrect { border-color: #ef4444; background: #fee2e2; }
+
+      .match-arrow {
+        display: block;
+        font-size: 12px;
+        color: #6366f1;
+        margin-top: 4px;
+      }
+
+      .remove-match {
+        position: absolute;
+        top: 4px;
+        right: 4px;
+        font-size: 16px;
+        color: #9ca3af;
+      }
+    }
+
+    &.right {
+      background: #fef3c7;
+      border-color: #fcd34d;
+      text-align: center;
+
+      &.used {
+        opacity: 0.4;
+        pointer-events: none;
+      }
+
+      &:hover {
+        border-color: #f59e0b;
+        background: #fde68a;
+      }
+    }
+  }
+}
+
+// Feedback box
+.feedback-box {
+  margin-top: 16px;
+  padding: 14px;
+  border-radius: 10px;
+
+  &.correct {
+    background: #d1fae5;
+    border: 1px solid #6ee7b7;
+  }
+
+  &.incorrect {
+    background: #fee2e2;
+    border: 1px solid #fca5a5;
+  }
+
+  .feedback-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+
+    ion-icon {
+      font-size: 24px;
+    }
+
+    span {
+      font-size: 16px;
+      font-weight: 700;
+    }
+  }
+
+  &.correct .feedback-header { color: #065f46; }
+  &.incorrect .feedback-header { color: #991b1b; }
+
+  .feedback-explanation {
+    font-size: 14px;
+    color: #374151;
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
+// Action buttons
+.question-actions {
+  margin-top: 16px;
+
+  .check-btn {
+    --background: #3b82f6;
+    --border-radius: 10px;
+    font-weight: 600;
+  }
+
+  .next-btn {
+    --background: #6366f1;
+    --border-radius: 10px;
+    font-weight: 600;
+  }
+}
+
+// Results card
+.results-card {
+  background: white;
+  border-radius: 14px;
+  padding: 24px 20px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+
+  .results-header {
+    h2 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1f2937;
+      margin: 16px 0 8px;
+    }
+
+    .score-message {
+      font-size: 14px;
+      color: #6b7280;
+      margin: 0 0 20px;
+    }
+  }
+
+  .score-circle {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    border: 4px solid var(--score-color, #6b7280);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+
+    .score-number {
+      font-size: 28px;
+      font-weight: 800;
+      color: var(--score-color, #6b7280);
+    }
+  }
+
+  .results-stats {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 20px;
+
+    .stat {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 15px;
+      font-weight: 500;
+
+      ion-icon { font-size: 20px; }
+
+      &.correct { color: #10b981; }
+      &.incorrect { color: #ef4444; }
+      &.total { color: #6b7280; }
+    }
+  }
+
+  .restart-btn {
+    --border-radius: 10px;
+  }
+}

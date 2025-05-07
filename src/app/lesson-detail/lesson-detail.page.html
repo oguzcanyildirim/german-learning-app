@@ -71,6 +71,22 @@
       </div>
     </div>
 
+    <!-- Quiz section -->
+    <div *ngIf="lesson.quiz && lesson.quiz.length > 0" class="section-toggle quiz-section">
+      <div class="toggle-header" (click)="toggleQuiz()">
+        <ion-icon name="school-outline"></ion-icon>
+        <span>Quiz ({{ lesson.quiz.length }} soru)</span>
+        <ion-icon [name]="showQuiz ? 'chevron-up' : 'chevron-down'" class="toggle-icon"></ion-icon>
+      </div>
+      <div *ngIf="showQuiz" class="quiz-wrapper">
+        <app-quiz
+          [questions]="lesson.quiz"
+          [lessonId]="lesson.id"
+          (quizCompleted)="onQuizCompleted($event)">
+        </app-quiz>
+      </div>
+    </div>
+
     <!-- Complete lesson button -->
     <div class="lesson-actions">
       <ion-button *ngIf="!isCompleted"

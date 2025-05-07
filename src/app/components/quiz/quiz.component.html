@@ -1,0 +1,148 @@
+<!-- Quiz Engine: renders questions one at a time with immediate feedback -->
+
+<div class="quiz-container" *ngIf="questions.length > 0">
+
+  <!-- Active quiz view -->
+  <div *ngIf="!quizFinished">
+
+    <!-- Progress bar -->
+    <div class="quiz-progress">
+      <div class="progress-bar">
+        <div class="progress-fill" [style.width.%]="progress"></div>
+      </div>
+      <span class="progress-text">{{ currentIndex + 1 }} / {{ questions.length }}</span>
+    </div>
+
+    <!-- Question card -->
+    <div class="question-card">
+      <div class="question-type-badge" [ngClass]="currentQuestion.type">
+        <span *ngIf="currentQuestion.type === 'multiple-choice'">Coktan Secmeli</span>
+        <span *ngIf="currentQuestion.type === 'fill-blank'">Bosluk Doldurma</span>
+        <span *ngIf="currentQuestion.type === 'true-false'">Dogru / Yanlis</span>
+        <span *ngIf="currentQuestion.type === 'matching'">Eslestirme</span>
+      </div>
+
+      <h3 class="question-text">{{ currentQuestion.question }}</h3>
+
+      <!-- Multiple Choice / True-False -->
+      <div *ngIf="currentQuestion.type === 'multiple-choice' || currentQuestion.type === 'true-false'"
+           class="options-list">
+        <button *ngFor="let option of currentQuestion.options"
+                class="option-btn"
+                [class.selected]="selectedAnswer === option"
+                [class.correct]="isAnswered && option === currentQuestion.correctAnswer"
+                [class.incorrect]="isAnswered && selectedAnswer === option && option !== currentQuestion.correctAnswer"
+                [disabled]="isAnswered"
+                (click)="selectOption(option)">
+          <span class="option-text">{{ option }}</span>
+          <ion-icon *ngIf="isAnswered && option === currentQuestion.correctAnswer"
+                    name="checkmark-circle" class="result-icon correct"></ion-icon>
+          <ion-icon *ngIf="isAnswered && selectedAnswer === option && option !== currentQuestion.correctAnswer"
+                    name="close-circle" class="result-icon incorrect"></ion-icon>
+        </button>
+      </div>
+
+      <!-- Fill in the blank -->
+      <div *ngIf="currentQuestion.type === 'fill-blank'" class="fill-blank-area">
+        <ion-input
+          [(ngModel)]="fillBlankAnswer"
+          placeholder="Cevabinizi yazin..."
+          [disabled]="isAnswered"
+          class="fill-input"
+          (keyup.enter)="canCheck() ? checkAnswer() : null">
+        </ion-input>
+        <div *ngIf="isAnswered && !isCorrect" class="correct-answer-hint">
+          <ion-icon name="information-circle-outline"></ion-icon>
+          Dogru cevap: <strong>{{ currentQuestion.correctAnswer }}</strong>
+        </div>
+      </div>
+
+      <!-- Matching -->
+      <div *ngIf="currentQuestion.type === 'matching' && currentQuestion.matchPairs" class="matching-area">
+        <div class="match-columns">
+          <div class="match-column left-col">
+            <div *ngFor="let pair of currentQuestion.matchPairs"
+                 class="match-item left"
+                 [class.active]="activeMatchLeft === pair.left"
+                 [class.matched]="matchSelections[pair.left]"
+                 [class.correct]="isAnswered && isMatchCorrect(pair.left)"
+                 [class.incorrect]="isAnswered && matchSelections[pair.left] && !isMatchCorrect(pair.left)"
+                 (click)="selectMatchLeft(pair.left)">
+              {{ pair.left }}
+              <span *ngIf="matchSelections[pair.left]" class="match-arrow">→ {{ matchSelections[pair.left] }}</span>
+              <ion-icon *ngIf="matchSelections[pair.left] && !isAnswered"
+                        name="close-outline" class="remove-match"
+                        (click)="removeMatch(pair.left); $event.stopPropagation()"></ion-icon>
+            </div>
+          </div>
+          <div class="match-column right-col">
+            <div *ngFor="let right of shuffledRightOptions"
+                 class="match-item right"
+                 [class.used]="isRightUsed(right)"
+                 (click)="selectMatchRight(right)">
+              {{ right }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Feedback after answering -->
+      <div *ngIf="isAnswered" class="feedback-box" [class.correct]="isCorrect" [class.incorrect]="!isCorrect">
+        <div class="feedback-header">
+          <ion-icon [name]="isCorrect ? 'checkmark-circle' : 'close-circle'"></ion-icon>
+          <span>{{ isCorrect ? 'Dogru!' : 'Yanlis!' }}</span>
+        </div>
+        <p class="feedback-explanation">{{ currentQuestion.explanation }}</p>
+      </div>
+
+      <!-- Action buttons -->
+      <div class="question-actions">
+        <ion-button *ngIf="!isAnswered"
+                    expand="block"
+                    [disabled]="!canCheck()"
+                    (click)="checkAnswer()"
+                    class="check-btn">
+          Kontrol Et
+        </ion-button>
+        <ion-button *ngIf="isAnswered"
+                    expand="block"
+                    (click)="nextQuestion()"
+                    class="next-btn">
+          {{ currentIndex < questions.length - 1 ? 'Sonraki Soru' : 'Sonuclari Gor' }}
+          <ion-icon [name]="currentIndex < questions.length - 1 ? 'arrow-forward' : 'trophy'" slot="end"></ion-icon>
+        </ion-button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quiz results summary -->
+  <div *ngIf="quizFinished && result" class="results-card">
+    <div class="results-header">
+      <div class="score-circle" [style.--score-color]="getScoreColor()">
+        <span class="score-number">%{{ result.percentage }}</span>
+      </div>
+      <h2>Quiz Tamamlandi!</h2>
+      <p class="score-message">{{ getScoreMessage() }}</p>
+    </div>
+
+    <div class="results-stats">
+      <div class="stat correct">
+        <ion-icon name="checkmark-circle"></ion-icon>
+        <span>{{ result.correctAnswers }} Dogru</span>
+      </div>
+      <div class="stat incorrect">
+        <ion-icon name="close-circle"></ion-icon>
+        <span>{{ result.totalQuestions - result.correctAnswers }} Yanlis</span>
+      </div>
+      <div class="stat total">
+        <ion-icon name="help-circle"></ion-icon>
+        <span>{{ result.totalQuestions }} Soru</span>
+      </div>
+    </div>
+
+    <ion-button expand="block" fill="outline" (click)="restartQuiz()" class="restart-btn">
+      <ion-icon name="refresh" slot="start"></ion-icon>
+      Tekrar Dene
+    </ion-button>
+  </div>
+</div>
