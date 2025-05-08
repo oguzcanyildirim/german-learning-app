@@ -348,3 +348,17 @@
     font-size: 14px;
   }
 }
+
+.timer-bar {
+  height: 4px;
+  background: #e5e7eb;
+  border-radius: 2px;
+  margin-bottom: 12px;
+  overflow: hidden;
+
+  .timer-fill {
+    height: 100%;
+    background: #3b82f6;
+    transition: width 1s linear;
+  }
+}
