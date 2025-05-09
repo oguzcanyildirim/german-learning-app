@@ -41,6 +41,7 @@ export class Tab2Page implements OnInit {
   // Reload cards when tab becomes visible again
   ionViewWillEnter(): void {
     if (!this.isLoading) {
+      this.sessionCompleted = false;
       this.loadCards();
     }
   }
