@@ -11,5 +11,103 @@
     </ion-toolbar>
   </ion-header>
 
-  <p class="ion-text-center ion-padding">Flashcard sistemi yakin zamanda eklenecek...</p>
+  <!-- Loading state -->
+  <div *ngIf="isLoading" class="ion-text-center ion-padding">
+    <ion-spinner name="crescent"></ion-spinner>
+    <p>Kartlar yukleniyor...</p>
+  </div>
+
+  <div *ngIf="!isLoading" class="flashcard-container">
+
+    <!-- Filter and stats bar -->
+    <div class="filter-bar">
+      <ion-select [(ngModel)]="selectedPhase"
+                  (ionChange)="onFilterChange()"
+                  interface="popover"
+                  placeholder="Seviye Sec"
+                  class="level-select">
+        <ion-select-option value="all">Tum Seviyeler</ion-select-option>
+        <ion-select-option *ngFor="let phase of phases" [value]="phase.id">
+          {{ phase.level }} - {{ phase.title }}
+        </ion-select-option>
+      </ion-select>
+
+      <div class="due-count">
+        <ion-icon name="albums-outline"></ion-icon>
+        <span>{{ remainingCards }} kart bekliyor</span>
+      </div>
+    </div>
+
+    <!-- Progress bar for session -->
+    <div *ngIf="totalCards > 0" class="session-progress">
+      <div class="progress-bar">
+        <div class="progress-fill" [style.width.%]="progressPercent"></div>
+      </div>
+      <span class="progress-label">{{ reviewedInSession }} / {{ totalCards }}</span>
+    </div>
+
+    <!-- No cards due -->
+    <div *ngIf="!currentCard && !sessionCompleted" class="empty-state">
+      <ion-icon name="checkmark-circle-outline"></ion-icon>
+      <h2>Simdilik tamamlanmis!</h2>
+      <p>Tekrar edilecek kart bulunmuyor. Yeni dersler tamamladikca kartlar eklenecektir.</p>
+    </div>
+
+    <!-- Flashcard -->
+    <div *ngIf="currentCard" class="card-area">
+      <div class="flashcard" [class.flipped]="isFlipped" (click)="flipCard()">
+        <div class="card-face card-front">
+          <div class="card-level-badge">{{ getCardPhase(currentCard) }}</div>
+          <div class="card-text">{{ currentCard.front }}</div>
+          <div class="card-hint">Cevirmek icin dokun</div>
+        </div>
+        <div class="card-face card-back">
+          <div class="card-level-badge back">{{ getCardPhase(currentCard) }}</div>
+          <div class="card-text">{{ currentCard.back }}</div>
+        </div>
+      </div>
+
+      <!-- Rating buttons (only show when flipped) -->
+      <div *ngIf="isFlipped" class="rating-buttons">
+        <button class="rate-btn again" (click)="rateCard('again')">
+          <ion-icon name="refresh-outline"></ion-icon>
+          <span>Tekrar</span>
+          <small>1 gun</small>
+        </button>
+        <button class="rate-btn hard" (click)="rateCard('hard')">
+          <ion-icon name="alert-circle-outline"></ion-icon>
+          <span>Zor</span>
+          <small>~3 gun</small>
+        </button>
+        <button class="rate-btn good" (click)="rateCard('good')">
+          <ion-icon name="thumbs-up-outline"></ion-icon>
+          <span>Iyi</span>
+          <small>~7 gun</small>
+        </button>
+        <button class="rate-btn easy" (click)="rateCard('easy')">
+          <ion-icon name="rocket-outline"></ion-icon>
+          <span>Kolay</span>
+          <small>~14 gun</small>
+        </button>
+      </div>
+    </div>
+
+    <!-- Session complete -->
+    <div *ngIf="sessionCompleted" class="session-complete">
+      <ion-icon name="trophy-outline"></ion-icon>
+      <h2>Tebrikler!</h2>
+      <p>Bu oturumdaki tum kartlari tamamladiniz.</p>
+      <div class="session-stats">
+        <div class="stat">
+          <span class="stat-value">{{ reviewedInSession }}</span>
+          <span class="stat-label">Kart Incelendi</span>
+        </div>
+      </div>
+      <ion-button expand="block" fill="outline" (click)="restartSession()">
+        <ion-icon name="refresh" slot="start"></ion-icon>
+        Tekrar Baslat
+      </ion-button>
+    </div>
+
+  </div>
 </ion-content>
