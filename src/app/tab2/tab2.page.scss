@@ -272,3 +272,8 @@
     margin: 0 auto;
   }
 }
+
+.card-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
