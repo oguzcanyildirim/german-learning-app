@@ -277,3 +277,9 @@
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
 }
+
+.deck-counter {
+  font-variant-numeric: tabular-nums;
+  min-width: 3ch;
+  text-align: center;
+}
