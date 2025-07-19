@@ -11,5 +11,106 @@
     </ion-toolbar>
   </ion-header>
 
-  <p class="ion-text-center ion-padding">Istatistikler yakin zamanda eklenecek...</p>
+  <div *ngIf="isLoading" class="ion-text-center ion-padding">
+    <ion-spinner name="crescent"></ion-spinner>
+  </div>
+
+  <div *ngIf="!isLoading" class="stats-container">
+
+    <!-- Overview cards -->
+    <div class="overview-grid">
+      <div class="overview-card streak">
+        <ion-icon name="flame-outline"></ion-icon>
+        <div class="card-value">{{ currentStreak }}</div>
+        <div class="card-label">Gunluk Seri</div>
+      </div>
+      <div class="overview-card time">
+        <ion-icon name="time-outline"></ion-icon>
+        <div class="card-value">{{ formatMinutes(totalMinutes) }}</div>
+        <div class="card-label">Toplam Calisma</div>
+      </div>
+      <div class="overview-card lessons">
+        <ion-icon name="book-outline"></ion-icon>
+        <div class="card-value">{{ completedLessons }}/{{ totalLessons }}</div>
+        <div class="card-label">Ders Tamamlandi</div>
+      </div>
+      <div class="overview-card cards">
+        <ion-icon name="albums-outline"></ion-icon>
+        <div class="card-value">{{ dueFlashcards }}</div>
+        <div class="card-label">Bekleyen Kart</div>
+      </div>
+    </div>
+
+    <!-- Overall progress -->
+    <div class="section-card">
+      <h3>Genel Ilerleme</h3>
+      <div class="overall-progress">
+        <div class="big-progress-ring">
+          <svg viewBox="0 0 120 120">
+            <circle cx="60" cy="60" r="52" fill="none" stroke="#e5e7eb" stroke-width="10"/>
+            <circle cx="60" cy="60" r="52"
+                    fill="none" stroke="#3b82f6" stroke-width="10"
+                    stroke-linecap="round"
+                    [attr.stroke-dasharray]="326.7"
+                    [attr.stroke-dashoffset]="326.7 - (326.7 * overallPercentage / 100)"
+                    transform="rotate(-90 60 60)"/>
+          </svg>
+          <div class="ring-text">
+            <span class="ring-value">%{{ overallPercentage }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Weekly activity chart -->
+    <div class="section-card">
+      <h3>Haftalik Aktivite</h3>
+      <div class="weekly-chart">
+        <div *ngFor="let day of recentDays" class="day-column">
+          <div class="bar-container">
+            <div class="bar" [style.height.%]="getActivityHeight(day)"
+                 [class.active]="day.minutesStudied > 0 || day.lessonsCompleted > 0"></div>
+          </div>
+          <span class="day-label">{{ getDayLabel(day.date) }}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Per-level progress -->
+    <div class="section-card">
+      <h3>Seviye Bazli Ilerleme</h3>
+      <div *ngFor="let ps of phaseStats" class="phase-row">
+        <div class="phase-info">
+          <span class="phase-badge" [style.background]="ps.phase.color">{{ ps.phase.level }}</span>
+          <span class="phase-name">{{ ps.phase.title }}</span>
+          <span class="phase-count">{{ ps.completed }}/{{ ps.total }}</span>
+        </div>
+        <div class="phase-bar">
+          <div class="phase-fill" [style.width.%]="ps.percentage" [style.background]="ps.phase.color"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Streak info -->
+    <div class="section-card">
+      <h3>Seri Bilgisi</h3>
+      <div class="streak-info">
+        <div class="streak-item">
+          <ion-icon name="flame" color="warning"></ion-icon>
+          <div>
+            <strong>{{ currentStreak }} gun</strong>
+            <span>Mevcut Seri</span>
+          </div>
+        </div>
+        <div class="streak-item">
+          <ion-icon name="trophy" color="primary"></ion-icon>
+          <div>
+            <strong>{{ longestStreak }} gun</strong>
+            <span>En Uzun Seri</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
 </ion-content>
