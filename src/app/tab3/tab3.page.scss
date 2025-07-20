@@ -226,3 +226,9 @@
 .overview-card .card-value {
   font-variant-numeric: tabular-nums;
 }
+
+@media (max-width: 350px) {
+  .overview-grid {
+    grid-template-columns: 1fr;
+  }
+}
