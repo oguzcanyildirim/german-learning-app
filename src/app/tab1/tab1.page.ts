@@ -74,9 +74,7 @@ export class Tab1Page implements OnInit {
   }
 
   private updateProgress(): void {
-    this.completedCount = Object.keys(
-      this.progressService['progress'].lessonProgress
-    ).filter(id => this.progressService.isLessonCompleted(id)).length;
+    this.completedCount = this.progressService.getCompletedLessonCount();
     this.overallProgress = this.totalCount > 0
       ? Math.round((this.completedCount / this.totalCount) * 100)
       : 0;

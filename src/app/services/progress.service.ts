@@ -123,9 +123,13 @@ export class ProgressService {
     return lessonIds.filter(id => this.isLessonCompleted(id)).length;
   }
 
-  getOverallCompletionPercentage(totalLessons: number): number {
-    const completed = Object.values(this.progress.lessonProgress)
+  getCompletedLessonCount(): number {
+    return Object.values(this.progress.lessonProgress)
       .filter(p => p.completed).length;
+  }
+
+  getOverallCompletionPercentage(totalLessons: number): number {
+    const completed = this.getCompletedLessonCount();
     return totalLessons > 0 ? Math.round((completed / totalLessons) * 100) : 0;
   }
 
