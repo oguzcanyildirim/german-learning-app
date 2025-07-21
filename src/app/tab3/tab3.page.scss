@@ -232,3 +232,8 @@
     grid-template-columns: 1fr;
   }
 }
+
+.day-label {
+  font-variant-numeric: tabular-nums;
+  font-size: 10px;
+}
