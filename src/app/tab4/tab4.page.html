@@ -5,5 +5,193 @@
 </ion-header>
 
 <ion-content>
-  <p>About page placeholder</p>
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Hakkinda</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <!-- Section toggle -->
+  <ion-segment [(ngModel)]="activeSection" class="section-segment">
+    <ion-segment-button value="about">
+      <ion-label>Hakkinda</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="llm">
+      <ion-label>LLM Promptlari</ion-label>
+    </ion-segment-button>
+  </ion-segment>
+
+  <!-- About section -->
+  <div *ngIf="activeSection === 'about'" class="about-container">
+
+    <!-- App hero -->
+    <div class="app-hero">
+      <div class="app-icon-large">
+        <ion-icon name="language-outline"></ion-icon>
+      </div>
+      <h1>Almanca Ogreniyorum</h1>
+      <p class="app-subtitle">Kapsamli Almanca Ogrenme Uygulamasi</p>
+      <p class="app-version">Surum 1.0.0</p>
+    </div>
+
+    <!-- Teacher credit -->
+    <div class="credit-card teacher-card">
+      <div class="credit-icon">
+        <ion-icon name="school"></ion-icon>
+      </div>
+      <div class="credit-info">
+        <h3>Oguz Hoca</h3>
+        <p>Bu uygulamanin icerigini hazirlayan ve ders planini olusturan ogretmenimiz. A1'den C2'ye kadar tum seviyelerde kapsamli Almanca egitim materyali sunmaktadir.</p>
+      </div>
+    </div>
+
+    <!-- App features -->
+    <div class="features-section">
+      <h2>Uygulama Ozellikleri</h2>
+
+      <div class="feature-item">
+        <ion-icon name="book-outline" color="primary"></ion-icon>
+        <div>
+          <strong>{{ totalLessons }} Ders</strong>
+          <span>A1'den C2'ye 6 seviyede kapsamli icerik</span>
+        </div>
+      </div>
+
+      <div class="feature-item">
+        <ion-icon name="school-outline" color="tertiary"></ion-icon>
+        <div>
+          <strong>Interaktif Quizler</strong>
+          <span>Her dersin sonunda bilginizi test edin</span>
+        </div>
+      </div>
+
+      <div class="feature-item">
+        <ion-icon name="albums-outline" color="secondary"></ion-icon>
+        <div>
+          <strong>Akilli Kartlar (sm2)</strong>
+          <span>Aralıklı tekrar algoritmasi ile etkili ogrenme</span>
+        </div>
+      </div>
+
+      <div class="feature-item">
+        <ion-icon name="trophy-outline" color="warning"></ion-icon>
+        <div>
+          <strong>Telc Sinav Hazirlik</strong>
+          <span>Her seviyede sinav formati ve ornek sorular</span>
+        </div>
+      </div>
+
+      <div class="feature-item">
+        <ion-icon name="chatbubbles-outline" color="success"></ion-icon>
+        <div>
+          <strong>LLM ile Calisma</strong>
+          <span>ChatGPT/Claude ile pratik icin hazir promptlar</span>
+        </div>
+      </div>
+
+      <div class="feature-item">
+        <ion-icon name="stats-chart-outline" color="danger"></ion-icon>
+        <div>
+          <strong>Ilerleme Takibi</strong>
+          <span>Gunluk seri, calisma suresi ve seviye bazli istatistik</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CEFR levels explanation -->
+    <div class="cefr-section">
+      <h2>CEFR Seviyeleri</h2>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #10b981;">A1</span>
+        <div>
+          <strong>Anfänger (Baslangic)</strong>
+          <span>Temel ihtiyaclar, kendini tanitma, basit cumleler</span>
+        </div>
+      </div>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #14b8a6;">A2</span>
+        <div>
+          <strong>Grundstufe (Temel)</strong>
+          <span>Gunluk iletisim, alisveris, yol tarifi, randevu</span>
+        </div>
+      </div>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #3b82f6;">B1</span>
+        <div>
+          <strong>Mittelstufe (Orta)</strong>
+          <span>Is basvurusu, fikir ifade etme, resmi yazi</span>
+        </div>
+      </div>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #6366f1;">B2</span>
+        <div>
+          <strong>Obere Mittelstufe (Ust Orta)</strong>
+          <span>Akademik metin, tartisma, karmasik konular</span>
+        </div>
+      </div>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #8b5cf6;">C1</span>
+        <div>
+          <strong>Fortgeschritten (Ileri)</strong>
+          <span>Akademik yazi, sunumlar, nüansli ifadeler</span>
+        </div>
+      </div>
+      <div class="cefr-item">
+        <span class="cefr-badge" style="background: #d97706;">C2</span>
+        <div>
+          <strong>Meisterschaft (Ustalık)</strong>
+          <span>Anadil seviyesi, edebi analiz, mesleki ustalik</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="app-footer">
+      <p>Oguz Hoca tarafindan sevgiyle hazirlanmistir.</p>
+      <p class="footer-sub">© 2026 - Almanca Ogreniyorum</p>
+    </div>
+  </div>
+
+  <!-- LLM Prompts Library section -->
+  <div *ngIf="activeSection === 'llm'" class="llm-container">
+
+    <div class="llm-intro">
+      <ion-icon name="chatbubbles-outline"></ion-icon>
+      <h2>LLM ile Calisma Promptlari</h2>
+      <p>Asagidaki promptlari ChatGPT, Claude veya istediginiz bir yapay zeka aracina kopyalayarak Almanca pratiginizi gelistirebilirsiniz.</p>
+    </div>
+
+    <ion-select [(ngModel)]="selectedLevel"
+                (ionChange)="filterPrompts()"
+                interface="popover"
+                placeholder="Seviye Filtrele"
+                class="level-filter">
+      <ion-select-option value="all">Tum Seviyeler</ion-select-option>
+      <ion-select-option value="A1">A1</ion-select-option>
+      <ion-select-option value="A2">A2</ion-select-option>
+      <ion-select-option value="B1">B1</ion-select-option>
+      <ion-select-option value="B2">B2</ion-select-option>
+      <ion-select-option value="C1">C1</ion-select-option>
+      <ion-select-option value="C2">C2</ion-select-option>
+    </ion-select>
+
+    <div *ngIf="isLoading" class="ion-text-center ion-padding">
+      <ion-spinner name="crescent"></ion-spinner>
+    </div>
+
+    <div class="prompt-list">
+      <div *ngFor="let p of filteredPrompts" class="prompt-card">
+        <div class="prompt-meta">
+          <span class="prompt-level">{{ p.phaseLevel }}</span>
+          <span class="prompt-lesson">{{ p.lessonTitle }}</span>
+        </div>
+        <h4>{{ p.title }}</h4>
+        <pre class="prompt-text">{{ p.prompt }}</pre>
+        <ion-button size="small" fill="outline" (click)="copyPrompt(p.prompt)">
+          <ion-icon name="copy-outline" slot="start"></ion-icon>
+          Kopyala
+        </ion-button>
+      </div>
+    </div>
+  </div>
 </ion-content>
