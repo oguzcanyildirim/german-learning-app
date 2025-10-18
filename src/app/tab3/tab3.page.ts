@@ -104,9 +104,14 @@ export class Tab3Page implements OnInit {
     return days[new Date(dateStr).getDay()];
   }
 
+  // TODO: the multipliers here are arbitrary, revisit once we have real usage data
   getActivityHeight(stats: DailyStats): number {
     const total = stats.minutesStudied + stats.lessonsCompleted * 5 + stats.quizzesTaken * 3;
     return Math.min(100, Math.max(4, total * 2));
+  }
+
+  trackByDate(_index: number, stats: DailyStats): string {
+    return stats.date;
   }
 
   formatMinutes(minutes: number): string {
