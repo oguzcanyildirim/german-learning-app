@@ -55,3 +55,51 @@ ion-toolbar {
 ion-title {
   font-weight: 600;
 }
+
+// Smooth page transitions
+ion-content {
+  --background: #f9fafb;
+}
+
+// Scrollbar styling for better aesthetics on desktop
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+
+// Prevent text selection on interactive elements
+.phase-header,
+.lesson-card,
+.rate-btn,
+.option-btn,
+.flashcard {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+// Subtle entrance animation for cards
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.phase-card,
+.section-card,
+.overview-card,
+.prompt-card {
+  animation: fadeInUp 0.3s ease forwards;
+}

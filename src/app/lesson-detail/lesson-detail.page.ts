@@ -38,6 +38,10 @@ export class LessonDetailPage implements OnInit {
     private progressService: ProgressService
   ) {}
 
+  ionViewWillEnter(): void {
+    this.startTime = Date.now();
+  }
+
   ngOnInit(): void {
     this.startTime = Date.now();
     const id = this.route.snapshot.paramMap.get('id');
