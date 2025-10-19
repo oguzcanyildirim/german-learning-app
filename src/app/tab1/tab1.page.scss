@@ -260,3 +260,10 @@
 .phase-header.completed {
   opacity: 0.7;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  .phase-header,
+  .lesson-item {
+    transition: none !important;
+  }
+}
