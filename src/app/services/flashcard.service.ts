@@ -82,7 +82,8 @@ export class FlashcardService {
       card.repetitions += 1;
     }
 
-    // Adjust ease factor (minimum 1.3)
+    // FIXME: minimum 1.3 is standard sm2 but feels too aggressive for beginners,
+    // consider bumping to 1.5 or making it configurable per difficulty level
     card.easeFactor = Math.max(
       1.3,
       card.easeFactor + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
