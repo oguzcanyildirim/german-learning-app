@@ -1,4 +1,4 @@
-/* To learn more about this file see: https://angular.io/config/tsconfig. */
+/* To learn more about this file see: https://angular.dev/reference/configs/workspace-config */
 {
   "compileOnSave": false,
   "compilerOptions": {
@@ -12,18 +12,15 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
-    "downlevelIteration": true,
-    "experimentalDecorators": true,
-    "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2022",
-    "module": "es2020",
+    "module": "es2022",
+    "moduleResolution": "bundler",
     "lib": [
-      "es2020",
+      "es2022",
       "dom"
     ],
-    "skipLibCheck": true,
-    "useDefineForClassFields": false
+    "skipLibCheck": true
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
