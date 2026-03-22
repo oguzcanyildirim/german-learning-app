@@ -34,7 +34,7 @@ jobs:
           npx cap add android 2>/dev/null || true
           npx cap sync android
 
-      - run: npx @capacitor/assets generate --android
+      - run: npx @capacitor/assets generate --android --assetPath src/assets/icon
 
       - name: Decode keystore
         run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > android/app/keystore.jks
