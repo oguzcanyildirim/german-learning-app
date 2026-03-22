@@ -34,6 +34,8 @@ jobs:
           npx cap add android 2>/dev/null || true
           npx cap sync android
 
+      - run: npx @capacitor/assets generate --android
+
       - name: Decode keystore
         run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > android/app/keystore.jks
 
@@ -53,3 +55,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: android/app/build/outputs/apk/release/german-learning.apk
+          overwrite_files: true
