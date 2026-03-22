@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { FlashcardService } from '../services/flashcard.service';
-import { ProgressService } from '../services/progress.service';
 import { ContentService } from '../services/content.service';
 import { Flashcard, FlashcardRating } from '../models/flashcard.model';
 import { Phase } from '../models/lesson.model';
@@ -27,7 +26,6 @@ export class Tab2Page implements OnInit {
 
   constructor(
     private flashcardService: FlashcardService,
-    private progressService: ProgressService,
     private contentService: ContentService
   ) {}
 

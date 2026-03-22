@@ -75,7 +75,7 @@ export class Tab4Page implements OnInit {
       await toast.present();
     } catch {
       const toast = await this.toastController.create({
-        message: 'Kopyalama basarisiz',
+        message: 'Kopyalama basarisiz oldu',
         duration: 1500,
         position: 'bottom',
         color: 'danger',

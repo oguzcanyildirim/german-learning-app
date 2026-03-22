@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { BehaviorSubject, Observable, of } from 'rxjs';
-import { tap } from 'rxjs/operators';
+import { Observable, of, from } from 'rxjs';
+import { switchMap, map } from 'rxjs/operators';
 import { Preferences } from '@capacitor/preferences';
 import {
   Flashcard,
@@ -29,15 +29,16 @@ export class FlashcardService {
     }
 
     return this.http.get<Flashcard[]>('assets/content/flashcards.json').pipe(
-      tap(async cards => {
-        // Merge saved review state with bundled card data
-        const savedState = await this.loadSavedState();
-        this.flashcards = cards.map(card => {
-          const saved = savedState[card.id];
-          return saved ? { ...card, ...saved } : card;
-        });
-        this.loaded = true;
-      })
+      switchMap(cards => from(this.loadSavedState()).pipe(
+        map(savedState => {
+          this.flashcards = cards.map(card => {
+            const saved = savedState[card.id];
+            return saved ? { ...card, ...saved } : card;
+          });
+          this.loaded = true;
+          return this.flashcards;
+        })
+      ))
     );
   }
 

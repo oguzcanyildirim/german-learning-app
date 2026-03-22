@@ -110,6 +110,7 @@ export class LessonDetailPage implements OnInit {
 
     const minutesSpent = Math.max(1, Math.round((Date.now() - this.startTime) / 60000));
     await this.progressService.addStudyTime(this.lesson.id, minutesSpent);
+    // TODO: pass lastQuizResult?.percentage here so the best score is saved on completion
     await this.progressService.completeLesson(this.lesson.id);
     this.isCompleted = true;
 

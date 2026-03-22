@@ -76,6 +76,14 @@ export class ProgressService {
 
     if (existing) {
       existing.quizScore = Math.max(score, existing.quizScore ?? 0);
+    } else {
+      this.progress.lessonProgress[lessonId] = {
+        lessonId,
+        completed: false,
+        quizScore: score,
+        timeSpentMinutes: 0,
+        lastAccessedAt: new Date().toISOString(),
+      };
     }
 
     this.updateDailyStats(today, { quizzesTaken: 1 });
@@ -149,7 +157,8 @@ export class ProgressService {
     return this.progress.dailyStats;
   }
 
-  // Streak logic: check if the user studied yesterday to keep the streak alive
+  // TODO: streak resets if the user misses a single day -- consider adding
+  // a "freeze" mechanic or grace period so one off-day doesn't kill a long streak
   private updateStreak(today: string): void {
     if (this.progress.lastStudyDate === today) {
       return; // already counted today
