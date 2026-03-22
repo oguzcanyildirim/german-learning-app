@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, of, BehaviorSubject, forkJoin } from 'rxjs';
-import { map, tap } from 'rxjs/operators';
+import { Observable, of, BehaviorSubject, forkJoin, throwError } from 'rxjs';
+import { tap, catchError } from 'rxjs/operators';
 import { Phase, Lesson } from '../models/lesson.model';
 
 // Loads and caches lesson content from per-level JSON files.
@@ -34,6 +34,10 @@ export class ContentService {
         this.phases = phases;
         this.phasesSubject.next(phases);
         this.loaded = true;
+      }),
+      catchError(err => {
+        console.warn('Ders icerikleri yuklenemedi:', err.message || err);
+        return throwError(() => err);
       })
     );
   }
